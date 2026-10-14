@@ -10,12 +10,32 @@
     ]
   },
   "gemini-4-argon-review": {
-    "title": "Ethan Mollick 上手评价：首个跨过前沿门槛的非 OpenAI/Anthropic 模型",
+    "title": "Argon 一线评测：大跃进，但\"还是那个 Gemini\"",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "gemini-4-argon-review",
-        "headline": "Ethan Mollick 上手评价：首个跨过前沿门槛的非 OpenAI/Anthropic 模型"
+        "headline": "Argon 一线评测：大跃进，但\"还是那个 Gemini\""
+      }
+    ]
+  },
+  "gemini-4-argon-demos": {
+    "title": "Argon 演示：看视频教机器人扔沙包、单条提示在 Blender 建寺庙",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "gemini-4-argon-demos",
+        "headline": "Argon 演示：看视频教机器人扔沙包、单条提示在 Blender 建寺庙"
+      }
+    ]
+  },
+  "gemini-4-argon-access": {
+    "title": "Argon 低价使用渠道汇总",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "gemini-4-argon-access",
+        "headline": "Argon 低价使用渠道汇总"
       }
     ]
   },
@@ -46,6 +66,26 @@
         "date": "2026-10-14",
         "anchor": "agents-on-rails-stage3",
         "headline": "Agents on Rails 第三阶段：GPT-6.1 Sol 性价比最高"
+      }
+    ]
+  },
+  "minicpm-v-47": {
+    "title": "MiniCPM-V 4.7：35B MoE 多模态模型在手机上只占 3GB",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "minicpm-v-47",
+        "headline": "MiniCPM-V 4.7：35B MoE 多模态模型在手机上只占 3GB"
+      }
+    ]
+  },
+  "sparkling-joke-test": {
+    "title": "emollick 的小测试：三家模型讲\"sparkling\"冷笑话",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "sparkling-joke-test",
+        "headline": "emollick 的小测试：三家模型讲\"sparkling\"冷笑话"
       }
     ]
   },
@@ -99,6 +139,36 @@
       }
     ]
   },
+  "character-ai-restructuring": {
+    "title": "Character AI 进入破产重组、寻求出售",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "character-ai-restructuring",
+        "headline": "Character AI 进入破产重组、寻求出售"
+      }
+    ]
+  },
+  "agent-customer-service-ddos": {
+    "title": "Mollick：AI 代理将对客服部门形成\"合法 DDoS\"",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "agent-customer-service-ddos",
+        "headline": "Mollick：AI 代理将对客服部门形成\"合法 DDoS\""
+      }
+    ]
+  },
+  "frontier-lab-social-closure": {
+    "title": "李博杰：财务自由买不来\"创造的自由\"",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "frontier-lab-social-closure",
+        "headline": "李博杰：财务自由买不来\"创造的自由\""
+      }
+    ]
+  },
   "anthropic-scion": {
     "title": "Anthropic 弃用 Git，五个月自研版本控制系统 Scion",
     "appearances": [
@@ -119,23 +189,43 @@
       }
     ]
   },
+  "sgrep-local-search": {
+    "title": "sgrep：Rust 写的本地语义代码搜索 CLI",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "sgrep-local-search",
+        "headline": "sgrep：Rust 写的本地语义代码搜索 CLI"
+      }
+    ]
+  },
   "play-personal-apps": {
-    "title": "Google Play 开放“个人 App”：AI Studio 写的安卓应用可直接装到自己设备",
+    "title": "Google Play 开放\"个人 App\"：AI Studio 写的安卓应用可直接装到自己设备",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "play-personal-apps",
-        "headline": "Google Play 开放“个人 App”：AI Studio 写的安卓应用可直接装到自己设备"
+        "headline": "Google Play 开放\"个人 App\"：AI Studio 写的安卓应用可直接装到自己设备"
       }
     ]
   },
   "ts-rust-060": {
-    "title": "Theo 发布 ts-rust v0.6.0",
+    "title": "Theo 发布 ts-rust v0.6.0，T3 Code 大幅优化",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "ts-rust-060",
-        "headline": "Theo 发布 ts-rust v0.6.0"
+        "headline": "Theo 发布 ts-rust v0.6.0，T3 Code 大幅优化"
+      }
+    ]
+  },
+  "claude-code-turn-inspector": {
+    "title": "Claude Code Mod：Turn Inspector",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "claude-code-turn-inspector",
+        "headline": "Claude Code Mod：Turn Inspector"
       }
     ]
   },
@@ -159,23 +249,33 @@
       }
     ]
   },
+  "langsmith-ai-search": {
+    "title": "LangChain Interrupt 发布：LangSmith AI Search 与 scaledown 决策模型",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "langsmith-ai-search",
+        "headline": "LangChain Interrupt 发布：LangSmith AI Search 与 scaledown 决策模型"
+      }
+    ]
+  },
   "ai-ambition-method": {
-    "title": "Claude 团队分享：如何“更有雄心”地用 AI",
+    "title": "Claude 团队分享：如何\"更有雄心\"地用 AI",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "ai-ambition-method",
-        "headline": "Claude 团队分享：如何“更有雄心”地用 AI"
+        "headline": "Claude 团队分享：如何\"更有雄心\"地用 AI"
       }
     ]
   },
   "anthropic-anti-distillation": {
-    "title": "Anthropic 反蒸馏文章的“避封”启示",
+    "title": "Anthropic 反蒸馏文章的\"避封\"启示",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "anthropic-anti-distillation",
-        "headline": "Anthropic 反蒸馏文章的“避封”启示"
+        "headline": "Anthropic 反蒸馏文章的\"避封\"启示"
       }
     ]
   },
@@ -189,6 +289,36 @@
       }
     ]
   },
+  "cn-office-agents": {
+    "title": "国内办公 + Agent 三强格局",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "cn-office-agents",
+        "headline": "国内办公 + Agent 三强格局"
+      }
+    ]
+  },
+  "levelsio-instant-creation": {
+    "title": "levelsio：当生成只需一秒，约束会转向物理世界",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "levelsio-instant-creation",
+        "headline": "levelsio：当生成只需一秒，约束会转向物理世界"
+      }
+    ]
+  },
+  "nomads-api": {
+    "title": "Nomads.com 推出付费数据 API，主要面向 AI Agent",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "nomads-api",
+        "headline": "Nomads.com 推出付费数据 API，主要面向 AI Agent"
+      }
+    ]
+  },
   "qiaomu-screen2video": {
     "title": "开源 Skill：录屏一键加双语字幕、花字、梗图和配乐",
     "appearances": [
@@ -196,6 +326,36 @@
         "date": "2026-10-14",
         "anchor": "qiaomu-screen2video",
         "headline": "开源 Skill：录屏一键加双语字幕、花字、梗图和配乐"
+      }
+    ]
+  },
+  "baocut-35": {
+    "title": "BaoCut 3.5 集成本地生图",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "baocut-35",
+        "headline": "BaoCut 3.5 集成本地生图"
+      }
+    ]
+  },
+  "creator-skills-1014": {
+    "title": "歸藏与 Gorden Sun 的 Skill 动态",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "creator-skills-1014",
+        "headline": "歸藏与 Gorden Sun 的 Skill 动态"
+      }
+    ]
+  },
+  "stanford-cs312": {
+    "title": "斯坦福 CS 312「Deep Learning Alchemy」",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "stanford-cs312",
+        "headline": "斯坦福 CS 312「Deep Learning Alchemy」"
       }
     ]
   },
@@ -209,16 +369,6 @@
       }
     ]
   },
-  "claude-code-hackathon-japan": {
-    "title": "Claude Code 黑客松来到日本",
-    "appearances": [
-      {
-        "date": "2026-10-14",
-        "anchor": "claude-code-hackathon-japan",
-        "headline": "Claude Code 黑客松来到日本"
-      }
-    ]
-  },
   "hf-papers-1014": {
     "title": "Hugging Face 每日论文精选",
     "appearances": [
@@ -226,6 +376,16 @@
         "date": "2026-10-14",
         "anchor": "hf-papers-1014",
         "headline": "Hugging Face 每日论文精选"
+      }
+    ]
+  },
+  "aie-nyc-and-hackathons": {
+    "title": "AI Engineer 纽约站与 Claude Code 日本黑客松",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "aie-nyc-and-hackathons",
+        "headline": "AI Engineer 纽约站与 Claude Code 日本黑客松"
       }
     ]
   },
@@ -249,83 +409,113 @@
       }
     ]
   },
-  "cn-office-agents": {
-    "title": "国内办公协作与 Agent 的三组组合",
+  "apple-home-hub": {
+    "title": "Apple 发布新 Apple TV 与 AI 家居中枢",
     "appearances": [
       {
         "date": "2026-10-14",
-        "anchor": "cn-office-agents",
-        "headline": "国内办公协作与 Agent 的三组组合"
+        "anchor": "apple-home-hub",
+        "headline": "Apple 发布新 Apple TV 与 AI 家居中枢"
       }
     ]
   },
-  "levelsio-winxp": {
-    "title": "levelsio 在推文里运行 Windows XP",
+  "mitsuhiko-opus-kids": {
+    "title": "AI 写给孩子的编程讲解，比买的书还好读",
     "appearances": [
       {
         "date": "2026-10-14",
-        "anchor": "levelsio-winxp",
-        "headline": "levelsio 在推文里运行 Windows XP"
+        "anchor": "mitsuhiko-opus-kids",
+        "headline": "AI 写给孩子的编程讲解，比买的书还好读"
       }
     ]
   },
   "marimo-acto-evals": {
-    "title": "marimo 案例：用 notebook 应用把人工复核带回 AI 评测",
+    "title": "marimo 案例：Acto 用 marimo 应用把人工复核带回 AI 评测",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "marimo-acto-evals",
-        "headline": "marimo 案例：用 notebook 应用把人工复核带回 AI 评测"
+        "headline": "marimo 案例：Acto 用 marimo 应用把人工复核带回 AI 评测"
       }
     ]
   },
   "datalayer-agent-editor": {
-    "title": "Datalayer 推出可视化 Agent 编辑器",
+    "title": "Datalayer 可视化 Agent 编辑器",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "datalayer-agent-editor",
-        "headline": "Datalayer 推出可视化 Agent 编辑器"
+        "headline": "Datalayer 可视化 Agent 编辑器"
       }
     ]
   },
-  "okfn-ckan-history": {
-    "title": "OKFN 回顾 CKAN 二十年",
+  "jupyter-discourse-1014": {
+    "title": "Jupyter 论坛新帖：TLJH 升级失败与 Notebook 加载循环",
     "appearances": [
       {
         "date": "2026-10-14",
-        "anchor": "okfn-ckan-history",
-        "headline": "OKFN 回顾 CKAN 二十年"
+        "anchor": "jupyter-discourse-1014",
+        "headline": "Jupyter 论坛新帖：TLJH 升级失败与 Notebook 加载循环"
       }
     ]
   },
-  "connected-data-semantics": {
-    "title": "Connected Data：知识图谱与企业 Agent 的语义层",
+  "okfn-ckan-20": {
+    "title": "OKFN 访谈：CKAN 二十年，从小项目到政府开放数据的默认选择",
     "appearances": [
       {
         "date": "2026-10-14",
-        "anchor": "connected-data-semantics",
-        "headline": "Connected Data：知识图谱与企业 Agent 的语义层"
+        "anchor": "okfn-ckan-20",
+        "headline": "OKFN 访谈：CKAN 二十年，从小项目到政府开放数据的默认选择"
+      }
+    ]
+  },
+  "agentic-knowledge-fabric": {
+    "title": "Agentic Knowledge Fabric：为企业 Agent 建语义层",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "agentic-knowledge-fabric",
+        "headline": "Agentic Knowledge Fabric：为企业 Agent 建语义层"
+      }
+    ]
+  },
+  "kg-semantic-renaissance": {
+    "title": "知识图谱两条路线汇合：LLM wiki 与语义层，RDF 迎复兴？",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "kg-semantic-renaissance",
+        "headline": "知识图谱两条路线汇合：LLM wiki 与语义层，RDF 迎复兴？"
       }
     ]
   },
   "pensoft-lter-bg": {
-    "title": "Pensoft：FAIR 数据出版与科研知识延续",
+    "title": "Pensoft 参加保加利亚长期生态研究会议：开放科学与 FAIR 数据报告",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "pensoft-lter-bg",
-        "headline": "Pensoft：FAIR 数据出版与科研知识延续"
+        "headline": "Pensoft 参加保加利亚长期生态研究会议：开放科学与 FAIR 数据报告"
       }
     ]
   },
   "buehler-ai-language-of-science": {
-    "title": "Markus Buehler：AI 正成为科学的新语言",
+    "title": "Buehler：AI 成为\"科学的新语言\"四年回顾",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "buehler-ai-language-of-science",
-        "headline": "Markus Buehler：AI 正成为科学的新语言"
+        "headline": "Buehler：AI 成为\"科学的新语言\"四年回顾"
+      }
+    ]
+  },
+  "okfn-peacetech-summit": {
+    "title": "OKFN 和平科技峰会与 Wikimedia 中东欧开放知识研究会",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "okfn-peacetech-summit",
+        "headline": "OKFN 和平科技峰会与 Wikimedia 中东欧开放知识研究会"
       }
     ]
   }
