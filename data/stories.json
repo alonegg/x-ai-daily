@@ -1,0 +1,132 @@
+{
+  "gemini-4-argon": {
+    "title": "Google 发布 Gemini 4 Argon，第三方榜单小幅领先",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "gemini-4-argon",
+        "headline": "Google 发布 Gemini 4 Argon，第三方榜单小幅领先"
+      }
+    ]
+  },
+  "gemini-4-argon-review": {
+    "title": "Ethan Mollick 上手评价：首个跨过前沿门槛的非 OpenAI/Anthropic 模型",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "gemini-4-argon-review",
+        "headline": "Ethan Mollick 上手评价：首个跨过前沿门槛的非 OpenAI/Anthropic 模型"
+      }
+    ]
+  },
+  "agents-on-rails-stage3": {
+    "title": "Agents on Rails 第三阶段：GPT-6.1 Sol 性价比最高",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "agents-on-rails-stage3",
+        "headline": "Agents on Rails 第三阶段：GPT-6.1 Sol 性价比最高"
+      }
+    ]
+  },
+  "anthropic-scion": {
+    "title": "Anthropic 弃用 Git，五个月自研版本控制系统 Scion",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "anthropic-scion",
+        "headline": "Anthropic 弃用 Git，五个月自研版本控制系统 Scion"
+      }
+    ]
+  },
+  "play-personal-apps": {
+    "title": "Google Play 开放“个人 App”：AI Studio 写的安卓应用可直接装到自己设备",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "play-personal-apps",
+        "headline": "Google Play 开放“个人 App”：AI Studio 写的安卓应用可直接装到自己设备"
+      }
+    ]
+  },
+  "magpie-loop-workflow": {
+    "title": "yetone 公开 Magpie 维护工作流：3 个并行 /loop 让 AI 自主运维开源项目",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "magpie-loop-workflow",
+        "headline": "yetone 公开 Magpie 维护工作流：3 个并行 /loop 让 AI 自主运维开源项目"
+      }
+    ]
+  },
+  "langchain-router": {
+    "title": "Harrison Chase：模型路由应放在 Agent harness 而非网关",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "langchain-router",
+        "headline": "Harrison Chase：模型路由应放在 Agent harness 而非网关"
+      }
+    ]
+  },
+  "anthropic-anti-distillation": {
+    "title": "Anthropic 反蒸馏文章的“避封”启示",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "anthropic-anti-distillation",
+        "headline": "Anthropic 反蒸馏文章的“避封”启示"
+      }
+    ]
+  },
+  "qiaomu-screen2video": {
+    "title": "开源 Skill：录屏一键加双语字幕、花字、梗图和配乐",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "qiaomu-screen2video",
+        "headline": "开源 Skill：录屏一键加双语字幕、花字、梗图和配乐"
+      }
+    ]
+  },
+  "agentic-llm-textbook": {
+    "title": "莱顿大学教材《Agentic Large Language Models》上架 arXiv",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "agentic-llm-textbook",
+        "headline": "莱顿大学教材《Agentic Large Language Models》上架 arXiv"
+      }
+    ]
+  },
+  "kill-your-saas": {
+    "title": "swyx「How to Kill Your SaaS」：周末用 AI 复刻年费 4.3 万美元的 SaaS",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "kill-your-saas",
+        "headline": "swyx「How to Kill Your SaaS」：周末用 AI 复刻年费 4.3 万美元的 SaaS"
+      }
+    ]
+  },
+  "pg-startup-advice": {
+    "title": "Paul Graham：AI 时代的标准创业建议几乎都还适用",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "pg-startup-advice",
+        "headline": "Paul Graham：AI 时代的标准创业建议几乎都还适用"
+      }
+    ]
+  },
+  "levelsio-winxp": {
+    "title": "levelsio 在推文里运行 Windows XP",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "levelsio-winxp",
+        "headline": "levelsio 在推文里运行 Windows XP"
+      }
+    ]
+  }
+}
