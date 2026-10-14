@@ -19,6 +19,26 @@
       }
     ]
   },
+  "meta-muse-wonder": {
+    "title": "Meta Muse Wonder 上线后持续修 bug，各家模型互不对比",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "meta-muse-wonder",
+        "headline": "Meta Muse Wonder 上线后持续修 bug，各家模型互不对比"
+      }
+    ]
+  },
+  "theo-opus-55": {
+    "title": "Theo：短期内很难有模型全面超过 Opus 5.5",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "theo-opus-55",
+        "headline": "Theo：短期内很难有模型全面超过 Opus 5.5"
+      }
+    ]
+  },
   "agents-on-rails-stage3": {
     "title": "Agents on Rails 第三阶段：GPT-6.1 Sol 性价比最高",
     "appearances": [
@@ -26,6 +46,56 @@
         "date": "2026-10-14",
         "anchor": "agents-on-rails-stage3",
         "headline": "Agents on Rails 第三阶段：GPT-6.1 Sol 性价比最高"
+      }
+    ]
+  },
+  "openai-bugging-incident": {
+    "title": "OpenAI 工程师在高管会议室安装窃听器被 FBI 逮捕",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "openai-bugging-incident",
+        "headline": "OpenAI 工程师在高管会议室安装窃听器被 FBI 逮捕"
+      }
+    ]
+  },
+  "anthropic-self-replication": {
+    "title": "Anthropic 红队：小模型可能数月内就能在 IoT 设备上自主复制",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "anthropic-self-replication",
+        "headline": "Anthropic 红队：小模型可能数月内就能在 IoT 设备上自主复制"
+      }
+    ]
+  },
+  "ai-labs-singapore": {
+    "title": "Anthropic 与 Google DeepMind 同日落子新加坡",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "ai-labs-singapore",
+        "headline": "Anthropic 与 Google DeepMind 同日落子新加坡"
+      }
+    ]
+  },
+  "ai-revenue-subscriptions": {
+    "title": "Theo：订阅费只是 AI 公司收入的零头",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "ai-revenue-subscriptions",
+        "headline": "Theo：订阅费只是 AI 公司收入的零头"
+      }
+    ]
+  },
+  "anthropic-2021-doc": {
+    "title": "Anthropic 2021 年内部文件曝光早期路线",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "anthropic-2021-doc",
+        "headline": "Anthropic 2021 年内部文件曝光早期路线"
       }
     ]
   },
@@ -39,6 +109,16 @@
       }
     ]
   },
+  "claude-code-modernization": {
+    "title": "Anthropic 发布 Claude Code 插件 code-modernization v1.0.0",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "claude-code-modernization",
+        "headline": "Anthropic 发布 Claude Code 插件 code-modernization v1.0.0"
+      }
+    ]
+  },
   "play-personal-apps": {
     "title": "Google Play 开放“个人 App”：AI Studio 写的安卓应用可直接装到自己设备",
     "appearances": [
@@ -46,6 +126,16 @@
         "date": "2026-10-14",
         "anchor": "play-personal-apps",
         "headline": "Google Play 开放“个人 App”：AI Studio 写的安卓应用可直接装到自己设备"
+      }
+    ]
+  },
+  "ts-rust-060": {
+    "title": "Theo 发布 ts-rust v0.6.0",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "ts-rust-060",
+        "headline": "Theo 发布 ts-rust v0.6.0"
       }
     ]
   },
@@ -69,6 +159,16 @@
       }
     ]
   },
+  "ai-ambition-method": {
+    "title": "Claude 团队分享：如何“更有雄心”地用 AI",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "ai-ambition-method",
+        "headline": "Claude 团队分享：如何“更有雄心”地用 AI"
+      }
+    ]
+  },
   "anthropic-anti-distillation": {
     "title": "Anthropic 反蒸馏文章的“避封”启示",
     "appearances": [
@@ -76,6 +176,16 @@
         "date": "2026-10-14",
         "anchor": "anthropic-anti-distillation",
         "headline": "Anthropic 反蒸馏文章的“避封”启示"
+      }
+    ]
+  },
+  "codex-deepseek-harness": {
+    "title": "安替吐槽 Codex 偷偷让 DeepSeek 干活",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "codex-deepseek-harness",
+        "headline": "安替吐槽 Codex 偷偷让 DeepSeek 干活"
       }
     ]
   },
@@ -99,6 +209,26 @@
       }
     ]
   },
+  "claude-code-hackathon-japan": {
+    "title": "Claude Code 黑客松来到日本",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "claude-code-hackathon-japan",
+        "headline": "Claude Code 黑客松来到日本"
+      }
+    ]
+  },
+  "hf-papers-1014": {
+    "title": "Hugging Face 每日论文精选",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "hf-papers-1014",
+        "headline": "Hugging Face 每日论文精选"
+      }
+    ]
+  },
   "kill-your-saas": {
     "title": "swyx「How to Kill Your SaaS」：周末用 AI 复刻年费 4.3 万美元的 SaaS",
     "appearances": [
@@ -119,6 +249,16 @@
       }
     ]
   },
+  "cn-office-agents": {
+    "title": "国内办公协作与 Agent 的三组组合",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "cn-office-agents",
+        "headline": "国内办公协作与 Agent 的三组组合"
+      }
+    ]
+  },
   "levelsio-winxp": {
     "title": "levelsio 在推文里运行 Windows XP",
     "appearances": [
@@ -126,6 +266,66 @@
         "date": "2026-10-14",
         "anchor": "levelsio-winxp",
         "headline": "levelsio 在推文里运行 Windows XP"
+      }
+    ]
+  },
+  "marimo-acto-evals": {
+    "title": "marimo 案例：用 notebook 应用把人工复核带回 AI 评测",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "marimo-acto-evals",
+        "headline": "marimo 案例：用 notebook 应用把人工复核带回 AI 评测"
+      }
+    ]
+  },
+  "datalayer-agent-editor": {
+    "title": "Datalayer 推出可视化 Agent 编辑器",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "datalayer-agent-editor",
+        "headline": "Datalayer 推出可视化 Agent 编辑器"
+      }
+    ]
+  },
+  "okfn-ckan-history": {
+    "title": "OKFN 回顾 CKAN 二十年",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "okfn-ckan-history",
+        "headline": "OKFN 回顾 CKAN 二十年"
+      }
+    ]
+  },
+  "connected-data-semantics": {
+    "title": "Connected Data：知识图谱与企业 Agent 的语义层",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "connected-data-semantics",
+        "headline": "Connected Data：知识图谱与企业 Agent 的语义层"
+      }
+    ]
+  },
+  "pensoft-lter-bg": {
+    "title": "Pensoft：FAIR 数据出版与科研知识延续",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "pensoft-lter-bg",
+        "headline": "Pensoft：FAIR 数据出版与科研知识延续"
+      }
+    ]
+  },
+  "buehler-ai-language-of-science": {
+    "title": "Markus Buehler：AI 正成为科学的新语言",
+    "appearances": [
+      {
+        "date": "2026-10-14",
+        "anchor": "buehler-ai-language-of-science",
+        "headline": "Markus Buehler：AI 正成为科学的新语言"
       }
     ]
   }
