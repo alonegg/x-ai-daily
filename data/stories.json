@@ -1,11 +1,16 @@
 {
   "gemini-4-argon": {
-    "title": "Google 发布 Gemini 4 Argon，第三方榜单小幅领先",
+    "title": "Argon 科研演示：酶工程压缩到数小时，并挑战 Grad 猜想",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "gemini-4-argon",
         "headline": "Google 发布 Gemini 4 Argon，第三方榜单小幅领先"
+      },
+      {
+        "date": "2026-10-15",
+        "anchor": "gemini-4-argon",
+        "headline": "Argon 科研演示：酶工程压缩到数小时，并挑战 Grad 猜想"
       }
     ]
   },
@@ -40,12 +45,17 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Meta Muse Wonder 上线后持续修 bug，各家模型互不对比",
+    "title": "Muse Wonder Full 称 VCB 1–100 SOTA，同时有封号与差评",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "meta-muse-wonder",
         "headline": "Meta Muse Wonder 上线后持续修 bug，各家模型互不对比"
+      },
+      {
+        "date": "2026-10-15",
+        "anchor": "meta-muse-wonder",
+        "headline": "Muse Wonder Full 称 VCB 1–100 SOTA，同时有封号与差评"
       }
     ]
   },
@@ -130,12 +140,17 @@
     ]
   },
   "anthropic-2021-doc": {
-    "title": "Anthropic 2021 年内部文件曝光早期路线",
+    "title": "李博杰评 Anthropic 2021 内部文件：infra 视角下 1T 并不稀奇",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "anthropic-2021-doc",
         "headline": "Anthropic 2021 年内部文件曝光早期路线"
+      },
+      {
+        "date": "2026-10-15",
+        "anchor": "anthropic-2021-doc",
+        "headline": "李博杰评 Anthropic 2021 内部文件：infra 视角下 1T 并不稀奇"
       }
     ]
   },
@@ -230,12 +245,17 @@
     ]
   },
   "magpie-loop-workflow": {
-    "title": "yetone 公开 Magpie 维护工作流：3 个并行 /loop 让 AI 自主运维开源项目",
+    "title": "yetone / magpie：Bedrock 开关绕路与 Antigravity 桌面版限制",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "magpie-loop-workflow",
         "headline": "yetone 公开 Magpie 维护工作流：3 个并行 /loop 让 AI 自主运维开源项目"
+      },
+      {
+        "date": "2026-10-15",
+        "anchor": "magpie-loop-workflow",
+        "headline": "yetone / magpie：Bedrock 开关绕路与 Antigravity 桌面版限制"
       }
     ]
   },
@@ -510,12 +530,227 @@
     ]
   },
   "okfn-peacetech-summit": {
-    "title": "OKFN 和平科技峰会与 Wikimedia 中东欧开放知识研究会",
+    "title": "OKFN 和平科技峰会：闭幕主题演讲公布",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "okfn-peacetech-summit",
         "headline": "OKFN 和平科技峰会与 Wikimedia 中东欧开放知识研究会"
+      },
+      {
+        "date": "2026-10-15",
+        "anchor": "okfn-peacetech-summit",
+        "headline": "OKFN 和平科技峰会：闭幕主题演讲公布"
+      }
+    ]
+  },
+  "codex-model-identity": {
+    "title": "Theo：Codex 仍不在系统提示里写明当前模型",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "codex-model-identity",
+        "headline": "Theo：Codex 仍不在系统提示里写明当前模型"
+      }
+    ]
+  },
+  "swarmchasers-amap-agents": {
+    "title": "Swarmchasers：腾讯云沙箱 agent 为答动物园问题攻破高德反爬",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "swarmchasers-amap-agents",
+        "headline": "Swarmchasers：腾讯云沙箱 agent 为答动物园问题攻破高德反爬"
+      }
+    ]
+  },
+  "openai-europe-agentic": {
+    "title": "OpenAI 经济研究：欧洲企业过半 AI 使用已涉及 Agent",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "openai-europe-agentic",
+        "headline": "OpenAI 经济研究：欧洲企业过半 AI 使用已涉及 Agent"
+      }
+    ]
+  },
+  "aie-nyc-autonomy-safety": {
+    "title": "AIE NYC：Agent 自主性与安全如何平衡",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "aie-nyc-autonomy-safety",
+        "headline": "AIE NYC：Agent 自主性与安全如何平衡"
+      }
+    ]
+  },
+  "ai-game-industry-ferment": {
+    "title": "Mollick：游戏业进入 AI 发酵期，其他行业会跟进",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "ai-game-industry-ferment",
+        "headline": "Mollick：游戏业进入 AI 发酵期，其他行业会跟进"
+      }
+    ]
+  },
+  "claude-idle-compaction": {
+    "title": "Claude Code 空闲压缩：缓存到期前主动 /compact",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "claude-idle-compaction",
+        "headline": "Claude Code 空闲压缩：缓存到期前主动 /compact"
+      }
+    ]
+  },
+  "claude-desktop-multisession": {
+    "title": "Claude Code 桌面版：并排多会话、嵌套任务与 /btw",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "claude-desktop-multisession",
+        "headline": "Claude Code 桌面版：并排多会话、嵌套任务与 /btw"
+      }
+    ]
+  },
+  "claude-otel-langsmith": {
+    "title": "Claude Platform 公测 OpenTelemetry，可直送 LangSmith",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "claude-otel-langsmith",
+        "headline": "Claude Platform 公测 OpenTelemetry，可直送 LangSmith"
+      }
+    ]
+  },
+  "langchain-deep-agents-memory": {
+    "title": "LangChain：Deep Agents 如何「记住」——把上下文移出活动窗口而非删除",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "langchain-deep-agents-memory",
+        "headline": "LangChain：Deep Agents 如何「记住」——把上下文移出活动窗口而非删除"
+      }
+    ]
+  },
+  "agent-worktree-rebase": {
+    "title": "宝玉：多 Agent 并行用 worktree / 云端 PR，合并冲突写进规则",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "agent-worktree-rebase",
+        "headline": "宝玉：多 Agent 并行用 worktree / 云端 PR，合并冲突写进规则"
+      }
+    ]
+  },
+  "levelsio-agent-leisure": {
+    "title": "levelsio：进入「指挥 agent、自己享闲暇」的时代？",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "levelsio-agent-leisure",
+        "headline": "levelsio：进入「指挥 agent、自己享闲暇」的时代？"
+      }
+    ]
+  },
+  "baocut-bilingual-subs": {
+    "title": "BaoCut：双语字幕对齐的五个坑与逐词高亮彩蛋",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "baocut-bilingual-subs",
+        "headline": "BaoCut：双语字幕对齐的五个坑与逐词高亮彩蛋"
+      }
+    ]
+  },
+  "renoise-video-mcp": {
+    "title": "Renoise：把视频脚本/分镜做成 Claude Code / Codex 插件",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "renoise-video-mcp",
+        "headline": "Renoise：把视频脚本/分镜做成 Claude Code / Codex 插件"
+      }
+    ]
+  },
+  "heygen-voice-aa": {
+    "title": "HeyGen Voice 登顶 Artificial Analysis 语音榜",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "heygen-voice-aa",
+        "headline": "HeyGen Voice 登顶 Artificial Analysis 语音榜"
+      }
+    ]
+  },
+  "cmu-11768-rl-systems": {
+    "title": "CMU 11-768 第 12 讲：Reinforcement Learning Systems",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "cmu-11768-rl-systems",
+        "headline": "CMU 11-768 第 12 讲：Reinforcement Learning Systems"
+      }
+    ]
+  },
+  "hf-papers-1015": {
+    "title": "Hugging Face 论文速递",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "hf-papers-1015",
+        "headline": "Hugging Face 论文速递"
+      }
+    ]
+  },
+  "grokbot-plus-alias": {
+    "title": "GrokBot 支持 plus 邮件别名",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "grokbot-plus-alias",
+        "headline": "GrokBot 支持 plus 邮件别名"
+      }
+    ]
+  },
+  "grokbot-vs-codex-research": {
+    "title": "meng shao：同一问题下 Grok Bot 比 Codex 更贴问题背景",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "grokbot-vs-codex-research",
+        "headline": "meng shao：同一问题下 Grok Bot 比 Codex 更贴问题背景"
+      }
+    ]
+  },
+  "marimo-cheminformatics-winners": {
+    "title": "marimo 化学信息学竞赛公布获奖者",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "marimo-cheminformatics-winners",
+        "headline": "marimo 化学信息学竞赛公布获奖者"
+      }
+    ]
+  },
+  "jupyter-discourse-1015": {
+    "title": "Jupyter Discourse：过去 48 小时仍以既有求助帖为主",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "jupyter-discourse-1015",
+        "headline": "Jupyter Discourse：过去 48 小时仍以既有求助帖为主"
+      }
+    ]
+  },
+  "cdl26-communities-kg": {
+    "title": "Connected Data London：面向行业/金融/技术社区的议程，以及「企业图谱如何活下来」",
+    "appearances": [
+      {
+        "date": "2026-10-15",
+        "anchor": "cdl26-communities-kg",
+        "headline": "Connected Data London：面向行业/金融/技术社区的议程，以及「企业图谱如何活下来」"
       }
     ]
   }
