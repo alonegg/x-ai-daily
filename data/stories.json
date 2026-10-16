@@ -1,6 +1,6 @@
 {
   "gemini-4-argon": {
-    "title": "Argon 科研演示：酶工程压缩到数小时，并挑战 Grad 猜想",
+    "title": "Argon 进 Antigravity 付费 Pro，ARC-AGI-3 达 97.5%",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -11,6 +11,11 @@
         "date": "2026-10-15",
         "anchor": "gemini-4-argon",
         "headline": "Argon 科研演示：酶工程压缩到数小时，并挑战 Grad 猜想"
+      },
+      {
+        "date": "2026-10-16",
+        "anchor": "gemini-4-argon",
+        "headline": "Argon 进 Antigravity 付费 Pro，ARC-AGI-3 达 97.5%"
       }
     ]
   },
@@ -60,12 +65,17 @@
     ]
   },
   "theo-opus-55": {
-    "title": "Theo：短期内很难有模型全面超过 Opus 5.5",
+    "title": "Theo：仍难想象全面超过 Opus 5.5 的模型",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "theo-opus-55",
         "headline": "Theo：短期内很难有模型全面超过 Opus 5.5"
+      },
+      {
+        "date": "2026-10-16",
+        "anchor": "theo-opus-55",
+        "headline": "Theo：仍难想象全面超过 Opus 5.5 的模型"
       }
     ]
   },
@@ -245,7 +255,7 @@
     ]
   },
   "magpie-loop-workflow": {
-    "title": "yetone / magpie：Bedrock 开关绕路与 Antigravity 桌面版限制",
+    "title": "Magpie 全面插件化：订阅、中间件、路由、工具、Agent、页面",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -256,6 +266,11 @@
         "date": "2026-10-15",
         "anchor": "magpie-loop-workflow",
         "headline": "yetone / magpie：Bedrock 开关绕路与 Antigravity 桌面版限制"
+      },
+      {
+        "date": "2026-10-16",
+        "anchor": "magpie-loop-workflow",
+        "headline": "Magpie 全面插件化：订阅、中间件、路由、工具、Agent、页面"
       }
     ]
   },
@@ -530,7 +545,7 @@
     ]
   },
   "okfn-peacetech-summit": {
-    "title": "OKFN 和平科技峰会：闭幕主题演讲公布",
+    "title": "OKFN 和平科技峰会：谈判桌上的 AI 圆桌",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -541,6 +556,11 @@
         "date": "2026-10-15",
         "anchor": "okfn-peacetech-summit",
         "headline": "OKFN 和平科技峰会：闭幕主题演讲公布"
+      },
+      {
+        "date": "2026-10-16",
+        "anchor": "okfn-peacetech-summit",
+        "headline": "OKFN 和平科技峰会：谈判桌上的 AI 圆桌"
       }
     ]
   },
@@ -595,12 +615,17 @@
     ]
   },
   "claude-idle-compaction": {
-    "title": "Claude Code 空闲压缩：缓存到期前主动 /compact",
+    "title": "空闲压缩：一键关闭与 /export 会话导出",
     "appearances": [
       {
         "date": "2026-10-15",
         "anchor": "claude-idle-compaction",
         "headline": "Claude Code 空闲压缩：缓存到期前主动 /compact"
+      },
+      {
+        "date": "2026-10-16",
+        "anchor": "claude-idle-compaction",
+        "headline": "空闲压缩：一键关闭与 /export 会话导出"
       }
     ]
   },
@@ -725,12 +750,17 @@
     ]
   },
   "marimo-cheminformatics-winners": {
-    "title": "marimo 化学信息学竞赛公布获奖者",
+    "title": "marimo：祝贺化学信息学竞赛冠军",
     "appearances": [
       {
         "date": "2026-10-15",
         "anchor": "marimo-cheminformatics-winners",
         "headline": "marimo 化学信息学竞赛公布获奖者"
+      },
+      {
+        "date": "2026-10-16",
+        "anchor": "marimo-cheminformatics-winners",
+        "headline": "marimo：祝贺化学信息学竞赛冠军"
       }
     ]
   },
@@ -745,12 +775,227 @@
     ]
   },
   "cdl26-communities-kg": {
-    "title": "Connected Data London：面向行业/金融/技术社区的议程，以及「企业图谱如何活下来」",
+    "title": "Connected Data：Open Ontologies、问答系统议程与新伙伴",
     "appearances": [
       {
         "date": "2026-10-15",
         "anchor": "cdl26-communities-kg",
         "headline": "Connected Data London：面向行业/金融/技术社区的议程，以及「企业图谱如何活下来」"
+      },
+      {
+        "date": "2026-10-16",
+        "anchor": "cdl26-communities-kg",
+        "headline": "Connected Data：Open Ontologies、问答系统议程与新伙伴"
+      }
+    ]
+  },
+  "muse-spark-open": {
+    "title": "Meta 发布 Muse Spark Open：816B/42B，可在 Mac Studio 本地跑",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "muse-spark-open",
+        "headline": "Meta 发布 Muse Spark Open：816B/42B，可在 Mac Studio 本地跑"
+      }
+    ]
+  },
+  "opus-55-fast-mode": {
+    "title": "Opus 5.5 快速模式结束内测：最多约 2.5×，API 价翻倍",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "opus-55-fast-mode",
+        "headline": "Opus 5.5 快速模式结束内测：最多约 2.5×，API 价翻倍"
+      }
+    ]
+  },
+  "claude-code-review-ga": {
+    "title": "Claude Code Review 正式 GA：更快、分 Quick/Standard/Deep",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "claude-code-review-ga",
+        "headline": "Claude Code Review 正式 GA：更快、分 Quick/Standard/Deep"
+      }
+    ]
+  },
+  "claude-china-geo-ban": {
+    "title": "美国人在深圳开会起床发现 Claude 被封",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "claude-china-geo-ban",
+        "headline": "美国人在深圳开会起床发现 Claude 被封"
+      }
+    ]
+  },
+  "gpt-rosalind-academic": {
+    "title": "OpenAI：Rosalind Academic Plan 向美国高校实验室扩大访问",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "gpt-rosalind-academic",
+        "headline": "OpenAI：Rosalind Academic Plan 向美国高校实验室扩大访问"
+      }
+    ]
+  },
+  "gpt-live-11": {
+    "title": "GPT-Live-1.1：新口音、少说「checking…」",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "gpt-live-11",
+        "headline": "GPT-Live-1.1：新口音、少说「checking…」"
+      }
+    ]
+  },
+  "anthropic-math-metr": {
+    "title": "Anthropic：500 万美元支持数学界用 AI，并给 METR 员工级访问",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "anthropic-math-metr",
+        "headline": "Anthropic：500 万美元支持数学界用 AI，并给 METR 员工级访问"
+      }
+    ]
+  },
+  "bench-summit-kaggle": {
+    "title": "Logan：举办首届 Bench Summit，聚焦基准与评测",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "bench-summit-kaggle",
+        "headline": "Logan：举办首届 Bench Summit，聚焦基准与评测"
+      }
+    ]
+  },
+  "agent-harness-infra": {
+    "title": "Harrison：有趣的 harness 工作在 harness×infra 交界",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "agent-harness-infra",
+        "headline": "Harrison：有趣的 harness 工作在 harness×infra 交界"
+      }
+    ]
+  },
+  "rsigym-systems": {
+    "title": "李博杰评 RSIGym：RSI 是系统工程而非模型问题",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "rsigym-systems",
+        "headline": "李博杰评 RSIGym：RSI 是系统工程而非模型问题"
+      }
+    ]
+  },
+  "dani-three-papers": {
+    "title": "Daniel：三篇论文——自进化 harness、图谱当文件、多 agent 共享 KV",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "dani-three-papers",
+        "headline": "Daniel：三篇论文——自进化 harness、图谱当文件、多 agent 共享 KV"
+      }
+    ]
+  },
+  "skill-as-strategy": {
+    "title": "向阳乔木：Skill 是阳谋？审美仍决定顶级 Skill",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "skill-as-strategy",
+        "headline": "向阳乔木：Skill 是阳谋？审美仍决定顶级 Skill"
+      }
+    ]
+  },
+  "handwired-chenglou": {
+    "title": "Handwired：手写权重，把程序逻辑变成不用训练的神经网络",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "handwired-chenglou",
+        "headline": "Handwired：手写权重，把程序逻辑变成不用训练的神经网络"
+      }
+    ]
+  },
+  "google-willow-magic-state": {
+    "title": "Google Willow：魔态培养误差约降 40×",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "google-willow-magic-state",
+        "headline": "Google Willow：魔态培养误差约降 40×"
+      }
+    ]
+  },
+  "deepseek-outage-comp": {
+    "title": "DeepSeek 宕机补偿过去 7 天 API 花费；OpenCode 免费用 Flash",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "deepseek-outage-comp",
+        "headline": "DeepSeek 宕机补偿过去 7 天 API 花费；OpenCode 免费用 Flash"
+      }
+    ]
+  },
+  "kling-synthid": {
+    "title": "Kling 4.0 正式可用；SynthID 入选 TIME 2026 最佳发明",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "kling-synthid",
+        "headline": "Kling 4.0 正式可用；SynthID 入选 TIME 2026 最佳发明"
+      }
+    ]
+  },
+  "hf-nvidia-1016": {
+    "title": "Hugging Face / NVIDIA 模型与数据速递",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "hf-nvidia-1016",
+        "headline": "Hugging Face / NVIDIA 模型与数据速递"
+      }
+    ]
+  },
+  "mollick-coexistence-review": {
+    "title": "Mollick《Co-Existence》获 New Scientist 首评",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "mollick-coexistence-review",
+        "headline": "Mollick《Co-Existence》获 New Scientist 首评"
+      }
+    ]
+  },
+  "jupyter-lmlite": {
+    "title": "lmLite：在 JupyterLite 里把 Transformers.js 桥到 Python",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "jupyter-lmlite",
+        "headline": "lmLite：在 JupyterLite 里把 Transformers.js 桥到 Python"
+      }
+    ]
+  },
+  "buehler-scientist-partner": {
+    "title": "Buehler：每位科学家都将有超级智能搭档",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "buehler-scientist-partner",
+        "headline": "Buehler：每位科学家都将有超级智能搭档"
+      }
+    ]
+  },
+  "portable-docs-ai": {
+    "title": "Juan Benet：Google Docs 与 AI 工具集成差，呼唤可移植实时文档",
+    "appearances": [
+      {
+        "date": "2026-10-16",
+        "anchor": "portable-docs-ai",
+        "headline": "Juan Benet：Google Docs 与 AI 工具集成差，呼唤可移植实时文档"
       }
     ]
   }
