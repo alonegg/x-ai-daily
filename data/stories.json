@@ -1,6 +1,6 @@
 {
   "gemini-4-argon": {
-    "title": "Argon 进 Antigravity 付费 Pro，ARC-AGI-3 达 97.5%",
+    "title": "Gemini 4 Argon 进入 AI Studio，Antigravity 渠道限制说明",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -16,6 +16,11 @@
         "date": "2026-10-16",
         "anchor": "gemini-4-argon",
         "headline": "Argon 进 Antigravity 付费 Pro，ARC-AGI-3 达 97.5%"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "gemini-4-argon",
+        "headline": "Gemini 4 Argon 进入 AI Studio，Antigravity 渠道限制说明"
       }
     ]
   },
@@ -255,7 +260,7 @@
     ]
   },
   "magpie-loop-workflow": {
-    "title": "Magpie 全面插件化：订阅、中间件、路由、工具、Agent、页面",
+    "title": "Magpie 新增「精简 Claude 系统提示词」开关",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -271,6 +276,11 @@
         "date": "2026-10-16",
         "anchor": "magpie-loop-workflow",
         "headline": "Magpie 全面插件化：订阅、中间件、路由、工具、Agent、页面"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "magpie-loop-workflow",
+        "headline": "Magpie 新增「精简 Claude 系统提示词」开关"
       }
     ]
   },
@@ -285,12 +295,17 @@
     ]
   },
   "langsmith-ai-search": {
-    "title": "LangChain Interrupt 发布：LangSmith AI Search 与 scaledown 决策模型",
+    "title": "LangSmith AI Search 幕后：轨迹化 + 小模型并行筛查",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "langsmith-ai-search",
         "headline": "LangChain Interrupt 发布：LangSmith AI Search 与 scaledown 决策模型"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "langsmith-ai-search",
+        "headline": "LangSmith AI Search 幕后：轨迹化 + 小模型并行筛查"
       }
     ]
   },
@@ -305,12 +320,17 @@
     ]
   },
   "anthropic-anti-distillation": {
-    "title": "Anthropic 反蒸馏文章的\"避封\"启示",
+    "title": "meng shao 拆解 Anthropic 新一代反蒸馏防御",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "anthropic-anti-distillation",
         "headline": "Anthropic 反蒸馏文章的\"避封\"启示"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "anthropic-anti-distillation",
+        "headline": "meng shao 拆解 Anthropic 新一代反蒸馏防御"
       }
     ]
   },
@@ -525,12 +545,17 @@
     ]
   },
   "pensoft-lter-bg": {
-    "title": "Pensoft 参加保加利亚长期生态研究会议：开放科学与 FAIR 数据报告",
+    "title": "Pensoft：FAIR 从写作阶段开始，LTER-Bulgaria 演示与青年科学家奖",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "pensoft-lter-bg",
         "headline": "Pensoft 参加保加利亚长期生态研究会议：开放科学与 FAIR 数据报告"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "pensoft-lter-bg",
+        "headline": "Pensoft：FAIR 从写作阶段开始，LTER-Bulgaria 演示与青年科学家奖"
       }
     ]
   },
@@ -775,7 +800,7 @@
     ]
   },
   "cdl26-communities-kg": {
-    "title": "Connected Data：Open Ontologies、问答系统议程与新伙伴",
+    "title": "CDL26：本体引导的企业架构智能流水线大师课",
     "appearances": [
       {
         "date": "2026-10-15",
@@ -786,16 +811,26 @@
         "date": "2026-10-16",
         "anchor": "cdl26-communities-kg",
         "headline": "Connected Data：Open Ontologies、问答系统议程与新伙伴"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "cdl26-communities-kg",
+        "headline": "CDL26：本体引导的企业架构智能流水线大师课"
       }
     ]
   },
   "muse-spark-open": {
-    "title": "Meta 发布 Muse Spark Open：816B/42B，可在 Mac Studio 本地跑",
+    "title": "Muse Spark Open 后续：Alexandr Wang 长文致谢 MSL，NVIDIA 放出 DFlash 2 草稿模型",
     "appearances": [
       {
         "date": "2026-10-16",
         "anchor": "muse-spark-open",
         "headline": "Meta 发布 Muse Spark Open：816B/42B，可在 Mac Studio 本地跑"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "muse-spark-open",
+        "headline": "Muse Spark Open 后续：Alexandr Wang 长文致谢 MSL，NVIDIA 放出 DFlash 2 草稿模型"
       }
     ]
   },
@@ -810,12 +845,17 @@
     ]
   },
   "claude-code-review-ga": {
-    "title": "Claude Code Review 正式 GA：更快、分 Quick/Standard/Deep",
+    "title": "Claude Code 团队公开代码评审流程：合并 PR 翻倍，回滚占比降 40% 以上",
     "appearances": [
       {
         "date": "2026-10-16",
         "anchor": "claude-code-review-ga",
         "headline": "Claude Code Review 正式 GA：更快、分 Quick/Standard/Deep"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "claude-code-review-ga",
+        "headline": "Claude Code 团队公开代码评审流程：合并 PR 翻倍，回滚占比降 40% 以上"
       }
     ]
   },
@@ -910,12 +950,17 @@
     ]
   },
   "handwired-chenglou": {
-    "title": "Handwired：手写权重，把程序逻辑变成不用训练的神经网络",
+    "title": "宝玉：Handwired 教学视频与 Opus 5.5 调度 + Advisor 搭配",
     "appearances": [
       {
         "date": "2026-10-16",
         "anchor": "handwired-chenglou",
         "headline": "Handwired：手写权重，把程序逻辑变成不用训练的神经网络"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "handwired-chenglou",
+        "headline": "宝玉：Handwired 教学视频与 Opus 5.5 调度 + Advisor 搭配"
       }
     ]
   },
@@ -930,12 +975,17 @@
     ]
   },
   "deepseek-outage-comp": {
-    "title": "DeepSeek 宕机补偿过去 7 天 API 花费；OpenCode 免费用 Flash",
+    "title": "OpenCode 免费开放 GLM 5.3 Flash",
     "appearances": [
       {
         "date": "2026-10-16",
         "anchor": "deepseek-outage-comp",
         "headline": "DeepSeek 宕机补偿过去 7 天 API 花费；OpenCode 免费用 Flash"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "deepseek-outage-comp",
+        "headline": "OpenCode 免费开放 GLM 5.3 Flash"
       }
     ]
   },
@@ -990,12 +1040,417 @@
     ]
   },
   "portable-docs-ai": {
-    "title": "Juan Benet：Google Docs 与 AI 工具集成差，呼唤可移植实时文档",
+    "title": "Juan Benet：与其等 Google Docs，不如换掉它",
     "appearances": [
       {
         "date": "2026-10-16",
         "anchor": "portable-docs-ai",
         "headline": "Juan Benet：Google Docs 与 AI 工具集成差，呼唤可移植实时文档"
+      },
+      {
+        "date": "2026-10-17",
+        "anchor": "portable-docs-ai",
+        "headline": "Juan Benet：与其等 Google Docs，不如换掉它"
+      }
+    ]
+  },
+  "flux-3-image-klein": {
+    "title": "黑森林实验室开源 FLUX 3 Image Klein",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "flux-3-image-klein",
+        "headline": "黑森林实验室开源 FLUX 3 Image Klein"
+      }
+    ]
+  },
+  "reflection-beam-10": {
+    "title": "Reflection 开源 Beam 1.0：501B 总参 / 23B 激活",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "reflection-beam-10",
+        "headline": "Reflection 开源 Beam 1.0：501B 总参 / 23B 激活"
+      }
+    ]
+  },
+  "hy-memory-20": {
+    "title": "腾讯混元开源 Hy Memory 2.0：3B 激活的专用记忆写入模型 + SDK + MemHub",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "hy-memory-20",
+        "headline": "腾讯混元开源 Hy Memory 2.0：3B 激活的专用记忆写入模型 + SDK + MemHub"
+      }
+    ]
+  },
+  "nemotron-35-super-vl": {
+    "title": "NVIDIA Nemotron 3.5 Super VL 与 Bolt 推测解码草稿",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "nemotron-35-super-vl",
+        "headline": "NVIDIA Nemotron 3.5 Super VL 与 Bolt 推测解码草稿"
+      }
+    ]
+  },
+  "pplx-decider-12": {
+    "title": "Perplexity 开源权重决策模型 pplx-decider v1.2",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "pplx-decider-12",
+        "headline": "Perplexity 开源权重决策模型 pplx-decider v1.2"
+      }
+    ]
+  },
+  "open-models-1017": {
+    "title": "其他开源模型速递：Timestral、OmniHuman 2.0、腾讯 Qwen3-8B 变体",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "open-models-1017",
+        "headline": "其他开源模型速递：Timestral、OmniHuman 2.0、腾讯 Qwen3-8B 变体"
+      }
+    ]
+  },
+  "gpt6-pro-parallel-agents": {
+    "title": "GPT-6 Pro / GPT-6 Astra Pro 升级：更快，并支持多 agent 并行",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "gpt6-pro-parallel-agents",
+        "headline": "GPT-6 Pro / GPT-6 Astra Pro 升级：更快，并支持多 agent 并行"
+      }
+    ]
+  },
+  "claude-code-gzip": {
+    "title": "Claude Code 响应更快：每轮对话 gzip 压缩，云会话边打字边启动",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "claude-code-gzip",
+        "headline": "Claude Code 响应更快：每轮对话 gzip 压缩，云会话边打字边启动"
+      }
+    ]
+  },
+  "openai-jalapeno-time": {
+    "title": "OpenAI 首款 AI 芯片 Jalapeño 入选 TIME 2026 最佳发明",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "openai-jalapeno-time",
+        "headline": "OpenAI 首款 AI 芯片 Jalapeño 入选 TIME 2026 最佳发明"
+      }
+    ]
+  },
+  "anthropic-work-hiring-report": {
+    "title": "Anthropic 内部报告：agent 工时已是员工 6 倍，技术岗初级新人占比 27%→9%",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "anthropic-work-hiring-report",
+        "headline": "Anthropic 内部报告：agent 工时已是员工 6 倍，技术岗初级新人占比 27%→9%"
+      }
+    ]
+  },
+  "claude-code-review-credits": {
+    "title": "Claude Code Review 促销额度与申请方式",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "claude-code-review-credits",
+        "headline": "Claude Code Review 促销额度与申请方式"
+      }
+    ]
+  },
+  "claude-quantum-circuits": {
+    "title": "Claude Mythos 5 设计出优于已发表最佳方案的量子电路",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "claude-quantum-circuits",
+        "headline": "Claude Mythos 5 设计出优于已发表最佳方案的量子电路"
+      }
+    ]
+  },
+  "claude-leads-anthropic-rnd": {
+    "title": "Claude 已主导 Anthropic 26% 的模型研发",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "claude-leads-anthropic-rnd",
+        "headline": "Claude 已主导 Anthropic 26% 的模型研发"
+      }
+    ]
+  },
+  "argon-minecraft-agents": {
+    "title": "4 个 Gemini 4 Argon agent 27 小时从零通关 Minecraft",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "argon-minecraft-agents",
+        "headline": "4 个 Gemini 4 Argon agent 27 小时从零通关 Minecraft"
+      }
+    ]
+  },
+  "aspire-robotics": {
+    "title": "DrJimFan 开源机器人 agent 框架 ASPIRE V1.0",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "aspire-robotics",
+        "headline": "DrJimFan 开源机器人 agent 框架 ASPIRE V1.0"
+      }
+    ]
+  },
+  "frontier-models-compound": {
+    "title": "Mollick：长时程任务里小幅准确率差距会复利放大",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "frontier-models-compound",
+        "headline": "Mollick：长时程任务里小幅准确率差距会复利放大"
+      }
+    ]
+  },
+  "interpretability-optimism": {
+    "title": "Nick Cammarata：可解释性可能比预期更早被解决，Altman 点赞",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "interpretability-optimism",
+        "headline": "Nick Cammarata：可解释性可能比预期更早被解决，Altman 点赞"
+      }
+    ]
+  },
+  "deepmind-health-science": {
+    "title": "Google DeepMind：AI 助力疾病检测、治疗与预防",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "deepmind-health-science",
+        "headline": "Google DeepMind：AI 助力疾病检测、治疗与预防"
+      }
+    ]
+  },
+  "hf-papers-1017": {
+    "title": "Hugging Face 论文速递",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "hf-papers-1017",
+        "headline": "Hugging Face 论文速递"
+      }
+    ]
+  },
+  "hf-nvidia-1017": {
+    "title": "NVIDIA 数据集与多模态重排器",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "hf-nvidia-1017",
+        "headline": "NVIDIA 数据集与多模态重排器"
+      }
+    ]
+  },
+  "perplexity-space": {
+    "title": "Perplexity 开源 agent 沙箱平台 SPACE",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "perplexity-space",
+        "headline": "Perplexity 开源 agent 沙箱平台 SPACE"
+      }
+    ]
+  },
+  "pstack-principles": {
+    "title": "pstack 作者公开「工程原则」设计：指令从长流程压缩成短原则",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "pstack-principles",
+        "headline": "pstack 作者公开「工程原则」设计：指令从长流程压缩成短原则"
+      }
+    ]
+  },
+  "umich-aase-subagents": {
+    "title": "密歇根大学 Agentic 软件工程课第 14 讲：Subagents",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "umich-aase-subagents",
+        "headline": "密歇根大学 Agentic 软件工程课第 14 讲：Subagents"
+      }
+    ]
+  },
+  "langchain-1017": {
+    "title": "LangChain：Managed Deep Agents 用代理注入凭证、医疗 agent 指南与持续学习分享",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "langchain-1017",
+        "headline": "LangChain：Managed Deep Agents 用代理注入凭证、医疗 agent 指南与持续学习分享"
+      }
+    ]
+  },
+  "t3-code-beta": {
+    "title": "T3 Code 结束 Alpha，Theo 痛批 npm",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 结束 Alpha，Theo 痛批 npm"
+      }
+    ]
+  },
+  "claude-code-cache-control": {
+    "title": "Claude Code 小技巧：Prompt Cache Control 与网站 agent 友好度审计",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "claude-code-cache-control",
+        "headline": "Claude Code 小技巧：Prompt Cache Control 与网站 agent 友好度审计"
+      }
+    ]
+  },
+  "comfyui-higgsfield-contest": {
+    "title": "ComfyUI 发起 2.5 万美元开源重建 Higgsfield 竞赛",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "comfyui-higgsfield-contest",
+        "headline": "ComfyUI 发起 2.5 万美元开源重建 Higgsfield 竞赛"
+      }
+    ]
+  },
+  "tools-misc-1017": {
+    "title": "更多工具动态：乔木 AI RSS 朗读、Nomads 筛选 87ms、State of Agentic Coding 新一期",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "tools-misc-1017",
+        "headline": "更多工具动态：乔木 AI RSS 朗读、Nomads 筛选 87ms、State of Agentic Coding 新一期"
+      }
+    ]
+  },
+  "tesla-roadster-2026": {
+    "title": "特斯拉新 Roadster：压缩空气喷气翻转落地，马斯克称 2028 年投产",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "tesla-roadster-2026",
+        "headline": "特斯拉新 Roadster：压缩空气喷气翻转落地，马斯克称 2028 年投产"
+      }
+    ]
+  },
+  "levelsio-moats": {
+    "title": "levelsio 长文：为 AI 时代追逐剩余「护城河」",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "levelsio-moats",
+        "headline": "levelsio 长文：为 AI 时代追逐剩余「护城河」"
+      }
+    ]
+  },
+  "ai-slop-replies": {
+    "title": "AI 机器人回复泛滥引发集体吐槽",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "ai-slop-replies",
+        "headline": "AI 机器人回复泛滥引发集体吐槽"
+      }
+    ]
+  },
+  "high-taste-testers": {
+    "title": "Latent Space 新节目 High Taste Testers",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "high-taste-testers",
+        "headline": "Latent Space 新节目 High Taste Testers"
+      }
+    ]
+  },
+  "aie-nyc-compute-trading": {
+    "title": "AIE NYC：算力交易成为新行业",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "aie-nyc-compute-trading",
+        "headline": "AIE NYC：算力交易成为新行业"
+      }
+    ]
+  },
+  "deepfake-interview": {
+    "title": "远程面试遇到 AI 换脸候选人",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "deepfake-interview",
+        "headline": "远程面试遇到 AI 换脸候选人"
+      }
+    ]
+  },
+  "opus-55-skit": {
+    "title": "Gorden Sun：Opus 5.5 一条提示词做出 AI 小剧场",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "opus-55-skit",
+        "headline": "Gorden Sun：Opus 5.5 一条提示词做出 AI 小剧场"
+      }
+    ]
+  },
+  "omarchy-shenzhen": {
+    "title": "DHH：Omarchy 深圳聚会 400 多人报名，Coinbase 插件上线",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "omarchy-shenzhen",
+        "headline": "DHH：Omarchy 深圳聚会 400 多人报名，Coinbase 插件上线"
+      }
+    ]
+  },
+  "pg-investor-rejection": {
+    "title": "Paul Graham：投资人拒绝你的「愚蠢理由」",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "pg-investor-rejection",
+        "headline": "Paul Graham：投资人拒绝你的「愚蠢理由」"
+      }
+    ]
+  },
+  "jupyter-profiling-nav-bug": {
+    "title": "Discourse 新帖：JupyterLab 4.4.7 中嵌入的数据剖析报告导航异常",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "jupyter-profiling-nav-bug",
+        "headline": "Discourse 新帖：JupyterLab 4.4.7 中嵌入的数据剖析报告导航异常"
+      }
+    ]
+  },
+  "kg-monetization-models": {
+    "title": "Connected Data：知识图谱的十种变现模式",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "kg-monetization-models",
+        "headline": "Connected Data：知识图谱的十种变现模式"
+      }
+    ]
+  },
+  "holonic-data-cagle": {
+    "title": "Kurt Cagle：用「Holon」解决 agent 在知识图谱边界的失败",
+    "appearances": [
+      {
+        "date": "2026-10-17",
+        "anchor": "holonic-data-cagle",
+        "headline": "Kurt Cagle：用「Holon」解决 agent 在知识图谱边界的失败"
       }
     ]
   }
