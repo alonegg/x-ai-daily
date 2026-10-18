@@ -1,6 +1,6 @@
 {
   "gemini-4-argon": {
-    "title": "Gemini 4 Argon 进入 AI Studio，Antigravity 渠道限制说明",
+    "title": "Gemini 4 Argon：AI Studio Build 加入 Plan / Max 模式",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -21,6 +21,11 @@
         "date": "2026-10-17",
         "anchor": "gemini-4-argon",
         "headline": "Gemini 4 Argon 进入 AI Studio，Antigravity 渠道限制说明"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "gemini-4-argon",
+        "headline": "Gemini 4 Argon：AI Studio Build 加入 Plan / Max 模式"
       }
     ]
   },
@@ -55,7 +60,7 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Muse Wonder Full 称 VCB 1–100 SOTA，同时有封号与差评",
+    "title": "Muse Wonder Full 的 VulcanBench 成绩：与 Astra、Opus 5.5、Sol 6.1 接近，但更慢",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -66,6 +71,11 @@
         "date": "2026-10-15",
         "anchor": "meta-muse-wonder",
         "headline": "Muse Wonder Full 称 VCB 1–100 SOTA，同时有封号与差评"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "meta-muse-wonder",
+        "headline": "Muse Wonder Full 的 VulcanBench 成绩：与 Astra、Opus 5.5、Sol 6.1 接近，但更慢"
       }
     ]
   },
@@ -180,12 +190,17 @@
     ]
   },
   "agent-customer-service-ddos": {
-    "title": "Mollick：AI 代理将对客服部门形成\"合法 DDoS\"",
+    "title": "Mollick：agent 洪流涌向政府和企业，服务要变好还是变差？",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "agent-customer-service-ddos",
         "headline": "Mollick：AI 代理将对客服部门形成\"合法 DDoS\""
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "agent-customer-service-ddos",
+        "headline": "Mollick：agent 洪流涌向政府和企业，服务要变好还是变差？"
       }
     ]
   },
@@ -240,12 +255,17 @@
     ]
   },
   "ts-rust-060": {
-    "title": "Theo 发布 ts-rust v0.6.0，T3 Code 大幅优化",
+    "title": "Vercel Labs 推出 tsc-ts，Theo：比我的 ts-rust 快，但不会迁移 T3 Code",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "ts-rust-060",
         "headline": "Theo 发布 ts-rust v0.6.0，T3 Code 大幅优化"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "ts-rust-060",
+        "headline": "Vercel Labs 推出 tsc-ts，Theo：比我的 ts-rust 快，但不会迁移 T3 Code"
       }
     ]
   },
@@ -260,7 +280,7 @@
     ]
   },
   "magpie-loop-workflow": {
-    "title": "Magpie 新增「精简 Claude 系统提示词」开关",
+    "title": "Magpie 一天连发多版：内存/CPU 诊断命令、Jev 路由看更多上下文、Antigravity Cloak",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -281,6 +301,11 @@
         "date": "2026-10-17",
         "anchor": "magpie-loop-workflow",
         "headline": "Magpie 新增「精简 Claude 系统提示词」开关"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "magpie-loop-workflow",
+        "headline": "Magpie 一天连发多版：内存/CPU 诊断命令、Jev 路由看更多上下文、Antigravity Cloak"
       }
     ]
   },
@@ -640,7 +665,7 @@
     ]
   },
   "claude-idle-compaction": {
-    "title": "空闲压缩：一键关闭与 /export 会话导出",
+    "title": "空闲压缩何时触发、何时该关",
     "appearances": [
       {
         "date": "2026-10-15",
@@ -651,6 +676,11 @@
         "date": "2026-10-16",
         "anchor": "claude-idle-compaction",
         "headline": "空闲压缩：一键关闭与 /export 会话导出"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "claude-idle-compaction",
+        "headline": "空闲压缩何时触发、何时该关"
       }
     ]
   },
@@ -845,7 +875,7 @@
     ]
   },
   "claude-code-review-ga": {
-    "title": "Claude Code 团队公开代码评审流程：合并 PR 翻倍，回滚占比降 40% 以上",
+    "title": "Claude Code 代码评审文章发酵：宝玉「瑞士奶酪」讲解视频，meng shao 补出收敛数据",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -856,6 +886,11 @@
         "date": "2026-10-17",
         "anchor": "claude-code-review-ga",
         "headline": "Claude Code 团队公开代码评审流程：合并 PR 翻倍，回滚占比降 40% 以上"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "claude-code-review-ga",
+        "headline": "Claude Code 代码评审文章发酵：宝玉「瑞士奶酪」讲解视频，meng shao 补出收敛数据"
       }
     ]
   },
@@ -1125,12 +1160,17 @@
     ]
   },
   "claude-code-gzip": {
-    "title": "Claude Code 响应更快：每轮对话 gzip 压缩，云会话边打字边启动",
+    "title": "Claude Code gzip 提速：Theo 称「几乎有点迷幻」",
     "appearances": [
       {
         "date": "2026-10-17",
         "anchor": "claude-code-gzip",
         "headline": "Claude Code 响应更快：每轮对话 gzip 压缩，云会话边打字边启动"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "claude-code-gzip",
+        "headline": "Claude Code gzip 提速：Theo 称「几乎有点迷幻」"
       }
     ]
   },
@@ -1295,12 +1335,17 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 结束 Alpha，Theo 痛批 npm",
+    "title": "T3 Code 登上 ADE 工具榜首，可在 Claude 里调 Codex 子代理",
     "appearances": [
       {
         "date": "2026-10-17",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 结束 Alpha，Theo 痛批 npm"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 登上 ADE 工具榜首，可在 Claude 里调 Codex 子代理"
       }
     ]
   },
@@ -1345,32 +1390,47 @@
     ]
   },
   "levelsio-moats": {
-    "title": "levelsio 长文：为 AI 时代追逐剩余「护城河」",
+    "title": "levelsio：数据护城河靠持续更新，「还有多少人看代码？」",
     "appearances": [
       {
         "date": "2026-10-17",
         "anchor": "levelsio-moats",
         "headline": "levelsio 长文：为 AI 时代追逐剩余「护城河」"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "levelsio-moats",
+        "headline": "levelsio：数据护城河靠持续更新，「还有多少人看代码？」"
       }
     ]
   },
   "ai-slop-replies": {
-    "title": "AI 机器人回复泛滥引发集体吐槽",
+    "title": "Paul Graham：为何 AI 回复都爱说「doing heavy lifting」",
     "appearances": [
       {
         "date": "2026-10-17",
         "anchor": "ai-slop-replies",
         "headline": "AI 机器人回复泛滥引发集体吐槽"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "ai-slop-replies",
+        "headline": "Paul Graham：为何 AI 回复都爱说「doing heavy lifting」"
       }
     ]
   },
   "high-taste-testers": {
-    "title": "Latent Space 新节目 High Taste Testers",
+    "title": "High Taste Testers 反响：Alex Volkov 晒出自己的话题分布",
     "appearances": [
       {
         "date": "2026-10-17",
         "anchor": "high-taste-testers",
         "headline": "Latent Space 新节目 High Taste Testers"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "high-taste-testers",
+        "headline": "High Taste Testers 反响：Alex Volkov 晒出自己的话题分布"
       }
     ]
   },
@@ -1405,12 +1465,17 @@
     ]
   },
   "omarchy-shenzhen": {
-    "title": "DHH：Omarchy 深圳聚会 400 多人报名，Coinbase 插件上线",
+    "title": "Omarchy 深圳聚会约 500 人到场",
     "appearances": [
       {
         "date": "2026-10-17",
         "anchor": "omarchy-shenzhen",
         "headline": "DHH：Omarchy 深圳聚会 400 多人报名，Coinbase 插件上线"
+      },
+      {
+        "date": "2026-10-18",
+        "anchor": "omarchy-shenzhen",
+        "headline": "Omarchy 深圳聚会约 500 人到场"
       }
     ]
   },
@@ -1451,6 +1516,246 @@
         "date": "2026-10-17",
         "anchor": "holonic-data-cagle",
         "headline": "Kurt Cagle：用「Holon」解决 agent 在知识图谱边界的失败"
+      }
+    ]
+  },
+  "deepseek-v41-flash-1017": {
+    "title": "DeepSeek V4.1-Flash-1017：输出更短、开源 MIT，搜索引擎开放为 API",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "deepseek-v41-flash-1017",
+        "headline": "DeepSeek V4.1-Flash-1017：输出更短、开源 MIT，搜索引擎开放为 API"
+      }
+    ]
+  },
+  "open-models-1018": {
+    "title": "开源模型速递：MOSS Image、NVIDIA Dory1.0-4B、阿里 MAI-Gym、微软 AesCode、MJev-Spatial",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "open-models-1018",
+        "headline": "开源模型速递：MOSS Image、NVIDIA Dory1.0-4B、阿里 MAI-Gym、微软 AesCode、MJev-Spatial"
+      }
+    ]
+  },
+  "cn-labs-release-gap": {
+    "title": "meng shao：字节、MiniMax、月之暗面、百度已数月未发新模型",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "cn-labs-release-gap",
+        "headline": "meng shao：字节、MiniMax、月之暗面、百度已数月未发新模型"
+      }
+    ]
+  },
+  "poteto-trust-pyramid": {
+    "title": "poteto 的「倒金字塔」：要信任 agent，先改代码库",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "poteto-trust-pyramid",
+        "headline": "poteto 的「倒金字塔」：要信任 agent，先改代码库"
+      }
+    ]
+  },
+  "claude-project-artifact": {
+    "title": "Anthropic 官方插件 project-artifact：把仓库变成可刷新的项目状态页",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "claude-project-artifact",
+        "headline": "Anthropic 官方插件 project-artifact：把仓库变成可刷新的项目状态页"
+      }
+    ]
+  },
+  "claude-ultra-config": {
+    "title": "Ultra Config：Claude Code 五种配置档一键切换",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "claude-ultra-config",
+        "headline": "Ultra Config：Claude Code 五种配置档一键切换"
+      }
+    ]
+  },
+  "qiaomu-publish": {
+    "title": "向阳乔木开源 Obsidian 插件 Qiaomu Publish：一篇笔记分发公众号、X、知乎、小红书",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "qiaomu-publish",
+        "headline": "向阳乔木开源 Obsidian 插件 Qiaomu Publish：一篇笔记分发公众号、X、知乎、小红书"
+      }
+    ]
+  },
+  "rust-agent-feedback": {
+    "title": "宝玉：Rust 编译慢拖累 agent 反馈，只在核心组件用",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "rust-agent-feedback",
+        "headline": "宝玉：Rust 编译慢拖累 agent 反馈，只在核心组件用"
+      }
+    ]
+  },
+  "webgpu-ocean-61kb": {
+    "title": "61KB 的 WebGPU 海洋：Claude Code + Opus 5.5 约 30 分钟写成",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "webgpu-ocean-61kb",
+        "headline": "61KB 的 WebGPU 海洋：Claude Code + Opus 5.5 约 30 分钟写成"
+      }
+    ]
+  },
+  "opencode-breach": {
+    "title": "OpenCode 被入侵：1.4% 的 Console 用户受影响，与大规模蒸馏攻击有关",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "opencode-breach",
+        "headline": "OpenCode 被入侵：1.4% 的 Console 用户受影响，与大规模蒸馏攻击有关"
+      }
+    ]
+  },
+  "codex-usage-boost": {
+    "title": "Codex 与 Work 有效用量提升；Theo：OpenAI 的网络安全拒答比 Anthropic 多",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "codex-usage-boost",
+        "headline": "Codex 与 Work 有效用量提升；Theo：OpenAI 的网络安全拒答比 Anthropic 多"
+      }
+    ]
+  },
+  "gemini-cache-miss": {
+    "title": "Theo 测出 Gemini 缓存未命中率 27%，称因此贵 50%",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "gemini-cache-miss",
+        "headline": "Theo 测出 Gemini 缓存未命中率 27%，称因此贵 50%"
+      }
+    ]
+  },
+  "devin-max-quota": {
+    "title": "Gorden Sun：200 美元 Devin Max 的 Opus 5.5 额度比 20 美元 Claude Pro 少约 20%",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "devin-max-quota",
+        "headline": "Gorden Sun：200 美元 Devin Max 的 Opus 5.5 额度比 20 美元 Claude Pro 少约 20%"
+      }
+    ]
+  },
+  "harness-neutrality": {
+    "title": "harness 该不该「中立」？swyx：看用量档次",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "harness-neutrality",
+        "headline": "harness 该不该「中立」？swyx：看用量档次"
+      }
+    ]
+  },
+  "hf-papers-1018": {
+    "title": "Hugging Face 论文速递：Harness²、InfiniSplat v2、动态频带切分",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "hf-papers-1018",
+        "headline": "Hugging Face 论文速递：Harness²、InfiniSplat v2、动态频带切分"
+      }
+    ]
+  },
+  "hf-nvidia-1018": {
+    "title": "NVIDIA 三个 RL / SFT 数据集：金融工具调用、公平性、化学推理",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "hf-nvidia-1018",
+        "headline": "NVIDIA 三个 RL / SFT 数据集：金融工具调用、公平性、化学推理"
+      }
+    ]
+  },
+  "cn-ai-export-control": {
+    "title": "商务部、科技部拟将 23 项 AI 技术列入出口限制目录：已开源的豁免",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "cn-ai-export-control",
+        "headline": "商务部、科技部拟将 23 项 AI 技术列入出口限制目录：已开源的豁免"
+      }
+    ]
+  },
+  "grokbot-web-rollout": {
+    "title": "Grok Bot 登陆网页版，Lee Robinson 收集用户反馈",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "grokbot-web-rollout",
+        "headline": "Grok Bot 登陆网页版，Lee Robinson 收集用户反馈"
+      }
+    ]
+  },
+  "personal-agent-data": {
+    "title": "个人 agent 与隐私：「它知道你的一切」是缺陷还是前提？",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "personal-agent-data",
+        "headline": "个人 agent 与隐私：「它知道你的一切」是缺陷还是前提？"
+      }
+    ]
+  },
+  "aie-youtube-ab-testing": {
+    "title": "swyx 公开 AI Engineer YouTube 频道的 A/B 测试数据",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "aie-youtube-ab-testing",
+        "headline": "swyx 公开 AI Engineer YouTube 频道的 A/B 测试数据"
+      }
+    ]
+  },
+  "aie-nyc-mkanat": {
+    "title": "AIE NYC 最受好评演讲：代码质量为什么重要",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "aie-nyc-mkanat",
+        "headline": "AIE NYC 最受好评演讲：代码质量为什么重要"
+      }
+    ]
+  },
+  "community-misc-1018": {
+    "title": "社区杂项：AI 岗位地图、Tailscale 里的「ж」、财富从何而来",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "community-misc-1018",
+        "headline": "社区杂项：AI 岗位地图、Tailscale 里的「ж」、财富从何而来"
+      }
+    ]
+  },
+  "living-scientific-record": {
+    "title": "Buehler：从静态论文到「活的科学记录」，去中心化多 agent 做材料发现",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "living-scientific-record",
+        "headline": "Buehler：从静态论文到「活的科学记录」，去中心化多 agent 做材料发现"
+      }
+    ]
+  },
+  "rdf-trainmark-cdl26": {
+    "title": "CDL26：11 个 RDF 框架的「火车上基准测试」",
+    "appearances": [
+      {
+        "date": "2026-10-18",
+        "anchor": "rdf-trainmark-cdl26",
+        "headline": "CDL26：11 个 RDF 框架的「火车上基准测试」"
       }
     ]
   }
