@@ -60,7 +60,7 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Muse Wonder Full 的 VulcanBench 成绩：与 Astra、Opus 5.5、Sol 6.1 接近，但更慢",
+    "title": "Muse 口碑升温：Alexandr Wang 推荐用 Muse Wonder 写代码，Juan Benet 称赞「主动」",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -76,6 +76,11 @@
         "date": "2026-10-18",
         "anchor": "meta-muse-wonder",
         "headline": "Muse Wonder Full 的 VulcanBench 成绩：与 Astra、Opus 5.5、Sol 6.1 接近，但更慢"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "meta-muse-wonder",
+        "headline": "Muse 口碑升温：Alexandr Wang 推荐用 Muse Wonder 写代码，Juan Benet 称赞「主动」"
       }
     ]
   },
@@ -190,7 +195,7 @@
     ]
   },
   "agent-customer-service-ddos": {
-    "title": "Mollick：agent 洪流涌向政府和企业，服务要变好还是变差？",
+    "title": "网站开始屏蔽 AI agent：Mollick 认为撑不久，更好的办法是做安全接入",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -201,6 +206,11 @@
         "date": "2026-10-18",
         "anchor": "agent-customer-service-ddos",
         "headline": "Mollick：agent 洪流涌向政府和企业，服务要变好还是变差？"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "agent-customer-service-ddos",
+        "headline": "网站开始屏蔽 AI agent：Mollick 认为撑不久，更好的办法是做安全接入"
       }
     ]
   },
@@ -280,7 +290,7 @@
     ]
   },
   "magpie-loop-workflow": {
-    "title": "Magpie 一天连发多版：内存/CPU 诊断命令、Jev 路由看更多上下文、Antigravity Cloak",
+    "title": "Magpie v0.1.1285：长会话 CPU 开销降到 1/20–1/30，继续查路由组和内存问题",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -306,6 +316,11 @@
         "date": "2026-10-18",
         "anchor": "magpie-loop-workflow",
         "headline": "Magpie 一天连发多版：内存/CPU 诊断命令、Jev 路由看更多上下文、Antigravity Cloak"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "magpie-loop-workflow",
+        "headline": "Magpie v0.1.1285：长会话 CPU 开销降到 1/20–1/30，继续查路由组和内存问题"
       }
     ]
   },
@@ -875,7 +890,7 @@
     ]
   },
   "claude-code-review-ga": {
-    "title": "Claude Code 代码评审文章发酵：宝玉「瑞士奶酪」讲解视频，meng shao 补出收敛数据",
+    "title": "宝玉答「瑞士奶酪」视频追问：最后那张网是回滚加 feature flag",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -891,6 +906,11 @@
         "date": "2026-10-18",
         "anchor": "claude-code-review-ga",
         "headline": "Claude Code 代码评审文章发酵：宝玉「瑞士奶酪」讲解视频，meng shao 补出收敛数据"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "claude-code-review-ga",
+        "headline": "宝玉答「瑞士奶酪」视频追问：最后那张网是回滚加 feature flag"
       }
     ]
   },
@@ -1120,12 +1140,17 @@
     ]
   },
   "nemotron-35-super-vl": {
-    "title": "NVIDIA Nemotron 3.5 Super VL 与 Bolt 推测解码草稿",
+    "title": "Gorden Sun 评 Nemotron 3.5 Super VL：能力中规中矩，胜在快",
     "appearances": [
       {
         "date": "2026-10-17",
         "anchor": "nemotron-35-super-vl",
         "headline": "NVIDIA Nemotron 3.5 Super VL 与 Bolt 推测解码草稿"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "nemotron-35-super-vl",
+        "headline": "Gorden Sun 评 Nemotron 3.5 Super VL：能力中规中矩，胜在快"
       }
     ]
   },
@@ -1160,7 +1185,7 @@
     ]
   },
   "claude-code-gzip": {
-    "title": "Claude Code gzip 提速：Theo 称「几乎有点迷幻」",
+    "title": "Claude Code gzip 后续：Armin 吐槽「人人都是专家」",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1171,6 +1196,11 @@
         "date": "2026-10-18",
         "anchor": "claude-code-gzip",
         "headline": "Claude Code gzip 提速：Theo 称「几乎有点迷幻」"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "claude-code-gzip",
+        "headline": "Claude Code gzip 后续：Armin 吐槽「人人都是专家」"
       }
     ]
   },
@@ -1335,7 +1365,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 登上 ADE 工具榜首，可在 Claude 里调 Codex 子代理",
+    "title": "T3 Code：nightly 性能大涨，Theo 回应「操纵评测」指控",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1346,6 +1376,11 @@
         "date": "2026-10-18",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 登上 ADE 工具榜首，可在 Claude 里调 Codex 子代理"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code：nightly 性能大涨，Theo 回应「操纵评测」指控"
       }
     ]
   },
@@ -1405,7 +1440,7 @@
     ]
   },
   "ai-slop-replies": {
-    "title": "Paul Graham：为何 AI 回复都爱说「doing heavy lifting」",
+    "title": "AI 伪人评论屏蔽插件，和一句「请告诉我你的 API key」",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1416,6 +1451,11 @@
         "date": "2026-10-18",
         "anchor": "ai-slop-replies",
         "headline": "Paul Graham：为何 AI 回复都爱说「doing heavy lifting」"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "ai-slop-replies",
+        "headline": "AI 伪人评论屏蔽插件，和一句「请告诉我你的 API key」"
       }
     ]
   },
@@ -1465,7 +1505,7 @@
     ]
   },
   "omarchy-shenzhen": {
-    "title": "Omarchy 深圳聚会约 500 人到场",
+    "title": "Omarchy：深圳聚会「像一场大会」，ARM 支持在即，12 月初或再办活动",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1476,6 +1516,11 @@
         "date": "2026-10-18",
         "anchor": "omarchy-shenzhen",
         "headline": "Omarchy 深圳聚会约 500 人到场"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "omarchy-shenzhen",
+        "headline": "Omarchy：深圳聚会「像一场大会」，ARM 支持在即，12 月初或再办活动"
       }
     ]
   },
@@ -1520,12 +1565,17 @@
     ]
   },
   "deepseek-v41-flash-1017": {
-    "title": "DeepSeek V4.1-Flash-1017：输出更短、开源 MIT，搜索引擎开放为 API",
+    "title": "DeepSeek V4.1-Flash-1017 后续：WorkBuddy 国际版限免、搜索 Skill、实测有褒有贬",
     "appearances": [
       {
         "date": "2026-10-18",
         "anchor": "deepseek-v41-flash-1017",
         "headline": "DeepSeek V4.1-Flash-1017：输出更短、开源 MIT，搜索引擎开放为 API"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "deepseek-v41-flash-1017",
+        "headline": "DeepSeek V4.1-Flash-1017 后续：WorkBuddy 国际版限免、搜索 Skill、实测有褒有贬"
       }
     ]
   },
@@ -1540,12 +1590,17 @@
     ]
   },
   "cn-labs-release-gap": {
-    "title": "meng shao：字节、MiniMax、月之暗面、百度已数月未发新模型",
+    "title": "meng shao 更正：豆包 Seed 8–9 月有更新，MiniMax M3.1-Flash-Preview 9 月发布",
     "appearances": [
       {
         "date": "2026-10-18",
         "anchor": "cn-labs-release-gap",
         "headline": "meng shao：字节、MiniMax、月之暗面、百度已数月未发新模型"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "cn-labs-release-gap",
+        "headline": "meng shao 更正：豆包 Seed 8–9 月有更新，MiniMax M3.1-Flash-Preview 9 月发布"
       }
     ]
   },
@@ -1570,32 +1625,47 @@
     ]
   },
   "claude-ultra-config": {
-    "title": "Ultra Config：Claude Code 五种配置档一键切换",
+    "title": "Ultra Config 登陆 Claude 桌面版",
     "appearances": [
       {
         "date": "2026-10-18",
         "anchor": "claude-ultra-config",
         "headline": "Ultra Config：Claude Code 五种配置档一键切换"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "claude-ultra-config",
+        "headline": "Ultra Config 登陆 Claude 桌面版"
       }
     ]
   },
   "qiaomu-publish": {
-    "title": "向阳乔木开源 Obsidian 插件 Qiaomu Publish：一篇笔记分发公众号、X、知乎、小红书",
+    "title": "Qiaomu 系列 Obsidian 插件下载数据：Reader 最多",
     "appearances": [
       {
         "date": "2026-10-18",
         "anchor": "qiaomu-publish",
         "headline": "向阳乔木开源 Obsidian 插件 Qiaomu Publish：一篇笔记分发公众号、X、知乎、小红书"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "qiaomu-publish",
+        "headline": "Qiaomu 系列 Obsidian 插件下载数据：Reader 最多"
       }
     ]
   },
   "rust-agent-feedback": {
-    "title": "宝玉：Rust 编译慢拖累 agent 反馈，只在核心组件用",
+    "title": "宝玉补充 Rust 编译数据：百万行视频编辑器，UI 部分编译超 10 分钟",
     "appearances": [
       {
         "date": "2026-10-18",
         "anchor": "rust-agent-feedback",
         "headline": "宝玉：Rust 编译慢拖累 agent 反馈，只在核心组件用"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "rust-agent-feedback",
+        "headline": "宝玉补充 Rust 编译数据：百万行视频编辑器，UI 部分编译超 10 分钟"
       }
     ]
   },
@@ -1610,12 +1680,17 @@
     ]
   },
   "opencode-breach": {
-    "title": "OpenCode 被入侵：1.4% 的 Console 用户受影响，与大规模蒸馏攻击有关",
+    "title": "OpenCode 遭持续攻击；Theo 解释为什么蒸馏攻击要偷 API key",
     "appearances": [
       {
         "date": "2026-10-18",
         "anchor": "opencode-breach",
         "headline": "OpenCode 被入侵：1.4% 的 Console 用户受影响，与大规模蒸馏攻击有关"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "opencode-breach",
+        "headline": "OpenCode 遭持续攻击；Theo 解释为什么蒸馏攻击要偷 API key"
       }
     ]
   },
@@ -1640,12 +1715,17 @@
     ]
   },
   "devin-max-quota": {
-    "title": "Gorden Sun：200 美元 Devin Max 的 Opus 5.5 额度比 20 美元 Claude Pro 少约 20%",
+    "title": "Devin Max 额度之争：用户实算两者周额度几乎相同",
     "appearances": [
       {
         "date": "2026-10-18",
         "anchor": "devin-max-quota",
         "headline": "Gorden Sun：200 美元 Devin Max 的 Opus 5.5 额度比 20 美元 Claude Pro 少约 20%"
+      },
+      {
+        "date": "2026-10-19",
+        "anchor": "devin-max-quota",
+        "headline": "Devin Max 额度之争：用户实算两者周额度几乎相同"
       }
     ]
   },
@@ -1756,6 +1836,296 @@
         "date": "2026-10-18",
         "anchor": "rdf-trainmark-cdl26",
         "headline": "CDL26：11 个 RDF 框架的「火车上基准测试」"
+      }
+    ]
+  },
+  "anthropic-public-benefit-fund": {
+    "title": "Anthropic 成立公益基金：先拿 5% 股份，合计约 20% 股份用于公益",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "anthropic-public-benefit-fund",
+        "headline": "Anthropic 成立公益基金：先拿 5% 股份，合计约 20% 股份用于公益"
+      }
+    ]
+  },
+  "model-intelligence-usage": {
+    "title": "The Information：模型领先 10 分，开发者流量只多 20%；Mollick：开发者终将只占 token 用量的小头",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "model-intelligence-usage",
+        "headline": "The Information：模型领先 10 分，开发者流量只多 20%；Mollick：开发者终将只占 token 用量的小头"
+      }
+    ]
+  },
+  "paywall-invisible-to-ai": {
+    "title": "Paul Graham：发在付费墙后面，等于让内容隐形",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "paywall-invisible-to-ai",
+        "headline": "Paul Graham：发在付费墙后面，等于让内容隐形"
+      }
+    ]
+  },
+  "altryne-personal-agents": {
+    "title": "Alex Volkov 晒个人 agent 一周清单：报税、订剧票、订录音棚、延长酒店",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "altryne-personal-agents",
+        "headline": "Alex Volkov 晒个人 agent 一周清单：报税、订剧票、订录音棚、延长酒店"
+      }
+    ]
+  },
+  "mai-base-2-pretrain": {
+    "title": "微软 MAI：3T 量级自研基座模型，2.8T 版本用 1.6 万张卡训练 38 天",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "mai-base-2-pretrain",
+        "headline": "微软 MAI：3T 量级自研基座模型，2.8T 版本用 1.6 万张卡训练 38 天"
+      }
+    ]
+  },
+  "glm53-semianalysis": {
+    "title": "SemiAnalysis 拆解 GLM 5.3：架构不变全靠后训练，网络安全能力「咬住」Mythos",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "glm53-semianalysis",
+        "headline": "SemiAnalysis 拆解 GLM 5.3：架构不变全靠后训练，网络安全能力「咬住」Mythos"
+      }
+    ]
+  },
+  "harness-squared": {
+    "title": "Harness²：Google 开源递归式 agent harness 优化框架，不改权重最高 +11.5 分",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "harness-squared",
+        "headline": "Harness²：Google 开源递归式 agent harness 优化框架，不改权重最高 +11.5 分"
+      }
+    ]
+  },
+  "odyssey-fruit-fly": {
+    "title": "果蝇大脑放进世界模型 Odyssey-3，自己在虚拟世界里飞",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "odyssey-fruit-fly",
+        "headline": "果蝇大脑放进世界模型 Odyssey-3，自己在虚拟世界里飞"
+      }
+    ]
+  },
+  "hf-papers-1019": {
+    "title": "Hugging Face 论文速递：SAE 特征不可简单相加、3DCodeVerse、GroundAnything、TPPO、ExeWorldBench",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "hf-papers-1019",
+        "headline": "Hugging Face 论文速递：SAE 特征不可简单相加、3DCodeVerse、GroundAnything、TPPO、ExeWorldBench"
+      }
+    ]
+  },
+  "hf-models-data-1019": {
+    "title": "开源模型与数据集：Sber GreenWAM、NVIDIA 客服工具调用种子数据、NVIDIA Kimodo",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "hf-models-data-1019",
+        "headline": "开源模型与数据集：Sber GreenWAM、NVIDIA 客服工具调用种子数据、NVIDIA Kimodo"
+      }
+    ]
+  },
+  "pi-durable-qol": {
+    "title": "pi-durable 下周改进：serverless 休眠、遥测，用户列出一长串缓存问题",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "pi-durable-qol",
+        "headline": "pi-durable 下周改进：serverless 休眠、遥测，用户列出一长串缓存问题"
+      }
+    ]
+  },
+  "claude-ecdsa-seeds": {
+    "title": "Claude 30 分钟破解 25 年的 NSA 曲线种子之谜；Daniel San 用 Dynamic Workflow 反推 ID 生成规则",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "claude-ecdsa-seeds",
+        "headline": "Claude 30 分钟破解 25 年的 NSA 曲线种子之谜；Daniel San 用 Dynamic Workflow 反推 ID 生成规则"
+      }
+    ]
+  },
+  "owasp-llm-top10-2026": {
+    "title": "OWASP LLM 应用十大风险 2026：Daniel San 建议交给 Claude Code 审一遍项目",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "owasp-llm-top10-2026",
+        "headline": "OWASP LLM 应用十大风险 2026：Daniel San 建议交给 Claude Code 审一遍项目"
+      }
+    ]
+  },
+  "claude-ux-friction": {
+    "title": "Claude 的使用摩擦：权限检查频繁误判，邮箱改不了",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "claude-ux-friction",
+        "headline": "Claude 的使用摩擦：权限检查频繁误判，邮箱改不了"
+      }
+    ]
+  },
+  "kids-apps-vibe-coding": {
+    "title": "家长自己写应用：Codex 20 分钟做出打字游戏，安替的儿子写点名程序",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "kids-apps-vibe-coding",
+        "headline": "家长自己写应用：Codex 20 分钟做出打字游戏，安替的儿子写点名程序"
+      }
+    ]
+  },
+  "ai-taste-vs-tedium": {
+    "title": "Theo：AI 没有创作品味，但能做极其繁琐的活",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "ai-taste-vs-tedium",
+        "headline": "Theo：AI 没有创作品味，但能做极其繁琐的活"
+      }
+    ]
+  },
+  "api-key-litellm": {
+    "title": "李博杰：API key 要按 Web3 钱包的标准管，内网 LiteLLM + canary 字符串",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "api-key-litellm",
+        "headline": "李博杰：API key 要按 Web3 钱包的标准管，内网 LiteLLM + canary 字符串"
+      }
+    ]
+  },
+  "lex-fridman-cn": {
+    "title": "向阳乔木开源 Lex Fridman 中文站：502 期访谈全部配文稿和中文翻译",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "lex-fridman-cn",
+        "headline": "向阳乔木开源 Lex Fridman 中文站：502 期访谈全部配文稿和中文翻译"
+      }
+    ]
+  },
+  "obsidian-pele-mermaid": {
+    "title": "Obsidian 官方 Mermaid 渲染库 Pele：体积小约 6 倍，最多快 500 倍",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "obsidian-pele-mermaid",
+        "headline": "Obsidian 官方 Mermaid 渲染库 Pele：体积小约 6 倍，最多快 500 倍"
+      }
+    ]
+  },
+  "stripe-design-ai": {
+    "title": "Stripe 首席设计官：AI 抬高地板，天花板要靠人",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "stripe-design-ai",
+        "headline": "Stripe 首席设计官：AI 抬高地板，天花板要靠人"
+      }
+    ]
+  },
+  "cs336-inference": {
+    "title": "斯坦福 CS336 第 10 讲「Inference」：一切优化都是减少每步搬运的字节",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "cs336-inference",
+        "headline": "斯坦福 CS336 第 10 讲「Inference」：一切优化都是减少每步搬运的字节"
+      }
+    ]
+  },
+  "borges-3d": {
+    "title": "Mollick 让 Fable 5.1 把博尔赫斯小说做成 3D",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "borges-3d",
+        "headline": "Mollick 让 Fable 5.1 把博尔赫斯小说做成 3D"
+      }
+    ]
+  },
+  "levelsio-indie-economy": {
+    "title": "levelsio：产品收入在下滑，独立开发者赛道被 AI 冲击，卖公司别接受对赌",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "levelsio-indie-economy",
+        "headline": "levelsio：产品收入在下滑，独立开发者赛道被 AI 冲击，卖公司别接受对赌"
+      }
+    ]
+  },
+  "dhh-china-impressions": {
+    "title": "DHH 的中国观感：华为折叠屏、国产车很惊艳，软件却还「粗糙」",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "dhh-china-impressions",
+        "headline": "DHH 的中国观感：华为折叠屏、国产车很惊艳，软件却还「粗糙」"
+      }
+    ]
+  },
+  "hire-recursively": {
+    "title": "Juan Benet：「只招你愿意为之工作的直接下属」，AI 让小团队有机会做到",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "hire-recursively",
+        "headline": "Juan Benet：「只招你愿意为之工作的直接下属」，AI 让小团队有机会做到"
+      }
+    ]
+  },
+  "community-misc-1019": {
+    "title": "社区杂项：TypeSafe 招人、AWS 取消 Cloudflare 展位、5090 失窃、Orange AI 的「健脑房」",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "community-misc-1019",
+        "headline": "社区杂项：TypeSafe 招人、AWS 取消 Cloudflare 展位、5090 失窃、Orange AI 的「健脑房」"
+      }
+    ]
+  },
+  "sparql-patterns-cdl26": {
+    "title": "CDL26：用 SPARQL Patterns 把临床试验 PDF 变成可信的知识图谱",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "sparql-patterns-cdl26",
+        "headline": "CDL26：用 SPARQL Patterns 把临床试验 PDF 变成可信的知识图谱"
+      }
+    ]
+  },
+  "primary-school-concept-graph": {
+    "title": "开源小学知识图谱：1590 个概念、3221 条依赖，正逐个变成互动实验",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "primary-school-concept-graph",
+        "headline": "开源小学知识图谱：1590 个概念、3221 条依赖，正逐个变成互动实验"
+      }
+    ]
+  },
+  "consciousness-preprint": {
+    "title": "Doris Tsao 团队预印本：意识的神经结构有意外发现",
+    "appearances": [
+      {
+        "date": "2026-10-19",
+        "anchor": "consciousness-preprint",
+        "headline": "Doris Tsao 团队预印本：意识的神经结构有意外发现"
       }
     ]
   }
