@@ -60,7 +60,7 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Muse 口碑升温：Alexandr Wang 推荐用 Muse Wonder 写代码，Juan Benet 称赞「主动」",
+    "title": "Muse 后续：Muse Wonder Full 首登 WebDev 竞技场第 6，德银称 Muse 下载与日活领先 ChatGPT",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -81,6 +81,11 @@
         "date": "2026-10-19",
         "anchor": "meta-muse-wonder",
         "headline": "Muse 口碑升温：Alexandr Wang 推荐用 Muse Wonder 写代码，Juan Benet 称赞「主动」"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "meta-muse-wonder",
+        "headline": "Muse 后续：Muse Wonder Full 首登 WebDev 竞技场第 6，德银称 Muse 下载与日活领先 ChatGPT"
       }
     ]
   },
@@ -195,7 +200,7 @@
     ]
   },
   "agent-customer-service-ddos": {
-    "title": "网站开始屏蔽 AI agent：Mollick 认为撑不久，更好的办法是做安全接入",
+    "title": "网站屏蔽 AI agent 后续：Alex Volkov「这撑不了多久」",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -211,6 +216,11 @@
         "date": "2026-10-19",
         "anchor": "agent-customer-service-ddos",
         "headline": "网站开始屏蔽 AI agent：Mollick 认为撑不久，更好的办法是做安全接入"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "agent-customer-service-ddos",
+        "headline": "网站屏蔽 AI agent 后续：Alex Volkov「这撑不了多久」"
       }
     ]
   },
@@ -225,12 +235,17 @@
     ]
   },
   "anthropic-scion": {
-    "title": "Anthropic 弃用 Git，五个月自研版本控制系统 Scion",
+    "title": "Theo：Anthropic 被 GitHub 卡脖子才重造了 git，很多团队都会走到这一步",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "anthropic-scion",
         "headline": "Anthropic 弃用 Git，五个月自研版本控制系统 Scion"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "anthropic-scion",
+        "headline": "Theo：Anthropic 被 GitHub 卡脖子才重造了 git，很多团队都会走到这一步"
       }
     ]
   },
@@ -610,7 +625,7 @@
     ]
   },
   "okfn-peacetech-summit": {
-    "title": "OKFN 和平科技峰会：谈判桌上的 AI 圆桌",
+    "title": "OKFN 和平科技峰会落幕，完整记录即将发布",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -626,6 +641,11 @@
         "date": "2026-10-16",
         "anchor": "okfn-peacetech-summit",
         "headline": "OKFN 和平科技峰会：谈判桌上的 AI 圆桌"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "okfn-peacetech-summit",
+        "headline": "OKFN 和平科技峰会落幕，完整记录即将发布"
       }
     ]
   },
@@ -890,7 +910,7 @@
     ]
   },
   "claude-code-review-ga": {
-    "title": "宝玉答「瑞士奶酪」视频追问：最后那张网是回滚加 feature flag",
+    "title": "Addy Osmani 拆解 Claude Code 的分层代码审查",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -911,6 +931,11 @@
         "date": "2026-10-19",
         "anchor": "claude-code-review-ga",
         "headline": "宝玉答「瑞士奶酪」视频追问：最后那张网是回滚加 feature flag"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "claude-code-review-ga",
+        "headline": "Addy Osmani 拆解 Claude Code 的分层代码审查"
       }
     ]
   },
@@ -1065,12 +1090,17 @@
     ]
   },
   "mollick-coexistence-review": {
-    "title": "Mollick《Co-Existence》获 New Scientist 首评",
+    "title": "Mollick 新书明天出版",
     "appearances": [
       {
         "date": "2026-10-16",
         "anchor": "mollick-coexistence-review",
         "headline": "Mollick《Co-Existence》获 New Scientist 首评"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "mollick-coexistence-review",
+        "headline": "Mollick 新书明天出版"
       }
     ]
   },
@@ -1365,7 +1395,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code：nightly 性能大涨，Theo 回应「操纵评测」指控",
+    "title": "T3 Code 后续：多机线程、Codex 用户六成也用 Claude Code、用户好评",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1381,6 +1411,11 @@
         "date": "2026-10-19",
         "anchor": "t3-code-beta",
         "headline": "T3 Code：nightly 性能大涨，Theo 回应「操纵评测」指控"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 后续：多机线程、Codex 用户六成也用 Claude Code、用户好评"
       }
     ]
   },
@@ -1415,12 +1450,17 @@
     ]
   },
   "tesla-roadster-2026": {
-    "title": "特斯拉新 Roadster：压缩空气喷气翻转落地，马斯克称 2028 年投产",
+    "title": "特斯拉新 Roadster 科普视频：为什么倒挂不掉、怎么在空中翻身",
     "appearances": [
       {
         "date": "2026-10-17",
         "anchor": "tesla-roadster-2026",
         "headline": "特斯拉新 Roadster：压缩空气喷气翻转落地，马斯克称 2028 年投产"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "tesla-roadster-2026",
+        "headline": "特斯拉新 Roadster 科普视频：为什么倒挂不掉、怎么在空中翻身"
       }
     ]
   },
@@ -1440,7 +1480,7 @@
     ]
   },
   "ai-slop-replies": {
-    "title": "AI 伪人评论屏蔽插件，和一句「请告诉我你的 API key」",
+    "title": "AI 伪人评论后续：钓 AI 的帖子和 AI 互评刷屏",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1456,6 +1496,11 @@
         "date": "2026-10-19",
         "anchor": "ai-slop-replies",
         "headline": "AI 伪人评论屏蔽插件，和一句「请告诉我你的 API key」"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "ai-slop-replies",
+        "headline": "AI 伪人评论后续：钓 AI 的帖子和 AI 互评刷屏"
       }
     ]
   },
@@ -1505,7 +1550,7 @@
     ]
   },
   "omarchy-shenzhen": {
-    "title": "Omarchy：深圳聚会「像一场大会」，ARM 支持在即，12 月初或再办活动",
+    "title": "Omarchy QA 每晚自动跑，DHH：人工测试的苦活终于交给 agent",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1521,6 +1566,11 @@
         "date": "2026-10-19",
         "anchor": "omarchy-shenzhen",
         "headline": "Omarchy：深圳聚会「像一场大会」，ARM 支持在即，12 月初或再办活动"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "omarchy-shenzhen",
+        "headline": "Omarchy QA 每晚自动跑，DHH：人工测试的苦活终于交给 agent"
       }
     ]
   },
@@ -1820,12 +1870,17 @@
     ]
   },
   "living-scientific-record": {
-    "title": "Buehler：从静态论文到「活的科学记录」，去中心化多 agent 做材料发现",
+    "title": "Buehler：科学的语言从数字、方程走到可学习、可组合的 AI 表示",
     "appearances": [
       {
         "date": "2026-10-18",
         "anchor": "living-scientific-record",
         "headline": "Buehler：从静态论文到「活的科学记录」，去中心化多 agent 做材料发现"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "living-scientific-record",
+        "headline": "Buehler：科学的语言从数字、方程走到可学习、可组合的 AI 表示"
       }
     ]
   },
@@ -1870,12 +1925,17 @@
     ]
   },
   "altryne-personal-agents": {
-    "title": "Alex Volkov 晒个人 agent 一周清单：报税、订剧票、订录音棚、延长酒店",
+    "title": "Alex Volkov：让个人 agent 采访自己来写年度评审",
     "appearances": [
       {
         "date": "2026-10-19",
         "anchor": "altryne-personal-agents",
         "headline": "Alex Volkov 晒个人 agent 一周清单：报税、订剧票、订录音棚、延长酒店"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "altryne-personal-agents",
+        "headline": "Alex Volkov：让个人 agent 采访自己来写年度评审"
       }
     ]
   },
@@ -2020,12 +2080,17 @@
     ]
   },
   "obsidian-pele-mermaid": {
-    "title": "Obsidian 官方 Mermaid 渲染库 Pele：体积小约 6 倍，最多快 500 倍",
+    "title": "Pele 后续：架构拆解，ColaMD 已从 Mermaid 换成 Pele",
     "appearances": [
       {
         "date": "2026-10-19",
         "anchor": "obsidian-pele-mermaid",
         "headline": "Obsidian 官方 Mermaid 渲染库 Pele：体积小约 6 倍，最多快 500 倍"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "obsidian-pele-mermaid",
+        "headline": "Pele 后续：架构拆解，ColaMD 已从 Mermaid 换成 Pele"
       }
     ]
   },
@@ -2070,12 +2135,17 @@
     ]
   },
   "dhh-china-impressions": {
-    "title": "DHH 的中国观感：华为折叠屏、国产车很惊艳，软件却还「粗糙」",
+    "title": "DHH 中国行后续：杭州坐奔驰「明显降级」，在中国用 Tailscale 跑 Claude Code",
     "appearances": [
       {
         "date": "2026-10-19",
         "anchor": "dhh-china-impressions",
         "headline": "DHH 的中国观感：华为折叠屏、国产车很惊艳，软件却还「粗糙」"
+      },
+      {
+        "date": "2026-10-20",
+        "anchor": "dhh-china-impressions",
+        "headline": "DHH 中国行后续：杭州坐奔驰「明显降级」，在中国用 Tailscale 跑 Claude Code"
       }
     ]
   },
@@ -2126,6 +2196,316 @@
         "date": "2026-10-19",
         "anchor": "consciousness-preprint",
         "headline": "Doris Tsao 团队预印本：意识的神经结构有意外发现"
+      }
+    ]
+  },
+  "anthropic-next-model": {
+    "title": "The Information：Anthropic 本月或发布更会揣摩意图的新模型，Gemini 4 Carbon 与 OpenAI Terra 新模型同期在路上",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "anthropic-next-model",
+        "headline": "The Information：Anthropic 本月或发布更会揣摩意图的新模型，Gemini 4 Carbon 与 OpenAI Terra 新模型同期在路上"
+      }
+    ]
+  },
+  "openai-legacy-languages": {
+    "title": "OpenAI：最新模型加强 COBOL、Fortran、Visual Basic 等低资源语言的开发与迁移",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "openai-legacy-languages",
+        "headline": "OpenAI：最新模型加强 COBOL、Fortran、Visual Basic 等低资源语言的开发与迁移"
+      }
+    ]
+  },
+  "chatgpt-slides-collab": {
+    "title": "ChatGPT Slides 支持多人实时协作和直接点选编辑",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "chatgpt-slides-collab",
+        "headline": "ChatGPT Slides 支持多人实时协作和直接点选编辑"
+      }
+    ]
+  },
+  "lobsterai-agent-report": {
+    "title": "网易 LobsterAI 第二期《中国办公 Agent 用户行为报告》：任务越来越大，缓存定价让花费差七倍",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "lobsterai-agent-report",
+        "headline": "网易 LobsterAI 第二期《中国办公 Agent 用户行为报告》：任务越来越大，缓存定价让花费差七倍"
+      }
+    ]
+  },
+  "apple-dev-ai-survey": {
+    "title": "Apple 生态 AI 调研报告：100 位专家组反馈",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "apple-dev-ai-survey",
+        "headline": "Apple 生态 AI 调研报告：100 位专家组反馈"
+      }
+    ]
+  },
+  "us-deepseek-federal-ban": {
+    "title": "Gorden Sun 评「美国禁止联邦机构使用 DeepSeek」",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "us-deepseek-federal-ban",
+        "headline": "Gorden Sun 评「美国禁止联邦机构使用 DeepSeek」"
+      }
+    ]
+  },
+  "anthropic-oss-scanner": {
+    "title": "Anthropic 推出 OSS Scanner：免费给关键开源项目定期扫漏洞，curl 修复高危 UAF",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "anthropic-oss-scanner",
+        "headline": "Anthropic 推出 OSS Scanner：免费给关键开源项目定期扫漏洞，curl 修复高危 UAF"
+      }
+    ]
+  },
+  "skillspector-templates": {
+    "title": "Claude Code Templates 接入 NVIDIA SkillSpector，给每个组件做安全扫描",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "skillspector-templates",
+        "headline": "Claude Code Templates 接入 NVIDIA SkillSpector，给每个组件做安全扫描"
+      }
+    ]
+  },
+  "claude-auto-mode-classifier": {
+    "title": "Claude Code 2.1.302：自动模式分类器可换模型，建议打开 classifyAllShell",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "claude-auto-mode-classifier",
+        "headline": "Claude Code 2.1.302：自动模式分类器可换模型，建议打开 classifyAllShell"
+      }
+    ]
+  },
+  "opengcua": {
+    "title": "阿里通义开源 OpenGCUA：通用计算机使用智能体的完整技术栈",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "opengcua",
+        "headline": "阿里通义开源 OpenGCUA：通用计算机使用智能体的完整技术栈"
+      }
+    ]
+  },
+  "pstack-formal-verification": {
+    "title": "pstack 新增 /create-formal-verification-skill：让 agent 生成形式化验证套件",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "pstack-formal-verification",
+        "headline": "pstack 新增 /create-formal-verification-skill：让 agent 生成形式化验证套件"
+      }
+    ]
+  },
+  "claude-projects-multiagent": {
+    "title": "新版 Claude Projects：协调者模型加独立 agent 的多 agent 界面",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "claude-projects-multiagent",
+        "headline": "新版 Claude Projects：协调者模型加独立 agent 的多 agent 界面"
+      }
+    ]
+  },
+  "hwchase17-20vc": {
+    "title": "Harrison Chase 上 20VC：agent = 模型 + 上下文 + harness，编码工具约占工程薪资 30%",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "hwchase17-20vc",
+        "headline": "Harrison Chase 上 20VC：agent = 模型 + 上下文 + harness，编码工具约占工程薪资 30%"
+      }
+    ]
+  },
+  "langchain-1020": {
+    "title": "LangChain：Numan 的 AI 健康教练 Nu、kapa 知识库集成、10 月通讯",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "langchain-1020",
+        "headline": "LangChain：Numan 的 AI 健康教练 Nu、kapa 知识库集成、10 月通讯"
+      }
+    ]
+  },
+  "tencent-octop": {
+    "title": "腾讯开源 Octop：自托管、多用户、多 agent 的个人助手平台",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "tencent-octop",
+        "headline": "腾讯开源 Octop：自托管、多用户、多 agent 的个人助手平台"
+      }
+    ]
+  },
+  "drex-max": {
+    "title": "Nace AI 发布 Drex Max：给浏览器 agent 用的小型多模态决策模型",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "drex-max",
+        "headline": "Nace AI 发布 Drex Max：给浏览器 agent 用的小型多模态决策模型"
+      }
+    ]
+  },
+  "tools-misc-1020": {
+    "title": "更多工具动态：tv-vibehack 去电视广告、Hermes Agent 用 Templates 测 skill 发现、Magpie 与 qiaomu clipper",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "tools-misc-1020",
+        "headline": "更多工具动态：tv-vibehack 去电视广告、Hermes Agent 用 Templates 测 skill 发现、Magpie 与 qiaomu clipper"
+      }
+    ]
+  },
+  "codex-cooked": {
+    "title": "OpenAI Devs 推出「COOKED」节目，征集社区用 Codex 做的项目",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "codex-cooked",
+        "headline": "OpenAI Devs 推出「COOKED」节目，征集社区用 Codex 做的项目"
+      }
+    ]
+  },
+  "into-the-unknown-bench": {
+    "title": "Into the Unknown：AI agent 还做不了开放式科研",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "into-the-unknown-bench",
+        "headline": "Into the Unknown：AI agent 还做不了开放式科研"
+      }
+    ]
+  },
+  "hf-papers-1020": {
+    "title": "Hugging Face 论文速递：BizBench、CarryOn、HexaShell、Act3D",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "hf-papers-1020",
+        "headline": "Hugging Face 论文速递：BizBench、CarryOn、HexaShell、Act3D"
+      }
+    ]
+  },
+  "open-models-1020": {
+    "title": "开源模型速递：SMD 少步蒸馏、Viggle JST-2 3D 世界模型、Mistral Timestral",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "open-models-1020",
+        "headline": "开源模型速递：SMD 少步蒸馏、Viggle JST-2 3D 世界模型、Mistral Timestral"
+      }
+    ]
+  },
+  "ai-econometric-code": {
+    "title": "Mollick：写 STATA 代码这门技能正在过时",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "ai-econometric-code",
+        "headline": "Mollick：写 STATA 代码这门技能正在过时"
+      }
+    ]
+  },
+  "multiplayer-ai": {
+    "title": "Mollick：多人 AI 要走出「群聊阶段」；IBM 1979 年那张幻灯片早就不成立",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "multiplayer-ai",
+        "headline": "Mollick：多人 AI 要走出「群聊阶段」；IBM 1979 年那张幻灯片早就不成立"
+      }
+    ]
+  },
+  "token-kpi-debate": {
+    "title": "Gergely Orosz：老板把「AI Token 用量」设成 KPI，其实是在帮你",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "token-kpi-debate",
+        "headline": "Gergely Orosz：老板把「AI Token 用量」设成 KPI，其实是在帮你"
+      }
+    ]
+  },
+  "swyx-data-engineers": {
+    "title": "swyx：数据工程师比 AI 工程师更抢手",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "swyx-data-engineers",
+        "headline": "swyx：数据工程师比 AI 工程师更抢手"
+      }
+    ]
+  },
+  "theo-mega-course": {
+    "title": "Theo 首次推出付费课程：1300 美元，「别自己买，让老板买」",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "theo-mega-course",
+        "headline": "Theo 首次推出付费课程：1300 美元，「别自己买，让老板买」"
+      }
+    ]
+  },
+  "nexttoken-podcast": {
+    "title": "NextToken 播客新一期：AI 逆向、个人 agent 体验，「AI 打到 60 分，这东西就变 0 分」",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "nexttoken-podcast",
+        "headline": "NextToken 播客新一期：AI 逆向、个人 agent 体验，「AI 打到 60 分，这东西就变 0 分」"
+      }
+    ]
+  },
+  "community-misc-1020": {
+    "title": "社区杂项：Manus 招实习生、托马斯的硅谷来信、抖音搬运、Grok Bot 劝人请客、Paul Graham 两则",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "community-misc-1020",
+        "headline": "社区杂项：Manus 招实习生、托马斯的硅谷来信、抖音搬运、Grok Bot 劝人请客、Paul Graham 两则"
+      }
+    ]
+  },
+  "harvey-context-graph": {
+    "title": "Harvey 用上下文图谱测法律 agent：评分最高提升 30%，成本最多降一半",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "harvey-context-graph",
+        "headline": "Harvey 用上下文图谱测法律 agent：评分最高提升 30%，成本最多降一半"
+      }
+    ]
+  },
+  "cdl26-dotld-joe-reis": {
+    "title": "CDL26：DOT-LD 大师课「没有本体学家的本体」、Joe Reis 谈数据工程与知识图谱合流",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "cdl26-dotld-joe-reis",
+        "headline": "CDL26：DOT-LD 大师课「没有本体学家的本体」、Joe Reis 谈数据工程与知识图谱合流"
+      }
+    ]
+  },
+  "pensoft-1020": {
+    "title": "Pensoft：基因组分析在小笠原群岛发现新网蝽，COP17 欧盟科学展台",
+    "appearances": [
+      {
+        "date": "2026-10-20",
+        "anchor": "pensoft-1020",
+        "headline": "Pensoft：基因组分析在小笠原群岛发现新网蝽，COP17 欧盟科学展台"
       }
     ]
   }
