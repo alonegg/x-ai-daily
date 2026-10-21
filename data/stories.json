@@ -40,12 +40,17 @@
     ]
   },
   "gemini-4-argon-demos": {
-    "title": "Argon 演示：看视频教机器人扔沙包、单条提示在 Blender 建寺庙",
+    "title": "Argon 演示：Gemini 4 Argon 做出与 Tom Lehrer《The Elements》同步的 3D 元素周期表",
     "appearances": [
       {
         "date": "2026-10-14",
         "anchor": "gemini-4-argon-demos",
         "headline": "Argon 演示：看视频教机器人扔沙包、单条提示在 Blender 建寺庙"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "gemini-4-argon-demos",
+        "headline": "Argon 演示：Gemini 4 Argon 做出与 Tom Lehrer《The Elements》同步的 3D 元素周期表"
       }
     ]
   },
@@ -280,7 +285,7 @@
     ]
   },
   "ts-rust-060": {
-    "title": "Vercel Labs 推出 tsc-ts，Theo：比我的 ts-rust 快，但不会迁移 T3 Code",
+    "title": "VoidZero 推出 tsrs：与 TypeScript 团队合作的 Rust 版编译器",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -291,6 +296,11 @@
         "date": "2026-10-18",
         "anchor": "ts-rust-060",
         "headline": "Vercel Labs 推出 tsc-ts，Theo：比我的 ts-rust 快，但不会迁移 T3 Code"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "ts-rust-060",
+        "headline": "VoidZero 推出 tsrs：与 TypeScript 团队合作的 Rust 版编译器"
       }
     ]
   },
@@ -950,12 +960,17 @@
     ]
   },
   "gpt-rosalind-academic": {
-    "title": "OpenAI：Rosalind Academic Plan 向美国高校实验室扩大访问",
+    "title": "OpenAI 收购药物研发协调平台 Orchestra Bio，并入 Rosalind",
     "appearances": [
       {
         "date": "2026-10-16",
         "anchor": "gpt-rosalind-academic",
         "headline": "OpenAI：Rosalind Academic Plan 向美国高校实验室扩大访问"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "gpt-rosalind-academic",
+        "headline": "OpenAI 收购药物研发协调平台 Orchestra Bio，并入 Rosalind"
       }
     ]
   },
@@ -1090,7 +1105,7 @@
     ]
   },
   "mollick-coexistence-review": {
-    "title": "Mollick 新书明天出版",
+    "title": "Mollick 新书《Co-Existence》出版，回顾 30 个月的指数曲线",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -1101,6 +1116,11 @@
         "date": "2026-10-20",
         "anchor": "mollick-coexistence-review",
         "headline": "Mollick 新书明天出版"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "mollick-coexistence-review",
+        "headline": "Mollick 新书《Co-Existence》出版，回顾 30 个月的指数曲线"
       }
     ]
   },
@@ -1395,7 +1415,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 后续：多机线程、Codex 用户六成也用 Claude Code、用户好评",
+    "title": "T3 Code 后续：T3 Connect 撞上 Cloudflare 限额、跨机迁移仓库、每天 450 万轮",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1416,6 +1436,11 @@
         "date": "2026-10-20",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 后续：多机线程、Codex 用户六成也用 Claude Code、用户好评"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 后续：T3 Connect 撞上 Cloudflare 限额、跨机迁移仓库、每天 450 万轮"
       }
     ]
   },
@@ -1480,7 +1505,7 @@
     ]
   },
   "ai-slop-replies": {
-    "title": "AI 伪人评论后续：钓 AI 的帖子和 AI 互评刷屏",
+    "title": "AI 伪人评论后续：宝玉呼吁 X 治理回复机器人",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1501,6 +1526,11 @@
         "date": "2026-10-20",
         "anchor": "ai-slop-replies",
         "headline": "AI 伪人评论后续：钓 AI 的帖子和 AI 互评刷屏"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "ai-slop-replies",
+        "headline": "AI 伪人评论后续：宝玉呼吁 X 治理回复机器人"
       }
     ]
   },
@@ -1520,12 +1550,17 @@
     ]
   },
   "aie-nyc-compute-trading": {
-    "title": "AIE NYC：算力交易成为新行业",
+    "title": "Latent Space：SF Compute 的「可编程数据中心」",
     "appearances": [
       {
         "date": "2026-10-17",
         "anchor": "aie-nyc-compute-trading",
         "headline": "AIE NYC：算力交易成为新行业"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "aie-nyc-compute-trading",
+        "headline": "Latent Space：SF Compute 的「可编程数据中心」"
       }
     ]
   },
@@ -1615,7 +1650,7 @@
     ]
   },
   "deepseek-v41-flash-1017": {
-    "title": "DeepSeek V4.1-Flash-1017 后续：WorkBuddy 国际版限免、搜索 Skill、实测有褒有贬",
+    "title": "DeepSeek V4.1-Flash-1017 后续：Agent Arena 开源第一、网安测试胜 GPT 6 Sol",
     "appearances": [
       {
         "date": "2026-10-18",
@@ -1626,6 +1661,11 @@
         "date": "2026-10-19",
         "anchor": "deepseek-v41-flash-1017",
         "headline": "DeepSeek V4.1-Flash-1017 后续：WorkBuddy 国际版限免、搜索 Skill、实测有褒有贬"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "deepseek-v41-flash-1017",
+        "headline": "DeepSeek V4.1-Flash-1017 后续：Agent Arena 开源第一、网安测试胜 GPT 6 Sol"
       }
     ]
   },
@@ -1690,7 +1730,7 @@
     ]
   },
   "qiaomu-publish": {
-    "title": "Qiaomu 系列 Obsidian 插件下载数据：Reader 最多",
+    "title": "向阳乔木：Codex 填审批材料、内容发布工作流、X 的 Chrome 插件",
     "appearances": [
       {
         "date": "2026-10-18",
@@ -1701,11 +1741,16 @@
         "date": "2026-10-19",
         "anchor": "qiaomu-publish",
         "headline": "Qiaomu 系列 Obsidian 插件下载数据：Reader 最多"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "qiaomu-publish",
+        "headline": "向阳乔木：Codex 填审批材料、内容发布工作流、X 的 Chrome 插件"
       }
     ]
   },
   "rust-agent-feedback": {
-    "title": "宝玉补充 Rust 编译数据：百万行视频编辑器，UI 部分编译超 10 分钟",
+    "title": "宝玉：从 GPUI 换回 Electron，因为对 agent 更友好",
     "appearances": [
       {
         "date": "2026-10-18",
@@ -1716,6 +1761,11 @@
         "date": "2026-10-19",
         "anchor": "rust-agent-feedback",
         "headline": "宝玉补充 Rust 编译数据：百万行视频编辑器，UI 部分编译超 10 分钟"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "rust-agent-feedback",
+        "headline": "宝玉：从 GPUI 换回 Electron，因为对 agent 更友好"
       }
     ]
   },
@@ -2040,12 +2090,17 @@
     ]
   },
   "kids-apps-vibe-coding": {
-    "title": "家长自己写应用：Codex 20 分钟做出打字游戏，安替的儿子写点名程序",
+    "title": "键盘小岛开源：给孩子做的打字游戏",
     "appearances": [
       {
         "date": "2026-10-19",
         "anchor": "kids-apps-vibe-coding",
         "headline": "家长自己写应用：Codex 20 分钟做出打字游戏，安替的儿子写点名程序"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "kids-apps-vibe-coding",
+        "headline": "键盘小岛开源：给孩子做的打字游戏"
       }
     ]
   },
@@ -2260,12 +2315,17 @@
     ]
   },
   "anthropic-oss-scanner": {
-    "title": "Anthropic 推出 OSS Scanner：免费给关键开源项目定期扫漏洞，curl 修复高危 UAF",
+    "title": "OSS Scanner 后续：Claude Code Templates 仓库被接纳",
     "appearances": [
       {
         "date": "2026-10-20",
         "anchor": "anthropic-oss-scanner",
         "headline": "Anthropic 推出 OSS Scanner：免费给关键开源项目定期扫漏洞，curl 修复高危 UAF"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "anthropic-oss-scanner",
+        "headline": "OSS Scanner 后续：Claude Code Templates 仓库被接纳"
       }
     ]
   },
@@ -2320,12 +2380,17 @@
     ]
   },
   "hwchase17-20vc": {
-    "title": "Harrison Chase 上 20VC：agent = 模型 + 上下文 + harness，编码工具约占工程薪资 30%",
+    "title": "Harrison Chase：垂直 agent 的三层差异化",
     "appearances": [
       {
         "date": "2026-10-20",
         "anchor": "hwchase17-20vc",
         "headline": "Harrison Chase 上 20VC：agent = 模型 + 上下文 + harness，编码工具约占工程薪资 30%"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "hwchase17-20vc",
+        "headline": "Harrison Chase：垂直 agent 的三层差异化"
       }
     ]
   },
@@ -2360,12 +2425,17 @@
     ]
   },
   "tools-misc-1020": {
-    "title": "更多工具动态：tv-vibehack 去电视广告、Hermes Agent 用 Templates 测 skill 发现、Magpie 与 qiaomu clipper",
+    "title": "改电视也成了个人软件：歸藏做小米电视启动器",
     "appearances": [
       {
         "date": "2026-10-20",
         "anchor": "tools-misc-1020",
         "headline": "更多工具动态：tv-vibehack 去电视广告、Hermes Agent 用 Templates 测 skill 发现、Magpie 与 qiaomu clipper"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "tools-misc-1020",
+        "headline": "改电视也成了个人软件：歸藏做小米电视启动器"
       }
     ]
   },
@@ -2400,12 +2470,17 @@
     ]
   },
   "open-models-1020": {
-    "title": "开源模型速递：SMD 少步蒸馏、Viggle JST-2 3D 世界模型、Mistral Timestral",
+    "title": "Viggle JST-2 后续：3D 原生「物理 token」世界模型详解",
     "appearances": [
       {
         "date": "2026-10-20",
         "anchor": "open-models-1020",
         "headline": "开源模型速递：SMD 少步蒸馏、Viggle JST-2 3D 世界模型、Mistral Timestral"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "open-models-1020",
+        "headline": "Viggle JST-2 后续：3D 原生「物理 token」世界模型详解"
       }
     ]
   },
@@ -2460,12 +2535,17 @@
     ]
   },
   "nexttoken-podcast": {
-    "title": "NextToken 播客新一期：AI 逆向、个人 agent 体验，「AI 打到 60 分，这东西就变 0 分」",
+    "title": "NextToken 播客后续：45 天订阅破万；Orange AI 谈 agent 两极分化、Cola 2.0 将上线",
     "appearances": [
       {
         "date": "2026-10-20",
         "anchor": "nexttoken-podcast",
         "headline": "NextToken 播客新一期：AI 逆向、个人 agent 体验，「AI 打到 60 分，这东西就变 0 分」"
+      },
+      {
+        "date": "2026-10-21",
+        "anchor": "nexttoken-podcast",
+        "headline": "NextToken 播客后续：45 天订阅破万；Orange AI 谈 agent 两极分化、Cola 2.0 将上线"
       }
     ]
   },
@@ -2506,6 +2586,326 @@
         "date": "2026-10-20",
         "anchor": "pensoft-1020",
         "headline": "Pensoft：基因组分析在小笠原群岛发现新网蝽，COP17 欧盟科学展台"
+      }
+    ]
+  },
+  "deepseek-deepinfer": {
+    "title": "DeepSeek 开源推理框架 DeepInfer 与 deepseek-recipe",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "deepseek-deepinfer",
+        "headline": "DeepSeek 开源推理框架 DeepInfer 与 deepseek-recipe"
+      }
+    ]
+  },
+  "claude-scorpion-binders": {
+    "title": "Anthropic：Claude 设计抗蝎毒蛋白结合体，211 个设计中 17 个实验验证",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "claude-scorpion-binders",
+        "headline": "Anthropic：Claude 设计抗蝎毒蛋白结合体，211 个设计中 17 个实验验证"
+      }
+    ]
+  },
+  "chatgpt-locked-chats": {
+    "title": "ChatGPT 上线「锁定聊天」：PIN 或面容解锁，免费用户也有",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "chatgpt-locked-chats",
+        "headline": "ChatGPT 上线「锁定聊天」：PIN 或面容解锁，免费用户也有"
+      }
+    ]
+  },
+  "openai-devs-1021": {
+    "title": "OpenAI Devs：ChatGPT 团队定时任务、API 12 小时提示缓存",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "openai-devs-1021",
+        "headline": "OpenAI Devs：ChatGPT 团队定时任务、API 12 小时提示缓存"
+      }
+    ]
+  },
+  "notion-ai-credits": {
+    "title": "Notion Business / Enterprise 的 AI 不再不限量，改为月度积分",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "notion-ai-credits",
+        "headline": "Notion Business / Enterprise 的 AI 不再不限量，改为月度积分"
+      }
+    ]
+  },
+  "fable-55-rumor": {
+    "title": "Theo：Fable 5.5「泄露」是模型幻觉",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "fable-55-rumor",
+        "headline": "Theo：Fable 5.5「泄露」是模型幻觉"
+      }
+    ]
+  },
+  "hf-netflix-doc": {
+    "title": "Hugging Face CEO 批评 Netflix 关于 OpenAI agent 攻击 HF 的纪录片",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "hf-netflix-doc",
+        "headline": "Hugging Face CEO 批评 Netflix 关于 OpenAI agent 攻击 HF 的纪录片"
+      }
+    ]
+  },
+  "company-harness": {
+    "title": "「公司级 harness」：Ramp 自建 Laminar，LangChain 推 Managed Deep Agents",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "company-harness",
+        "headline": "「公司级 harness」：Ramp 自建 Laminar，LangChain 推 Managed Deep Agents"
+      }
+    ]
+  },
+  "langchain-1021": {
+    "title": "LangChain：Managed Deep Agents 人在回路进入公测，红队测试扩大，多场活动",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "langchain-1021",
+        "headline": "LangChain：Managed Deep Agents 人在回路进入公测，红队测试扩大，多场活动"
+      }
+    ]
+  },
+  "shopify-judge-loop": {
+    "title": "Shopify 的生产环境持续学习回路：校准过的 judge 把失败变成评测",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "shopify-judge-loop",
+        "headline": "Shopify 的生产环境持续学习回路：校准过的 judge 把失败变成评测"
+      }
+    ]
+  },
+  "meta-thin-orchestrator": {
+    "title": "Meta 的「瘦编排器」架构：中央 agent 知道得越多表现越差",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "meta-thin-orchestrator",
+        "headline": "Meta 的「瘦编排器」架构：中央 agent 知道得越多表现越差"
+      }
+    ]
+  },
+  "agentic-verification": {
+    "title": "Addy Osmani「Agentic Verification」：瓶颈从写代码变成知道代码是对的",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "agentic-verification",
+        "headline": "Addy Osmani「Agentic Verification」：瓶颈从写代码变成知道代码是对的"
+      }
+    ]
+  },
+  "cross-agent-memory": {
+    "title": "跨 agent 的共享记忆层",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "cross-agent-memory",
+        "headline": "跨 agent 的共享记忆层"
+      }
+    ]
+  },
+  "flatkey-gateway": {
+    "title": "Flatkey：一个 Key 给 Codex / Claude Code 接多模态模型（推广帖）",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "flatkey-gateway",
+        "headline": "Flatkey：一个 Key 给 Codex / Claude Code 接多模态模型（推广帖）"
+      }
+    ]
+  },
+  "design-system-first": {
+    "title": "宝玉：前端别堆提示词，先引入设计系统",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "design-system-first",
+        "headline": "宝玉：前端别堆提示词，先引入设计系统"
+      }
+    ]
+  },
+  "stripe-mcp-permissions": {
+    "title": "Stripe MCP 配 Claude Code：一条命令装好，并对 6 个敏感工具强制确认",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "stripe-mcp-permissions",
+        "headline": "Stripe MCP 配 Claude Code：一条命令装好，并对 6 个敏感工具强制确认"
+      }
+    ]
+  },
+  "dev-misc-1021": {
+    "title": "开发者杂记：subagent 卡死 Mac mini、「软件已死」每十年喊一次、Electron 之争",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "dev-misc-1021",
+        "headline": "开发者杂记：subagent 卡死 Mac mini、「软件已死」每十年喊一次、Electron 之争"
+      }
+    ]
+  },
+  "nvidia-flora": {
+    "title": "NVIDIA 开源 Flora：机器人数据引擎，约 1/125 成本达到 Astra 级标注",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "nvidia-flora",
+        "headline": "NVIDIA 开源 Flora：机器人数据引擎，约 1/125 成本达到 Astra 级标注"
+      }
+    ]
+  },
+  "sky-001": {
+    "title": "SKY-001：面向 CAD 和 BIM 的「工程世界模型」",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "sky-001",
+        "headline": "SKY-001：面向 CAD 和 BIM 的「工程世界模型」"
+      }
+    ]
+  },
+  "ai-courses-1021": {
+    "title": "课程：MIT「How to AI an AI」Harness 演化两讲、斯坦福 CME 295 第四讲 RL",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "ai-courses-1021",
+        "headline": "课程：MIT「How to AI an AI」Harness 演化两讲、斯坦福 CME 295 第四讲 RL"
+      }
+    ]
+  },
+  "hf-papers-1021": {
+    "title": "Hugging Face 论文速递：Self-HPO、MemT-1.0、OR-License、BrainLoRA 等",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "hf-papers-1021",
+        "headline": "Hugging Face 论文速递：Self-HPO、MemT-1.0、OR-License、BrainLoRA 等"
+      }
+    ]
+  },
+  "hf-nvidia-1021": {
+    "title": "NVIDIA 与微软在 Hugging Face 的新模型和数据集",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "hf-nvidia-1021",
+        "headline": "NVIDIA 与微软在 Hugging Face 的新模型和数据集"
+      }
+    ]
+  },
+  "levelsio-alexa-jukebox": {
+    "title": "levelsio 用 Claude Code 给 Alexa 做了私人「Jukebox」，并公开完整提示词",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "levelsio-alexa-jukebox",
+        "headline": "levelsio 用 Claude Code 给 Alexa 做了私人「Jukebox」，并公开完整提示词"
+      }
+    ]
+  },
+  "gorden-ai-video-channel": {
+    "title": "Gorden Sun 的 AI 视频账号 10 天数据与成本",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "gorden-ai-video-channel",
+        "headline": "Gorden Sun 的 AI 视频账号 10 天数据与成本"
+      }
+    ]
+  },
+  "ai-coding-mainstream": {
+    "title": "AI 编程走进「普通公司」",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "ai-coding-mainstream",
+        "headline": "AI 编程走进「普通公司」"
+      }
+    ]
+  },
+  "agent-core-curriculum": {
+    "title": "李博杰：agent、LLM、infra 会取代编译原理、操作系统、体系结构成为核心课",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "agent-core-curriculum",
+        "headline": "李博杰：agent、LLM、infra 会取代编译原理、操作系统、体系结构成为核心课"
+      }
+    ]
+  },
+  "mranti-notes-1021": {
+    "title": "安替：模型声誉很重要，AI 干活像《经济学人》",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "mranti-notes-1021",
+        "headline": "安替：模型声誉很重要，AI 干活像《经济学人》"
+      }
+    ]
+  },
+  "podcast-phishing": {
+    "title": "借真实播客节目做掩护的 AI 辅助钓鱼",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "podcast-phishing",
+        "headline": "借真实播客节目做掩护的 AI 辅助钓鱼"
+      }
+    ]
+  },
+  "community-misc-1021": {
+    "title": "社区杂项：Grok Bot 跑 Omarchy、加州财富税、硅谷缺怪建筑",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "community-misc-1021",
+        "headline": "社区杂项：Grok Bot 跑 Omarchy、加州财富税、硅谷缺怪建筑"
+      }
+    ]
+  },
+  "jupyterhub-shared-server-panel": {
+    "title": "JupyterHub：共享服务器能否有每用户的「Hub 控制面板」",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "jupyterhub-shared-server-panel",
+        "headline": "JupyterHub：共享服务器能否有每用户的「Hub 控制面板」"
+      }
+    ]
+  },
+  "quality-inheritance-vocabulary": {
+    "title": "「质量继承原则」：AI 只和你的词汇表一样好",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "quality-inheritance-vocabulary",
+        "headline": "「质量继承原则」：AI 只和你的词汇表一样好"
+      }
+    ]
+  },
+  "cdl26-1021": {
+    "title": "CDL26：Juan Sequeda 的 20 年本体教训、Bloomberg 谈 agent 编辑图谱的治理、WordLift 的「从地图到铁轨」大师课",
+    "appearances": [
+      {
+        "date": "2026-10-21",
+        "anchor": "cdl26-1021",
+        "headline": "CDL26：Juan Sequeda 的 20 年本体教训、Bloomberg 谈 agent 编辑图谱的治理、WordLift 的「从地图到铁轨」大师课"
       }
     ]
   }
