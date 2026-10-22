@@ -3314,6 +3314,46 @@
       }
     ]
   },
+  "holdgraf-myst-author": {
+    "title": "Chris Holdgraf 博客：为 MyST 做一套「作者端」工具，反推核心该补什么",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "holdgraf-myst-author",
+        "headline": "Chris Holdgraf 博客：为 MyST 做一套「作者端」工具，反推核心该补什么"
+      }
+    ]
+  },
+  "jupyter-server-gateway-cve": {
+    "title": "Jupyter Server 网关 WebSocket 授权绕过漏洞进入欧盟漏洞库（只影响 2.0–2.5 旧版）",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "jupyter-server-gateway-cve",
+        "headline": "Jupyter Server 网关 WebSocket 授权绕过漏洞进入欧盟漏洞库（只影响 2.0–2.5 旧版）"
+      }
+    ]
+  },
+  "jupyter-bsky-misc-1022": {
+    "title": "Bluesky 上的 Jupyter 小动态：tangled 渲染 notebook 请求、Scroll Press 收 Jupyter 论文",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "jupyter-bsky-misc-1022",
+        "headline": "Bluesky 上的 Jupyter 小动态：tangled 渲染 notebook 请求、Scroll Press 收 Jupyter 论文"
+      }
+    ]
+  },
+  "fernando-compute-paris": {
+    "title": "Fernando Pérez 将为 Compute! Paris 2026 做开幕主题演讲",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "fernando-compute-paris",
+        "headline": "Fernando Pérez 将为 Compute! Paris 2026 做开幕主题演讲"
+      }
+    ]
+  },
   "okfn-ai-chatbot-course": {
     "title": "OKFN / School of Data 新课：用开放技术构建负责任的 AI 聊天机器人",
     "appearances": [
@@ -3371,6 +3411,66 @@
         "date": "2026-10-22",
         "anchor": "nielsen-task-horizon",
         "headline": "Michael Nielsen：用「任务时长」衡量 AI 科研能力很奇怪"
+      }
+    ]
+  },
+  "orcid-public-data-2026": {
+    "title": "ORCID 2026 公共数据文件发布；非洲机构的 ORCID 集成实践",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "orcid-public-data-2026",
+        "headline": "ORCID 2026 公共数据文件发布；非洲机构的 ORCID 集成实践"
+      }
+    ]
+  },
+  "wikimedia-php2shell": {
+    "title": "维基媒体因 PHP2Shell 下线 Cloud Services，PHP 工具恢复要更久",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "wikimedia-php2shell",
+        "headline": "维基媒体因 PHP2Shell 下线 Cloud Services，PHP 工具恢复要更久"
+      }
+    ]
+  },
+  "wikimedia-languages-1022": {
+    "title": "维基媒体语言社区：Waali 上线、图卢语维基十年、孟加拉 WikiScholar 2027",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "wikimedia-languages-1022",
+        "headline": "维基媒体语言社区：Waali 上线、图卢语维基十年、孟加拉 WikiScholar 2027"
+      }
+    ]
+  },
+  "pl-boyden-brain-sim": {
+    "title": "Protocol Labs 整理 Ed Boyden 演讲：用光遗传、膨胀显微镜和电压成像做「基准真相」脑模拟",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "pl-boyden-brain-sim",
+        "headline": "Protocol Labs 整理 Ed Boyden 演讲：用光遗传、膨胀显微镜和电压成像做「基准真相」脑模拟"
+      }
+    ]
+  },
+  "strasser-open-science-ai": {
+    "title": "Carly Strasser：AI 时代重新看开放科学，「科学优先，开放是手段」",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "strasser-open-science-ai",
+        "headline": "Carly Strasser：AI 时代重新看开放科学，「科学优先，开放是手段」"
+      }
+    ]
+  },
+  "open-science-bsky-1022": {
+    "title": "Bluesky「open science」速览：PsychOpen GOLD 将关停、IOSP 莱顿会议、危机数据清单调查",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "open-science-bsky-1022",
+        "headline": "Bluesky「open science」速览：PsychOpen GOLD 将关停、IOSP 莱顿会议、危机数据清单调查"
       }
     ]
   }
