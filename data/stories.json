@@ -1,6 +1,6 @@
 {
   "gemini-4-argon": {
-    "title": "Gemini 4 Argon：AI Studio Build 加入 Plan / Max 模式",
+    "title": "Gemini 4 Argon 72 小时处理约 25 万亿 token；Argon 做 3D 人体解剖可视化",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -26,6 +26,11 @@
         "date": "2026-10-18",
         "anchor": "gemini-4-argon",
         "headline": "Gemini 4 Argon：AI Studio Build 加入 Plan / Max 模式"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "gemini-4-argon",
+        "headline": "Gemini 4 Argon 72 小时处理约 25 万亿 token；Argon 做 3D 人体解剖可视化"
       }
     ]
   },
@@ -65,7 +70,7 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Muse 后续：Muse Wonder Full 首登 WebDev 竞技场第 6，德银称 Muse 下载与日活领先 ChatGPT",
+    "title": "Meta Muse 40 天美国下载破千万",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -91,6 +96,11 @@
         "date": "2026-10-20",
         "anchor": "meta-muse-wonder",
         "headline": "Muse 后续：Muse Wonder Full 首登 WebDev 竞技场第 6，德银称 Muse 下载与日活领先 ChatGPT"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "meta-muse-wonder",
+        "headline": "Meta Muse 40 天美国下载破千万"
       }
     ]
   },
@@ -315,7 +325,7 @@
     ]
   },
   "magpie-loop-workflow": {
-    "title": "Magpie v0.1.1285：长会话 CPU 开销降到 1/20–1/30，继续查路由组和内存问题",
+    "title": "Magpie 后续：内存问题来自 Claude Code 本身，Codex 第三方接入是「补丁摞补丁」",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -346,6 +356,11 @@
         "date": "2026-10-19",
         "anchor": "magpie-loop-workflow",
         "headline": "Magpie v0.1.1285：长会话 CPU 开销降到 1/20–1/30，继续查路由组和内存问题"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "magpie-loop-workflow",
+        "headline": "Magpie 后续：内存问题来自 Claude Code 本身，Codex 第三方接入是「补丁摞补丁」"
       }
     ]
   },
@@ -960,7 +975,7 @@
     ]
   },
   "gpt-rosalind-academic": {
-    "title": "OpenAI 收购药物研发协调平台 Orchestra Bio，并入 Rosalind",
+    "title": "GPT-Rosalind 在小鼠脑数据里给出两条神经疾病线索",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -971,6 +986,11 @@
         "date": "2026-10-21",
         "anchor": "gpt-rosalind-academic",
         "headline": "OpenAI 收购药物研发协调平台 Orchestra Bio，并入 Rosalind"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "gpt-rosalind-academic",
+        "headline": "GPT-Rosalind 在小鼠脑数据里给出两条神经疾病线索"
       }
     ]
   },
@@ -1125,12 +1145,17 @@
     ]
   },
   "jupyter-lmlite": {
-    "title": "lmLite：在 JupyterLite 里把 Transformers.js 桥到 Python",
+    "title": "lmLite 补充示例：在 JupyterLite 浏览器里跑 RAG 和多轮对话",
     "appearances": [
       {
         "date": "2026-10-16",
         "anchor": "jupyter-lmlite",
         "headline": "lmLite：在 JupyterLite 里把 Transformers.js 桥到 Python"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "jupyter-lmlite",
+        "headline": "lmLite 补充示例：在 JupyterLite 浏览器里跑 RAG 和多轮对话"
       }
     ]
   },
@@ -1415,7 +1440,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 后续：T3 Connect 撞上 Cloudflare 限额、跨机迁移仓库、每天 450 万轮",
+    "title": "T3 Code Stable 大更新：1400 多处改动",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1441,6 +1466,11 @@
         "date": "2026-10-21",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 后续：T3 Connect 撞上 Cloudflare 限额、跨机迁移仓库、每天 450 万轮"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code Stable 大更新：1400 多处改动"
       }
     ]
   },
@@ -1505,7 +1535,7 @@
     ]
   },
   "ai-slop-replies": {
-    "title": "AI 伪人评论后续：宝玉呼吁 X 治理回复机器人",
+    "title": "AI 伪人评论后续：meng shao 与 simonw 也受不了",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1531,6 +1561,11 @@
         "date": "2026-10-21",
         "anchor": "ai-slop-replies",
         "headline": "AI 伪人评论后续：宝玉呼吁 X 治理回复机器人"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "ai-slop-replies",
+        "headline": "AI 伪人评论后续：meng shao 与 simonw 也受不了"
       }
     ]
   },
@@ -1730,7 +1765,7 @@
     ]
   },
   "qiaomu-publish": {
-    "title": "向阳乔木：Codex 填审批材料、内容发布工作流、X 的 Chrome 插件",
+    "title": "向阳乔木：X 助手插件、All-In 中文站、AI RSS 播客转写",
     "appearances": [
       {
         "date": "2026-10-18",
@@ -1746,6 +1781,11 @@
         "date": "2026-10-21",
         "anchor": "qiaomu-publish",
         "headline": "向阳乔木：Codex 填审批材料、内容发布工作流、X 的 Chrome 插件"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "qiaomu-publish",
+        "headline": "向阳乔木：X 助手插件、All-In 中文站、AI RSS 播客转写"
       }
     ]
   },
@@ -1945,12 +1985,17 @@
     ]
   },
   "anthropic-public-benefit-fund": {
-    "title": "Anthropic 成立公益基金：先拿 5% 股份，合计约 20% 股份用于公益",
+    "title": "Anthropic 治理：Christopher Stubbs 加入长期利益信托，发布年度公益报告",
     "appearances": [
       {
         "date": "2026-10-19",
         "anchor": "anthropic-public-benefit-fund",
         "headline": "Anthropic 成立公益基金：先拿 5% 股份，合计约 20% 股份用于公益"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "anthropic-public-benefit-fund",
+        "headline": "Anthropic 治理：Christopher Stubbs 加入长期利益信托，发布年度公益报告"
       }
     ]
   },
@@ -2340,12 +2385,17 @@
     ]
   },
   "claude-auto-mode-classifier": {
-    "title": "Claude Code 2.1.302：自动模式分类器可换模型，建议打开 classifyAllShell",
+    "title": "Claude Code 新命令 /auto-mode-setup",
     "appearances": [
       {
         "date": "2026-10-20",
         "anchor": "claude-auto-mode-classifier",
         "headline": "Claude Code 2.1.302：自动模式分类器可换模型，建议打开 classifyAllShell"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "claude-auto-mode-classifier",
+        "headline": "Claude Code 新命令 /auto-mode-setup"
       }
     ]
   },
@@ -2425,7 +2475,7 @@
     ]
   },
   "tools-misc-1020": {
-    "title": "改电视也成了个人软件：歸藏做小米电视启动器",
+    "title": "歸藏：小米电视启动器详细教程",
     "appearances": [
       {
         "date": "2026-10-20",
@@ -2436,6 +2486,11 @@
         "date": "2026-10-21",
         "anchor": "tools-misc-1020",
         "headline": "改电视也成了个人软件：歸藏做小米电视启动器"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "tools-misc-1020",
+        "headline": "歸藏：小米电视启动器详细教程"
       }
     ]
   },
@@ -2590,12 +2645,17 @@
     ]
   },
   "deepseek-deepinfer": {
-    "title": "DeepSeek 开源推理框架 DeepInfer 与 deepseek-recipe",
+    "title": "DeepInfer 后续：缓存折扣 97%、72 小时缓存，单卡时收入 38 美元意味着约 80% 毛利",
     "appearances": [
       {
         "date": "2026-10-21",
         "anchor": "deepseek-deepinfer",
         "headline": "DeepSeek 开源推理框架 DeepInfer 与 deepseek-recipe"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "deepseek-deepinfer",
+        "headline": "DeepInfer 后续：缓存折扣 97%、72 小时缓存，单卡时收入 38 美元意味着约 80% 毛利"
       }
     ]
   },
@@ -2620,12 +2680,17 @@
     ]
   },
   "openai-devs-1021": {
-    "title": "OpenAI Devs：ChatGPT 团队定时任务、API 12 小时提示缓存",
+    "title": "Codex 与 Work 登录用户缓存「永久」保留",
     "appearances": [
       {
         "date": "2026-10-21",
         "anchor": "openai-devs-1021",
         "headline": "OpenAI Devs：ChatGPT 团队定时任务、API 12 小时提示缓存"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "openai-devs-1021",
+        "headline": "Codex 与 Work 登录用户缓存「永久」保留"
       }
     ]
   },
@@ -2640,12 +2705,17 @@
     ]
   },
   "fable-55-rumor": {
-    "title": "Theo：Fable 5.5「泄露」是模型幻觉",
+    "title": "Theo 的模型观感：Astra 是年度最失望发布，NerfBench 是「史上最差基准」",
     "appearances": [
       {
         "date": "2026-10-21",
         "anchor": "fable-55-rumor",
         "headline": "Theo：Fable 5.5「泄露」是模型幻觉"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "fable-55-rumor",
+        "headline": "Theo 的模型观感：Astra 是年度最失望发布，NerfBench 是「史上最差基准」"
       }
     ]
   },
@@ -2680,12 +2750,17 @@
     ]
   },
   "shopify-judge-loop": {
-    "title": "Shopify 的生产环境持续学习回路：校准过的 judge 把失败变成评测",
+    "title": "Shopify 后训练开源小模型当「专家」：GraphQL 子 agent 快 7 倍、成本降约 90%",
     "appearances": [
       {
         "date": "2026-10-21",
         "anchor": "shopify-judge-loop",
         "headline": "Shopify 的生产环境持续学习回路：校准过的 judge 把失败变成评测"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "shopify-judge-loop",
+        "headline": "Shopify 后训练开源小模型当「专家」：GraphQL 子 agent 快 7 倍、成本降约 90%"
       }
     ]
   },
@@ -2880,12 +2955,17 @@
     ]
   },
   "jupyterhub-shared-server-panel": {
-    "title": "JupyterHub：共享服务器能否有每用户的「Hub 控制面板」",
+    "title": "JupyterHub「每用户控制面板」进入 issue",
     "appearances": [
       {
         "date": "2026-10-21",
         "anchor": "jupyterhub-shared-server-panel",
         "headline": "JupyterHub：共享服务器能否有每用户的「Hub 控制面板」"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "jupyterhub-shared-server-panel",
+        "headline": "JupyterHub「每用户控制面板」进入 issue"
       }
     ]
   },
@@ -2900,12 +2980,397 @@
     ]
   },
   "cdl26-1021": {
-    "title": "CDL26：Juan Sequeda 的 20 年本体教训、Bloomberg 谈 agent 编辑图谱的治理、WordLift 的「从地图到铁轨」大师课",
+    "title": "CDL26 议程：「意义」之外还要「真相」，以及用本体学家的判断驾驭「vibe 本体」",
     "appearances": [
       {
         "date": "2026-10-21",
         "anchor": "cdl26-1021",
         "headline": "CDL26：Juan Sequeda 的 20 年本体教训、Bloomberg 谈 agent 编辑图谱的治理、WordLift 的「从地图到铁轨」大师课"
+      },
+      {
+        "date": "2026-10-22",
+        "anchor": "cdl26-1021",
+        "headline": "CDL26 议程：「意义」之外还要「真相」，以及用本体学家的判断驾驭「vibe 本体」"
+      }
+    ]
+  },
+  "php2shell": {
+    "title": "PHP2Shell：PHP 两个免登录远程执行漏洞，AI 参与发现",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "php2shell",
+        "headline": "PHP2Shell：PHP 两个免登录远程执行漏洞，AI 参与发现"
+      }
+    ]
+  },
+  "emudhra-weak-keys": {
+    "title": "eMudhra 8 个中间证书私钥小于 256：谁都能冒充任何网站",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "emudhra-weak-keys",
+        "headline": "eMudhra 8 个中间证书私钥小于 256：谁都能冒充任何网站"
+      }
+    ]
+  },
+  "gitlab-cve-110264": {
+    "title": "GitLab 六周内第三个满分漏洞：2014 年以来的自建版本都要升级",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "gitlab-cve-110264",
+        "headline": "GitLab 六周内第三个满分漏洞：2014 年以来的自建版本都要升级"
+      }
+    ]
+  },
+  "railway-breach": {
+    "title": "Railway 存密钥的系统被入侵，部署暂停；TiDB Cloud 控制平面数据外泄",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "railway-breach",
+        "headline": "Railway 存密钥的系统被入侵，部署暂停；TiDB Cloud 控制平面数据外泄"
+      }
+    ]
+  },
+  "litellm-supply-chain": {
+    "title": "LiteLLM 1.107.0 PyPI 版本被投毒",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "litellm-supply-chain",
+        "headline": "LiteLLM 1.107.0 PyPI 版本被投毒"
+      }
+    ]
+  },
+  "claude-duet": {
+    "title": "Anthropic 推出 Claude Duet：会主动找你的 AI 助理",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "claude-duet",
+        "headline": "Anthropic 推出 Claude Duet：会主动找你的 AI 助理"
+      }
+    ]
+  },
+  "proactive-agents-compare": {
+    "title": "四家主动式 agent 对比：Grok Bot、Muse、Dots、Duet",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "proactive-agents-compare",
+        "headline": "四家主动式 agent 对比：Grok Bot、Muse、Dots、Duet"
+      }
+    ]
+  },
+  "harness-dead-katz": {
+    "title": "Jediah Katz：agent harness 死了吗？Cursor 在删护栏，Grok Bot 在加回来",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "harness-dead-katz",
+        "headline": "Jediah Katz：agent harness 死了吗？Cursor 在删护栏，Grok Bot 在加回来"
+      }
+    ]
+  },
+  "anthropic-dario-calvin": {
+    "title": "Dario 回应 Nathan Calvin：三处沟通失误认了，「向上竞争」路线不改",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "anthropic-dario-calvin",
+        "headline": "Dario 回应 Nathan Calvin：三处沟通失误认了，「向上竞争」路线不改"
+      }
+    ]
+  },
+  "anthropic-s1-ipo": {
+    "title": "Anthropic S-1 草稿：上半年营收约 163 亿美元，云和芯片承诺约 4500 亿美元",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "anthropic-s1-ipo",
+        "headline": "Anthropic S-1 草稿：上半年营收约 163 亿美元，云和芯片承诺约 4500 亿美元"
+      }
+    ]
+  },
+  "claude-api-2026-10-21": {
+    "title": "Claude API 发布 2023 年以来首个正式版本 2026-10-21：移除 temperature / top_p / top_k",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "claude-api-2026-10-21",
+        "headline": "Claude API 发布 2023 年以来首个正式版本 2026-10-21：移除 temperature / top_p / top_k"
+      }
+    ]
+  },
+  "openai-google-cloud": {
+    "title": "OpenAI 模型登陆 Google Cloud；ChatGPT 广告系统架构公开",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "openai-google-cloud",
+        "headline": "OpenAI 模型登陆 Google Cloud；ChatGPT 广告系统架构公开"
+      }
+    ]
+  },
+  "meta-tpu-inference": {
+    "title": "Meta 已在生产环境用 Google TPU 跑推理；Google 开源 TorchTPU",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "meta-tpu-inference",
+        "headline": "Meta 已在生产环境用 Google TPU 跑推理；Google 开源 TorchTPU"
+      }
+    ]
+  },
+  "fin-ai-economics": {
+    "title": "fin：开源模型变便宜，OpenAI 和 Anthropic 不会因此没钱买 GPU",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "fin-ai-economics",
+        "headline": "fin：开源模型变便宜，OpenAI 和 Anthropic 不会因此没钱买 GPU"
+      }
+    ]
+  },
+  "recursive-flint": {
+    "title": "Recursive 发布 Flint：本地快速编程模型，开放权重",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "recursive-flint",
+        "headline": "Recursive 发布 Flint：本地快速编程模型，开放权重"
+      }
+    ]
+  },
+  "decision-models-evals": {
+    "title": "决策模型：Jev 科普、Base Labs 开源、Hamel 讲怎么用它们做评测",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "decision-models-evals",
+        "headline": "决策模型：Jev 科普、Base Labs 开源、Hamel 讲怎么用它们做评测"
+      }
+    ]
+  },
+  "corridor-argos-smithtune": {
+    "title": "Corridor 用 smithtune 训练 9B 安全模型 Argos，胜过前沿模型",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "corridor-argos-smithtune",
+        "headline": "Corridor 用 smithtune 训练 9B 安全模型 Argos，胜过前沿模型"
+      }
+    ]
+  },
+  "open-models-1022": {
+    "title": "开源模型速递：Ornith-1.5、OrcaCyber-Nano、phonon-31m、EAGLE-4",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "open-models-1022",
+        "headline": "开源模型速递：Ornith-1.5、OrcaCyber-Nano、phonon-31m、EAGLE-4"
+      }
+    ]
+  },
+  "hf-papers-1022": {
+    "title": "Hugging Face 论文速递：EgoXperience、PAR、Matrix-Game 4.0、Ropedia W0 等",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "hf-papers-1022",
+        "headline": "Hugging Face 论文速递：EgoXperience、PAR、Matrix-Game 4.0、Ropedia W0 等"
+      }
+    ]
+  },
+  "hf-nvidia-1022": {
+    "title": "NVIDIA 在 Hugging Face：实时手术世界模型与驾驶仿真评测数据集",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "hf-nvidia-1022",
+        "headline": "NVIDIA 在 Hugging Face：实时手术世界模型与驾驶仿真评测数据集"
+      }
+    ]
+  },
+  "uber-autoclean": {
+    "title": "Uber AutoClean：AI 清理 1.6 万个过期 feature flag、百万行代码",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "uber-autoclean",
+        "headline": "Uber AutoClean：AI 清理 1.6 万个过期 feature flag、百万行代码"
+      }
+    ]
+  },
+  "databricks-memcurrent": {
+    "title": "Databricks MemCurrent：在线读写加离线「做梦」的 agent 长期记忆",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "databricks-memcurrent",
+        "headline": "Databricks MemCurrent：在线读写加离线「做梦」的 agent 长期记忆"
+      }
+    ]
+  },
+  "mit-6s950-harness": {
+    "title": "MIT 6.S950「Agency with AI」第 5 讲：The Harness",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "mit-6s950-harness",
+        "headline": "MIT 6.S950「Agency with AI」第 5 讲：The Harness"
+      }
+    ]
+  },
+  "langchain-design-agent": {
+    "title": "LangChain 的设计 agent：8 月以来交付 3000 多个素材",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "langchain-design-agent",
+        "headline": "LangChain 的设计 agent：8 月以来交付 3000 多个素材"
+      }
+    ]
+  },
+  "claude-mods": {
+    "title": "Claude Mods 深度测评；Claude Code 是可改造的通用 harness",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "claude-mods",
+        "headline": "Claude Mods 深度测评；Claude Code 是可改造的通用 harness"
+      }
+    ]
+  },
+  "software-taking-off": {
+    "title": "按产出付费、落地成本数据与「软件正在起飞」",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "software-taking-off",
+        "headline": "按产出付费、落地成本数据与「软件正在起飞」"
+      }
+    ]
+  },
+  "codex-history": {
+    "title": "《How Codex Happened》：Codex 桌面版为什么不放代码编辑器",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "codex-history",
+        "headline": "《How Codex Happened》：Codex 桌面版为什么不放代码编辑器"
+      }
+    ]
+  },
+  "levelsio-gta-mission": {
+    "title": "levelsio 公开「用 Claude Code 给 GTA 圣安地列斯做新任务」的完整提示词",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "levelsio-gta-mission",
+        "headline": "levelsio 公开「用 Claude Code 给 GTA 圣安地列斯做新任务」的完整提示词"
+      }
+    ]
+  },
+  "cn-agent-quota": {
+    "title": "国内免费额度对比：Qoder、OpenCode、WorkBuddy",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "cn-agent-quota",
+        "headline": "国内免费额度对比：Qoder、OpenCode、WorkBuddy"
+      }
+    ]
+  },
+  "oss-picks-1022": {
+    "title": "开源推荐：Squoosh 与「逆向复刻」Supabase 的梗",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "oss-picks-1022",
+        "headline": "开源推荐：Squoosh 与「逆向复刻」Supabase 的梗"
+      }
+    ]
+  },
+  "community-misc-1022": {
+    "title": "社区杂项：Omarchy 4.5 RC1、Microduck、私人小号、开放办公室",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "community-misc-1022",
+        "headline": "社区杂项：Omarchy 4.5 RC1、Microduck、私人小号、开放办公室"
+      }
+    ]
+  },
+  "marimo-hackathon-1022": {
+    "title": "marimo 黑客松获奖作品：轮椅无障碍检测与实验室机器人审计",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "marimo-hackathon-1022",
+        "headline": "marimo 黑客松获奖作品：轮椅无障碍检测与实验室机器人审计"
+      }
+    ]
+  },
+  "okfn-ai-chatbot-course": {
+    "title": "OKFN / School of Data 新课：用开放技术构建负责任的 AI 聊天机器人",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "okfn-ai-chatbot-course",
+        "headline": "OKFN / School of Data 新课：用开放技术构建负责任的 AI 聊天机器人"
+      }
+    ]
+  },
+  "pensoft-oaweek": {
+    "title": "Pensoft：开放获取周「知识的成本」，为什么一开始就选择开放",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "pensoft-oaweek",
+        "headline": "Pensoft：开放获取周「知识的成本」，为什么一开始就选择开放"
+      }
+    ]
+  },
+  "plant-memory-sap": {
+    "title": "Plant Memory：把 SAP 维修工单变成可验证、可供 agent 查询的故障知识",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "plant-memory-sap",
+        "headline": "Plant Memory：把 SAP 维修工单变成可验证、可供 agent 查询的故障知识"
+      }
+    ]
+  },
+  "juanbenet-ipfs": {
+    "title": "Juan Benet：旧链接全挂了，启动 IPFS 节点又都回来了",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "juanbenet-ipfs",
+        "headline": "Juan Benet：旧链接全挂了，启动 IPFS 节点又都回来了"
+      }
+    ]
+  },
+  "matuschak-splinter": {
+    "title": "Andy Matuschak：自由形式摘录交互与 BookBridge 合作者的 Splinter",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "matuschak-splinter",
+        "headline": "Andy Matuschak：自由形式摘录交互与 BookBridge 合作者的 Splinter"
+      }
+    ]
+  },
+  "nielsen-task-horizon": {
+    "title": "Michael Nielsen：用「任务时长」衡量 AI 科研能力很奇怪",
+    "appearances": [
+      {
+        "date": "2026-10-22",
+        "anchor": "nielsen-task-horizon",
+        "headline": "Michael Nielsen：用「任务时长」衡量 AI 科研能力很奇怪"
       }
     ]
   }
