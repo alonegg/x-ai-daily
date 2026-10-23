@@ -1125,7 +1125,7 @@
     ]
   },
   "mollick-coexistence-review": {
-    "title": "Mollick 新书《Co-Existence》出版，回顾 30 个月的指数曲线",
+    "title": "Mollick：AI 能做的人类工作从 4 分钟到 17 小时，再到 17 周",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -1141,6 +1141,11 @@
         "date": "2026-10-21",
         "anchor": "mollick-coexistence-review",
         "headline": "Mollick 新书《Co-Existence》出版，回顾 30 个月的指数曲线"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "mollick-coexistence-review",
+        "headline": "Mollick：AI 能做的人类工作从 4 分钟到 17 小时，再到 17 周"
       }
     ]
   },
@@ -1440,7 +1445,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code Stable 大更新：1400 多处改动",
+    "title": "T3 Code：断网也能用，以及一条「禁止破折号」的 lint 规则",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1471,6 +1476,11 @@
         "date": "2026-10-22",
         "anchor": "t3-code-beta",
         "headline": "T3 Code Stable 大更新：1400 多处改动"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code：断网也能用，以及一条「禁止破折号」的 lint 规则"
       }
     ]
   },
@@ -1685,7 +1695,7 @@
     ]
   },
   "deepseek-v41-flash-1017": {
-    "title": "DeepSeek V4.1-Flash-1017 后续：Agent Arena 开源第一、网安测试胜 GPT 6 Sol",
+    "title": "DeepSeek V4.1 Flash 1017 上架 Hugging Face：1M 上下文、MIT 许可",
     "appearances": [
       {
         "date": "2026-10-18",
@@ -1701,6 +1711,11 @@
         "date": "2026-10-21",
         "anchor": "deepseek-v41-flash-1017",
         "headline": "DeepSeek V4.1-Flash-1017 后续：Agent Arena 开源第一、网安测试胜 GPT 6 Sol"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "deepseek-v41-flash-1017",
+        "headline": "DeepSeek V4.1 Flash 1017 上架 Hugging Face：1M 上下文、MIT 许可"
       }
     ]
   },
@@ -2135,7 +2150,7 @@
     ]
   },
   "kids-apps-vibe-coding": {
-    "title": "键盘小岛开源：给孩子做的打字游戏",
+    "title": "给孩子的 AI 项目：本地 TTS 读书助手、德语配音和复刻童年小游戏",
     "appearances": [
       {
         "date": "2026-10-19",
@@ -2146,6 +2161,11 @@
         "date": "2026-10-21",
         "anchor": "kids-apps-vibe-coding",
         "headline": "键盘小岛开源：给孩子做的打字游戏"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "kids-apps-vibe-coding",
+        "headline": "给孩子的 AI 项目：本地 TTS 读书助手、德语配音和复刻童年小游戏"
       }
     ]
   },
@@ -2980,7 +3000,7 @@
     ]
   },
   "cdl26-1021": {
-    "title": "CDL26 议程：「意义」之外还要「真相」，以及用本体学家的判断驾驭「vibe 本体」",
+    "title": "Connected Data：本体到底有什么用、Reach 用推理让知识图谱扩充 30%",
     "appearances": [
       {
         "date": "2026-10-21",
@@ -2991,26 +3011,41 @@
         "date": "2026-10-22",
         "anchor": "cdl26-1021",
         "headline": "CDL26 议程：「意义」之外还要「真相」，以及用本体学家的判断驾驭「vibe 本体」"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "cdl26-1021",
+        "headline": "Connected Data：本体到底有什么用、Reach 用推理让知识图谱扩充 30%"
       }
     ]
   },
   "php2shell": {
-    "title": "PHP2Shell：PHP 两个免登录远程执行漏洞，AI 参与发现",
+    "title": "PHP2Shell 后续：利用尝试从数千次涨到数百万次，Latent Space 复盘时间线",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "php2shell",
         "headline": "PHP2Shell：PHP 两个免登录远程执行漏洞，AI 参与发现"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "php2shell",
+        "headline": "PHP2Shell 后续：利用尝试从数千次涨到数百万次，Latent Space 复盘时间线"
       }
     ]
   },
   "emudhra-weak-keys": {
-    "title": "eMudhra 8 个中间证书私钥小于 256：谁都能冒充任何网站",
+    "title": "eMudhra 后续：「一位数私钥」与 CA 体系的爆炸半径",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "emudhra-weak-keys",
         "headline": "eMudhra 8 个中间证书私钥小于 256：谁都能冒充任何网站"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "emudhra-weak-keys",
+        "headline": "eMudhra 后续：「一位数私钥」与 CA 体系的爆炸半径"
       }
     ]
   },
@@ -3025,12 +3060,17 @@
     ]
   },
   "railway-breach": {
-    "title": "Railway 存密钥的系统被入侵，部署暂停；TiDB Cloud 控制平面数据外泄",
+    "title": "Railway 停部署超 17 小时：Theo 想搬家，却发现没有平替",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "railway-breach",
         "headline": "Railway 存密钥的系统被入侵，部署暂停；TiDB Cloud 控制平面数据外泄"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "railway-breach",
+        "headline": "Railway 停部署超 17 小时：Theo 想搬家，却发现没有平替"
       }
     ]
   },
@@ -3065,12 +3105,17 @@
     ]
   },
   "harness-dead-katz": {
-    "title": "Jediah Katz：agent harness 死了吗？Cursor 在删护栏，Grok Bot 在加回来",
+    "title": "harness 之争继续：「像 tab 和空格之争」，还是「agent 的操作系统」",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "harness-dead-katz",
         "headline": "Jediah Katz：agent harness 死了吗？Cursor 在删护栏，Grok Bot 在加回来"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "harness-dead-katz",
+        "headline": "harness 之争继续：「像 tab 和空格之争」，还是「agent 的操作系统」"
       }
     ]
   },
@@ -3135,12 +3180,17 @@
     ]
   },
   "recursive-flint": {
-    "title": "Recursive 发布 Flint：本地快速编程模型，开放权重",
+    "title": "Flint 后续：Eureka Machine 怎么参与研发，以及本地实测",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "recursive-flint",
         "headline": "Recursive 发布 Flint：本地快速编程模型，开放权重"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "recursive-flint",
+        "headline": "Flint 后续：Eureka Machine 怎么参与研发，以及本地实测"
       }
     ]
   },
@@ -3235,12 +3285,17 @@
     ]
   },
   "claude-mods": {
-    "title": "Claude Mods 深度测评；Claude Code 是可改造的通用 harness",
+    "title": "Claude Mods 深读：harness 从「管机器」转向「管人的注意力」；/stack 进了桌面版",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "claude-mods",
         "headline": "Claude Mods 深度测评；Claude Code 是可改造的通用 harness"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "claude-mods",
+        "headline": "Claude Mods 深读：harness 从「管机器」转向「管人的注意力」；/stack 进了桌面版"
       }
     ]
   },
@@ -3395,12 +3450,17 @@
     ]
   },
   "matuschak-splinter": {
-    "title": "Andy Matuschak：自由形式摘录交互与 BookBridge 合作者的 Splinter",
+    "title": "Andy Matuschak：数字拼贴能「缩放」摘录，这是纸质海报做不到的",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "matuschak-splinter",
         "headline": "Andy Matuschak：自由形式摘录交互与 BookBridge 合作者的 Splinter"
+      },
+      {
+        "date": "2026-10-23",
+        "anchor": "matuschak-splinter",
+        "headline": "Andy Matuschak：数字拼贴能「缩放」摘录，这是纸质海报做不到的"
       }
     ]
   },
@@ -3471,6 +3531,406 @@
         "date": "2026-10-22",
         "anchor": "open-science-bsky-1022",
         "headline": "Bluesky「open science」速览：PsychOpen GOLD 将关停、IOSP 莱顿会议、危机数据清单调查"
+      }
+    ]
+  },
+  "anthropic-formal-verification": {
+    "title": "Anthropic 与 Theorem：用 Claude 给 123 个开源库做汇编级形式化验证",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "anthropic-formal-verification",
+        "headline": "Anthropic 与 Theorem：用 Claude 给 123 个开源库做汇编级形式化验证"
+      }
+    ]
+  },
+  "metr-openai-monitoring": {
+    "title": "METR 与 Redwood 驻场 OpenAI 三周：内部误对齐监控有多处漏洞",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "metr-openai-monitoring",
+        "headline": "METR 与 Redwood 驻场 OpenAI 三周：内部误对齐监控有多处漏洞"
+      }
+    ]
+  },
+  "openai-daybreak-icba": {
+    "title": "OpenAI 与美国独立社区银行家协会结盟：把 Daybreak 网安能力给社区银行",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "openai-daybreak-icba",
+        "headline": "OpenAI 与美国独立社区银行家协会结盟：把 Daybreak 网安能力给社区银行"
+      }
+    ]
+  },
+  "october-security-wave": {
+    "title": "「10 月是软件的噩梦」：一份供应链事件清单与几种反应",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "october-security-wave",
+        "headline": "「10 月是软件的噩梦」：一份供应链事件清单与几种反应"
+      }
+    ]
+  },
+  "capcom-breach": {
+    "title": "卡普空确认 CAPCOM ID 被攻击，1177 万账户受影响",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "capcom-breach",
+        "headline": "卡普空确认 CAPCOM ID 被攻击，1177 万账户受影响"
+      }
+    ]
+  },
+  "arc-sunset": {
+    "title": "Arc 浏览器 12 月 22 日停止服务，理由是 AI 时代的安全成本",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "arc-sunset",
+        "headline": "Arc 浏览器 12 月 22 日停止服务，理由是 AI 时代的安全成本"
+      }
+    ]
+  },
+  "agent-skills-aaif": {
+    "title": "Anthropic 把 Agent Skills 捐给 AAIF，Hugging Face 也把 OpenEnv 交了过去",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "agent-skills-aaif",
+        "headline": "Anthropic 把 Agent Skills 捐给 AAIF，Hugging Face 也把 OpenEnv 交了过去"
+      }
+    ]
+  },
+  "claude-google-cloud": {
+    "title": "Claude 正式登陆 Google Cloud（Anthropic 托管）",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "claude-google-cloud",
+        "headline": "Claude 正式登陆 Google Cloud（Anthropic 托管）"
+      }
+    ]
+  },
+  "onepassword-agents": {
+    "title": "1Password for Agents：agent 能登录，但看不到你的密码",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "onepassword-agents",
+        "headline": "1Password for Agents：agent 能登录，但看不到你的密码"
+      }
+    ]
+  },
+  "consumer-agents": {
+    "title": "「消费级 agent」才第一天：粘性极高、越用越好，也是隐私噩梦",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "consumer-agents",
+        "headline": "「消费级 agent」才第一天：粘性极高、越用越好，也是隐私噩梦"
+      }
+    ]
+  },
+  "agentready": {
+    "title": "AgentReady：25 万次实测得出的「agent 可用性」开放标准",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "agentready",
+        "headline": "AgentReady：25 万次实测得出的「agent 可用性」开放标准"
+      }
+    ]
+  },
+  "nvidia-openshell": {
+    "title": "NVIDIA OpenShell 参考架构：agent 管不了自己，安全要放进基础设施",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "nvidia-openshell",
+        "headline": "NVIDIA OpenShell 参考架构：agent 管不了自己，安全要放进基础设施"
+      }
+    ]
+  },
+  "carbon-x": {
+    "title": "Hugging Face 发布开源 DNA 模型 Carbon-X，并公开批评前沿实验室的生物安全护栏",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "carbon-x",
+        "headline": "Hugging Face 发布开源 DNA 模型 Carbon-X，并公开批评前沿实验室的生物安全护栏"
+      }
+    ]
+  },
+  "tao-openai-math": {
+    "title": "《纽约时报》：陶哲轩与 OpenAI 因 350 多项数学成果决裂",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "tao-openai-math",
+        "headline": "《纽约时报》：陶哲轩与 OpenAI 因 350 多项数学成果决裂"
+      }
+    ]
+  },
+  "lambert-open-models": {
+    "title": "Nathan Lambert 哈佛讲座：中国开源全面领先，美国的持久优势是算力，蒸馏被高估",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "lambert-open-models",
+        "headline": "Nathan Lambert 哈佛讲座：中国开源全面领先，美国的持久优势是算力，蒸馏被高估"
+      }
+    ]
+  },
+  "image-models-1023": {
+    "title": "图像模型：Canva Craft、Ideogram 矢量模型、Gradio gr.Workflow",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "image-models-1023",
+        "headline": "图像模型：Canva Craft、Ideogram 矢量模型、Gradio gr.Workflow"
+      }
+    ]
+  },
+  "hf-papers-1023": {
+    "title": "论文与基准速递：AKV、WildAWM、MemProBench、Sage-A1.5、Quant-Arena、RoboRSI、COMPASS 等",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "hf-papers-1023",
+        "headline": "论文与基准速递：AKV、WildAWM、MemProBench、Sage-A1.5、Quant-Arena、RoboRSI、COMPASS 等"
+      }
+    ]
+  },
+  "nadella-letter-2026": {
+    "title": "纳德拉 2026 致股东信：「前沿生态」与按 token 成本换业务结果",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "nadella-letter-2026",
+        "headline": "纳德拉 2026 致股东信：「前沿生态」与按 token 成本换业务结果"
+      }
+    ]
+  },
+  "modal-series-d": {
+    "title": "Modal 7.5 亿美元 D 轮后，Erik Bernhardsson 谈 GPU 市场和沙箱",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "modal-series-d",
+        "headline": "Modal 7.5 亿美元 D 轮后，Erik Bernhardsson 谈 GPU 市场和沙箱"
+      }
+    ]
+  },
+  "podium-ai-native": {
+    "title": "Podium 第二次做到 1.5 亿美元 ARR：只用了 2.5 年",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "podium-ai-native",
+        "headline": "Podium 第二次做到 1.5 亿美元 ARR：只用了 2.5 年"
+      }
+    ]
+  },
+  "ai-funds-startups-1023": {
+    "title": "新基金与新公司：Stephanie Zhan 自立门户、distributed cognition 出隐身、DataVendor 公测",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "ai-funds-startups-1023",
+        "headline": "新基金与新公司：Stephanie Zhan 自立门户、distributed cognition 出隐身、DataVendor 公测"
+      }
+    ]
+  },
+  "microduck": {
+    "title": "Microduck 预订冲向 2 万台：黄仁勋 GTC 柏林主题演讲的「鸭子效应」",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "microduck",
+        "headline": "Microduck 预订冲向 2 万台：黄仁勋 GTC 柏林主题演讲的「鸭子效应」"
+      }
+    ]
+  },
+  "ai-views-1023": {
+    "title": "观点：Taleb 警告白领职业将被迅速摧毁，Robotaxi 里程每月 2.2 倍",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "ai-views-1023",
+        "headline": "观点：Taleb 警告白领职业将被迅速摧毁，Robotaxi 里程每月 2.2 倍"
+      }
+    ]
+  },
+  "quota-resets-1023": {
+    "title": "订阅与额度：Codex 用量变少的猜测、Claude 重置即将过期、在中国被封号",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "quota-resets-1023",
+        "headline": "订阅与额度：Codex 用量变少的猜测、Claude 重置即将过期、在中国被封号"
+      }
+    ]
+  },
+  "boris-cherny-stanford": {
+    "title": "Boris Cherny 在斯坦福：身边同时跑着「几千个」Claude agent",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "boris-cherny-stanford",
+        "headline": "Boris Cherny 在斯坦福：身边同时跑着「几千个」Claude agent"
+      }
+    ]
+  },
+  "cloudflare-review-cost": {
+    "title": "Cloudflare 把 AI 代码审查单次成本降 68%：从 2.43 美元到 0.77 美元",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "cloudflare-review-cost",
+        "headline": "Cloudflare 把 AI 代码审查单次成本降 68%：从 2.43 美元到 0.77 美元"
+      }
+    ]
+  },
+  "tokengate": {
+    "title": "TokenGate：让 LLM 像人一样「跳读」长上下文，prefill 最高快 11 倍",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "tokengate",
+        "headline": "TokenGate：让 LLM 像人一样「跳读」长上下文，prefill 最高快 11 倍"
+      }
+    ]
+  },
+  "llm-caching": {
+    "title": "两层缓存：Prompt Caching 复用前缀，Semantic Caching 复用答案",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "llm-caching",
+        "headline": "两层缓存：Prompt Caching 复用前缀，Semantic Caching 复用答案"
+      }
+    ]
+  },
+  "subjective-evals": {
+    "title": "主观任务的评测路线图：人工评测、离线自动评测、线上监控",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "subjective-evals",
+        "headline": "主观任务的评测路线图：人工评测、离线自动评测、线上监控"
+      }
+    ]
+  },
+  "ai-courses-1023": {
+    "title": "课程笔记：斯坦福 CS 329Z 第 9 讲「agent 系统优化选型图」与吴恩达「按项目阶段校准」",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "ai-courses-1023",
+        "headline": "课程笔记：斯坦福 CS 329Z 第 9 讲「agent 系统优化选型图」与吴恩达「按项目阶段校准」"
+      }
+    ]
+  },
+  "opus-55-tips": {
+    "title": "Opus 5.5 用法：最会估工时的模型、advisor 策略、代码剪辑视频",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "opus-55-tips",
+        "headline": "Opus 5.5 用法：最会估工时的模型、advisor 策略、代码剪辑视频"
+      }
+    ]
+  },
+  "tools-misc-1023": {
+    "title": "作品与工具：程序化纽约、LiDAR 建模、向阳乔木的学习站、腾讯 GEO",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "tools-misc-1023",
+        "headline": "作品与工具：程序化纽约、LiDAR 建模、向阳乔木的学习站、腾讯 GEO"
+      }
+    ]
+  },
+  "marathon-fusion": {
+    "title": "Marathon Fusion 用聚变中子把水银变成金子，真正想卖的是医用同位素",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "marathon-fusion",
+        "headline": "Marathon Fusion 用聚变中子把水银变成金子，真正想卖的是医用同位素"
+      }
+    ]
+  },
+  "community-misc-1023": {
+    "title": "社区杂项：Omarchy 上 PS5 和 iPad、OmarchyTV、Basecamp 进 ChatGPT、LangChain 活动",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "community-misc-1023",
+        "headline": "社区杂项：Omarchy 上 PS5 和 iPad、OmarchyTV、Basecamp 进 ChatGPT、LangChain 活动"
+      }
+    ]
+  },
+  "nbconvert-cve-114140": {
+    "title": "nbconvert 路径穿越漏洞：恶意 notebook 可在转换时任意写文件（CVSS 8.8）",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "nbconvert-cve-114140",
+        "headline": "nbconvert 路径穿越漏洞：恶意 notebook 可在转换时任意写文件（CVSS 8.8）"
+      }
+    ]
+  },
+  "conda-emudhra-updates": {
+    "title": "prefix.dev 与 conda 社区：一周协调三起安全响应（eMudhra、PHP、LiteLLM）",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "conda-emudhra-updates",
+        "headline": "prefix.dev 与 conda 社区：一周协调三起安全响应（eMudhra、PHP、LiteLLM）"
+      }
+    ]
+  },
+  "forty-forest-map": {
+    "title": "Google DeepMind 发布 ForTy：10 米分辨率的全球森林类型图，开放许可",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "forty-forest-map",
+        "headline": "Google DeepMind 发布 ForTy：10 米分辨率的全球森林类型图，开放许可"
+      }
+    ]
+  },
+  "andreessen-ai-gap": {
+    "title": "Andreessen：AI 原生创业公司和老牌公司之间的认知差距是他见过最大的",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "andreessen-ai-gap",
+        "headline": "Andreessen：AI 原生创业公司和老牌公司之间的认知差距是他见过最大的"
+      }
+    ]
+  },
+  "wikimedia-diff-1023": {
+    "title": "维基媒体社区：一份 139 年前的家族文件上了维基文库，艺术中的「照护伦理」进 Wikidata",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "wikimedia-diff-1023",
+        "headline": "维基媒体社区：一份 139 年前的家族文件上了维基文库，艺术中的「照护伦理」进 Wikidata"
+      }
+    ]
+  },
+  "open-science-bsky-1023": {
+    "title": "Bluesky「open science」速览：欧盟报告呼吁「基础设施多样性」、预注册再思考、开放科学与风险资本",
+    "appearances": [
+      {
+        "date": "2026-10-23",
+        "anchor": "open-science-bsky-1023",
+        "headline": "Bluesky「open science」速览：欧盟报告呼吁「基础设施多样性」、预注册再思考、开放科学与风险资本"
       }
     ]
   }
