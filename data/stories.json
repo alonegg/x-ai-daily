@@ -1695,7 +1695,7 @@
     ]
   },
   "deepseek-v41-flash-1017": {
-    "title": "DeepSeek V4.1 Flash 1017 上架 Hugging Face：1M 上下文、MIT 许可",
+    "title": "MiniMax 开源 M3.1 Flash；中国新规下 DeepSeek 和 MiniMax 拿到开源许可",
     "appearances": [
       {
         "date": "2026-10-18",
@@ -1716,6 +1716,11 @@
         "date": "2026-10-23",
         "anchor": "deepseek-v41-flash-1017",
         "headline": "DeepSeek V4.1 Flash 1017 上架 Hugging Face：1M 上下文、MIT 许可"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "deepseek-v41-flash-1017",
+        "headline": "MiniMax 开源 M3.1 Flash；中国新规下 DeepSeek 和 MiniMax 拿到开源许可"
       }
     ]
   },
@@ -2255,7 +2260,7 @@
     ]
   },
   "dhh-china-impressions": {
-    "title": "DHH 中国行后续：杭州坐奔驰「明显降级」，在中国用 Tailscale 跑 Claude Code",
+    "title": "DHH 中国行后续：小米工厂 91% 自动化",
     "appearances": [
       {
         "date": "2026-10-19",
@@ -2266,6 +2271,11 @@
         "date": "2026-10-20",
         "anchor": "dhh-china-impressions",
         "headline": "DHH 中国行后续：杭州坐奔驰「明显降级」，在中国用 Tailscale 跑 Claude Code"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "dhh-china-impressions",
+        "headline": "DHH 中国行后续：小米工厂 91% 自动化"
       }
     ]
   },
@@ -3000,7 +3010,7 @@
     ]
   },
   "cdl26-1021": {
-    "title": "Connected Data：本体到底有什么用、Reach 用推理让知识图谱扩充 30%",
+    "title": "Connected Data：语义层的「治理缺口」与 CDL26 议程",
     "appearances": [
       {
         "date": "2026-10-21",
@@ -3016,6 +3026,11 @@
         "date": "2026-10-23",
         "anchor": "cdl26-1021",
         "headline": "Connected Data：本体到底有什么用、Reach 用推理让知识图谱扩充 30%"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "cdl26-1021",
+        "headline": "Connected Data：语义层的「治理缺口」与 CDL26 议程"
       }
     ]
   },
@@ -3060,7 +3075,7 @@
     ]
   },
   "railway-breach": {
-    "title": "Railway 停部署超 17 小时：Theo 想搬家，却发现没有平替",
+    "title": "Railway 初步事故报告：攻击者要的是 AI key，用来做蒸馏",
     "appearances": [
       {
         "date": "2026-10-22",
@@ -3071,6 +3086,11 @@
         "date": "2026-10-23",
         "anchor": "railway-breach",
         "headline": "Railway 停部署超 17 小时：Theo 想搬家，却发现没有平替"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "railway-breach",
+        "headline": "Railway 初步事故报告：攻击者要的是 AI key，用来做蒸馏"
       }
     ]
   },
@@ -3095,17 +3115,22 @@
     ]
   },
   "proactive-agents-compare": {
-    "title": "四家主动式 agent 对比：Grok Bot、Muse、Dots、Duet",
+    "title": "个人 agent 对比与 Muse 日本上线",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "proactive-agents-compare",
         "headline": "四家主动式 agent 对比：Grok Bot、Muse、Dots、Duet"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "proactive-agents-compare",
+        "headline": "个人 agent 对比与 Muse 日本上线"
       }
     ]
   },
   "harness-dead-katz": {
-    "title": "harness 之争继续：「像 tab 和空格之争」，还是「agent 的操作系统」",
+    "title": "Theo 长文《什么是 harness？》",
     "appearances": [
       {
         "date": "2026-10-22",
@@ -3116,6 +3141,11 @@
         "date": "2026-10-23",
         "anchor": "harness-dead-katz",
         "headline": "harness 之争继续：「像 tab 和空格之争」，还是「agent 的操作系统」"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "harness-dead-katz",
+        "headline": "Theo 长文《什么是 harness？》"
       }
     ]
   },
@@ -3545,12 +3575,17 @@
     ]
   },
   "metr-openai-monitoring": {
-    "title": "METR 与 Redwood 驻场 OpenAI 三周：内部误对齐监控有多处漏洞",
+    "title": "METR 驻场 OpenAI 后续：meng shao 的完整中文拆解",
     "appearances": [
       {
         "date": "2026-10-23",
         "anchor": "metr-openai-monitoring",
         "headline": "METR 与 Redwood 驻场 OpenAI 三周：内部误对齐监控有多处漏洞"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "metr-openai-monitoring",
+        "headline": "METR 驻场 OpenAI 后续：meng shao 的完整中文拆解"
       }
     ]
   },
@@ -3565,12 +3600,17 @@
     ]
   },
   "october-security-wave": {
-    "title": "「10 月是软件的噩梦」：一份供应链事件清单与几种反应",
+    "title": "「黑色十月」后续：Ruby 也出事了，包管理器加 24 小时冷静期",
     "appearances": [
       {
         "date": "2026-10-23",
         "anchor": "october-security-wave",
         "headline": "「10 月是软件的噩梦」：一份供应链事件清单与几种反应"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "october-security-wave",
+        "headline": "「黑色十月」后续：Ruby 也出事了，包管理器加 24 小时冷静期"
       }
     ]
   },
@@ -3615,12 +3655,17 @@
     ]
   },
   "onepassword-agents": {
-    "title": "1Password for Agents：agent 能登录，但看不到你的密码",
+    "title": "1Password for Agents 后续：Muse 接入、Omarchy 一键安装",
     "appearances": [
       {
         "date": "2026-10-23",
         "anchor": "onepassword-agents",
         "headline": "1Password for Agents：agent 能登录，但看不到你的密码"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "onepassword-agents",
+        "headline": "1Password for Agents 后续：Muse 接入、Omarchy 一键安装"
       }
     ]
   },
@@ -3715,12 +3760,17 @@
     ]
   },
   "modal-series-d": {
-    "title": "Modal 7.5 亿美元 D 轮后，Erik Bernhardsson 谈 GPU 市场和沙箱",
+    "title": "Modal 后续：Erik Bernhardsson 谈开源模型、沙箱和团队扩张",
     "appearances": [
       {
         "date": "2026-10-23",
         "anchor": "modal-series-d",
         "headline": "Modal 7.5 亿美元 D 轮后，Erik Bernhardsson 谈 GPU 市场和沙箱"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "modal-series-d",
+        "headline": "Modal 后续：Erik Bernhardsson 谈开源模型、沙箱和团队扩张"
       }
     ]
   },
@@ -3745,12 +3795,17 @@
     ]
   },
   "microduck": {
-    "title": "Microduck 预订冲向 2 万台：黄仁勋 GTC 柏林主题演讲的「鸭子效应」",
+    "title": "Microduck 后续：黄仁勋上台后 24 小时又卖出 4000 多台",
     "appearances": [
       {
         "date": "2026-10-23",
         "anchor": "microduck",
         "headline": "Microduck 预订冲向 2 万台：黄仁勋 GTC 柏林主题演讲的「鸭子效应」"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "microduck",
+        "headline": "Microduck 后续：黄仁勋上台后 24 小时又卖出 4000 多台"
       }
     ]
   },
@@ -3765,12 +3820,17 @@
     ]
   },
   "quota-resets-1023": {
-    "title": "订阅与额度：Codex 用量变少的猜测、Claude 重置即将过期、在中国被封号",
+    "title": "Claude 客户端更新与额度 A/B 测试",
     "appearances": [
       {
         "date": "2026-10-23",
         "anchor": "quota-resets-1023",
         "headline": "订阅与额度：Codex 用量变少的猜测、Claude 重置即将过期、在中国被封号"
+      },
+      {
+        "date": "2026-10-24",
+        "anchor": "quota-resets-1023",
+        "headline": "Claude 客户端更新与额度 A/B 测试"
       }
     ]
   },
@@ -3931,6 +3991,296 @@
         "date": "2026-10-23",
         "anchor": "open-science-bsky-1023",
         "headline": "Bluesky「open science」速览：欧盟报告呼吁「基础设施多样性」、预注册再思考、开放科学与风险资本"
+      }
+    ]
+  },
+  "openai-training-containment": {
+    "title": "OpenAI 加固前沿模型训练环境：断网、离线世界与高算力红队",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "openai-training-containment",
+        "headline": "OpenAI 加固前沿模型训练环境：断网、离线世界与高算力红队"
+      }
+    ]
+  },
+  "brotli-cve-111497": {
+    "title": "红队顺带发现 Brotli 解码器远程代码执行漏洞（CVE-2026-111497）",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "brotli-cve-111497",
+        "headline": "红队顺带发现 Brotli 解码器远程代码执行漏洞（CVE-2026-111497）"
+      }
+    ]
+  },
+  "mythos5-aisi-incident": {
+    "title": "Anthropic 与 AISI：Claude Mythos 5「越界」事件的对齐分析",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "mythos5-aisi-incident",
+        "headline": "Anthropic 与 AISI：Claude Mythos 5「越界」事件的对齐分析"
+      }
+    ]
+  },
+  "levelsio-vps-lockdown": {
+    "title": "levelsio：把 VPS 从公网撤下来，只走 Cloudflare Tunnel 和 Tailscale",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "levelsio-vps-lockdown",
+        "headline": "levelsio：把 VPS 从公网撤下来，只走 Cloudflare Tunnel 和 Tailscale"
+      }
+    ]
+  },
+  "ai-attack-defense-views": {
+    "title": "AI 时代攻防谁占优，提示注入还是不是大问题",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "ai-attack-defense-views",
+        "headline": "AI 时代攻防谁占优，提示注入还是不是大问题"
+      }
+    ]
+  },
+  "kimi-k31-pro": {
+    "title": "Kimi K3.1 Pro：2.8T 参数、100 万上下文，11 月 4 日前开放权重",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "kimi-k31-pro",
+        "headline": "Kimi K3.1 Pro：2.8T 参数、100 万上下文，11 月 4 日前开放权重"
+      }
+    ]
+  },
+  "coding-agent-index-v2": {
+    "title": "Artificial Analysis Coding Agent Index v2.0：Claude Code + Opus 5.5 以 61.7 领跑",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "coding-agent-index-v2",
+        "headline": "Artificial Analysis Coding Agent Index v2.0：Claude Code + Opus 5.5 以 61.7 领跑"
+      }
+    ]
+  },
+  "models-misc-1024": {
+    "title": "小模型与专用模型：Nemotron 3.5 Bolt、IQuest-Q1、Cohere Rerank 5、Block Dessa",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "models-misc-1024",
+        "headline": "小模型与专用模型：Nemotron 3.5 Bolt、IQuest-Q1、Cohere Rerank 5、Block Dessa"
+      }
+    ]
+  },
+  "research-misc-1024": {
+    "title": "研究速递：softmax 实现的「两个 bug」、SkyRL 百万上下文训练、Fable 5.1 图像隐写",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "research-misc-1024",
+        "headline": "研究速递：softmax 实现的「两个 bug」、SkyRL 百万上下文训练、Fable 5.1 图像隐写"
+      }
+    ]
+  },
+  "hf-papers-1024": {
+    "title": "Hugging Face 论文与模型速递：腾讯视频世界模型一串、NVIDIA 三件、OpenDS-World",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "hf-papers-1024",
+        "headline": "Hugging Face 论文与模型速递：腾讯视频世界模型一串、NVIDIA 三件、OpenDS-World"
+      }
+    ]
+  },
+  "claude-mcp-tasks": {
+    "title": "Claude 支持 MCP Tasks 和 Elicitations",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "claude-mcp-tasks",
+        "headline": "Claude 支持 MCP Tasks 和 Elicitations"
+      }
+    ]
+  },
+  "grok-bot-team-bots": {
+    "title": "Grok Bot：能用手机上的应用，推出 Team Bots",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "grok-bot-team-bots",
+        "headline": "Grok Bot：能用手机上的应用，推出 Team Bots"
+      }
+    ]
+  },
+  "agent-workflow-patterns": {
+    "title": "多模型「议会」、软件工厂词汇表与 LangChain 的设计品味",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "agent-workflow-patterns",
+        "headline": "多模型「议会」、软件工厂词汇表与 LangChain 的设计品味"
+      }
+    ]
+  },
+  "openai-fde": {
+    "title": "OpenAI 怎么定义 FDE：把定制方案收进统一的 Codex",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "openai-fde",
+        "headline": "OpenAI 怎么定义 FDE：把定制方案收进统一的 Codex"
+      }
+    ]
+  },
+  "dev-tools-1024": {
+    "title": "工具与教程：REA 逆向工程、Computer Use 原理、Mole 原生 Windows 开发、上下文检索课",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "dev-tools-1024",
+        "headline": "工具与教程：REA 逆向工程、Computer Use 原理、Mole 原生 Windows 开发、上下文检索课"
+      }
+    ]
+  },
+  "community-builds-1024": {
+    "title": "社区作品：Claude Code Templates 近 3.3 万星、Magpie 115 个插件、心智模型 Wiki",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "community-builds-1024",
+        "headline": "社区作品：Claude Code Templates 近 3.3 万星、Magpie 115 个插件、心智模型 Wiki"
+      }
+    ]
+  },
+  "ai-talent-k-shape": {
+    "title": "晚点：AI 抢人大战退潮，人才市场「K 型分化」",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "ai-talent-k-shape",
+        "headline": "晚点：AI 抢人大战退潮，人才市场「K 型分化」"
+      }
+    ]
+  },
+  "ai-views-1024": {
+    "title": "观点：「搭 agent 不值钱」与实验室下场垂直行业",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "ai-views-1024",
+        "headline": "观点：「搭 agent 不值钱」与实验室下场垂直行业"
+      }
+    ]
+  },
+  "ai-pause-debate": {
+    "title": "暂停 AI 之争：Geoffrey Irving 主张现在就单方面停",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "ai-pause-debate",
+        "headline": "暂停 AI 之争：Geoffrey Irving 主张现在就单方面停"
+      }
+    ]
+  },
+  "startup-misc-1024": {
+    "title": "Ultrametric「Open Startup Repo」与其他小动态",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "startup-misc-1024",
+        "headline": "Ultrametric「Open Startup Repo」与其他小动态"
+      }
+    ]
+  },
+  "jupyterhub-survey-2026": {
+    "title": "JupyterHub 用户调查上线",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "jupyterhub-survey-2026",
+        "headline": "JupyterHub 用户调查上线"
+      }
+    ]
+  },
+  "junoview": {
+    "title": "Junoview：把 notebook 按图过滤，自动做成幻灯片和海报",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "junoview",
+        "headline": "Junoview：把 notebook 按图过滤，自动做成幻灯片和海报"
+      }
+    ]
+  },
+  "jotter-tui": {
+    "title": "jOtter：在终端里编辑和运行 Jupyter notebook",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "jotter-tui",
+        "headline": "jOtter：在终端里编辑和运行 Jupyter notebook"
+      }
+    ]
+  },
+  "ai-peer-review-king": {
+    "title": "AI 审稿胜过人类专家：Gary King 团队的研究",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "ai-peer-review-king",
+        "headline": "AI 审稿胜过人类专家：Gary King 团队的研究"
+      }
+    ]
+  },
+  "anthropic-guest-investigators": {
+    "title": "Anthropic 生命科学客座研究员计划：免费算力，成果开源",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "anthropic-guest-investigators",
+        "headline": "Anthropic 生命科学客座研究员计划：免费算力，成果开源"
+      }
+    ]
+  },
+  "okfn-open-tech-week": {
+    "title": "OKFN 赴巴塞罗那 Open Tech Week：开放技术研究研讨会、MozFest 三场、四本新出版物",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "okfn-open-tech-week",
+        "headline": "OKFN 赴巴塞罗那 Open Tech Week：开放技术研究研讨会、MozFest 三场、四本新出版物"
+      }
+    ]
+  },
+  "open-science-bsky-1024": {
+    "title": "Bluesky「open science」速览：参与开放科学的人更多承认可疑研究操作、TOP 2025、AI 圈占科学公地",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "open-science-bsky-1024",
+        "headline": "Bluesky「open science」速览：参与开放科学的人更多承认可疑研究操作、TOP 2025、AI 圈占科学公地"
+      }
+    ]
+  },
+  "wikimedia-diff-1024": {
+    "title": "维基媒体社区：WikiSeloka 保存口头文学、ESEAP 区域画像、CapX 开放 API",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "wikimedia-diff-1024",
+        "headline": "维基媒体社区：WikiSeloka 保存口头文学、ESEAP 区域画像、CapX 开放 API"
+      }
+    ]
+  },
+  "open-data-misc-1024": {
+    "title": "开放数据与科研社区小动态：ORCID 数据可直接用 BigQuery 查询、LTER 保加利亚摘要集、ScienceClaw 黑客松",
+    "appearances": [
+      {
+        "date": "2026-10-24",
+        "anchor": "open-data-misc-1024",
+        "headline": "开放数据与科研社区小动态：ORCID 数据可直接用 BigQuery 查询、LTER 保加利亚摘要集、ScienceClaw 黑客松"
       }
     ]
   }
