@@ -1450,7 +1450,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 后续：用真实数据爬山优化搜索 18 小时，远程模式让 Theo 跑 agent 的强度翻了 10 倍以上",
+    "title": "T3 Code 后续：GitHub 3 万星，「每天一项改进」，访客共享线程和远程 iOS 模拟器",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1491,6 +1491,11 @@
         "date": "2026-10-25",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 后续：用真实数据爬山优化搜索 18 小时，远程模式让 Theo 跑 agent 的强度翻了 10 倍以上"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 后续：GitHub 3 万星，「每天一项改进」，访客共享线程和远程 iOS 模拟器"
       }
     ]
   },
@@ -1795,7 +1800,7 @@
     ]
   },
   "qiaomu-publish": {
-    "title": "向阳乔木后续：越狱旧 Kindle 变 AI 阅读器，播客笔记插件 3000 用户，联合北京日报开源 GEO 流量统计",
+    "title": "向阳乔木后续：Kindle 改造开源，加了 AI RSS 订阅",
     "appearances": [
       {
         "date": "2026-10-18",
@@ -1821,6 +1826,11 @@
         "date": "2026-10-25",
         "anchor": "qiaomu-publish",
         "headline": "向阳乔木后续：越狱旧 Kindle 变 AI 阅读器，播客笔记插件 3000 用户，联合北京日报开源 GEO 流量统计"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "qiaomu-publish",
+        "headline": "向阳乔木后续：Kindle 改造开源，加了 AI RSS 订阅"
       }
     ]
   },
@@ -2020,7 +2030,7 @@
     ]
   },
   "anthropic-public-benefit-fund": {
-    "title": "Anthropic 治理：Christopher Stubbs 加入长期利益信托，发布年度公益报告",
+    "title": "Anthropic 公益基金后续：ThursdAI 讨论「真问责还是上市前公关」",
     "appearances": [
       {
         "date": "2026-10-19",
@@ -2031,6 +2041,11 @@
         "date": "2026-10-22",
         "anchor": "anthropic-public-benefit-fund",
         "headline": "Anthropic 治理：Christopher Stubbs 加入长期利益信托，发布年度公益报告"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "anthropic-public-benefit-fund",
+        "headline": "Anthropic 公益基金后续：ThursdAI 讨论「真问责还是上市前公关」"
       }
     ]
   },
@@ -3245,7 +3260,7 @@
     ]
   },
   "recursive-flint": {
-    "title": "Flint 后续：用户把它排进日常编程模型前三",
+    "title": "Flint 后续：AI 科学家把 LM head 量化到 4 bit",
     "appearances": [
       {
         "date": "2026-10-22",
@@ -3261,6 +3276,11 @@
         "date": "2026-10-25",
         "anchor": "recursive-flint",
         "headline": "Flint 后续：用户把它排进日常编程模型前三"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "recursive-flint",
+        "headline": "Flint 后续：AI 科学家把 LM head 量化到 4 bit"
       }
     ]
   },
@@ -3400,12 +3420,17 @@
     ]
   },
   "cn-agent-quota": {
-    "title": "国内免费额度对比：Qoder、OpenCode、WorkBuddy",
+    "title": "DeepSeek V4.1 Flash：安替算出 WorkBuddy 每月送约 210 元用量，「DS41F 已成为某种标准」",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "cn-agent-quota",
         "headline": "国内免费额度对比：Qoder、OpenCode、WorkBuddy"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "cn-agent-quota",
+        "headline": "DeepSeek V4.1 Flash：安替算出 WorkBuddy 每月送约 210 元用量，「DS41F 已成为某种标准」"
       }
     ]
   },
@@ -3740,12 +3765,17 @@
     ]
   },
   "carbon-x": {
-    "title": "Hugging Face 发布开源 DNA 模型 Carbon-X，并公开批评前沿实验室的生物安全护栏",
+    "title": "Carbon-X 后续：ClinVar 打分成本约 300 美元，剪接位点题只有 29.8%",
     "appearances": [
       {
         "date": "2026-10-23",
         "anchor": "carbon-x",
         "headline": "Hugging Face 发布开源 DNA 模型 Carbon-X，并公开批评前沿实验室的生物安全护栏"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "carbon-x",
+        "headline": "Carbon-X 后续：ClinVar 打分成本约 300 美元，剪接位点题只有 29.8%"
       }
     ]
   },
@@ -3760,12 +3790,17 @@
     ]
   },
   "lambert-open-models": {
-    "title": "Nathan Lambert 哈佛讲座：中国开源全面领先，美国的持久优势是算力，蒸馏被高估",
+    "title": "Nathan Lambert 哈佛讲座后续：视频公开",
     "appearances": [
       {
         "date": "2026-10-23",
         "anchor": "lambert-open-models",
         "headline": "Nathan Lambert 哈佛讲座：中国开源全面领先，美国的持久优势是算力，蒸馏被高估"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "lambert-open-models",
+        "headline": "Nathan Lambert 哈佛讲座后续：视频公开"
       }
     ]
   },
@@ -3835,7 +3870,7 @@
     ]
   },
   "microduck": {
-    "title": "Microduck 后续：黄仁勋演示后累计卖出 1 万台",
+    "title": "Microduck 后续：转述称 24 小时预订超 260 万美元，真人版第 4 集上线",
     "appearances": [
       {
         "date": "2026-10-23",
@@ -3851,6 +3886,11 @@
         "date": "2026-10-25",
         "anchor": "microduck",
         "headline": "Microduck 后续：黄仁勋演示后累计卖出 1 万台"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "microduck",
+        "headline": "Microduck 后续：转述称 24 小时预订超 260 万美元，真人版第 4 集上线"
       }
     ]
   },
@@ -4080,12 +4120,17 @@
     ]
   },
   "levelsio-vps-lockdown": {
-    "title": "levelsio：把 VPS 从公网撤下来，只走 Cloudflare Tunnel 和 Tailscale",
+    "title": "levelsio 花一整天让 Claude Code 审计所有服务器；随后 Tailscale SSH 被曝 11 项问题",
     "appearances": [
       {
         "date": "2026-10-24",
         "anchor": "levelsio-vps-lockdown",
         "headline": "levelsio：把 VPS 从公网撤下来，只走 Cloudflare Tunnel 和 Tailscale"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "levelsio-vps-lockdown",
+        "headline": "levelsio 花一整天让 Claude Code 审计所有服务器；随后 Tailscale SSH 被曝 11 项问题"
       }
     ]
   },
@@ -4100,7 +4145,7 @@
     ]
   },
   "kimi-k31-pro": {
-    "title": "Kimi K3.1 Pro 后续：编程、3D、金融和网络安全的详细成绩",
+    "title": "Kimi K3.1 Pro 后续：英文 KOL「揭露」宣发，中文圈议论",
     "appearances": [
       {
         "date": "2026-10-24",
@@ -4111,6 +4156,11 @@
         "date": "2026-10-25",
         "anchor": "kimi-k31-pro",
         "headline": "Kimi K3.1 Pro 后续：编程、3D、金融和网络安全的详细成绩"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "kimi-k31-pro",
+        "headline": "Kimi K3.1 Pro 后续：英文 KOL「揭露」宣发，中文圈议论"
       }
     ]
   },
@@ -4465,12 +4515,17 @@
     ]
   },
   "iphone-duo-apps": {
-    "title": "iPhone Duo 上的 AI 应用适配",
+    "title": "iPhone Duo 适配后续：即览、Notion",
     "appearances": [
       {
         "date": "2026-10-25",
         "anchor": "iphone-duo-apps",
         "headline": "iPhone Duo 上的 AI 应用适配"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "iphone-duo-apps",
+        "headline": "iPhone Duo 适配后续：即览、Notion"
       }
     ]
   },
@@ -4495,12 +4550,17 @@
     ]
   },
   "shoufa-training-poisoning": {
-    "title": "Shoufa Chen 发声：2024 年训练「投毒」事件的受害者回应",
+    "title": "训练「投毒」事件后续：向阳乔木回忆在字节看到的 Demo",
     "appearances": [
       {
         "date": "2026-10-25",
         "anchor": "shoufa-training-poisoning",
         "headline": "Shoufa Chen 发声：2024 年训练「投毒」事件的受害者回应"
+      },
+      {
+        "date": "2026-10-26",
+        "anchor": "shoufa-training-poisoning",
+        "headline": "训练「投毒」事件后续：向阳乔木回忆在字节看到的 Demo"
       }
     ]
   },
@@ -4601,6 +4661,246 @@
         "date": "2026-10-25",
         "anchor": "open-science-bsky-1025",
         "headline": "Bluesky「open science」速览：ORCID 赴 PIDfest、LLM 人格模拟论文、开放的病毒载体协议"
+      }
+    ]
+  },
+  "claude-single-loop-skills": {
+    "title": "Claude 博客：什么时候该把子 agent 折回主循环，Skills 渐进披露常胜过多专家编排",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "claude-single-loop-skills",
+        "headline": "Claude 博客：什么时候该把子 agent 折回主循环，Skills 渐进披露常胜过多专家编排"
+      }
+    ]
+  },
+  "sdd-cmu-google-study": {
+    "title": "CMU 与 Google 研究规格驱动开发：266 个仓库、21 位开发者访谈",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "sdd-cmu-google-study",
+        "headline": "CMU 与 Google 研究规格驱动开发：266 个仓库、21 位开发者访谈"
+      }
+    ]
+  },
+  "agents-sdk-limit-bug": {
+    "title": "Theo 确认 Agents SDK 的额度 bug：消耗 5 小时额度比直接用 Claude Code 快",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "agents-sdk-limit-bug",
+        "headline": "Theo 确认 Agents SDK 的额度 bug：消耗 5 小时额度比直接用 Claude Code 快"
+      }
+    ]
+  },
+  "theo-opus55-month": {
+    "title": "Theo 的「Opus 5.5 之后这一个月」清单，以及「还在手动合并大部分 PR 就落后了」",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "theo-opus55-month",
+        "headline": "Theo 的「Opus 5.5 之后这一个月」清单，以及「还在手动合并大部分 PR 就落后了」"
+      }
+    ]
+  },
+  "hand-coding-poll": {
+    "title": "Armin Ronacher 的三平台调查：你还手写超过 20% 的代码吗？",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "hand-coding-poll",
+        "headline": "Armin Ronacher 的三平台调查：你还手写超过 20% 的代码吗？"
+      }
+    ]
+  },
+  "mollick-management-span": {
+    "title": "Ethan Mollick：AI 让高管能直接盯住整个公司；用 Opus 5.5 重做新书网站",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "mollick-management-span",
+        "headline": "Ethan Mollick：AI 让高管能直接盯住整个公司；用 Opus 5.5 重做新书网站"
+      }
+    ]
+  },
+  "dev-tools-1026": {
+    "title": "开发工具与 Skill 速递：chrome-devtools-mcp、Google Artemis 支持 iPhone、Cloudflare 安全审计 Skill、UI 尺寸图 Skill、ArtCraft",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "dev-tools-1026",
+        "headline": "开发工具与 Skill 速递：chrome-devtools-mcp、Google Artemis 支持 iPhone、Cloudflare 安全审计 Skill、UI 尺寸图 Skill、ArtCraft"
+      }
+    ]
+  },
+  "gemini-agentic-hallucination": {
+    "title": "Theo：Gemini 在 agent 任务里的幻觉率「超现实」",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "gemini-agentic-hallucination",
+        "headline": "Theo：Gemini 在 agent 任务里的幻觉率「超现实」"
+      }
+    ]
+  },
+  "nanbeige-43-33b": {
+    "title": "南北阁开源 Nanbeige4.3-33B 稠密模型",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "nanbeige-43-33b",
+        "headline": "南北阁开源 Nanbeige4.3-33B 稠密模型"
+      }
+    ]
+  },
+  "block-dessa": {
+    "title": "Block 的全双工语音模型 Dessa：只用人声从零训练",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "block-dessa",
+        "headline": "Block 的全双工语音模型 Dessa：只用人声从零训练"
+      }
+    ]
+  },
+  "open-models-1026": {
+    "title": "开源模型速递（Bluesky 转述）：KRAFTON Raon-1 mini、蚂蚁 Ling-3.0-flash-Sante、腾讯 Hy-Nomas 和 Hy3、Taiga-S1",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "open-models-1026",
+        "headline": "开源模型速递（Bluesky 转述）：KRAFTON Raon-1 mini、蚂蚁 Ling-3.0-flash-Sante、腾讯 Hy-Nomas 和 Hy3、Taiga-S1"
+      }
+    ]
+  },
+  "smart-tv-acr": {
+    "title": "智能电视为什么便宜：root 三星电视后的发现（Karpathy、Paul Graham 转发）",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "smart-tv-acr",
+        "headline": "智能电视为什么便宜：root 三星电视后的发现（Karpathy、Paul Graham 转发）"
+      }
+    ]
+  },
+  "grok-bot-x-money": {
+    "title": "Grok Bot：功能快速扩张，用户抱怨未经同意连上 X Money；中文圈谈个人 agent 热",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "grok-bot-x-money",
+        "headline": "Grok Bot：功能快速扩张，用户抱怨未经同意连上 X Money；中文圈谈个人 agent 热"
+      }
+    ]
+  },
+  "scale-mafia": {
+    "title": "Alexandr Wang 列「Scale 黑帮」：从 Cognition、Modal 到 Claude Code 产品负责人",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "scale-mafia",
+        "headline": "Alexandr Wang 列「Scale 黑帮」：从 Cognition、Modal 到 Claude Code 产品负责人"
+      }
+    ]
+  },
+  "omarchy-ipad-freebsd": {
+    "title": "Omarchy 上了 iPad 和 FreeBSD；DHH 用 RAWmakase 替代 Lightroom",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "omarchy-ipad-freebsd",
+        "headline": "Omarchy 上了 iPad 和 FreeBSD；DHH 用 RAWmakase 替代 Lightroom"
+      }
+    ]
+  },
+  "latent-space-editorial": {
+    "title": "Latent Space 组建编辑团队；AIE CODE 议题「agent 的啰嗦是代码评审问题」",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "latent-space-editorial",
+        "headline": "Latent Space 组建编辑团队；AIE CODE 议题「agent 的啰嗦是代码评审问题」"
+      }
+    ]
+  },
+  "agent-commerce-9-stages": {
+    "title": "AI agent 被商家接受要经过九个阶段",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "agent-commerce-9-stages",
+        "headline": "AI agent 被商家接受要经过九个阶段"
+      }
+    ]
+  },
+  "app-in-five-minutes": {
+    "title": "安替：现在 5 分钟就能给自己做一个手机 app",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "app-in-five-minutes",
+        "headline": "安替：现在 5 分钟就能给自己做一个手机 app"
+      }
+    ]
+  },
+  "baocut-history-videos": {
+    "title": "宝玉用 BaoCut 做历史演讲视频：20 岁的 Dario Amodei 反战发言、宋美龄 1943 年国会演讲",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "baocut-history-videos",
+        "headline": "宝玉用 BaoCut 做历史演讲视频：20 岁的 Dario Amodei 反战发言、宋美龄 1943 年国会演讲"
+      }
+    ]
+  },
+  "hf-papers-1026": {
+    "title": "Hugging Face 论文速递：DecisionPivot、Speculative Sampling、SpecMRL、ScaleNav、MOSS-Image、GameScaling、WeVisOne-VL",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "hf-papers-1026",
+        "headline": "Hugging Face 论文速递：DecisionPivot、Speculative Sampling、SpecMRL、ScaleNav、MOSS-Image、GameScaling、WeVisOne-VL"
+      }
+    ]
+  },
+  "ipynb-secret-redaction": {
+    "title": "notebook 里的密钥：为什么 nbstripout 和 sed 清不干净 .ipynb",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "ipynb-secret-redaction",
+        "headline": "notebook 里的密钥：为什么 nbstripout 和 sed 清不干净 .ipynb"
+      }
+    ]
+  },
+  "cdl26-swisscom-kg": {
+    "title": "CDL26：Swisscom 把 100 多个库存系统连成企业知识图谱",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "cdl26-swisscom-kg",
+        "headline": "CDL26：Swisscom 把 100 多个库存系统连成企业知识图谱"
+      }
+    ]
+  },
+  "every-joule": {
+    "title": "《Every Joule》：用 Opus 5.5 和 Three.js 做的免费 3D 物理课本",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "every-joule",
+        "headline": "《Every Joule》：用 Opus 5.5 和 Three.js 做的免费 3D 物理课本"
+      }
+    ]
+  },
+  "wikimedia-diff-1026": {
+    "title": "维基媒体社区：内容合作帮助台、中东欧开放知识会议、达格巴尼语社区和事实核查",
+    "appearances": [
+      {
+        "date": "2026-10-26",
+        "anchor": "wikimedia-diff-1026",
+        "headline": "维基媒体社区：内容合作帮助台、中东欧开放知识会议、达格巴尼语社区和事实核查"
       }
     ]
   }
