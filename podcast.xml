@@ -25,6 +25,38 @@
       <itunes:name>CHUNLIN</itunes:name>
     </itunes:owner>
     <item>
+      <title>10 月 26 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-10-26.html</link>
+      <description>昨天 AI 圈的新鲜事：AI 帮站长做安全审计、Tailscale SSH 被曝 11 项问题，Agents SDK 额度 bug，Grok Bot 连上 X Money 引发不满；评论聊主循环加 Skills、规格驱动开发、手写代码投票等五个话题
+
+章节：
+0:00 开场与头条预告
+1:05 快讯
+6:23 重点一：AI 审计服务器与 Tailscale 漏洞
+8:14 重点二：Agents SDK 的额度 bug
+9:39 重点三：Hugging Face 的 DNA 模型
+11:10 重点四：Grok Bot 连上 X Money
+12:38 重点五：Block 的全双工语音模型
+13:57 重点六：Theo 的一个月清单
+15:24 重点七：用 AI 做历史视频
+17:06 评论一：主循环加技能包
+19:08 评论二：规格驱动开发的实证
+20:51 评论三：手写代码的投票
+22:28 评论四：Gemini 的幻觉争议
+23:57 评论五：Swisscom 的企业知识图谱
+25:34 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-26.html</description>
+      <itunes:summary>昨天 AI 圈的新鲜事：AI 帮站长做安全审计、Tailscale SSH 被曝 11 项问题，Agents SDK 额度 bug，Grok Bot 连上 X Money 引发不满；评论聊主循环加 Skills、规格驱动开发、手写代码投票等五个话题</itunes:summary>
+      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-26.mp3" length="12454316" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:25:57</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>10 月 25 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-10-25.html</link>
       <description>昨天 AI 圈的新鲜事：Thariq 离开 Anthropic，Kimi K3.1 Pro 与 DeepSeek 开源推理引擎，压缩库漏洞扩散；评论聊朴素检索为何打败复杂记忆等五个话题
@@ -56,7 +88,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Sun, 25 Oct 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Sun, 25 Oct 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Mon, 26 Oct 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>

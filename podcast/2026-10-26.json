@@ -1,0 +1,87 @@
+{
+ "title": "10 月 26 日 AI 播报",
+ "summary": "昨天 AI 圈的新鲜事：AI 帮站长做安全审计、Tailscale SSH 被曝 11 项问题，Agents SDK 额度 bug，Grok Bot 连上 X Money 引发不满；评论聊主循环加 Skills、规格驱动开发、手写代码投票等五个话题",
+ "voice": "男声",
+ "voice_id": "longanlufeng",
+ "duration": 1556.8,
+ "size": 12454316,
+ "src": "https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-26.mp3",
+ "pubDate": "2026-10-26T07:53:00+08:00",
+ "chapters": [
+  {
+   "t": 0,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 65.1,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 383.1,
+   "title": "重点一：AI 审计服务器与 Tailscale 漏洞",
+   "group": "今日重点"
+  },
+  {
+   "t": 494.5,
+   "title": "重点二：Agents SDK 的额度 bug",
+   "group": "今日重点"
+  },
+  {
+   "t": 579.0,
+   "title": "重点三：Hugging Face 的 DNA 模型",
+   "group": "今日重点"
+  },
+  {
+   "t": 669.8,
+   "title": "重点四：Grok Bot 连上 X Money",
+   "group": "今日重点"
+  },
+  {
+   "t": 758.1,
+   "title": "重点五：Block 的全双工语音模型",
+   "group": "今日重点"
+  },
+  {
+   "t": 837.0,
+   "title": "重点六：Theo 的一个月清单",
+   "group": "今日重点"
+  },
+  {
+   "t": 923.8,
+   "title": "重点七：用 AI 做历史视频",
+   "group": "今日重点"
+  },
+  {
+   "t": 1026.2,
+   "title": "评论一：主循环加技能包",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1147.9,
+   "title": "评论二：规格驱动开发的实证",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1251.2,
+   "title": "评论三：手写代码的投票",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1347.6,
+   "title": "评论四：Gemini 的幻觉争议",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1437.1,
+   "title": "评论五：Swisscom 的企业知识图谱",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1534.0,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}
