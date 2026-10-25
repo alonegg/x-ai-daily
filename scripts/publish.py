@@ -14,6 +14,67 @@ ITEM = re.compile(r"^- \[([^\]]+)\]\(([^)]+)\)[：:]\s*(.*)$")
 
 TAG = re.compile(r"^\s*\[(长推|系列|长文)\]\s*")
 SECTION_IDS = {}
+POD = ROOT / "podcast"
+WEEK = "一二三四五六日"
+
+def fmt_t(sec):
+    sec = int(round(sec)); h, m, x = sec // 3600, sec // 60 % 60, sec % 60
+    return f"{h}:{m:02d}:{x:02d}" if h else f"{m}:{x:02d}"
+
+def pod_info(date):
+    """podcast/DATE.mp3 (+ optional DATE.json meta, DATE.md transcript) -> dict or None"""
+    mp3 = POD / f"{date}.mp3"
+    if not mp3.exists(): return None
+    meta = {}
+    if (POD / f"{date}.json").exists(): meta = json.loads((POD / f"{date}.json").read_text(encoding="utf-8"))
+    if not meta.get("duration"):
+        try: meta["duration"] = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(mp3)], text=True).strip())
+        except Exception: meta["duration"] = 0
+    meta["size"] = mp3.stat().st_size
+    tx = POD / f"{date}.md"
+    meta["transcript"] = tx.read_text(encoding="utf-8") if tx.exists() else ""
+    return meta
+
+def transcript_html(md):
+    out, started = [], False
+    for line in md.splitlines():
+        line = line.strip()
+        if line.startswith("## "):
+            started = True
+            out.append(f"<h4>{html.escape(re.sub(r'[（(][^）)]*字[）)]', '', line[3:]).strip())}</h4>"); continue
+        if started and line and not line.startswith("#"): out.append(f"<p>{html.escape(line)}</p>")
+    return "".join(out)
+
+def player(date, root):
+    pi = pod_info(date)
+    if not pi: return ""
+    src = f"{root}podcast/{date}.mp3"; dur = pi.get("duration") or 0
+    mb = pi["size"] / 1e6
+    groups, cur = [], None
+    for c in pi.get("chapters", []):
+        g = c.get("group", "")
+        if not groups or groups[-1][0] != g: groups.append((g, []))
+        groups[-1][1].append(c)
+    ch = ""
+    if groups:
+        ch = f'<details class="pod-chd" open><summary>章节 <em>{len(pi.get("chapters", []))}</em></summary><div class="pod-ch">' + "".join(
+            f'<div class="pod-chg"><div class="pod-chg-t">{html.escape(g)}</div>' + "".join(
+                f'<button type="button" data-t="{c["t"]}"><em>{fmt_t(c["t"])}</em><span>{html.escape(c["title"])}</span></button>' for c in cs) + "</div>"
+            for g, cs in groups) + "</div></details>"
+    tx = f'<details class="pod-tx"><summary>文字稿</summary><div class="pod-tx-in">{transcript_html(pi["transcript"])}</div></details>' if pi["transcript"] else ""
+    title = pi.get("title") or f"{int(date[5:7])} 月 {int(date[8:])} 日 AI 播报"
+    desc = pi.get("desc") or "先过今日快讯，再讲重点，最后聊值得评论的话题"
+    rates = "".join(f'<button type="button" data-r="{r}"{" class=on" if r == "1" else ""}>{r}×</button>' for r in ("1", "1.25", "1.5", "2"))
+    return f"""<section class="pod" id="podcast" data-date="{date}" data-dur="{dur:.1f}" data-title="{html.escape(title)}">
+<div class="pod-ghost" aria-hidden="true">{date[5:7]}·{date[8:]}</div>
+<div class="pod-top"><span class="pod-badge">🎧 今日播报</span><span class="pod-meta">{fmt_t(dur)} · {mb:.0f} MB{" · " + html.escape(pi["voice"]) if pi.get("voice") else ""}</span></div>
+<div class="pod-title">{html.escape(title)}</div><p class="pod-desc">{html.escape(desc)}</p>
+<audio class="pod-audio" controls preload="none" src="{html.escape(src)}"></audio>
+<div class="pod-ui" hidden><div class="pod-ctrl"><button type="button" class="pod-skip" data-s="-15" aria-label="后退 15 秒">↺15</button><button type="button" class="pod-play" aria-label="播放"><span class="i-play">▶</span><span class="i-pause">❚❚</span></button><button type="button" class="pod-skip" data-s="30" aria-label="前进 30 秒">30↻</button>
+<div class="pod-bar"><input type="range" class="pod-seek" min="0" max="{dur:.0f}" step="1" value="0" aria-label="进度"><div class="pod-time"><span class="pod-cur">0:00</span><span class="pod-now"></span><span>{fmt_t(dur)}</span></div></div></div>
+<div class="pod-rates"><span>倍速</span>{rates}<a class="pod-dl" href="{html.escape(src)}" download>下载 mp3</a></div></div>
+{ch}{tx}</section>
+<div class="pod-mini" hidden><button type="button" class="pod-play" aria-label="播放/暂停"><span class="i-play">▶</span><span class="i-pause">❚❚</span></button><a href="#podcast" class="pod-mini-t"><b>今日播报</b><span class="pod-now"></span></a><span class="pod-cur">0:00</span><button type="button" class="pod-rate1">1×</button></div>"""
 
 def inline(t):
     out, last = [], 0
@@ -137,7 +198,7 @@ def render_body(md):
                 if mu:
                     txt = txt[:mu.start()].rstrip()
                     upd = f'<div class="upd"><b>{mu.group(1)} 更新</b>{inline(mu.group(2))}</div>'
-                overview = f'<div class="overview"><div class="ov-title">今日要点</div>{paras(txt, 150)}{upd}</div>'
+                overview = f'<div class="overview"><div class="ov-title">今日要点 · 一分钟速览</div>{paras(txt, 150)}{upd}</div>'
             else:
                 cls = "callout opinion" if raw.startswith("▍") else "callout"
                 cur_sec().append(f'<li class="{cls}">{inline(raw)}</li>')
@@ -204,7 +265,7 @@ def sec_class(n):
     if "动向" in n or "人物" in n: return " sec-people"
     return ""
 
-def compose(date, title, overview, sections, heads, loose, prefix, datenav):
+def compose(date, title, overview, sections, heads, loose, prefix, datenav, root="../"):
     count = lambda it: sum(1 for x in it if x.startswith('<li class="item"'))
     total = sum(count(s[2]) for s in sections if not s[0].startswith("值得评论"))
     nlong = sum(1 for h in heads if h[3])
@@ -219,7 +280,9 @@ def compose(date, title, overview, sections, heads, loose, prefix, datenav):
     secs = "".join(f'<section class="sec{sec_class(n)}" id="{sid}" data-sec="{sid}"><h2><span>{html.escape(n)}</span><span class="cnt">{count(it)} 条</span></h2><ul class="items">{"".join(it)}</ul></section>'
                    for n, sid, it in sections)
     stats = f'<div class="stats"><span><b>{total}</b> 条</span><span><b>{len(sections)}</b> 个栏目</span><span><b>{nlong}</b> 条长推/系列已读全文</span></div>'
-    return f"""<div class="hero">{datenav}{stats}</div>{overview}
+    wd = WEEK[__import__("datetime").date.fromisoformat(date).weekday()] if date else ""
+    eyebrow = f'<div class="eyebrow"><i></i>{int(date[:4])} 年 {int(date[5:7])} 月 {int(date[8:])} 日 · 星期{wd} · 小X 整理</div>' if date else ""
+    return f"""{eyebrow}<!--H1--><div class="hero">{datenav}{stats}</div>{player(date, root)}{overview}
 <details class="quick"><summary>今日标题速览 <em>{len(heads)}</em></summary><div class="qwrap">{"".join(quick)}</div></details>
 <div class="layout"><aside class="toc" id="toc"><div class="toc-t">目录</div><ol>{toc}</ol><a class="totop" href="#top">↑ 回到顶部</a></aside>
 <div class="content"><div class="toolbar"><input id="q" type="search" placeholder="搜索标题、内容或作者…" aria-label="搜索"><div class="chips"><button type="button" data-sec="" class="on">全部</button>{chips}</div><div id="qn" class="qn"></div></div>
@@ -240,13 +303,59 @@ function sc(){fab.classList.toggle('show',window.scrollY>600);}window.addEventLi
 document.querySelectorAll('a[href^="#"]').forEach(function(a){a.addEventListener('click',function(){var t=document.getElementById(a.getAttribute('href').slice(1));if(t&&t.hidden){cur='';q.value='';chips.forEach(function(x){x.classList.toggle('on',!x.dataset.sec)});run();}});});
 })();</script>"""
 
+POD_JS = """<script>
+(function(){var P=document.getElementById('podcast');if(!P)return;var A=P.querySelector('audio'),ui=P.querySelector('.pod-ui'),mini=document.querySelector('.pod-mini');
+A.removeAttribute('controls');var cd=P.querySelector('.pod-chd');if(cd&&matchMedia('(max-width:600px)').matches)cd.open=false;A.hidden=true;ui.hidden=false;var D=parseFloat(P.dataset.dur)||0,key='xd-pod-'+P.dataset.date,seek=P.querySelector('.pod-seek');
+function f(s){s=Math.max(0,Math.floor(s||0));var h=Math.floor(s/3600),m=Math.floor(s/60)%60,x=s%60;return (h?h+':'+(m<10?'0':''):'')+m+':'+(x<10?'0':'')+x;}
+var chs=[].slice.call(P.querySelectorAll('.pod-ch button'));
+function chAt(t){var c=null;chs.forEach(function(b){if(parseFloat(b.dataset.t)<=t+0.5)c=b;});return c;}
+var saved=0;try{saved=parseFloat(localStorage.getItem(key))||0;}catch(e){}
+if(saved>15&&saved<D-20){P.querySelector('.pod-cur').textContent=f(saved);seek.value=saved;P.classList.add('resume');P.querySelector('.pod-now').textContent='上次听到 '+f(saved);}
+var pending=saved>15&&saved<D-20?saved:0;
+function go(t){if(A.readyState<1){pending=t;A.preload='auto';A.load();A.play();}else{A.currentTime=t;if(A.paused)A.play();}}
+A.addEventListener('loadedmetadata',function(){if(A.duration&&isFinite(A.duration)){D=A.duration;seek.max=Math.floor(D);}if(pending){A.currentTime=pending;pending=0;}});
+document.querySelectorAll('.pod-play').forEach(function(b){b.addEventListener('click',function(){if(A.paused){if(pending&&A.readyState<1)A.load();A.play();}else A.pause();});});
+P.querySelectorAll('.pod-skip').forEach(function(b){b.addEventListener('click',function(){var t=Math.min(D,Math.max(0,(A.readyState?A.currentTime:pending||0)+parseFloat(b.dataset.s)));go(t);});});
+chs.forEach(function(b){b.addEventListener('click',function(){go(parseFloat(b.dataset.t));});});
+seek.addEventListener('input',function(){P.querySelector('.pod-cur').textContent=f(seek.value);});seek.addEventListener('change',function(){go(parseFloat(seek.value));});
+var rb=[].slice.call(P.querySelectorAll('.pod-rates button')),r1=mini.querySelector('.pod-rate1'),RS=['1','1.25','1.5','2'];
+function rate(r){A.playbackRate=parseFloat(r);A.defaultPlaybackRate=parseFloat(r);rb.forEach(function(b){b.classList.toggle('on',b.dataset.r===r)});r1.textContent=r+'×';try{localStorage.setItem('xd-pod-rate',r)}catch(e){}}
+rb.forEach(function(b){b.addEventListener('click',function(){rate(b.dataset.r)})});r1.addEventListener('click',function(){rate(RS[(RS.indexOf(String(A.playbackRate))+1)%RS.length])});
+try{var sr=localStorage.getItem('xd-pod-rate');if(sr&&RS.indexOf(sr)>=0)rate(sr);}catch(e){}
+A.addEventListener('ratechange',function(){});
+function st(){var p=!A.paused;document.body.classList.toggle('pod-playing',p);document.querySelectorAll('.pod-play').forEach(function(b){b.classList.toggle('on',p);b.setAttribute('aria-label',p?'暂停':'播放')});vis();}
+A.addEventListener('play',function(){st();A.playbackRate=parseFloat(r1.textContent)||1;});A.addEventListener('pause',st);A.addEventListener('ended',function(){st();try{localStorage.removeItem(key)}catch(e){}});
+var last=0;A.addEventListener('timeupdate',function(){var t=A.currentTime;if(document.activeElement!==seek)seek.value=Math.floor(t);document.querySelectorAll('.pod-cur').forEach(function(e){e.textContent=f(t)});
+var c=chAt(t);chs.forEach(function(b){b.classList.toggle('act',b===c)});var nm=c?c.querySelector('span').textContent:'';document.querySelectorAll('.pod-now').forEach(function(e){e.textContent=nm});
+if(Math.abs(t-last)>5){last=t;try{localStorage.setItem(key,t)}catch(e){}}});
+var inview=true;function vis(){var on=!inview&&(!A.paused||A.currentTime>0);mini.hidden=!on;document.body.classList.toggle('pod-mini-on',on);}
+if('IntersectionObserver' in window){new IntersectionObserver(function(es){inview=es[0].isIntersecting;vis();},{threshold:0}).observe(P);}
+if('mediaSession' in navigator){navigator.mediaSession.metadata=new MediaMetadata({title:P.dataset.title,artist:'X 每日 AI 摘要',album:'小X 播报'});
+try{navigator.mediaSession.setActionHandler('seekbackward',function(){A.currentTime=Math.max(0,A.currentTime-15)});navigator.mediaSession.setActionHandler('seekforward',function(){A.currentTime=Math.min(D,A.currentTime+30)});}catch(e){}}
+})();</script>"""
+
+THEME_HEAD = """<script>(function(){try{var t=localStorage.getItem('xd-theme');if(t)document.documentElement.classList.add(t);}catch(e){}})();</script>"""
+THEME_BTN = """<button type="button" class="theme" id="themebtn" aria-label="切换深浅色"><span class="sun">☀</span><span class="moon">☾</span></button>"""
+THEME_JS = """<script>(function(){var b=document.getElementById('themebtn'),r=document.documentElement;if(!b)return;b.addEventListener('click',function(){var d=r.classList.contains('dark')||(!r.classList.contains('light')&&matchMedia('(prefers-color-scheme:dark)').matches);r.classList.remove('dark','light');var t=d?'light':'dark';r.classList.add(t);try{localStorage.setItem('xd-theme',t)}catch(e){}});})();</script>"""
+
+def h1_html(title):
+    m = re.match(r"^(.*?)\s*[·•]\s*(\d{4}-\d{2}-\d{2})$", title)
+    if m: return f'<h1>{html.escape(m.group(1))}<span class="h1-dot"> · </span><em>{m.group(2)}</em></h1>'
+    return f"<h1>{html.escape(title)}</h1>"
+
 def page(title, body, css, nav, script=False):
+    links = re.findall(r'<a href="[^"]*"[^>]*>[^<]*</a>', nav)
+    brand, rest = (links[0], links[1:]) if links else ("", [])
+    brand = brand.replace("<a ", '<a class="brand" ', 1).replace(">", "><i></i>", 1)
+    if 'id="podcast"' in body: rest.insert(0, '<a href="#podcast" class="navpod">🎧 播客</a>')
+    h1 = h1_html(title)
+    body = body.replace("<!--H1-->", h1, 1) if "<!--H1-->" in body else h1 + body
     return f"""<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark"><title>{html.escape(title)}</title>
-<link rel="stylesheet" href="{css}"></head><body id="top"><header class="top"><div class="bar"><nav>{nav}</nav></div></header><main>
-<h1>{html.escape(title)}</h1>
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#f5f2eb" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#131211" media="(prefers-color-scheme: dark)"><title>{html.escape(title)}</title>
+{THEME_HEAD}<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='5' width='17' height='17' rx='5' fill='%232a5db0'/%3E%3Crect x='3' y='3' width='17' height='17' rx='5' fill='%23c2410c'/%3E%3C/svg%3E"><link rel="stylesheet" href="{css}"></head><body id="top"><header class="top"><div class="bar">{brand}<nav>{"".join(rest)}</nav>{THEME_BTN}</div></header><main>
 {body}
-<footer>X 每日 AI 摘要 · 由小X整理 · 每天北京时间早上更新 · 每条均附原文链接，标注「长推/系列」的已阅读完整版本</footer></main>{SCRIPT if script else ""}</body></html>
+<footer>X 每日 AI 摘要 · 由小X整理 · 每天北京时间早上更新 · 每条均附原文链接，标注「长推/系列」的已阅读完整版本</footer></main>{SCRIPT if script else ""}{POD_JS if 'id="podcast"' in body else ""}{THEME_JS}</body></html>
 """
 
 def index_stories(files):
@@ -290,16 +399,16 @@ def build():
     for i, f in enumerate(files):
         CUR.update(date=f.stem, n=0)
         t, ov, secs, heads, loose = render_body(f.read_text(encoding="utf-8"))
-        nav = f'<a href="../index.html">X 每日 AI 摘要</a><a href="../index.html#archive">往期</a><a href="../stories.html">事件时间线</a><a href="{f.stem}.md">Markdown</a>'
+        nav = f'<a href="../index.html">X 每日 AI 摘要</a><a href="../index.html#archive">往期</a><a href="../stories.html">事件时间线</a><a href="{f.stem}.md" class="navmd">Markdown</a>'
         body = compose(f.stem, t, ov, secs, heads, loose, "", datenav(files, i, ""))
         (D / f"{f.stem}.html").write_text(page(t or f.stem, body, "../assets/style.css", nav, True), encoding="utf-8")
     if not files: return
     CUR.update(date=files[0].stem, n=0)
     t, ov, secs, heads, loose = render_body(files[0].read_text(encoding="utf-8"))
-    b = compose(files[0].stem, t, ov, secs, heads, loose, "digests/", datenav(files, 0, "digests/"))
+    b = compose(files[0].stem, t, ov, secs, heads, loose, "digests/", datenav(files, 0, "digests/"), root="")
     b = b.replace('href="../', 'href="')
     b = re.sub(r'href="(\d{4}-\d{2}-\d{2}\.html)', r'href="digests/\1', b)
-    arch = "".join(f'<li><a href="digests/{f.stem}.html"><span class="d">{f.stem}</span><span class="n">{nitems(f)} 条</span>{" <span class=tag>最新</span>" if i==0 else ""}</a></li>' for i, f in enumerate(files))
+    arch = "".join(f'<li><a href="digests/{f.stem}.html"><span class="d">{f.stem}</span><span class="n">{nitems(f)} 条</span>{'<span class="podpill">▶ 播客</span>' if (POD / f"{f.stem}.mp3").exists() else ""}{" <span class=tag>最新</span>" if i==0 else ""}</a></li>' for i, f in enumerate(files))
     body = f'{b}\n<h2 id="archive" class="arch-h">往期</h2><ul class="archive">{arch}</ul>'
     (ROOT / "index.html").write_text(page(t or "X 每日 AI 摘要", body, "assets/style.css", '<a href="index.html">X 每日 AI 摘要</a><a href="#archive">往期</a><a href="stories.html">事件时间线</a>', True), encoding="utf-8")
 
