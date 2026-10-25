@@ -2,8 +2,10 @@
 """Render digests/*.md to HTML, rebuild index.html, commit & push.
 Usage: python3 scripts/publish.py digests/2026-10-14.md [--no-push]
   (the md file may live elsewhere; it is copied into digests/YYYY-MM-DD.md)"""
-import html, json, re, shutil, subprocess, sys
+import html, json, re, shutil, subprocess, sys, datetime
+from email.utils import format_datetime
 from pathlib import Path
+import xml.etree.ElementTree as ET
 ROOT = Path(__file__).resolve().parent.parent
 D = ROOT / "digests"
 LINK = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
@@ -16,21 +18,31 @@ TAG = re.compile(r"^\s*\[(长推|系列|长文)\]\s*")
 SECTION_IDS = {}
 POD = ROOT / "podcast"
 WEEK = "一二三四五六日"
+SITE = "https://" + ((ROOT / "CNAME").read_text().strip() if (ROOT / "CNAME").exists() else "daily.chunlin.ch") + "/"
+FEED = "podcast.xml"
+SHOW = {"title": "X 每日 AI 播报", "author": "CHUNLIN", "lang": "zh-cn", "cover": "assets/podcast-cover.jpg",
+        "desc": "每天早上一期、约 25 分钟的 AI 新闻播报：先过快讯，再讲重点，最后是值得评论、一起讨论的话题。内容来自 X 每日 AI 摘要，每条原帖链接见当天网页。"}
 
 def fmt_t(sec):
     sec = int(round(sec)); h, m, x = sec // 3600, sec // 60 % 60, sec % 60
     return f"{h}:{m:02d}:{x:02d}" if h else f"{m}:{x:02d}"
 
 def pod_info(date):
-    """podcast/DATE.mp3 (+ optional DATE.json meta, DATE.md transcript) -> dict or None"""
-    mp3 = POD / f"{date}.mp3"
-    if not mp3.exists(): return None
-    meta = {}
-    if (POD / f"{date}.json").exists(): meta = json.loads((POD / f"{date}.json").read_text(encoding="utf-8"))
-    if not meta.get("duration"):
-        try: meta["duration"] = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(mp3)], text=True).strip())
-        except Exception: meta["duration"] = 0
-    meta["size"] = mp3.stat().st_size
+    """podcast/DATE.json meta (+ DATE.md transcript). Audio: meta["src"] (external URL, e.g. R2) if set,
+    else a local podcast/DATE.mp3. Returns dict with abs "url", "size" (bytes), "duration" (s) — or None."""
+    jf, mp3 = POD / f"{date}.json", POD / f"{date}.mp3"
+    meta = json.loads(jf.read_text(encoding="utf-8")) if jf.exists() else {}
+    if meta.get("src"):
+        meta["url"] = meta["src"]; meta["local"] = False
+    elif mp3.exists():
+        meta["url"] = f"{SITE}podcast/{date}.mp3"; meta["local"] = True
+        meta["size"] = mp3.stat().st_size
+        if not meta.get("duration"):
+            try: meta["duration"] = float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(mp3)], text=True).strip())
+            except Exception: meta["duration"] = 0
+    else: return None
+    meta.setdefault("size", 0); meta.setdefault("duration", 0)
+    meta.setdefault("summary", meta.get("desc", ""))
     tx = POD / f"{date}.md"
     meta["transcript"] = tx.read_text(encoding="utf-8") if tx.exists() else ""
     return meta
@@ -48,7 +60,7 @@ def transcript_html(md):
 def player(date, root):
     pi = pod_info(date)
     if not pi: return ""
-    src = f"{root}podcast/{date}.mp3"; dur = pi.get("duration") or 0
+    src = pi["url"] if not pi["local"] else f"{root}podcast/{date}.mp3"; dur = pi.get("duration") or 0
     mb = pi["size"] / 1e6
     groups, cur = [], None
     for c in pi.get("chapters", []):
@@ -63,17 +75,17 @@ def player(date, root):
             for g, cs in groups) + "</div></details>"
     tx = f'<details class="pod-tx"><summary>文字稿</summary><div class="pod-tx-in">{transcript_html(pi["transcript"])}</div></details>' if pi["transcript"] else ""
     title = pi.get("title") or f"{int(date[5:7])} 月 {int(date[8:])} 日 AI 播报"
-    desc = pi.get("desc") or "先过今日快讯，再讲重点，最后聊值得评论的话题"
+    desc = pi.get("summary") or "先过今日快讯，再讲重点，最后聊值得评论的话题"
     rates = "".join(f'<button type="button" data-r="{r}"{" class=on" if r == "1" else ""}>{r}×</button>' for r in ("1", "1.25", "1.5", "2"))
     return f"""<section class="pod" id="podcast" data-date="{date}" data-dur="{dur:.1f}" data-title="{html.escape(title)}">
 <div class="pod-ghost" aria-hidden="true">{date[5:7]}·{date[8:]}</div>
-<div class="pod-top"><span class="pod-badge">🎧 今日播报</span><span class="pod-meta">{fmt_t(dur)} · {mb:.0f} MB{" · " + html.escape(pi["voice"]) if pi.get("voice") else ""}</span></div>
+<div class="pod-top"><span class="pod-badge">🎧 今日播报</span><span class="pod-meta">{fmt_t(dur)}{f" · {mb:.0f} MB" if mb else ""}{" · " + html.escape(pi["voice"]) if pi.get("voice") else ""}</span></div>
 <div class="pod-title">{html.escape(title)}</div><p class="pod-desc">{html.escape(desc)}</p>
 <audio class="pod-audio" controls preload="none" src="{html.escape(src)}"></audio>
 <div class="pod-ui" hidden><div class="pod-ctrl"><button type="button" class="pod-skip" data-s="-15" aria-label="后退 15 秒">↺15</button><button type="button" class="pod-play" aria-label="播放"><span class="i-play">▶</span><span class="i-pause">❚❚</span></button><button type="button" class="pod-skip" data-s="30" aria-label="前进 30 秒">30↻</button>
 <div class="pod-bar"><input type="range" class="pod-seek" min="0" max="{dur:.0f}" step="1" value="0" aria-label="进度"><div class="pod-time"><span class="pod-cur">0:00</span><span class="pod-now"></span><span>{fmt_t(dur)}</span></div></div></div>
-<div class="pod-rates"><span>倍速</span>{rates}<a class="pod-dl" href="{html.escape(src)}" download>下载 mp3</a></div></div>
-{ch}{tx}</section>
+<div class="pod-rates"><span>倍速</span>{rates}<a class="pod-dl" href="{html.escape(src)}" download="xai-daily-{date}.mp3">下载 mp3</a></div></div>
+{ch}{tx}<div class="pod-sub"><a class="pod-sub-a" href="{root}{FEED}">📡 订阅播客</a><code>{SITE}{FEED}</code><button type="button" class="pod-copy" data-u="{SITE}{FEED}">复制</button><span>把这个 RSS 地址粘贴到任意支持 RSS 的播客 App（如 Apple 播客、Pocket Casts、Overcast），每天自动收到新一期。</span></div></section>
 <div class="pod-mini" hidden><button type="button" class="pod-play" aria-label="播放/暂停"><span class="i-play">▶</span><span class="i-pause">❚❚</span></button><a href="#podcast" class="pod-mini-t"><b>今日播报</b><span class="pod-now"></span></a><span class="pod-cur">0:00</span><button type="button" class="pod-rate1">1×</button></div>"""
 
 def inline(t):
@@ -330,6 +342,7 @@ var c=chAt(t);chs.forEach(function(b){b.classList.toggle('act',b===c)});var nm=c
 if(Math.abs(t-last)>5){last=t;try{localStorage.setItem(key,t)}catch(e){}}});
 var inview=true;function vis(){var on=!inview&&(!A.paused||A.currentTime>0);mini.hidden=!on;document.body.classList.toggle('pod-mini-on',on);}
 if('IntersectionObserver' in window){new IntersectionObserver(function(es){inview=es[0].isIntersecting;vis();},{threshold:0}).observe(P);}
+var cp=P.querySelector('.pod-copy');if(cp)cp.addEventListener('click',function(){var u=cp.dataset.u;function ok(){cp.textContent='已复制';setTimeout(function(){cp.textContent='复制'},1600);}if(navigator.clipboard)navigator.clipboard.writeText(u).then(ok,function(){prompt('RSS 地址',u)});else prompt('RSS 地址',u);});
 if('mediaSession' in navigator){navigator.mediaSession.metadata=new MediaMetadata({title:P.dataset.title,artist:'X 每日 AI 摘要',album:'小X 播报'});
 try{navigator.mediaSession.setActionHandler('seekbackward',function(){A.currentTime=Math.max(0,A.currentTime-15)});navigator.mediaSession.setActionHandler('seekforward',function(){A.currentTime=Math.min(D,A.currentTime+30)});}catch(e){}}
 })();</script>"""
@@ -353,7 +366,7 @@ def page(title, body, css, nav, script=False):
     return f"""<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#f5f2eb" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#131211" media="(prefers-color-scheme: dark)"><title>{html.escape(title)}</title>
-{THEME_HEAD}<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='5' width='17' height='17' rx='5' fill='%232a5db0'/%3E%3Crect x='3' y='3' width='17' height='17' rx='5' fill='%23c2410c'/%3E%3C/svg%3E"><link rel="stylesheet" href="{css}"></head><body id="top"><header class="top"><div class="bar">{brand}<nav>{"".join(rest)}</nav>{THEME_BTN}</div></header><main>
+{THEME_HEAD}<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='5' width='17' height='17' rx='5' fill='%232a5db0'/%3E%3Crect x='3' y='3' width='17' height='17' rx='5' fill='%23c2410c'/%3E%3C/svg%3E"><link rel="stylesheet" href="{css}"><link rel="alternate" type="application/rss+xml" title="{SHOW["title"]}" href="{SITE}{FEED}"></head><body id="top"><header class="top"><div class="bar">{brand}<nav>{"".join(rest)}</nav>{THEME_BTN}</div></header><main>
 {body}
 <footer>X 每日 AI 摘要 · 由小X整理 · 每天北京时间早上更新 · 每条均附原文链接，标注「长推/系列」的已阅读完整版本</footer></main>{SCRIPT if script else ""}{POD_JS if 'id="podcast"' in body else ""}{THEME_JS}</body></html>
 """
@@ -408,9 +421,50 @@ def build():
     b = compose(files[0].stem, t, ov, secs, heads, loose, "digests/", datenav(files, 0, "digests/"), root="")
     b = b.replace('href="../', 'href="')
     b = re.sub(r'href="(\d{4}-\d{2}-\d{2}\.html)', r'href="digests/\1', b)
-    arch = "".join(f'<li><a href="digests/{f.stem}.html"><span class="d">{f.stem}</span><span class="n">{nitems(f)} 条</span>{'<span class="podpill">▶ 播客</span>' if (POD / f"{f.stem}.mp3").exists() else ""}{" <span class=tag>最新</span>" if i==0 else ""}</a></li>' for i, f in enumerate(files))
+    arch = "".join(f'<li><a href="digests/{f.stem}.html"><span class="d">{f.stem}</span><span class="n">{nitems(f)} 条</span>{'<span class="podpill">▶ 播客</span>' if pod_info(f.stem) else ""}{" <span class=tag>最新</span>" if i==0 else ""}</a></li>' for i, f in enumerate(files))
     body = f'{b}\n<h2 id="archive" class="arch-h">往期</h2><ul class="archive">{arch}</ul>'
     (ROOT / "index.html").write_text(page(t or "X 每日 AI 摘要", body, "assets/style.css", '<a href="index.html">X 每日 AI 摘要</a><a href="#archive">往期</a><a href="stories.html">事件时间线</a>', True), encoding="utf-8")
+    write_rss()
+
+def write_rss():
+    """podcast.xml: RSS 2.0 + iTunes tags, one <item> per podcast/DATE.json (newest first). Validated by re-parsing."""
+    IT = "http://www.itunes.com/dtds/podcast-1.0.dtd"; AT = "http://www.w3.org/2005/Atom"
+    ET.register_namespace("itunes", IT); ET.register_namespace("atom", AT)
+    def sub(parent, tag, text=None, **attrs):
+        e = ET.SubElement(parent, tag, attrs)
+        if text is not None: e.text = text
+        return e
+    i = lambda t: f"{{{IT}}}{t}"
+    rss = ET.Element("rss", {"version": "2.0"}); ch = ET.SubElement(rss, "channel")
+    sub(ch, "title", SHOW["title"]); sub(ch, "link", SITE); sub(ch, "language", SHOW["lang"]); sub(ch, "description", SHOW["desc"])
+    sub(ch, f"{{{AT}}}link", href=SITE + FEED, rel="self", type="application/rss+xml")
+    sub(ch, "copyright", f"© {datetime.date.today().year} {SHOW['author']}")
+    img = sub(ch, "image"); sub(img, "url", SITE + SHOW["cover"]); sub(img, "title", SHOW["title"]); sub(img, "link", SITE)
+    sub(ch, i("author"), SHOW["author"]); sub(ch, i("summary"), SHOW["desc"]); sub(ch, i("image"), href=SITE + SHOW["cover"])
+    ET.SubElement(ch, i("category"), {"text": "Technology"}); n = ET.SubElement(ch, i("category"), {"text": "News"}); ET.SubElement(n, i("category"), {"text": "Tech News"})
+    sub(ch, i("explicit"), "false"); sub(ch, i("type"), "episodic")
+    ow = sub(ch, i("owner")); sub(ow, i("name"), SHOW["author"])
+    dates = sorted({p.stem for p in POD.glob("????-??-??.json")} | {p.stem for p in POD.glob("????-??-??.mp3")}, reverse=True)
+    last = None
+    for d in dates:
+        pi = pod_info(d)
+        if not pi: continue
+        pub = datetime.datetime.fromisoformat(pi.get("pubDate") or f"{d}T07:53:00+08:00")
+        last = last or pub
+        it = sub(ch, "item"); title = pi.get("title") or f"{int(d[5:7])} 月 {int(d[8:])} 日 AI 播报"
+        chs = "".join(f"\n{fmt_t(c['t'])} {c['title']}" for c in pi.get("chapters", []))
+        desc = (pi.get("summary") or "") + (("\n\n章节：" + chs) if chs else "") + f"\n\n当天摘要与原帖链接：{SITE}digests/{d}.html"
+        sub(it, "title", title); sub(it, "link", f"{SITE}digests/{d}.html"); sub(it, "description", desc)
+        sub(it, i("summary"), pi.get("summary") or title)
+        sub(it, "enclosure", url=pi["url"], length=str(int(pi.get("size") or 0)), type="audio/mpeg")
+        sub(it, "guid", f"{SITE}podcast/{d}", isPermaLink="false"); sub(it, "pubDate", format_datetime(pub))
+        dur = int(round(pi.get("duration") or 0)); sub(it, i("duration"), f"{dur//3600:02d}:{dur//60%60:02d}:{dur%60:02d}")
+        sub(it, i("episodeType"), "full"); sub(it, i("explicit"), "false"); sub(it, i("image"), href=SITE + SHOW["cover"])
+    if last: sub(ch, "lastBuildDate", format_datetime(last)); sub(ch, "pubDate", format_datetime(last))
+    ET.indent(rss)
+    data = ET.tostring(rss, encoding="utf-8", xml_declaration=True)
+    ET.fromstring(data)  # well-formedness check
+    (ROOT / FEED).write_bytes(data)
 
 def main():
     a = [x for x in sys.argv[1:] if not x.startswith("--")]

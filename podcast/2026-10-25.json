@@ -1,16 +1,87 @@
 {
-  "title": "10 月 25 日 AI 播报",
-  "desc": "先过今日快讯，再讲重点，最后聊值得评论的话题 · 约 26 分钟",
-  "voice": "男声",
-  "duration": 1536.2,
-  "chapters": [
-    {"t": 0, "title": "开场 · 38 条快讯过一遍", "group": "今日快讯"},
-    {"t": 344, "title": "Kimi K3.1 Pro 详细成绩", "group": "今日重点"},
-    {"t": 475.6, "title": "LisanBench 更新 · Shopify 远程开发机", "group": "今日重点"},
-    {"t": 605.6, "title": "Qodo 谈 agentic SDLC · Felix Rieseberg 访谈", "group": "今日重点"},
-    {"t": 735.1, "title": "安全：训练环境加固与 HTTP2Shell", "group": "今日重点"},
-    {"t": 952.2, "title": "朴素 RAG vs agent 记忆 · Netflix 本体知识图谱", "group": "值得评论 · 一起讨论"},
-    {"t": 1194.6, "title": "开放科学与「科学国家化」 · .science 包", "group": "值得评论 · 一起讨论"},
-    {"t": 1408.1, "title": "Thariq 离开 Anthropic · 收尾", "group": "值得评论 · 一起讨论"}
-  ]
+ "title": "10 月 25 日 AI 播报",
+ "summary": "昨天 AI 圈的新鲜事：Thariq 离开 Anthropic，Kimi K3.1 Pro 与 DeepSeek 开源推理引擎，压缩库漏洞扩散；评论聊朴素检索为何打败复杂记忆等五个话题",
+ "voice": "男声",
+ "voice_id": "longanlufeng",
+ "duration": 1648.6,
+ "size": 13189023,
+ "src": "https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-25.mp3",
+ "pubDate": "2026-10-25T07:53:00+08:00",
+ "chapters": [
+  {
+   "t": 0,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 51.0,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 356.1,
+   "title": "重点一：Kimi K3.1 Pro",
+   "group": "今日重点"
+  },
+  {
+   "t": 456.7,
+   "title": "重点二：DeepSeek 开源推理引擎",
+   "group": "今日重点"
+  },
+  {
+   "t": 545.6,
+   "title": "重点三：AI 安全警告开始落地",
+   "group": "今日重点"
+  },
+  {
+   "t": 664.1,
+   "title": "重点四：Shopify 给 agent 配远程开发机",
+   "group": "今日重点"
+  },
+  {
+   "t": 764.7,
+   "title": "重点五：Qodo 创始人的“有边界的 L4”",
+   "group": "今日重点"
+  },
+  {
+   "t": 860.0,
+   "title": "重点六：Claude 工程负责人谈怎么用 AI",
+   "group": "今日重点"
+  },
+  {
+   "t": 955.6,
+   "title": "重点七：被遗忘的 Jupyter 标签页",
+   "group": "今日重点"
+  },
+  {
+   "t": 1028.5,
+   "title": "评论一：朴素检索打败复杂记忆",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1177.7,
+   "title": "评论二：Netflix 的本体知识图谱",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1311.6,
+   "title": "评论三：开放科学遇上“科学国家化”",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1441.8,
+   "title": "评论四：AIPOCH 的 .science 研究包",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1535.8,
+   "title": "评论五：Thariq 离开 Anthropic",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1622.1,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
 }

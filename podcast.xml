@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>X 每日 AI 播报</title>
+    <link>https://daily.chunlin.ch/</link>
+    <language>zh-cn</language>
+    <description>每天早上一期、约 25 分钟的 AI 新闻播报：先过快讯，再讲重点，最后是值得评论、一起讨论的话题。内容来自 X 每日 AI 摘要，每条原帖链接见当天网页。</description>
+    <atom:link href="https://daily.chunlin.ch/podcast.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 CHUNLIN</copyright>
+    <image>
+      <url>https://daily.chunlin.ch/assets/podcast-cover.jpg</url>
+      <title>X 每日 AI 播报</title>
+      <link>https://daily.chunlin.ch/</link>
+    </image>
+    <itunes:author>CHUNLIN</itunes:author>
+    <itunes:summary>每天早上一期、约 25 分钟的 AI 新闻播报：先过快讯，再讲重点，最后是值得评论、一起讨论的话题。内容来自 X 每日 AI 摘要，每条原帖链接见当天网页。</itunes:summary>
+    <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    <itunes:category text="Technology" />
+    <itunes:category text="News">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>CHUNLIN</itunes:name>
+    </itunes:owner>
+    <item>
+      <title>10 月 25 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-10-25.html</link>
+      <description>昨天 AI 圈的新鲜事：Thariq 离开 Anthropic，Kimi K3.1 Pro 与 DeepSeek 开源推理引擎，压缩库漏洞扩散；评论聊朴素检索为何打败复杂记忆等五个话题
+
+章节：
+0:00 开场与头条预告
+0:51 快讯
+5:56 重点一：Kimi K3.1 Pro
+7:37 重点二：DeepSeek 开源推理引擎
+9:06 重点三：AI 安全警告开始落地
+11:04 重点四：Shopify 给 agent 配远程开发机
+12:45 重点五：Qodo 创始人的“有边界的 L4”
+14:20 重点六：Claude 工程负责人谈怎么用 AI
+15:56 重点七：被遗忘的 Jupyter 标签页
+17:08 评论一：朴素检索打败复杂记忆
+19:38 评论二：Netflix 的本体知识图谱
+21:52 评论三：开放科学遇上“科学国家化”
+24:02 评论四：AIPOCH 的 .science 研究包
+25:36 评论五：Thariq 离开 Anthropic
+27:02 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-25.html</description>
+      <itunes:summary>昨天 AI 圈的新鲜事：Thariq 离开 Anthropic，Kimi K3.1 Pro 与 DeepSeek 开源推理引擎，压缩库漏洞扩散；评论聊朴素检索为何打败复杂记忆等五个话题</itunes:summary>
+      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-25.mp3" length="13189023" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:27:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <lastBuildDate>Sun, 25 Oct 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Sun, 25 Oct 2026 07:53:00 +0800</pubDate>
+  </channel>
+</rss>
