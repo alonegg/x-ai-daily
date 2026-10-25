@@ -70,7 +70,7 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Meta Muse 40 天美国下载破千万",
+    "title": "Meta Muse 后续：LisanBench 大更新，两款 Muse Wonder 排第一、第二",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -101,6 +101,11 @@
         "date": "2026-10-22",
         "anchor": "meta-muse-wonder",
         "headline": "Meta Muse 40 天美国下载破千万"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "meta-muse-wonder",
+        "headline": "Meta Muse 后续：LisanBench 大更新，两款 Muse Wonder 排第一、第二"
       }
     ]
   },
@@ -1445,7 +1450,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code：断网也能用，以及一条「禁止破折号」的 lint 规则",
+    "title": "T3 Code 后续：用真实数据爬山优化搜索 18 小时，远程模式让 Theo 跑 agent 的强度翻了 10 倍以上",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1481,6 +1486,11 @@
         "date": "2026-10-23",
         "anchor": "t3-code-beta",
         "headline": "T3 Code：断网也能用，以及一条「禁止破折号」的 lint 规则"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 后续：用真实数据爬山优化搜索 18 小时，远程模式让 Theo 跑 agent 的强度翻了 10 倍以上"
       }
     ]
   },
@@ -1785,7 +1795,7 @@
     ]
   },
   "qiaomu-publish": {
-    "title": "向阳乔木：X 助手插件、All-In 中文站、AI RSS 播客转写",
+    "title": "向阳乔木后续：越狱旧 Kindle 变 AI 阅读器，播客笔记插件 3000 用户，联合北京日报开源 GEO 流量统计",
     "appearances": [
       {
         "date": "2026-10-18",
@@ -1806,6 +1816,11 @@
         "date": "2026-10-22",
         "anchor": "qiaomu-publish",
         "headline": "向阳乔木：X 助手插件、All-In 中文站、AI RSS 播客转写"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "qiaomu-publish",
+        "headline": "向阳乔木后续：越狱旧 Kindle 变 AI 阅读器，播客笔记插件 3000 用户，联合北京日报开源 GEO 流量统计"
       }
     ]
   },
@@ -2260,7 +2275,7 @@
     ]
   },
   "dhh-china-impressions": {
-    "title": "DHH 中国行后续：小米工厂 91% 自动化",
+    "title": "DHH 中国行后续：与阿里云合作做 Omarchy 中国版，11 月 15 日杭州办见面会",
     "appearances": [
       {
         "date": "2026-10-19",
@@ -2276,6 +2291,11 @@
         "date": "2026-10-24",
         "anchor": "dhh-china-impressions",
         "headline": "DHH 中国行后续：小米工厂 91% 自动化"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "dhh-china-impressions",
+        "headline": "DHH 中国行后续：与阿里云合作做 Omarchy 中国版，11 月 15 日杭州办见面会"
       }
     ]
   },
@@ -2675,7 +2695,7 @@
     ]
   },
   "deepseek-deepinfer": {
-    "title": "DeepInfer 后续：缓存折扣 97%、72 小时缓存，单卡时收入 38 美元意味着约 80% 毛利",
+    "title": "DeepInfer 后续：DeepSeek 开源实际服务 V4.1 Flash 的推理引擎，调用量断层领先",
     "appearances": [
       {
         "date": "2026-10-21",
@@ -2686,6 +2706,11 @@
         "date": "2026-10-22",
         "anchor": "deepseek-deepinfer",
         "headline": "DeepInfer 后续：缓存折扣 97%、72 小时缓存，单卡时收入 38 美元意味着约 80% 毛利"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "deepseek-deepinfer",
+        "headline": "DeepInfer 后续：DeepSeek 开源实际服务 V4.1 Flash 的推理引擎，调用量断层领先"
       }
     ]
   },
@@ -3010,7 +3035,7 @@
     ]
   },
   "cdl26-1021": {
-    "title": "Connected Data：语义层的「治理缺口」与 CDL26 议程",
+    "title": "Connected Data 后续：CDL26 大师课「用图和超维向量建模关联数据」",
     "appearances": [
       {
         "date": "2026-10-21",
@@ -3031,6 +3056,11 @@
         "date": "2026-10-24",
         "anchor": "cdl26-1021",
         "headline": "Connected Data：语义层的「治理缺口」与 CDL26 议程"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "cdl26-1021",
+        "headline": "Connected Data 后续：CDL26 大师课「用图和超维向量建模关联数据」"
       }
     ]
   },
@@ -3105,12 +3135,17 @@
     ]
   },
   "claude-duet": {
-    "title": "Anthropic 推出 Claude Duet：会主动找你的 AI 助理",
+    "title": "新版 Devin Desktop 与 Claude Duet 上手评价",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "claude-duet",
         "headline": "Anthropic 推出 Claude Duet：会主动找你的 AI 助理"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "claude-duet",
+        "headline": "新版 Devin Desktop 与 Claude Duet 上手评价"
       }
     ]
   },
@@ -3210,7 +3245,7 @@
     ]
   },
   "recursive-flint": {
-    "title": "Flint 后续：Eureka Machine 怎么参与研发，以及本地实测",
+    "title": "Flint 后续：用户把它排进日常编程模型前三",
     "appearances": [
       {
         "date": "2026-10-22",
@@ -3221,6 +3256,11 @@
         "date": "2026-10-23",
         "anchor": "recursive-flint",
         "headline": "Flint 后续：Eureka Machine 怎么参与研发，以及本地实测"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "recursive-flint",
+        "headline": "Flint 后续：用户把它排进日常编程模型前三"
       }
     ]
   },
@@ -3795,7 +3835,7 @@
     ]
   },
   "microduck": {
-    "title": "Microduck 后续：黄仁勋上台后 24 小时又卖出 4000 多台",
+    "title": "Microduck 后续：黄仁勋演示后累计卖出 1 万台",
     "appearances": [
       {
         "date": "2026-10-23",
@@ -3806,6 +3846,11 @@
         "date": "2026-10-24",
         "anchor": "microduck",
         "headline": "Microduck 后续：黄仁勋上台后 24 小时又卖出 4000 多台"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "microduck",
+        "headline": "Microduck 后续：黄仁勋演示后累计卖出 1 万台"
       }
     ]
   },
@@ -3995,22 +4040,32 @@
     ]
   },
   "openai-training-containment": {
-    "title": "OpenAI 加固前沿模型训练环境：断网、离线世界与高算力红队",
+    "title": "OpenAI 训练环境加固后续：Mollick 呼吁认真对待实验室那些「听起来很玄」的网络安全警告",
     "appearances": [
       {
         "date": "2026-10-24",
         "anchor": "openai-training-containment",
         "headline": "OpenAI 加固前沿模型训练环境：断网、离线世界与高算力红队"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "openai-training-containment",
+        "headline": "OpenAI 训练环境加固后续：Mollick 呼吁认真对待实验室那些「听起来很玄」的网络安全警告"
       }
     ]
   },
   "brotli-cve-111497": {
-    "title": "红队顺带发现 Brotli 解码器远程代码执行漏洞（CVE-2026-111497）",
+    "title": "Brotli 漏洞后续：CVE-2026-111497 演变为「HTTP2Shell」",
     "appearances": [
       {
         "date": "2026-10-24",
         "anchor": "brotli-cve-111497",
         "headline": "红队顺带发现 Brotli 解码器远程代码执行漏洞（CVE-2026-111497）"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "brotli-cve-111497",
+        "headline": "Brotli 漏洞后续：CVE-2026-111497 演变为「HTTP2Shell」"
       }
     ]
   },
@@ -4045,12 +4100,17 @@
     ]
   },
   "kimi-k31-pro": {
-    "title": "Kimi K3.1 Pro：2.8T 参数、100 万上下文，11 月 4 日前开放权重",
+    "title": "Kimi K3.1 Pro 后续：编程、3D、金融和网络安全的详细成绩",
     "appearances": [
       {
         "date": "2026-10-24",
         "anchor": "kimi-k31-pro",
         "headline": "Kimi K3.1 Pro：2.8T 参数、100 万上下文，11 月 4 日前开放权重"
+      },
+      {
+        "date": "2026-10-25",
+        "anchor": "kimi-k31-pro",
+        "headline": "Kimi K3.1 Pro 后续：编程、3D、金融和网络安全的详细成绩"
       }
     ]
   },
@@ -4281,6 +4341,266 @@
         "date": "2026-10-24",
         "anchor": "open-data-misc-1024",
         "headline": "开放数据与科研社区小动态：ORCID 数据可直接用 BigQuery 查询、LTER 保加利亚摘要集、ScienceClaw 黑客松"
+      }
+    ]
+  },
+  "thariq-leaves-anthropic": {
+    "title": "Claude Code 核心成员 Thariq Shihipar 离开 Anthropic",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "thariq-leaves-anthropic",
+        "headline": "Claude Code 核心成员 Thariq Shihipar 离开 Anthropic"
+      }
+    ]
+  },
+  "lev-decision-model": {
+    "title": "LEV：不多生成一个 token 也能「想得更深」的决策模型",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "lev-decision-model",
+        "headline": "LEV：不多生成一个 token 也能「想得更深」的决策模型"
+      }
+    ]
+  },
+  "netflix-observability-ontology": {
+    "title": "Netflix 用本体把可观测性做成知识图谱，省掉排障里「拼关系」的四小时",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "netflix-observability-ontology",
+        "headline": "Netflix 用本体把可观测性做成知识图谱，省掉排障里「拼关系」的四小时"
+      }
+    ]
+  },
+  "shopify-remote-dev": {
+    "title": "Shopify 给 agent 配远程移动开发机，agent 产出的已合并移动端 PR 占比从 6% 升到 61%",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "shopify-remote-dev",
+        "headline": "Shopify 给 agent 配远程移动开发机，agent 产出的已合并移动端 PR 占比从 6% 升到 61%"
+      }
+    ]
+  },
+  "raw-rag-memory": {
+    "title": "复杂的 agent 记忆并不总是必要：朴素 RAW-RAG 在长对话记忆评测上更强",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "raw-rag-memory",
+        "headline": "复杂的 agent 记忆并不总是必要：朴素 RAW-RAG 在长对话记忆评测上更强"
+      }
+    ]
+  },
+  "agentic-sdlc-l4": {
+    "title": "Agentic SDLC 不等于软件工厂：Qodo 创始人谈「有边界的 L4」",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "agentic-sdlc-l4",
+        "headline": "Agentic SDLC 不等于软件工厂：Qodo 创始人谈「有边界的 L4」"
+      }
+    ]
+  },
+  "felix-rieseberg-interview": {
+    "title": "Claude 工程负责人 Felix Rieseberg：别再用 2024 年的方式用 Claude",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "felix-rieseberg-interview",
+        "headline": "Claude 工程负责人 Felix Rieseberg：别再用 2024 年的方式用 Claude"
+      }
+    ]
+  },
+  "langgraph-prod-controls": {
+    "title": "LangGraph agent 上生产的五项控制，以及 LangChain 的几条近况",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "langgraph-prod-controls",
+        "headline": "LangGraph agent 上生产的五项控制，以及 LangChain 的几条近况"
+      }
+    ]
+  },
+  "dev-practice-1025": {
+    "title": "开发实践杂记：生物实验审查 agent、让 AI 先过一遍 bug 报告、Vibe 前端的性能债",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "dev-practice-1025",
+        "headline": "开发实践杂记：生物实验审查 agent、让 AI 先过一遍 bug 报告、Vibe 前端的性能债"
+      }
+    ]
+  },
+  "cohere-model-vault": {
+    "title": "Cohere Model Vault 公测：用 NVIDIA 机密计算在 Azure 上跑模型",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "cohere-model-vault",
+        "headline": "Cohere Model Vault 公测：用 NVIDIA 机密计算在 Azure 上跑模型"
+      }
+    ]
+  },
+  "higgsfield-series-b": {
+    "title": "Higgsfield 年化收入破 10 亿美元，NVIDIA 和 TCV 加入 B 轮扩展",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "higgsfield-series-b",
+        "headline": "Higgsfield 年化收入破 10 亿美元，NVIDIA 和 TCV 加入 B 轮扩展"
+      }
+    ]
+  },
+  "enact-robotics": {
+    "title": "Enact 结束隐身：3000 万美元种子前融资，用力觉和触觉做机器人灵巧操作",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "enact-robotics",
+        "headline": "Enact 结束隐身：3000 万美元种子前融资，用力觉和触觉做机器人灵巧操作"
+      }
+    ]
+  },
+  "iphone-duo-apps": {
+    "title": "iPhone Duo 上的 AI 应用适配",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "iphone-duo-apps",
+        "headline": "iPhone Duo 上的 AI 应用适配"
+      }
+    ]
+  },
+  "grok-bot-feedback": {
+    "title": "Grok Bot 征集 bug 报告和功能建议，选中者每人 100 美元",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "grok-bot-feedback",
+        "headline": "Grok Bot 征集 bug 报告和功能建议，选中者每人 100 美元"
+      }
+    ]
+  },
+  "ai-views-1025": {
+    "title": "AI 与就业、人才和经济学的几种声音",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "ai-views-1025",
+        "headline": "AI 与就业、人才和经济学的几种声音"
+      }
+    ]
+  },
+  "shoufa-training-poisoning": {
+    "title": "Shoufa Chen 发声：2024 年训练「投毒」事件的受害者回应",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "shoufa-training-poisoning",
+        "headline": "Shoufa Chen 发声：2024 年训练「投毒」事件的受害者回应"
+      }
+    ]
+  },
+  "hf-papers-1025": {
+    "title": "Hugging Face 论文速递：OpenVLHarness、CoEvo-RSI、LGWM、SSI、Holi-World、JEPA 特征选择",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "hf-papers-1025",
+        "headline": "Hugging Face 论文速递：OpenVLHarness、CoEvo-RSI、LGWM、SSI、Holi-World、JEPA 特征选择"
+      }
+    ]
+  },
+  "claude-managed-agents-cookbook": {
+    "title": "Claude Managed Agents Cookbook：用跑 Jupyter notebook 的方式学 Anthropic 托管 agent",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "claude-managed-agents-cookbook",
+        "headline": "Claude Managed Agents Cookbook：用跑 Jupyter notebook 的方式学 Anthropic 托管 agent"
+      }
+    ]
+  },
+  "jupyter-gpu-idle": {
+    "title": "共享 GPU 集群里被遗忘的 Jupyter 标签页",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "jupyter-gpu-idle",
+        "headline": "共享 GPU 集群里被遗忘的 Jupyter 标签页"
+      }
+    ]
+  },
+  "open-science-nationalised": {
+    "title": "《国家化科学目的时代的开放科学》：AI 成为战略资产，科学体系可能退回封闭",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "open-science-nationalised",
+        "headline": "《国家化科学目的时代的开放科学》：AI 成为战略资产，科学体系可能退回封闭"
+      }
+    ]
+  },
+  "aipoch-science-packages": {
+    "title": "AIPOCH 的 .science 包：把 AI 辅助研究的全过程打包交接",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "aipoch-science-packages",
+        "headline": "AIPOCH 的 .science 包：把 AI 辅助研究的全过程打包交接"
+      }
+    ]
+  },
+  "open-science-welcome-kit": {
+    "title": "开放科学入门工具包：列日大学和蒙斯大学做的可复用新人指南",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "open-science-welcome-kit",
+        "headline": "开放科学入门工具包：列日大学和蒙斯大学做的可复用新人指南"
+      }
+    ]
+  },
+  "primitive-exoplanets": {
+    "title": "Primitive Research 用 AI 在 TESS 数据里找到 49 个系外行星候选",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "primitive-exoplanets",
+        "headline": "Primitive Research 用 AI 在 TESS 数据里找到 49 个系外行星候选"
+      }
+    ]
+  },
+  "open-3d-assets-hf": {
+    "title": "Hugging Face Hub 支持 OpenUSD，NVIDIA 和 Scenario 两天放出 3800 多个免费 3D 资产",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "open-3d-assets-hf",
+        "headline": "Hugging Face Hub 支持 OpenUSD，NVIDIA 和 Scenario 两天放出 3800 多个免费 3D 资产"
+      }
+    ]
+  },
+  "wikimedia-diff-1025": {
+    "title": "维基媒体社区：OASPA 2026 上的「从获取到参与」、非洲语言医疗信息与几则社区故事",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "wikimedia-diff-1025",
+        "headline": "维基媒体社区：OASPA 2026 上的「从获取到参与」、非洲语言医疗信息与几则社区故事"
+      }
+    ]
+  },
+  "open-science-bsky-1025": {
+    "title": "Bluesky「open science」速览：ORCID 赴 PIDfest、LLM 人格模拟论文、开放的病毒载体协议",
+    "appearances": [
+      {
+        "date": "2026-10-25",
+        "anchor": "open-science-bsky-1025",
+        "headline": "Bluesky「open science」速览：ORCID 赴 PIDfest、LLM 人格模拟论文、开放的病毒载体协议"
       }
     ]
   }
