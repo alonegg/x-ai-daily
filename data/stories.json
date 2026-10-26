@@ -940,7 +940,7 @@
     ]
   },
   "claude-code-review-ga": {
-    "title": "Addy Osmani 拆解 Claude Code 的分层代码审查",
+    "title": "Claude Code 怎么做代码审查：六层检查加快速回滚",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -966,6 +966,11 @@
         "date": "2026-10-20",
         "anchor": "claude-code-review-ga",
         "headline": "Addy Osmani 拆解 Claude Code 的分层代码审查"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "claude-code-review-ga",
+        "headline": "Claude Code 怎么做代码审查：六层检查加快速回滚"
       }
     ]
   },
@@ -1450,7 +1455,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 后续：GitHub 3 万星，「每天一项改进」，访客共享线程和远程 iOS 模拟器",
+    "title": "T3 Code 后续：Nightly 发错版本、界面重整，Theo 劝多账号用户改用代理",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1496,6 +1501,11 @@
         "date": "2026-10-26",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 后续：GitHub 3 万星，「每天一项改进」，访客共享线程和远程 iOS 模拟器"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 后续：Nightly 发错版本、界面重整，Theo 劝多账号用户改用代理"
       }
     ]
   },
@@ -1800,7 +1810,7 @@
     ]
   },
   "qiaomu-publish": {
-    "title": "向阳乔木后续：Kindle 改造开源，加了 AI RSS 订阅",
+    "title": "向阳乔木后续：用 Grok Bot 识别 AI 评论号、Codex 批量拉黑；Kindle 越狱极简教程；Lex Fridman 中文站",
     "appearances": [
       {
         "date": "2026-10-18",
@@ -1831,6 +1841,11 @@
         "date": "2026-10-26",
         "anchor": "qiaomu-publish",
         "headline": "向阳乔木后续：Kindle 改造开源，加了 AI RSS 订阅"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "qiaomu-publish",
+        "headline": "向阳乔木后续：用 Grok Bot 识别 AI 评论号、Codex 批量拉黑；Kindle 越狱极简教程；Lex Fridman 中文站"
       }
     ]
   },
@@ -3050,7 +3065,7 @@
     ]
   },
   "cdl26-1021": {
-    "title": "Connected Data 后续：CDL26 大师课「用图和超维向量建模关联数据」",
+    "title": "Connected Data London 后续：图记忆、harness 工程讲座和参会机构",
     "appearances": [
       {
         "date": "2026-10-21",
@@ -3076,6 +3091,11 @@
         "date": "2026-10-25",
         "anchor": "cdl26-1021",
         "headline": "Connected Data 后续：CDL26 大师课「用图和超维向量建模关联数据」"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "cdl26-1021",
+        "headline": "Connected Data London 后续：图记忆、harness 工程讲座和参会机构"
       }
     ]
   },
@@ -3210,12 +3230,17 @@
     ]
   },
   "anthropic-s1-ipo": {
-    "title": "Anthropic S-1 草稿：上半年营收约 163 亿美元，云和芯片承诺约 4500 亿美元",
+    "title": "Anthropic 公开 S-1：拟以 ANT 在纳斯达克上市，上半年收入 163 亿美元，二季度经营利润 10 亿",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "anthropic-s1-ipo",
         "headline": "Anthropic S-1 草稿：上半年营收约 163 亿美元，云和芯片承诺约 4500 亿美元"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "anthropic-s1-ipo",
+        "headline": "Anthropic 公开 S-1：拟以 ANT 在纳斯达克上市，上半年收入 163 亿美元，二季度经营利润 10 亿"
       }
     ]
   },
@@ -3870,7 +3895,7 @@
     ]
   },
   "microduck": {
-    "title": "Microduck 后续：转述称 24 小时预订超 260 万美元，真人版第 4 集上线",
+    "title": "NVIDIA GTC 柏林收官；Microduck 后续：转述称会后再获 1.5 万台订单",
     "appearances": [
       {
         "date": "2026-10-23",
@@ -3891,6 +3916,11 @@
         "date": "2026-10-26",
         "anchor": "microduck",
         "headline": "Microduck 后续：转述称 24 小时预订超 260 万美元，真人版第 4 集上线"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "microduck",
+        "headline": "NVIDIA GTC 柏林收官；Microduck 后续：转述称会后再获 1.5 万台订单"
       }
     ]
   },
@@ -4355,12 +4385,17 @@
     ]
   },
   "okfn-open-tech-week": {
-    "title": "OKFN 赴巴塞罗那 Open Tech Week：开放技术研究研讨会、MozFest 三场、四本新出版物",
+    "title": "OKFN 巴塞罗那 Open Tech Week 后续：开放技术研究研讨会开幕，MozFest 讲「用 MCP 开放你的数据」",
     "appearances": [
       {
         "date": "2026-10-24",
         "anchor": "okfn-open-tech-week",
         "headline": "OKFN 赴巴塞罗那 Open Tech Week：开放技术研究研讨会、MozFest 三场、四本新出版物"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "okfn-open-tech-week",
+        "headline": "OKFN 巴塞罗那 Open Tech Week 后续：开放技术研究研讨会开幕，MozFest 讲「用 MCP 开放你的数据」"
       }
     ]
   },
@@ -4515,7 +4550,7 @@
     ]
   },
   "iphone-duo-apps": {
-    "title": "iPhone Duo 适配后续：即览、Notion",
+    "title": "iPhone Duo 适配后续：豆包、即览 1.0.2",
     "appearances": [
       {
         "date": "2026-10-25",
@@ -4526,6 +4561,11 @@
         "date": "2026-10-26",
         "anchor": "iphone-duo-apps",
         "headline": "iPhone Duo 适配后续：即览、Notion"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "iphone-duo-apps",
+        "headline": "iPhone Duo 适配后续：豆包、即览 1.0.2"
       }
     ]
   },
@@ -4550,7 +4590,7 @@
     ]
   },
   "shoufa-training-poisoning": {
-    "title": "训练「投毒」事件后续：向阳乔木回忆在字节看到的 Demo",
+    "title": "训练「投毒」事件后续：李博杰和 meng shao 谈字节的组织问题",
     "appearances": [
       {
         "date": "2026-10-25",
@@ -4561,6 +4601,11 @@
         "date": "2026-10-26",
         "anchor": "shoufa-training-poisoning",
         "headline": "训练「投毒」事件后续：向阳乔木回忆在字节看到的 Demo"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "shoufa-training-poisoning",
+        "headline": "训练「投毒」事件后续：李博杰和 meng shao 谈字节的组织问题"
       }
     ]
   },
@@ -4635,12 +4680,17 @@
     ]
   },
   "open-3d-assets-hf": {
-    "title": "Hugging Face Hub 支持 OpenUSD，NVIDIA 和 Scenario 两天放出 3800 多个免费 3D 资产",
+    "title": "开放 3D 资产后续：NVIDIA SimReady 在 Hugging Face 放出 2575 个仿真资产",
     "appearances": [
       {
         "date": "2026-10-25",
         "anchor": "open-3d-assets-hf",
         "headline": "Hugging Face Hub 支持 OpenUSD，NVIDIA 和 Scenario 两天放出 3800 多个免费 3D 资产"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "open-3d-assets-hf",
+        "headline": "开放 3D 资产后续：NVIDIA SimReady 在 Hugging Face 放出 2575 个仿真资产"
       }
     ]
   },
@@ -4665,12 +4715,17 @@
     ]
   },
   "claude-single-loop-skills": {
-    "title": "Claude 博客：什么时候该把子 agent 折回主循环，Skills 渐进披露常胜过多专家编排",
+    "title": "主循环加 Skills 后续：官方迁移工具包，Claude Code 系统提示缩短 80% 以上",
     "appearances": [
       {
         "date": "2026-10-26",
         "anchor": "claude-single-loop-skills",
         "headline": "Claude 博客：什么时候该把子 agent 折回主循环，Skills 渐进披露常胜过多专家编排"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "claude-single-loop-skills",
+        "headline": "主循环加 Skills 后续：官方迁移工具包，Claude Code 系统提示缩短 80% 以上"
       }
     ]
   },
@@ -4745,12 +4800,17 @@
     ]
   },
   "nanbeige-43-33b": {
-    "title": "南北阁开源 Nanbeige4.3-33B 稠密模型",
+    "title": "南北阁 Nanbeige4.3-33B 后续：官方发布帖",
     "appearances": [
       {
         "date": "2026-10-26",
         "anchor": "nanbeige-43-33b",
         "headline": "南北阁开源 Nanbeige4.3-33B 稠密模型"
+      },
+      {
+        "date": "2026-10-27",
+        "anchor": "nanbeige-43-33b",
+        "headline": "南北阁 Nanbeige4.3-33B 后续：官方发布帖"
       }
     ]
   },
@@ -4901,6 +4961,386 @@
         "date": "2026-10-26",
         "anchor": "wikimedia-diff-1026",
         "headline": "维基媒体社区：内容合作帮助台、中东欧开放知识会议、达格巴尼语社区和事实核查"
+      }
+    ]
+  },
+  "anthropic-cloud-marketplace": {
+    "title": "S-1 里容易被忽略的一点：近一半收入经云市场卖出，云厂商「收两次钱」",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "anthropic-cloud-marketplace",
+        "headline": "S-1 里容易被忽略的一点：近一半收入经云市场卖出，云厂商「收两次钱」"
+      }
+    ]
+  },
+  "anthropic-wapo-intrusion": {
+    "title": "《华盛顿邮报》：前 DOGE 网络研究员用 AI agent 不到 12 小时渗透 Anthropic 系统",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "anthropic-wapo-intrusion",
+        "headline": "《华盛顿邮报》：前 DOGE 网络研究员用 AI agent 不到 12 小时渗透 Anthropic 系统"
+      }
+    ]
+  },
+  "china-us-compute-economy": {
+    "title": "中美算力经济：「一万件衬衫换一张 B 卡」",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "china-us-compute-economy",
+        "headline": "中美算力经济：「一万件衬衫换一张 B 卡」"
+      }
+    ]
+  },
+  "gpt-61-terra": {
+    "title": "OpenAI 发布 GPT-6.1 Terra：主打操作电脑，API 降价一半，追平 GPT-6 Astra",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "gpt-61-terra",
+        "headline": "OpenAI 发布 GPT-6.1 Terra：主打操作电脑，API 降价一半，追平 GPT-6 Astra"
+      }
+    ]
+  },
+  "llm-price-war": {
+    "title": "Max Woolf：OpenAI 和 Anthropic 几个月内最高降价 80%，为什么？",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "llm-price-war",
+        "headline": "Max Woolf：OpenAI 和 Anthropic 几个月内最高降价 80%，为什么？"
+      }
+    ]
+  },
+  "model-views-1027": {
+    "title": "模型观感：Theo 的「现实帕累托线」、Grok 4.7 警告与 Opus 5.5 用量",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "model-views-1027",
+        "headline": "模型观感：Theo 的「现实帕累托线」、Grok 4.7 警告与 Opus 5.5 用量"
+      }
+    ]
+  },
+  "openai-science-discoveries": {
+    "title": "OpenAI 宣布数学、计算机科学和物理三项新发现",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "openai-science-discoveries",
+        "headline": "OpenAI 宣布数学、计算机科学和物理三项新发现"
+      }
+    ]
+  },
+  "open-models-1027": {
+    "title": "开源模型速递：腾讯 Hy-SimulMT 同传、NVIDIA MotionBricks、阿里 RynnUnify、Qwen BabelArena、腾讯 DiagSafe",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "open-models-1027",
+        "headline": "开源模型速递：腾讯 Hy-SimulMT 同传、NVIDIA MotionBricks、阿里 RynnUnify、Qwen BabelArena、腾讯 DiagSafe"
+      }
+    ]
+  },
+  "hf-papers-1027": {
+    "title": "论文速递：时间拉直的世界模型、HiSTEVE、UserArena、视频世界综述等",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "hf-papers-1027",
+        "headline": "论文速递：时间拉直的世界模型、HiSTEVE、UserArena、视频世界综述等"
+      }
+    ]
+  },
+  "jane-street-agent-codebase": {
+    "title": "Jane Street 的 Yaron Minsky：把代码库调教得更适合 agent",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "jane-street-agent-codebase",
+        "headline": "Jane Street 的 Yaron Minsky：把代码库调教得更适合 agent"
+      }
+    ]
+  },
+  "hackbench-reward-hacking": {
+    "title": "HackBench：检测和定位自动科研 agent 的奖励作弊",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "hackbench-reward-hacking",
+        "headline": "HackBench：检测和定位自动科研 agent 的奖励作弊"
+      }
+    ]
+  },
+  "agent-evals-1027": {
+    "title": "agent 自我改进与评测：RSIHub 框架，「写评测会成为 AI 里最贵的工作」",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "agent-evals-1027",
+        "headline": "agent 自我改进与评测：RSIHub 框架，「写评测会成为 AI 里最贵的工作」"
+      }
+    ]
+  },
+  "amp-how-i-work": {
+    "title": "Amp 的 Thorsten Ball：「我怎么和 agent 一起工作」",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "amp-how-i-work",
+        "headline": "Amp 的 Thorsten Ball：「我怎么和 agent 一起工作」"
+      }
+    ]
+  },
+  "langchain-company-harness": {
+    "title": "LangChain：公司级 harness 的五块底座，Managed Deep Agents 0.9",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "langchain-company-harness",
+        "headline": "LangChain：公司级 harness 的五块底座，Managed Deep Agents 0.9"
+      }
+    ]
+  },
+  "skill-packs-compare": {
+    "title": "三套 Skill 包怎么选：Pocock、Osmani、pstack；Theo 也发布了 tstack",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "skill-packs-compare",
+        "headline": "三套 Skill 包怎么选：Pocock、Osmani、pstack；Theo 也发布了 tstack"
+      }
+    ]
+  },
+  "claude-code-skip-permissions": {
+    "title": "--dangerously-skip-permissions：yetone 说它会改变 prompt；Claude Code 加了「更危险」的开关",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "claude-code-skip-permissions",
+        "headline": "--dangerously-skip-permissions：yetone 说它会改变 prompt；Claude Code 加了「更危险」的开关"
+      }
+    ]
+  },
+  "magpie-gateway-postmortem": {
+    "title": "Magpie 网关故障复盘：本地脱敏模型持着全局锁做同步 I/O",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "magpie-gateway-postmortem",
+        "headline": "Magpie 网关故障复盘：本地脱敏模型持着全局锁做同步 I/O"
+      }
+    ]
+  },
+  "dev-tools-1027": {
+    "title": "开发工具与工作流速递：Graphify、BAND、Hassan 的六步流程、Claude Projects、diagram-design",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "dev-tools-1027",
+        "headline": "开发工具与工作流速递：Graphify、BAND、Hassan 的六步流程、Claude Projects、diagram-design"
+      }
+    ]
+  },
+  "reasoning-from-scratch-course": {
+    "title": "Sebastian Raschka《从零构建推理模型》完整视频课上线",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "reasoning-from-scratch-course",
+        "headline": "Sebastian Raschka《从零构建推理模型》完整视频课上线"
+      }
+    ]
+  },
+  "dev-views-1027": {
+    "title": "其他工程观点：AI 时代的前端性能，以及「agent 语言」之争",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "dev-views-1027",
+        "headline": "其他工程观点：AI 时代的前端性能，以及「agent 语言」之争"
+      }
+    ]
+  },
+  "microsoft-voluntary-exit": {
+    "title": "微软向约 6 万名员工提供自愿离职补偿，约占全员四分之一",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "microsoft-voluntary-exit",
+        "headline": "微软向约 6 万名员工提供自愿离职补偿，约占全员四分之一"
+      }
+    ]
+  },
+  "x-product-head": {
+    "title": "Peter Sellis 加入 X 负责产品",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "x-product-head",
+        "headline": "Peter Sellis 加入 X 负责产品"
+      }
+    ]
+  },
+  "security-1027": {
+    "title": "安全与政策：英国 AI 生物安全实验室、Eon「数据韧性倡议」、PHP2Shell 普通用户别慌",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "security-1027",
+        "headline": "安全与政策：英国 AI 生物安全实验室、Eon「数据韧性倡议」、PHP2Shell 普通用户别慌"
+      }
+    ]
+  },
+  "ai-views-1027": {
+    "title": "观点：「只有大 AI 和大科技在赢」、订阅软件越来越难、AI 改变影视行业、用 AI 要「更有野心」",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "ai-views-1027",
+        "headline": "观点：「只有大 AI 和大科技在赢」、订阅软件越来越难、AI 改变影视行业、用 AI 要「更有野心」"
+      }
+    ]
+  },
+  "aie-code-1027": {
+    "title": "活动预告：AIE CODE 闭幕主题演讲由 Thariq 担任，ThursdAI 现场直播",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "aie-code-1027",
+        "headline": "活动预告：AIE CODE 闭幕主题演讲由 Thariq 担任，ThursdAI 现场直播"
+      }
+    ]
+  },
+  "dario-early-years": {
+    "title": "Dario Amodei 早年：被教授称为「国宝」，婉拒马斯克的 SpaceX 邀请",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "dario-early-years",
+        "headline": "Dario Amodei 早年：被教授称为「国宝」，婉拒马斯克的 SpaceX 邀请"
+      }
+    ]
+  },
+  "ai-life-hacks-1027": {
+    "title": "AI 的日常妙用：Claude 修好 Sonos 音响，教人用肥皂堵油箱",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "ai-life-hacks-1027",
+        "headline": "AI 的日常妙用：Claude 修好 Sonos 音响，教人用肥皂堵油箱"
+      }
+    ]
+  },
+  "products-misc-1027": {
+    "title": "产品小动态：Claude Duet 没有凭据存储、Riverside 视频 agent、Meta 眼镜耳语输入",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "products-misc-1027",
+        "headline": "产品小动态：Claude Duet 没有凭据存储、Riverside 视频 agent、Meta 眼镜耳语输入"
+      }
+    ]
+  },
+  "awesome-jupyter-ai": {
+    "title": "Awesome Jupyter AI：100 多个 Jupyter AI 扩展的地图，Project Jupyter 再次推荐",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "awesome-jupyter-ai",
+        "headline": "Awesome Jupyter AI：100 多个 Jupyter AI 扩展的地图，Project Jupyter 再次推荐"
+      }
+    ]
+  },
+  "jupyter-large-video-preview": {
+    "title": "Jupyter 论坛：怎么在 notebook 里预览 500MB 以上的大视频",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "jupyter-large-video-preview",
+        "headline": "Jupyter 论坛：怎么在 notebook 里预览 500MB 以上的大视频"
+      }
+    ]
+  },
+  "springer-deepmind-peer-review": {
+    "title": "Springer Nature 与 Google DeepMind 合作共同设计 AI 审稿助手",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "springer-deepmind-peer-review",
+        "headline": "Springer Nature 与 Google DeepMind 合作共同设计 AI 审稿助手"
+      }
+    ]
+  },
+  "papers-with-code-open-source": {
+    "title": "Papers with Code 以 Apache 2.0 开源",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "papers-with-code-open-source",
+        "headline": "Papers with Code 以 Apache 2.0 开源"
+      }
+    ]
+  },
+  "graph-abstractions-human": {
+    "title": "《我们的图数据抽象有多以人为本？》：Wikidata、MIMIC-III 等四个案例",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "graph-abstractions-human",
+        "headline": "《我们的图数据抽象有多以人为本？》：Wikidata、MIMIC-III 等四个案例"
+      }
+    ]
+  },
+  "orcid-gpf": {
+    "title": "ORCID 全球参与基金开放申请，10 月 31 日截止",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "orcid-gpf",
+        "headline": "ORCID 全球参与基金开放申请，10 月 31 日截止"
+      }
+    ]
+  },
+  "pensoft-1027": {
+    "title": "Pensoft：加入欧盟地平线项目 BEAGLE；百年前的北极扁虫模式标本被重新发现",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "pensoft-1027",
+        "headline": "Pensoft：加入欧盟地平线项目 BEAGLE；百年前的北极扁虫模式标本被重新发现"
+      }
+    ]
+  },
+  "open-science-bsky-1027": {
+    "title": "Bluesky「open science」速览：OSF 变化引发的数据仓库反思、加拿大开放科学会议、OSTrails 通讯",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "open-science-bsky-1027",
+        "headline": "Bluesky「open science」速览：OSF 变化引发的数据仓库反思、加拿大开放科学会议、OSTrails 通讯"
+      }
+    ]
+  },
+  "wikimedia-diff-1027": {
+    "title": "维基媒体社区：PHP 漏洞让多项服务下线、新机器人检测、合并之后才是开始",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "wikimedia-diff-1027",
+        "headline": "维基媒体社区：PHP 漏洞让多项服务下线、新机器人检测、合并之后才是开始"
+      }
+    ]
+  },
+  "leap-second-end": {
+    "title": "国际计量大会决议：2027 年 5 月 20 日起停止插入闰秒",
+    "appearances": [
+      {
+        "date": "2026-10-27",
+        "anchor": "leap-second-end",
+        "headline": "国际计量大会决议：2027 年 5 月 20 日起停止插入闰秒"
       }
     ]
   }
