@@ -25,6 +25,37 @@
       <itunes:name>CHUNLIN</itunes:name>
     </itunes:owner>
     <item>
+      <title>10 月 27 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-10-27.html</link>
+      <description>昨天 AI 圈的新鲜事：Anthropic 公开 S-1 招股书，OpenAI 发布 GPT-6.1 Terra，微软向约 6 万员工提供自愿离职补偿；评论聊 HackBench、Claude Code 代码审查、AI 审稿助手、Jupyter AI 扩展地图和字节的组织之争
+
+章节：
+0:00 开场与头条预告
+0:53 快讯
+6:21 重点一：Anthropic 招股书里的账
+8:16 重点二：算力合同和谁说了算
+10:17 重点三：GPT 六点一 Terra
+11:50 重点四：降价战背后的经济学
+13:33 重点五：微软的自愿离职邀约
+14:55 重点六：Jane Street 怎么让代码库适合 agent
+16:38 评论一：AI 做科研会作弊
+18:32 评论二：Claude Code 团队的代码审查
+20:16 评论三：AI 审稿助手
+21:56 评论四：Jupyter 的 AI 扩展地图
+23:48 评论五：字节的组织之争
+25:20 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-27.html</description>
+      <itunes:summary>昨天 AI 圈的新鲜事：Anthropic 公开 S-1 招股书，OpenAI 发布 GPT-6.1 Terra，微软向约 6 万员工提供自愿离职补偿；评论聊 HackBench、Claude Code 代码审查、AI 审稿助手、Jupyter AI 扩展地图和字节的组织之争</itunes:summary>
+      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-27.mp3" length="12364844" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:25:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>10 月 26 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-10-26.html</link>
       <description>昨天 AI 圈的新鲜事：AI 帮站长做安全审计、Tailscale SSH 被曝 11 项问题，Agents SDK 额度 bug，Grok Bot 连上 X Money 引发不满；评论聊主循环加 Skills、规格驱动开发、手写代码投票等五个话题
@@ -88,7 +119,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Mon, 26 Oct 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Mon, 26 Oct 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Tue, 27 Oct 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>

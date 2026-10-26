@@ -1,0 +1,82 @@
+{
+ "title": "10 月 27 日 AI 播报",
+ "summary": "昨天 AI 圈的新鲜事：Anthropic 公开 S-1 招股书，OpenAI 发布 GPT-6.1 Terra，微软向约 6 万员工提供自愿离职补偿；评论聊 HackBench、Claude Code 代码审查、AI 审稿助手、Jupyter AI 扩展地图和字节的组织之争",
+ "voice": "男声",
+ "voice_id": "longanlufeng",
+ "duration": 1545.6,
+ "size": 12364844,
+ "src": "https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-27.mp3",
+ "pubDate": "2026-10-27T07:53:00+08:00",
+ "chapters": [
+  {
+   "t": 0,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 53.1,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 381.0,
+   "title": "重点一：Anthropic 招股书里的账",
+   "group": "今日重点"
+  },
+  {
+   "t": 496.5,
+   "title": "重点二：算力合同和谁说了算",
+   "group": "今日重点"
+  },
+  {
+   "t": 617.0,
+   "title": "重点三：GPT 六点一 Terra",
+   "group": "今日重点"
+  },
+  {
+   "t": 709.5,
+   "title": "重点四：降价战背后的经济学",
+   "group": "今日重点"
+  },
+  {
+   "t": 812.9,
+   "title": "重点五：微软的自愿离职邀约",
+   "group": "今日重点"
+  },
+  {
+   "t": 895.1,
+   "title": "重点六：Jane Street 怎么让代码库适合 agent",
+   "group": "今日重点"
+  },
+  {
+   "t": 997.8,
+   "title": "评论一：AI 做科研会作弊",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1111.6,
+   "title": "评论二：Claude Code 团队的代码审查",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1215.5,
+   "title": "评论三：AI 审稿助手",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1315.8,
+   "title": "评论四：Jupyter 的 AI 扩展地图",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1427.9,
+   "title": "评论五：字节的组织之争",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1520.4,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}
