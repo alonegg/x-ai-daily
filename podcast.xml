@@ -25,6 +25,38 @@
       <itunes:name>CHUNLIN</itunes:name>
     </itunes:owner>
     <item>
+      <title>10 月 28 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-10-28.html</link>
+      <description>昨天 AI 圈的新鲜事：AI 推翻指数时间假设、Axiom 用 Lean 核对完有限单群分类定理、Google DeepMind 发布 Genie 4、Claude 参与新药研发；评论聊专家被 agent 带着走、LLM 本体的钥匙孔效应、T3 Code 的工具评测、看不见的思维链和 Hex 4.0
+
+章节：
+0:00 开场与头条预告
+1:04 快讯
+6:33 重点一：AI 推翻指数时间假设
+8:31 重点二：计算机核对完数学史上最长的证明
+10:24 重点三：谷歌发布 Genie 四世界模型
+11:51 重点四：Claude 参与新药研发
+13:36 重点五：Manus 怎样把自己改造成 AI 原生组织
+15:03 重点六：「编程面试已死」
+16:25 重点七：Matt Pocock 谈怎样让代码库配得上 agent
+17:52 评论一：专家以为在独立判断，其实被 agent 带着走
+19:22 评论二：LLM 写的知识本体，看着完整其实不完整
+20:55 评论三：用评测去调 AI 的工具说明
+22:17 评论四：思维过程被藏起来，是好事还是坏事
+23:33 评论五：Hex 四点零，审阅成了新的瓶颈
+24:48 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-28.html</description>
+      <itunes:summary>昨天 AI 圈的新鲜事：AI 推翻指数时间假设、Axiom 用 Lean 核对完有限单群分类定理、Google DeepMind 发布 Genie 4、Claude 参与新药研发；评论聊专家被 agent 带着走、LLM 本体的钥匙孔效应、T3 Code 的工具评测、看不见的思维链和 Hex 4.0</itunes:summary>
+      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-28.mp3" length="12099692" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:25:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>10 月 27 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-10-27.html</link>
       <description>昨天 AI 圈的新鲜事：Anthropic 公开 S-1 招股书，OpenAI 发布 GPT-6.1 Terra，微软向约 6 万员工提供自愿离职补偿；评论聊 HackBench、Claude Code 代码审查、AI 审稿助手、Jupyter AI 扩展地图和字节的组织之争
@@ -119,7 +151,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Tue, 27 Oct 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Tue, 27 Oct 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
