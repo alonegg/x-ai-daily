@@ -1455,7 +1455,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 后续：Nightly 发错版本、界面重整，Theo 劝多账号用户改用代理",
+    "title": "T3 Code 后续：0.1.3 稳定版、用评测把工具描述砍掉一半、每天约 500 万美元 token 流过",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1506,6 +1506,11 @@
         "date": "2026-10-27",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 后续：Nightly 发错版本、界面重整，Theo 劝多账号用户改用代理"
+      },
+      {
+        "date": "2026-10-28",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 后续：0.1.3 稳定版、用评测把工具描述砍掉一半、每天约 500 万美元 token 流过"
       }
     ]
   },
@@ -4335,12 +4340,17 @@
     ]
   },
   "jupyterhub-survey-2026": {
-    "title": "JupyterHub 用户调查上线",
+    "title": "JupyterHub 发起部署者调查，11 月 24 日截止",
     "appearances": [
       {
         "date": "2026-10-24",
         "anchor": "jupyterhub-survey-2026",
         "headline": "JupyterHub 用户调查上线"
+      },
+      {
+        "date": "2026-10-28",
+        "anchor": "jupyterhub-survey-2026",
+        "headline": "JupyterHub 发起部署者调查，11 月 24 日截止"
       }
     ]
   },
@@ -4385,7 +4395,7 @@
     ]
   },
   "okfn-open-tech-week": {
-    "title": "OKFN 巴塞罗那 Open Tech Week 后续：开放技术研究研讨会开幕，MozFest 讲「用 MCP 开放你的数据」",
+    "title": "OKFN 后续：开放技术研究研讨会落幕，MozFest 在巴塞罗那开幕",
     "appearances": [
       {
         "date": "2026-10-24",
@@ -4396,6 +4406,11 @@
         "date": "2026-10-27",
         "anchor": "okfn-open-tech-week",
         "headline": "OKFN 巴塞罗那 Open Tech Week 后续：开放技术研究研讨会开幕，MozFest 讲「用 MCP 开放你的数据」"
+      },
+      {
+        "date": "2026-10-28",
+        "anchor": "okfn-open-tech-week",
+        "headline": "OKFN 后续：开放技术研究研讨会落幕，MozFest 在巴塞罗那开幕"
       }
     ]
   },
@@ -4490,12 +4505,17 @@
     ]
   },
   "felix-rieseberg-interview": {
-    "title": "Claude 工程负责人 Felix Rieseberg：别再用 2024 年的方式用 Claude",
+    "title": "Felix Rieseberg 后续：「编程面试已死」，冲劲胜过资历",
     "appearances": [
       {
         "date": "2026-10-25",
         "anchor": "felix-rieseberg-interview",
         "headline": "Claude 工程负责人 Felix Rieseberg：别再用 2024 年的方式用 Claude"
+      },
+      {
+        "date": "2026-10-28",
+        "anchor": "felix-rieseberg-interview",
+        "headline": "Felix Rieseberg 后续：「编程面试已死」，冲劲胜过资历"
       }
     ]
   },
@@ -4550,7 +4570,7 @@
     ]
   },
   "iphone-duo-apps": {
-    "title": "iPhone Duo 适配后续：豆包、即览 1.0.2",
+    "title": "iPhone Duo 适配后续：Theo 抱怨应用更新还在只支持竖屏",
     "appearances": [
       {
         "date": "2026-10-25",
@@ -4566,6 +4586,11 @@
         "date": "2026-10-27",
         "anchor": "iphone-duo-apps",
         "headline": "iPhone Duo 适配后续：豆包、即览 1.0.2"
+      },
+      {
+        "date": "2026-10-28",
+        "anchor": "iphone-duo-apps",
+        "headline": "iPhone Duo 适配后续：Theo 抱怨应用更新还在只支持竖屏"
       }
     ]
   },
@@ -4865,12 +4890,17 @@
     ]
   },
   "omarchy-ipad-freebsd": {
-    "title": "Omarchy 上了 iPad 和 FreeBSD；DHH 用 RAWmakase 替代 Lightroom",
+    "title": "Omarchy 后续：平板适配、招设计与社区负责人、想跑在 BlueChip 上",
     "appearances": [
       {
         "date": "2026-10-26",
         "anchor": "omarchy-ipad-freebsd",
         "headline": "Omarchy 上了 iPad 和 FreeBSD；DHH 用 RAWmakase 替代 Lightroom"
+      },
+      {
+        "date": "2026-10-28",
+        "anchor": "omarchy-ipad-freebsd",
+        "headline": "Omarchy 后续：平板适配、招设计与社区负责人、想跑在 BlueChip 上"
       }
     ]
   },
@@ -4995,12 +5025,17 @@
     ]
   },
   "gpt-61-terra": {
-    "title": "OpenAI 发布 GPT-6.1 Terra：主打操作电脑，API 降价一半，追平 GPT-6 Astra",
+    "title": "GPT-6.1 Terra 评价分化；Vals Index 上 DeepSeek V4.1 Flash 打平且便宜 4 倍多",
     "appearances": [
       {
         "date": "2026-10-27",
         "anchor": "gpt-61-terra",
         "headline": "OpenAI 发布 GPT-6.1 Terra：主打操作电脑，API 降价一半，追平 GPT-6 Astra"
+      },
+      {
+        "date": "2026-10-28",
+        "anchor": "gpt-61-terra",
+        "headline": "GPT-6.1 Terra 评价分化；Vals Index 上 DeepSeek V4.1 Flash 打平且便宜 4 倍多"
       }
     ]
   },
@@ -5025,12 +5060,17 @@
     ]
   },
   "openai-science-discoveries": {
-    "title": "OpenAI 宣布数学、计算机科学和物理三项新发现",
+    "title": "OpenAI 三项发现的细节：推翻 ETH、证明杨-米尔斯理论存在、Kakeya 推到所有维度",
     "appearances": [
       {
         "date": "2026-10-27",
         "anchor": "openai-science-discoveries",
         "headline": "OpenAI 宣布数学、计算机科学和物理三项新发现"
+      },
+      {
+        "date": "2026-10-28",
+        "anchor": "openai-science-discoveries",
+        "headline": "OpenAI 三项发现的细节：推翻 ETH、证明杨-米尔斯理论存在、Kakeya 推到所有维度"
       }
     ]
   },
@@ -5341,6 +5381,316 @@
         "date": "2026-10-27",
         "anchor": "leap-second-end",
         "headline": "国际计量大会决议：2027 年 5 月 20 日起停止插入闰秒"
+      }
+    ]
+  },
+  "claude-eth-paper": {
+    "title": "同一天，Anthropic 放出唯一署名为 Claude 的论文，也推翻了 ETH",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "claude-eth-paper",
+        "headline": "同一天，Anthropic 放出唯一署名为 Claude 的论文，也推翻了 ETH"
+      }
+    ]
+  },
+  "axiom-cfsg-lean": {
+    "title": "Axiom：用 24 天让计算机核对完数学史上最长的证明，修补了一处证法漏洞",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "axiom-cfsg-lean",
+        "headline": "Axiom：用 24 天让计算机核对完数学史上最长的证明，修补了一处证法漏洞"
+      }
+    ]
+  },
+  "anthropic-drug-discovery": {
+    "title": "Anthropic 公布 Claude 参与新药研发进展：最快 2028 年底进入人体试验",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "anthropic-drug-discovery",
+        "headline": "Anthropic 公布 Claude 参与新药研发进展：最快 2028 年底进入人体试验"
+      }
+    ]
+  },
+  "genie-4": {
+    "title": "Google DeepMind 发布 Genie 4 世界模型：照片级画面、物理、原生音频，即将首次进 API",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "genie-4",
+        "headline": "Google DeepMind 发布 Genie 4 世界模型：照片级画面、物理、原生音频，即将首次进 API"
+      }
+    ]
+  },
+  "deepseek-harness-plugins": {
+    "title": "DeepSeek Harness 插件生态升温：B 站、大学生、极客都在写插件",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "deepseek-harness-plugins",
+        "headline": "DeepSeek Harness 插件生态升温：B 站、大学生、极客都在写插件"
+      }
+    ]
+  },
+  "unlimited-ocr-2": {
+    "title": "百度开源 Unlimited OCR 2：任意页数文档解析，每步解码开销几乎不随页数增长",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "unlimited-ocr-2",
+        "headline": "百度开源 Unlimited OCR 2：任意页数文档解析，每步解码开销几乎不随页数增长"
+      }
+    ]
+  },
+  "fern-10m-context": {
+    "title": "Mirendil 发布首个模型 Fern：从零预训练，最长 1000 万 token 上下文",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "fern-10m-context",
+        "headline": "Mirendil 发布首个模型 Fern：从零预训练，最长 1000 万 token 上下文"
+      }
+    ]
+  },
+  "anthropic-gsa-onegov": {
+    "title": "Anthropic 扩大与美国总务管理局合作：各级政府用 Claude 打六折",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "anthropic-gsa-onegov",
+        "headline": "Anthropic 扩大与美国总务管理局合作：各级政府用 Claude 打六折"
+      }
+    ]
+  },
+  "cohere-open-traces": {
+    "title": "Cohere 公开 Qwen3.8 异常行为研究的轨迹和复现脚本",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "cohere-open-traces",
+        "headline": "Cohere 公开 Qwen3.8 异常行为研究的轨迹和复现脚本"
+      }
+    ]
+  },
+  "open-models-1028": {
+    "title": "开源模型与数据速递：Liquid LFM3、Carbon-X、NVIDIA Metatron G1、Polyfork 3D 模型、微软文档问答集",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "open-models-1028",
+        "headline": "开源模型与数据速递：Liquid LFM3、Carbon-X、NVIDIA Metatron G1、Polyfork 3D 模型、微软文档问答集"
+      }
+    ]
+  },
+  "manus-ai-native-org": {
+    "title": "Manus 联创张涛：「用 Manus 改造 Manus」的 AI 原生组织实践",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "manus-ai-native-org",
+        "headline": "Manus 联创张涛：「用 Manus 改造 Manus」的 AI 原生组织实践"
+      }
+    ]
+  },
+  "matt-pocock-interview": {
+    "title": "Matt Pocock 访谈：说清你在乎什么，让代码库配得上 agent",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "matt-pocock-interview",
+        "headline": "Matt Pocock 访谈：说清你在乎什么，让代码库配得上 agent"
+      }
+    ]
+  },
+  "skills-subagents-1028": {
+    "title": "Skill 与子 agent 的取舍：Addy Osmani 的经验法则、skill-diet、Uncle Bob 的 ub-mode",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "skills-subagents-1028",
+        "headline": "Skill 与子 agent 的取舍：Addy Osmani 的经验法则、skill-diet、Uncle Bob 的 ub-mode"
+      }
+    ]
+  },
+  "multi-agent-loops": {
+    "title": "宝玉：多 loop 会成为趋势，每个人都要从 IC 变成管 agent 的经理",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "multi-agent-loops",
+        "headline": "宝玉：多 loop 会成为趋势，每个人都要从 IC 变成管 agent 的经理"
+      }
+    ]
+  },
+  "minimax-openagentcore": {
+    "title": "MiniMax 开源 OpenAgentCore：自托管的 OpenAI Agents API，harness、模型、沙箱都可换",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "minimax-openagentcore",
+        "headline": "MiniMax 开源 OpenAgentCore：自托管的 OpenAI Agents API，harness、模型、沙箱都可换"
+      }
+    ]
+  },
+  "langchain-1028": {
+    "title": "LangChain：开源设计 agent Content Studio，LangSmith 追踪缓存命中率，Box 的父子 agent",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "langchain-1028",
+        "headline": "LangChain：开源设计 agent Content Studio，LangSmith 追踪缓存命中率，Box 的父子 agent"
+      }
+    ]
+  },
+  "stanford-cs329z": {
+    "title": "斯坦福 CS329Z 第 10 课：Terminal-Bench 与 Harbor，「评测就是真相」",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "stanford-cs329z",
+        "headline": "斯坦福 CS329Z 第 10 课：Terminal-Bench 与 Harbor，「评测就是真相」"
+      }
+    ]
+  },
+  "hf-papers-1028": {
+    "title": "论文速递：DynaFlow、TraceTrial-Bench、InteractiveWorld、Trajectory2Gym、MiRL、StreamVibe、Omni-Woodpecker",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "hf-papers-1028",
+        "headline": "论文速递：DynaFlow、TraceTrial-Bench、InteractiveWorld、Trajectory2Gym、MiRL、StreamVibe、Omni-Woodpecker"
+      }
+    ]
+  },
+  "dev-tools-1028": {
+    "title": "开发工具速递：Cursor 设计模式加「标注」、Claude 插件界面改版、Hex 式代码 UI、合并冲突不再难",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "dev-tools-1028",
+        "headline": "开发工具速递：Cursor 设计模式加「标注」、Claude 插件界面改版、Hex 式代码 UI、合并冲突不再难"
+      }
+    ]
+  },
+  "ai-agent-judgment-study": {
+    "title": "Anthropic 研究：专家与 agent 合作时，会被 agent 的立场带着走",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "ai-agent-judgment-study",
+        "headline": "Anthropic 研究：专家与 agent 合作时，会被 agent 的立场带着走"
+      }
+    ]
+  },
+  "ai-views-1028": {
+    "title": "AI 观点：思维链被藏起来、「AI 全是骗局」论、世界走向何方",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "ai-views-1028",
+        "headline": "AI 观点：思维链被藏起来、「AI 全是骗局」论、世界走向何方"
+      }
+    ]
+  },
+  "community-misc-1028": {
+    "title": "工具与作品：乔木的设计 skill、雅思单词工具、Renoise MCP，宝玉的张爱玲讲座视频",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "community-misc-1028",
+        "headline": "工具与作品：乔木的设计 skill、雅思单词工具、Renoise MCP，宝玉的张爱玲讲座视频"
+      }
+    ]
+  },
+  "ipyauth-pkce": {
+    "title": "ipyauth-pkce：在 notebook 单元格里用 OAuth2/OIDC 登录",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "ipyauth-pkce",
+        "headline": "ipyauth-pkce：在 notebook 单元格里用 OAuth2/OIDC 登录"
+      }
+    ]
+  },
+  "chp-cve-question": {
+    "title": "论坛提问：configurable-http-proxy 是否受 CVE-2026-111497 影响",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "chp-cve-question",
+        "headline": "论坛提问：configurable-http-proxy 是否受 CVE-2026-111497 影响"
+      }
+    ]
+  },
+  "hex-4": {
+    "title": "Hex 4.0：从零重建、「为 agent 打造的分析平台」，融资 1 亿美元",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "hex-4",
+        "headline": "Hex 4.0：从零重建、「为 agent 打造的分析平台」，融资 1 亿美元"
+      }
+    ]
+  },
+  "jupyter-bsky-misc-1028": {
+    "title": "Bluesky 上的零星讨论",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "jupyter-bsky-misc-1028",
+        "headline": "Bluesky 上的零星讨论"
+      }
+    ]
+  },
+  "llm-ontology-keyhole": {
+    "title": "LLM 生成本体的「钥匙孔效应」，以及「蓝图必须是你自己的」",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "llm-ontology-keyhole",
+        "headline": "LLM 生成本体的「钥匙孔效应」，以及「蓝图必须是你自己的」"
+      }
+    ]
+  },
+  "juan-benet-neurotech": {
+    "title": "Juan Benet：神经科技是人类下一个前沿，PLC Neurotech 基金",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "juan-benet-neurotech",
+        "headline": "Juan Benet：神经科技是人类下一个前沿，PLC Neurotech 基金"
+      }
+    ]
+  },
+  "wikimedia-diff-1028": {
+    "title": "Wikimedia Diff：泰米尔语维基两天实习、尼日利亚选举信息研讨会、埃尔比勒维基营",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "wikimedia-diff-1028",
+        "headline": "Wikimedia Diff：泰米尔语维基两天实习、尼日利亚选举信息研讨会、埃尔比勒维基营"
+      }
+    ]
+  },
+  "pensoft-1028": {
+    "title": "Pensoft：1936 年采到的千足虫 90 年后被正式描述；旗下期刊参加 COASTSCAPES 大会",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "pensoft-1028",
+        "headline": "Pensoft：1936 年采到的千足虫 90 年后被正式描述；旗下期刊参加 COASTSCAPES 大会"
+      }
+    ]
+  },
+  "open-science-bsky-1028": {
+    "title": "Bluesky「open science」速览：资助方政策推动方法公开、Unjournal 与 I4R 联合研讨、加拿大开放科学会议",
+    "appearances": [
+      {
+        "date": "2026-10-28",
+        "anchor": "open-science-bsky-1028",
+        "headline": "Bluesky「open science」速览：资助方政策推动方法公开、Unjournal 与 I4R 联合研讨、加拿大开放科学会议"
       }
     ]
   }
