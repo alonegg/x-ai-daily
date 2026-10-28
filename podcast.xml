@@ -25,6 +25,38 @@
       <itunes:name>CHUNLIN</itunes:name>
     </itunes:owner>
     <item>
+      <title>10 月 29 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-10-29.html</link>
+      <description>昨天 AI 圈：Google 发布 Gemini 4 Carbon、Artificial Analysis v5 拉大开放权重差距、GitHub Copilot 自动选模型；评论聊 PRC 出版模式之争、OpenAlex 期刊名单、多智能体的四个难题
+
+章节：
+0:00 开场与头条预告
+1:04 快讯
+6:53 重点一：Gemini 4 Carbon
+8:36 重点二：排行榜改用私有题
+10:15 重点三：GitHub Copilot 学会挑模型
+11:37 重点四：为 agent 重做代码托管
+12:48 重点五：主动型 agent 就是定时任务
+14:20 重点六：红果与字节时间
+15:42 重点七：AI 剪视频走上编程的老路
+17:20 评论一：先发表再评审，是进步还是换汤不换药
+19:00 评论二：开放数据里的信任标签
+20:22 评论三：上千个 agent 一起干活，缺什么
+22:18 评论四：面试在考什么
+23:53 评论五：上手实测一个开源 OCR
+25:16 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-29.html</description>
+      <itunes:summary>昨天 AI 圈：Google 发布 Gemini 4 Carbon、Artificial Analysis v5 拉大开放权重差距、GitHub Copilot 自动选模型；评论聊 PRC 出版模式之争、OpenAlex 期刊名单、多智能体的四个难题</itunes:summary>
+      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-29.mp3" length="12347180" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:25:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>10 月 28 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-10-28.html</link>
       <description>昨天 AI 圈的新鲜事：AI 推翻指数时间假设、Axiom 用 Lean 核对完有限单群分类定理、Google DeepMind 发布 Genie 4、Claude 参与新药研发；评论聊专家被 agent 带着走、LLM 本体的钥匙孔效应、T3 Code 的工具评测、看不见的思维链和 Hex 4.0
@@ -151,7 +183,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Wed, 28 Oct 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Wed, 28 Oct 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Thu, 29 Oct 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Thu, 29 Oct 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
