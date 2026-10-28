@@ -1455,7 +1455,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 后续：0.1.3 稳定版、用评测把工具描述砍掉一半、每天约 500 万美元 token 流过",
+    "title": "T3 Code 后续：跨机器编排、单个 MCP 控制整个机队，T3 Connect 隧道收费",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1511,6 +1511,11 @@
         "date": "2026-10-28",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 后续：0.1.3 稳定版、用评测把工具描述砍掉一半、每天约 500 万美元 token 流过"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 后续：跨机器编排、单个 MCP 控制整个机队，T3 Connect 隧道收费"
       }
     ]
   },
@@ -3395,12 +3400,17 @@
     ]
   },
   "langchain-design-agent": {
-    "title": "LangChain 的设计 agent：8 月以来交付 3000 多个素材",
+    "title": "Content Studio 后续：模型变强后，删掉大部分规则反而更有创意",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "langchain-design-agent",
         "headline": "LangChain 的设计 agent：8 月以来交付 3000 多个素材"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "langchain-design-agent",
+        "headline": "Content Studio 后续：模型变强后，删掉大部分规则反而更有创意"
       }
     ]
   },
@@ -4395,7 +4405,7 @@
     ]
   },
   "okfn-open-tech-week": {
-    "title": "OKFN 后续：开放技术研究研讨会落幕，MozFest 在巴塞罗那开幕",
+    "title": "OKFN 在 MozFest：用 MCP 开放数据、联手对付 AI 剥削公共品",
     "appearances": [
       {
         "date": "2026-10-24",
@@ -4411,6 +4421,11 @@
         "date": "2026-10-28",
         "anchor": "okfn-open-tech-week",
         "headline": "OKFN 后续：开放技术研究研讨会落幕，MozFest 在巴塞罗那开幕"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "okfn-open-tech-week",
+        "headline": "OKFN 在 MozFest：用 MCP 开放数据、联手对付 AI 剥削公共品"
       }
     ]
   },
@@ -4505,7 +4520,7 @@
     ]
   },
   "felix-rieseberg-interview": {
-    "title": "Felix Rieseberg 后续：「编程面试已死」，冲劲胜过资历",
+    "title": "Felix Rieseberg 后续：「冲劲胜过资历」引出更多讨论",
     "appearances": [
       {
         "date": "2026-10-25",
@@ -4516,6 +4531,11 @@
         "date": "2026-10-28",
         "anchor": "felix-rieseberg-interview",
         "headline": "Felix Rieseberg 后续：「编程面试已死」，冲劲胜过资历"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "felix-rieseberg-interview",
+        "headline": "Felix Rieseberg 后续：「冲劲胜过资历」引出更多讨论"
       }
     ]
   },
@@ -4890,7 +4910,7 @@
     ]
   },
   "omarchy-ipad-freebsd": {
-    "title": "Omarchy 后续：平板适配、招设计与社区负责人、想跑在 BlueChip 上",
+    "title": "Omarchy 后续：4.5 RC2 最快 6 秒装完，levelsio 开箱 DHH 寄的 Dell XPS 14",
     "appearances": [
       {
         "date": "2026-10-26",
@@ -4901,6 +4921,11 @@
         "date": "2026-10-28",
         "anchor": "omarchy-ipad-freebsd",
         "headline": "Omarchy 后续：平板适配、招设计与社区负责人、想跑在 BlueChip 上"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "omarchy-ipad-freebsd",
+        "headline": "Omarchy 后续：4.5 RC2 最快 6 秒装完，levelsio 开箱 DHH 寄的 Dell XPS 14"
       }
     ]
   },
@@ -5060,7 +5085,7 @@
     ]
   },
   "openai-science-discoveries": {
-    "title": "OpenAI 三项发现的细节：推翻 ETH、证明杨-米尔斯理论存在、Kakeya 推到所有维度",
+    "title": "AI 做科研后续：杨-米尔斯工作组声明；CFSG 形式化证明「可能是最大开源项目之一」；Claude 新药研发",
     "appearances": [
       {
         "date": "2026-10-27",
@@ -5071,6 +5096,11 @@
         "date": "2026-10-28",
         "anchor": "openai-science-discoveries",
         "headline": "OpenAI 三项发现的细节：推翻 ETH、证明杨-米尔斯理论存在、Kakeya 推到所有维度"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "openai-science-discoveries",
+        "headline": "AI 做科研后续：杨-米尔斯工作组声明；CFSG 形式化证明「可能是最大开源项目之一」；Claude 新药研发"
       }
     ]
   },
@@ -5335,12 +5365,17 @@
     ]
   },
   "orcid-gpf": {
-    "title": "ORCID 全球参与基金开放申请，10 月 31 日截止",
+    "title": "ORCID 全球参与基金 10 月 31 日截止",
     "appearances": [
       {
         "date": "2026-10-27",
         "anchor": "orcid-gpf",
         "headline": "ORCID 全球参与基金开放申请，10 月 31 日截止"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "orcid-gpf",
+        "headline": "ORCID 全球参与基金 10 月 31 日截止"
       }
     ]
   },
@@ -5455,22 +5490,32 @@
     ]
   },
   "anthropic-gsa-onegov": {
-    "title": "Anthropic 扩大与美国总务管理局合作：各级政府用 Claude 打六折",
+    "title": "犹他州 4 周试点：34 名政府开发者用 Claude Code，71% 说省了 20 小时以上",
     "appearances": [
       {
         "date": "2026-10-28",
         "anchor": "anthropic-gsa-onegov",
         "headline": "Anthropic 扩大与美国总务管理局合作：各级政府用 Claude 打六折"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "anthropic-gsa-onegov",
+        "headline": "犹他州 4 周试点：34 名政府开发者用 Claude Code，71% 说省了 20 小时以上"
       }
     ]
   },
   "cohere-open-traces": {
-    "title": "Cohere 公开 Qwen3.8 异常行为研究的轨迹和复现脚本",
+    "title": "Cohere 的 Qwen 异常行为报告：更多人开始复查轨迹",
     "appearances": [
       {
         "date": "2026-10-28",
         "anchor": "cohere-open-traces",
         "headline": "Cohere 公开 Qwen3.8 异常行为研究的轨迹和复现脚本"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "cohere-open-traces",
+        "headline": "Cohere 的 Qwen 异常行为报告：更多人开始复查轨迹"
       }
     ]
   },
@@ -5515,12 +5560,17 @@
     ]
   },
   "multi-agent-loops": {
-    "title": "宝玉：多 loop 会成为趋势，每个人都要从 IC 变成管 agent 的经理",
+    "title": "多 agent 管理与 AI 编程经验：任务控制在小时级，验收要落到端到端",
     "appearances": [
       {
         "date": "2026-10-28",
         "anchor": "multi-agent-loops",
         "headline": "宝玉：多 loop 会成为趋势，每个人都要从 IC 变成管 agent 的经理"
+      },
+      {
+        "date": "2026-10-29",
+        "anchor": "multi-agent-loops",
+        "headline": "多 agent 管理与 AI 编程经验：任务控制在小时级，验收要落到端到端"
       }
     ]
   },
@@ -5691,6 +5741,416 @@
         "date": "2026-10-28",
         "anchor": "open-science-bsky-1028",
         "headline": "Bluesky「open science」速览：资助方政策推动方法公开、Unjournal 与 I4R 联合研讨、加拿大开放科学会议"
+      }
+    ]
+  },
+  "gemini-4-carbon": {
+    "title": "Google 发布 Gemini 4 Carbon：综合指数第一，本周只给网络安全防御方",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "gemini-4-carbon",
+        "headline": "Google 发布 Gemini 4 Carbon：综合指数第一，本周只给网络安全防御方"
+      }
+    ]
+  },
+  "aa-index-v5": {
+    "title": "Artificial Analysis 综合指数 v5：六成私有题，开放权重差距从 3 分扩大到 12 分",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "aa-index-v5",
+        "headline": "Artificial Analysis 综合指数 v5：六成私有题，开放权重差距从 3 分扩大到 12 分"
+      }
+    ]
+  },
+  "anthropic-inference-margin": {
+    "title": "从招股书推算：Opus 5.5 的服务成本约每百万 token 0.6/3 美元",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "anthropic-inference-margin",
+        "headline": "从招股书推算：Opus 5.5 的服务成本约每百万 token 0.6/3 美元"
+      }
+    ]
+  },
+  "gpt-61-terra-parsebench": {
+    "title": "GPT-6.1 Terra 文档解析：表格强，版面和图表弱",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "gpt-61-terra-parsebench",
+        "headline": "GPT-6.1 Terra 文档解析：表格强，版面和图表弱"
+      }
+    ]
+  },
+  "github-universe-2026": {
+    "title": "GitHub Universe：Copilot 自动选模型的 Fusion、平均 10 美元一次的 Max 代码审查",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "github-universe-2026",
+        "headline": "GitHub Universe：Copilot 自动选模型的 Fusion、平均 10 美元一次的 Max 代码审查"
+      }
+    ]
+  },
+  "entire-trail": {
+    "title": "Entire：前 GitHub CEO 的新托管平台，用 Trail 代替 PR 时间线",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "entire-trail",
+        "headline": "Entire：前 GitHub CEO 的新托管平台，用 Trail 代替 PR 时间线"
+      }
+    ]
+  },
+  "claude-legal-gallery": {
+    "title": "Claude for Legal 上线工具库：查引文、合同偏差、法规时间线",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "claude-legal-gallery",
+        "headline": "Claude for Legal 上线工具库：查引文、合同偏差、法规时间线"
+      }
+    ]
+  },
+  "apple-creator-studio-ai": {
+    "title": "Apple Creator Studio 大更新：iWork 支持 MCP，Keynote 推出开放格式 .keyx",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "apple-creator-studio-ai",
+        "headline": "Apple Creator Studio 大更新：iWork 支持 MCP，Keynote 推出开放格式 .keyx"
+      }
+    ]
+  },
+  "chatgpt-dot-texting": {
+    "title": "ChatGPT 的 dot 可以发短信了",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "chatgpt-dot-texting",
+        "headline": "ChatGPT 的 dot 可以发短信了"
+      }
+    ]
+  },
+  "codex-quota-cut": {
+    "title": "网传 Codex 老用户额度减半（10 月 30 日起）",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "codex-quota-cut",
+        "headline": "网传 Codex 老用户额度减半（10 月 30 日起）"
+      }
+    ]
+  },
+  "products-misc-1029": {
+    "title": "产品小动态：Basecamp for Claude、stripe pay、Rex 终端、Firecrawl MCP、Bivia 决策模型",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "products-misc-1029",
+        "headline": "产品小动态：Basecamp for Claude、stripe pay、Rex 终端、Firecrawl MCP、Bivia 决策模型"
+      }
+    ]
+  },
+  "katelyn-lesse-multiagent": {
+    "title": "Katelyn Lesse：多智能体系统还缺程序员解决四个难题",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "katelyn-lesse-multiagent",
+        "headline": "Katelyn Lesse：多智能体系统还缺程序员解决四个难题"
+      }
+    ]
+  },
+  "proactive-agents-cron": {
+    "title": "「主动 agent 基本就是带提示词的 cron」：LangChain 说七成以上运行来自定时任务",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "proactive-agents-cron",
+        "headline": "「主动 agent 基本就是带提示词的 cron」：LangChain 说七成以上运行来自定时任务"
+      }
+    ]
+  },
+  "openwiki-evidence-graph": {
+    "title": "OpenWiki 加证据图：跨来源问题准确率再高 27%",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "openwiki-evidence-graph",
+        "headline": "OpenWiki 加证据图：跨来源问题准确率再高 27%"
+      }
+    ]
+  },
+  "minimax-mcode-stack": {
+    "title": "MiniMax 开源 MCode Stack：团队每天在用的 agent 工作流和 skill",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "minimax-mcode-stack",
+        "headline": "MiniMax 开源 MCode Stack：团队每天在用的 agent 工作流和 skill"
+      }
+    ]
+  },
+  "claude-code-tips-1029": {
+    "title": "Claude Code 用法：动态工作流、提前压缩、worktree 自动清理",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "claude-code-tips-1029",
+        "headline": "Claude Code 用法：动态工作流、提前压缩、worktree 自动清理"
+      }
+    ]
+  },
+  "ai-app-playbook": {
+    "title": "开源操作规程：让 coding agent 按固定栈做出能赚钱的消费级 App",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "ai-app-playbook",
+        "headline": "开源操作规程：让 coding agent 按固定栈做出能赚钱的消费级 App"
+      }
+    ]
+  },
+  "ios-design-skills": {
+    "title": "iOS 复刻三件套 skill：Appllama、Expo、Emil Kowalski",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "ios-design-skills",
+        "headline": "iOS 复刻三件套 skill：Appllama、Expo、Emil Kowalski"
+      }
+    ]
+  },
+  "agent-video-editing": {
+    "title": "AI 剪视频：Opus 5.5 之后，大部分剪辑 skill 用不上了",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "agent-video-editing",
+        "headline": "AI 剪视频：Opus 5.5 之后，大部分剪辑 skill 用不上了"
+      }
+    ]
+  },
+  "personal-agents-1029": {
+    "title": "个人 agent 的日常：Grok Bot 管 X 账号、Muse 替人度假、服务器上的 Claude Code",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "personal-agents-1029",
+        "headline": "个人 agent 的日常：Grok Bot 管 X 账号、Muse 替人度假、服务器上的 Claude Code"
+      }
+    ]
+  },
+  "minicpm-ocr": {
+    "title": "OpenBMB 开源 MiniCPM-OCR：1B 解析模型加 2B「守门员」",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "minicpm-ocr",
+        "headline": "OpenBMB 开源 MiniCPM-OCR：1B 解析模型加 2B「守门员」"
+      }
+    ]
+  },
+  "open-models-1029": {
+    "title": "开源模型速递：Nemotron 3.5 Transcribe、Flint、Samaya Sterling、Prism、Hy-Nomas",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "open-models-1029",
+        "headline": "开源模型速递：Nemotron 3.5 Transcribe、Flint、Samaya Sterling、Prism、Hy-Nomas"
+      }
+    ]
+  },
+  "hf-papers-1029": {
+    "title": "论文与基准速递：HABIT-Bench、ExplorationBench、HyperLogic、MPO、Trinity、Work Agents 综述",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "hf-papers-1029",
+        "headline": "论文与基准速递：HABIT-Bench、ExplorationBench、HyperLogic、MPO、Trinity、Work Agents 综述"
+      }
+    ]
+  },
+  "agent-courses-1029": {
+    "title": "课程与讲座：CMU「AI Agents for Human Work」、Hugging Face 工业界训练 agent 分享",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "agent-courses-1029",
+        "headline": "课程与讲座：CMU「AI Agents for Human Work」、Hugging Face 工业界训练 agent 分享"
+      }
+    ]
+  },
+  "ai-misc-research-1029": {
+    "title": "小发现：用 1930 年前语料训练的模型做「神经元图谱」；DeepMind 的 DetectorScope",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "ai-misc-research-1029",
+        "headline": "小发现：用 1930 年前语料训练的模型做「神经元图谱」；DeepMind 的 DetectorScope"
+      }
+    ]
+  },
+  "openai-swe-interview": {
+    "title": "网传 OpenAI 软件工程师面试全流程：带回家项目逐行追问，部分人加考「用 AI 写代码」",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "openai-swe-interview",
+        "headline": "网传 OpenAI 软件工程师面试全流程：带回家项目逐行追问，部分人加考「用 AI 写代码」"
+      }
+    ]
+  },
+  "hongguo-byte-time": {
+    "title": "红果日活 1.68 亿、人均每天两小时：「字节时间」之争",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "hongguo-byte-time",
+        "headline": "红果日活 1.68 亿、人均每天两小时：「字节时间」之争"
+      }
+    ]
+  },
+  "ai-skills-paradox": {
+    "title": "「技术人在难过，非技术人却希望自己更懂技术」",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "ai-skills-paradox",
+        "headline": "「技术人在难过，非技术人却希望自己更懂技术」"
+      }
+    ]
+  },
+  "vibe-gaming": {
+    "title": "Simon Willison：Opus 5.5 让 AI 能做出「真正好玩」的游戏",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "vibe-gaming",
+        "headline": "Simon Willison：Opus 5.5 让 AI 能做出「真正好玩」的游戏"
+      }
+    ]
+  },
+  "chatgpt-medication-death": {
+    "title": "ChatGPT「用药指导」与一名华人女子的死亡（纽约时报中文网）",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "chatgpt-medication-death",
+        "headline": "ChatGPT「用药指导」与一名华人女子的死亡（纽约时报中文网）"
+      }
+    ]
+  },
+  "industry-misc-1029": {
+    "title": "人事与行业观察：Jenny Wen 去 xAI、Stack Overflow 提问数新低、资管业的 AI 合规",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "industry-misc-1029",
+        "headline": "人事与行业观察：Jenny Wen 去 xAI、Stack Overflow 提问数新低、资管业的 AI 合规"
+      }
+    ]
+  },
+  "dev-views-1029": {
+    "title": "观点：Windows Copilot 催生了反 AI 情绪？Linux 开发更快，别逼用户去 dashboard",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "dev-views-1029",
+        "headline": "观点：Windows Copilot 催生了反 AI 情绪？Linux 开发更快，别逼用户去 dashboard"
+      }
+    ]
+  },
+  "eosc-eu-node-jupyterlab": {
+    "title": "EOSC EU Node 新版：Conda Switcher 让 JupyterLab 环境可复现",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "eosc-eu-node-jupyterlab",
+        "headline": "EOSC EU Node 新版：Conda Switcher 让 JupyterLab 环境可复现"
+      }
+    ]
+  },
+  "jupyter-bsky-misc-1029": {
+    "title": "Bluesky 上的 Jupyter 零星动态",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "jupyter-bsky-misc-1029",
+        "headline": "Bluesky 上的 Jupyter 零星动态"
+      }
+    ]
+  },
+  "prc-alliance-launch": {
+    "title": "PRC 联盟成立，RIO 期刊是创始成员；同日有人发长文批评 PRC 模式",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "prc-alliance-launch",
+        "headline": "PRC 联盟成立，RIO 期刊是创始成员；同日有人发长文批评 PRC 模式"
+      }
+    ]
+  },
+  "openalex-journal-lists": {
+    "title": "Bianca Kramer：OpenAlex 的期刊名单，「心情复杂」",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "openalex-journal-lists",
+        "headline": "Bianca Kramer：OpenAlex 的期刊名单，「心情复杂」"
+      }
+    ]
+  },
+  "connected-data-1029": {
+    "title": "Connected Data：图数据库的锁定不在数据，挪威铁路和 Roche 的知识图谱",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "connected-data-1029",
+        "headline": "Connected Data：图数据库的锁定不在数据，挪威铁路和 Roche 的知识图谱"
+      }
+    ]
+  },
+  "impetus-longevity-data": {
+    "title": "Juan Benet：为长寿研究众筹关键数据集",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "impetus-longevity-data",
+        "headline": "Juan Benet：为长寿研究众筹关键数据集"
+      }
+    ]
+  },
+  "open-datasets-1029": {
+    "title": "开放数据集：NVIDIA Granary-HiFi 和 SimReady 资产库",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "open-datasets-1029",
+        "headline": "开放数据集：NVIDIA Granary-HiFi 和 SimReady 资产库"
+      }
+    ]
+  },
+  "wikimedia-diff-1029": {
+    "title": "Wikimedia Diff：双料获奖者、阿拉伯语维基 20 年、拉美技术社区通话",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "wikimedia-diff-1029",
+        "headline": "Wikimedia Diff：双料获奖者、阿拉伯语维基 20 年、拉美技术社区通话"
+      }
+    ]
+  },
+  "open-science-bsky-1029": {
+    "title": "Bluesky「open science」速览：OSPARK 训练营、开放科学心理学指南、Unjournal 研讨",
+    "appearances": [
+      {
+        "date": "2026-10-29",
+        "anchor": "open-science-bsky-1029",
+        "headline": "Bluesky「open science」速览：OSPARK 训练营、开放科学心理学指南、Unjournal 研讨"
       }
     ]
   }
