@@ -2,7 +2,7 @@
 """Render digests/*.md to HTML, rebuild index.html, commit & push.
 Usage: python3 scripts/publish.py digests/2026-10-14.md [--no-push]
   (the md file may live elsewhere; it is copied into digests/YYYY-MM-DD.md)"""
-import html, json, re, shutil, subprocess, sys, datetime
+import html, json, re, shutil, subprocess, sys, datetime, uuid
 from email.utils import format_datetime
 from pathlib import Path
 import xml.etree.ElementTree as ET
@@ -20,6 +20,21 @@ POD = ROOT / "podcast"
 WEEK = "一二三四五六日"
 SITE = "https://" + ((ROOT / "CNAME").read_text().strip() if (ROOT / "CNAME").exists() else "daily.chunlin.ch") + "/"
 FEED = "podcast.xml"
+# site_config.json (optional): {"op3": {"enabled": true}, "analytics": {"cf_token": ""}}
+#   op3.enabled      → RSS <enclosure> urls get the OP3 prefix (https://op3.dev/e,pg=<podcast:guid>/host/path); pages/R2 untouched
+#   analytics.cf_token → Cloudflare Web Analytics beacon in every page <head> (omitted when empty)
+CFG = json.loads((ROOT / "site_config.json").read_text(encoding="utf-8")) if (ROOT / "site_config.json").exists() else {}
+OP3 = CFG.get("op3", {}); CF_TOKEN = (CFG.get("analytics", {}) or {}).get("cf_token", "").strip()
+# podcast:guid per Podcasting 2.0 spec: uuid5(namespace, feed url without scheme / trailing slash)
+POD_GUID = str(uuid.uuid5(uuid.UUID("ead4c236-bf58-58c6-a2c6-a6b28d128cb6"), re.sub(r"^\w+://", "", SITE + FEED).rstrip("/")))
+
+def op3_url(u):
+    """Prefix an audio url with OP3 (if enabled). https targets drop the scheme; http keeps it (per op3.dev/setup)."""
+    if not OP3.get("enabled") or not u or "op3.dev/e" in u: return u
+    pre = OP3.get("prefix", "https://op3.dev/e").rstrip("/") + (f",pg={POD_GUID}" if OP3.get("pg", True) else "")
+    return f"{pre}/{u[len('https://'):] if u.startswith('https://') else u}"
+
+CF_BEACON = (f'<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon=\'{{"token": "{html.escape(CF_TOKEN)}"}}\'></script>' if CF_TOKEN else "")
 SHOW = {"title": "X 每日 AI 播报", "author": "CHUNLIN", "lang": "zh-cn", "cover": "assets/podcast-cover.jpg",
         "desc": "每天早上一期、约 25 分钟的 AI 新闻播报：先过快讯，再讲重点，最后是值得评论、一起讨论的话题。内容来自 X 每日 AI 摘要，每条原帖链接见当天网页。"}
 
@@ -366,7 +381,7 @@ def page(title, body, css, nav, script=False):
     return f"""<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#f5f2eb" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#131211" media="(prefers-color-scheme: dark)"><title>{html.escape(title)}</title>
-{THEME_HEAD}<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='5' width='17' height='17' rx='5' fill='%232a5db0'/%3E%3Crect x='3' y='3' width='17' height='17' rx='5' fill='%23c2410c'/%3E%3C/svg%3E"><link rel="stylesheet" href="{css}"><link rel="alternate" type="application/rss+xml" title="{SHOW["title"]}" href="{SITE}{FEED}"></head><body id="top"><header class="top"><div class="bar">{brand}<nav>{"".join(rest)}</nav>{THEME_BTN}</div></header><main>
+{THEME_HEAD}<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='5' width='17' height='17' rx='5' fill='%232a5db0'/%3E%3Crect x='3' y='3' width='17' height='17' rx='5' fill='%23c2410c'/%3E%3C/svg%3E"><link rel="stylesheet" href="{css}"><link rel="alternate" type="application/rss+xml" title="{SHOW["title"]}" href="{SITE}{FEED}">{CF_BEACON}</head><body id="top"><header class="top"><div class="bar">{brand}<nav>{"".join(rest)}</nav>{THEME_BTN}</div></header><main>
 {body}
 <footer>X 每日 AI 摘要 · 由小X整理 · 每天北京时间早上更新 · 每条均附原文链接，标注「长推/系列」的已阅读完整版本</footer></main>{SCRIPT if script else ""}{POD_JS if 'id="podcast"' in body else ""}{THEME_JS}</body></html>
 """
@@ -428,8 +443,8 @@ def build():
 
 def write_rss():
     """podcast.xml: RSS 2.0 + iTunes tags, one <item> per podcast/DATE.json (newest first). Validated by re-parsing."""
-    IT = "http://www.itunes.com/dtds/podcast-1.0.dtd"; AT = "http://www.w3.org/2005/Atom"
-    ET.register_namespace("itunes", IT); ET.register_namespace("atom", AT)
+    IT = "http://www.itunes.com/dtds/podcast-1.0.dtd"; AT = "http://www.w3.org/2005/Atom"; PC = "https://podcastindex.org/namespace/1.0"
+    ET.register_namespace("itunes", IT); ET.register_namespace("atom", AT); ET.register_namespace("podcast", PC)
     def sub(parent, tag, text=None, **attrs):
         e = ET.SubElement(parent, tag, attrs)
         if text is not None: e.text = text
@@ -444,6 +459,7 @@ def write_rss():
     ET.SubElement(ch, i("category"), {"text": "Technology"}); n = ET.SubElement(ch, i("category"), {"text": "News"}); ET.SubElement(n, i("category"), {"text": "Tech News"})
     sub(ch, i("explicit"), "false"); sub(ch, i("type"), "episodic")
     ow = sub(ch, i("owner")); sub(ow, i("name"), SHOW["author"])
+    sub(ch, f"{{{PC}}}guid", POD_GUID)
     dates = sorted({p.stem for p in POD.glob("????-??-??.json")} | {p.stem for p in POD.glob("????-??-??.mp3")}, reverse=True)
     last = None
     for d in dates:
@@ -456,7 +472,7 @@ def write_rss():
         desc = (pi.get("summary") or "") + (("\n\n章节：" + chs) if chs else "") + f"\n\n当天摘要与原帖链接：{SITE}digests/{d}.html"
         sub(it, "title", title); sub(it, "link", f"{SITE}digests/{d}.html"); sub(it, "description", desc)
         sub(it, i("summary"), pi.get("summary") or title)
-        sub(it, "enclosure", url=pi["url"], length=str(int(pi.get("size") or 0)), type="audio/mpeg")
+        sub(it, "enclosure", url=op3_url(pi["url"]), length=str(int(pi.get("size") or 0)), type="audio/mpeg")
         sub(it, "guid", f"{SITE}podcast/{d}", isPermaLink="false"); sub(it, "pubDate", format_datetime(pub))
         dur = int(round(pi.get("duration") or 0)); sub(it, i("duration"), f"{dur//3600:02d}:{dur//60%60:02d}:{dur%60:02d}")
         sub(it, i("episodeType"), "full"); sub(it, i("explicit"), "false"); sub(it, i("image"), href=SITE + SHOW["cover"])

@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
   <channel>
     <title>X 每日 AI 播报</title>
     <link>https://daily.chunlin.ch/</link>
@@ -24,6 +24,7 @@
     <itunes:owner>
       <itunes:name>CHUNLIN</itunes:name>
     </itunes:owner>
+    <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
       <title>10 月 29 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-10-29.html</link>
@@ -48,7 +49,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-29.html</description>
       <itunes:summary>昨天 AI 圈：Google 发布 Gemini 4 Carbon、Artificial Analysis v5 拉大开放权重差距、GitHub Copilot 自动选模型；评论聊 PRC 出版模式之争、OpenAlex 期刊名单、多智能体的四个难题</itunes:summary>
-      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-29.mp3" length="12347180" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-29.mp3" length="12347180" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:43</itunes:duration>
@@ -80,7 +81,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-28.html</description>
       <itunes:summary>昨天 AI 圈的新鲜事：AI 推翻指数时间假设、Axiom 用 Lean 核对完有限单群分类定理、Google DeepMind 发布 Genie 4、Claude 参与新药研发；评论聊专家被 agent 带着走、LLM 本体的钥匙孔效应、T3 Code 的工具评测、看不见的思维链和 Hex 4.0</itunes:summary>
-      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-28.mp3" length="12099692" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-28.mp3" length="12099692" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-28</guid>
       <pubDate>Wed, 28 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:12</itunes:duration>
@@ -111,7 +112,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-27.html</description>
       <itunes:summary>昨天 AI 圈的新鲜事：Anthropic 公开 S-1 招股书，OpenAI 发布 GPT-6.1 Terra，微软向约 6 万员工提供自愿离职补偿；评论聊 HackBench、Claude Code 代码审查、AI 审稿助手、Jupyter AI 扩展地图和字节的组织之争</itunes:summary>
-      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-27.mp3" length="12364844" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-27.mp3" length="12364844" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:46</itunes:duration>
@@ -143,7 +144,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-26.html</description>
       <itunes:summary>昨天 AI 圈的新鲜事：AI 帮站长做安全审计、Tailscale SSH 被曝 11 项问题，Agents SDK 额度 bug，Grok Bot 连上 X Money 引发不满；评论聊主循环加 Skills、规格驱动开发、手写代码投票等五个话题</itunes:summary>
-      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-26.mp3" length="12454316" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-26.mp3" length="12454316" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:57</itunes:duration>
@@ -175,7 +176,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-25.html</description>
       <itunes:summary>昨天 AI 圈的新鲜事：Thariq 离开 Anthropic，Kimi K3.1 Pro 与 DeepSeek 开源推理引擎，压缩库漏洞扩散；评论聊朴素检索为何打败复杂记忆等五个话题</itunes:summary>
-      <enclosure url="https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-25.mp3" length="13189023" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-25.mp3" length="13189023" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:27:29</itunes:duration>
