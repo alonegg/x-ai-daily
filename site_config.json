@@ -1,4 +1,9 @@
 {
-  "op3": {"enabled": true, "pg": true},
-  "analytics": {"cf_token": ""}
+  "op3": {
+    "enabled": true,
+    "pg": true
+  },
+  "analytics": {
+    "cf_token": "4ca48acc46c14c0b840b6a55ed2cd75a"
+  }
 }
