@@ -70,7 +70,7 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Meta Muse 后续：LisanBench 大更新，两款 Muse Wonder 排第一、第二",
+    "title": "Meta Muse：四国上线都排在 ChatGPT 前面，「最友好」模型",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -106,6 +106,11 @@
         "date": "2026-10-25",
         "anchor": "meta-muse-wonder",
         "headline": "Meta Muse 后续：LisanBench 大更新，两款 Muse Wonder 排第一、第二"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "meta-muse-wonder",
+        "headline": "Meta Muse：四国上线都排在 ChatGPT 前面，「最友好」模型"
       }
     ]
   },
@@ -1455,7 +1460,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 后续：跨机器编排、单个 MCP 控制整个机队，T3 Connect 隧道收费",
+    "title": "T3 Code 后续：稳定版、面板自定义，以及「终端还是图形界面」之争",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1516,6 +1521,11 @@
         "date": "2026-10-29",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 后续：跨机器编排、单个 MCP 控制整个机队，T3 Connect 隧道收费"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 后续：稳定版、面板自定义，以及「终端还是图形界面」之争"
       }
     ]
   },
@@ -3240,7 +3250,7 @@
     ]
   },
   "anthropic-s1-ipo": {
-    "title": "Anthropic 公开 S-1：拟以 ANT 在纳斯达克上市，上半年收入 163 亿美元，二季度经营利润 10 亿",
+    "title": "Anthropic S-1 再解读：二季度经营利润 9.74 亿美元",
     "appearances": [
       {
         "date": "2026-10-22",
@@ -3251,6 +3261,11 @@
         "date": "2026-10-27",
         "anchor": "anthropic-s1-ipo",
         "headline": "Anthropic 公开 S-1：拟以 ANT 在纳斯达克上市，上半年收入 163 亿美元，二季度经营利润 10 亿"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "anthropic-s1-ipo",
+        "headline": "Anthropic S-1 再解读：二季度经营利润 9.74 亿美元"
       }
     ]
   },
@@ -5155,22 +5170,32 @@
     ]
   },
   "amp-how-i-work": {
-    "title": "Amp 的 Thorsten Ball：「我怎么和 agent 一起工作」",
+    "title": "Amp 团队怎么工作：21 人、每周一个会、不用 PR、一天约百次发布",
     "appearances": [
       {
         "date": "2026-10-27",
         "anchor": "amp-how-i-work",
         "headline": "Amp 的 Thorsten Ball：「我怎么和 agent 一起工作」"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "amp-how-i-work",
+        "headline": "Amp 团队怎么工作：21 人、每周一个会、不用 PR、一天约百次发布"
       }
     ]
   },
   "langchain-company-harness": {
-    "title": "LangChain：公司级 harness 的五块底座，Managed Deep Agents 0.9",
+    "title": "LangChain Managed Deep Agents 0.10 公测：内置浏览器和异步子 agent",
     "appearances": [
       {
         "date": "2026-10-27",
         "anchor": "langchain-company-harness",
         "headline": "LangChain：公司级 harness 的五块底座，Managed Deep Agents 0.9"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "langchain-company-harness",
+        "headline": "LangChain Managed Deep Agents 0.10 公测：内置浏览器和异步子 agent"
       }
     ]
   },
@@ -5315,12 +5340,17 @@
     ]
   },
   "awesome-jupyter-ai": {
-    "title": "Awesome Jupyter AI：100 多个 Jupyter AI 扩展的地图，Project Jupyter 再次推荐",
+    "title": "Awesome Jupyter AI 新增 IPython 专区",
     "appearances": [
       {
         "date": "2026-10-27",
         "anchor": "awesome-jupyter-ai",
         "headline": "Awesome Jupyter AI：100 多个 Jupyter AI 扩展的地图，Project Jupyter 再次推荐"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "awesome-jupyter-ai",
+        "headline": "Awesome Jupyter AI 新增 IPython 专区"
       }
     ]
   },
@@ -5595,12 +5625,17 @@
     ]
   },
   "stanford-cs329z": {
-    "title": "斯坦福 CS329Z 第 10 课：Terminal-Bench 与 Harbor，「评测就是真相」",
+    "title": "课程：DeepLearning.AI「Context Engineering」与斯坦福 CS329Z 第 11 讲",
     "appearances": [
       {
         "date": "2026-10-28",
         "anchor": "stanford-cs329z",
         "headline": "斯坦福 CS329Z 第 10 课：Terminal-Bench 与 Harbor，「评测就是真相」"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "stanford-cs329z",
+        "headline": "课程：DeepLearning.AI「Context Engineering」与斯坦福 CS329Z 第 11 讲"
       }
     ]
   },
@@ -5745,12 +5780,17 @@
     ]
   },
   "gemini-4-carbon": {
-    "title": "Google 发布 Gemini 4 Carbon：综合指数第一，本周只给网络安全防御方",
+    "title": "Gemini 4 Carbon 后续：编程 agent 指数仅次于 Opus 5.5，幻觉率升到 11%",
     "appearances": [
       {
         "date": "2026-10-29",
         "anchor": "gemini-4-carbon",
         "headline": "Google 发布 Gemini 4 Carbon：综合指数第一，本周只给网络安全防御方"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "gemini-4-carbon",
+        "headline": "Gemini 4 Carbon 后续：编程 agent 指数仅次于 Opus 5.5，幻觉率升到 11%"
       }
     ]
   },
@@ -5835,12 +5875,17 @@
     ]
   },
   "codex-quota-cut": {
-    "title": "网传 Codex 老用户额度减半（10 月 30 日起）",
+    "title": "OpenAI 把 Pro 各档和 Business Premium 用量翻倍，取消 Pro 200 降额",
     "appearances": [
       {
         "date": "2026-10-29",
         "anchor": "codex-quota-cut",
         "headline": "网传 Codex 老用户额度减半（10 月 30 日起）"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "codex-quota-cut",
+        "headline": "OpenAI 把 Pro 各档和 Business Premium 用量翻倍，取消 Pro 200 降额"
       }
     ]
   },
@@ -5855,12 +5900,17 @@
     ]
   },
   "katelyn-lesse-multiagent": {
-    "title": "Katelyn Lesse：多智能体系统还缺程序员解决四个难题",
+    "title": "Katelyn Lesse 在 Latent Space 的更多片段：Messages API 用 Rust 重写，沙箱逃逸「只在训练里」",
     "appearances": [
       {
         "date": "2026-10-29",
         "anchor": "katelyn-lesse-multiagent",
         "headline": "Katelyn Lesse：多智能体系统还缺程序员解决四个难题"
+      },
+      {
+        "date": "2026-10-30",
+        "anchor": "katelyn-lesse-multiagent",
+        "headline": "Katelyn Lesse 在 Latent Space 的更多片段：Messages API 用 Rust 重写，沙箱逃逸「只在训练里」"
       }
     ]
   },
@@ -6151,6 +6201,376 @@
         "date": "2026-10-29",
         "anchor": "open-science-bsky-1029",
         "headline": "Bluesky「open science」速览：OSPARK 训练营、开放科学心理学指南、Unjournal 研讨"
+      }
+    ]
+  },
+  "openai-frontier-monitoring": {
+    "title": "OpenAI 公开前沿模型监控体系：训练中模型钻 DNS 漏洞上网，15 分钟被抓到",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "openai-frontier-monitoring",
+        "headline": "OpenAI 公开前沿模型监控体系：训练中模型钻 DNS 漏洞上网，15 分钟被抓到"
+      }
+    ]
+  },
+  "claude-self-assessment": {
+    "title": "Anthropic 公布 self-assessment：Claude 每轮回答后给对话做一次安全自查",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "claude-self-assessment",
+        "headline": "Anthropic 公布 self-assessment：Claude 每轮回答后给对话做一次安全自查"
+      }
+    ]
+  },
+  "eon-era-alignment-benchmark": {
+    "title": "Eon 企业 agent 对齐基准：19 个模型、2304 次运行，四成违反规则",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "eon-era-alignment-benchmark",
+        "headline": "Eon 企业 agent 对齐基准：19 个模型、2304 次运行，四成违反规则"
+      }
+    ]
+  },
+  "openai-model-spec-1030": {
+    "title": "OpenAI 更新 Model Spec",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "openai-model-spec-1030",
+        "headline": "OpenAI 更新 Model Spec"
+      }
+    ]
+  },
+  "mistral-large-4": {
+    "title": "Mistral 开放 Mistral Large 4（Le Chonk）权重：1T 参数，主打编程 agent 和网络防御",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "mistral-large-4",
+        "headline": "Mistral 开放 Mistral Large 4（Le Chonk）权重：1T 参数，主打编程 agent 和网络防御"
+      }
+    ]
+  },
+  "jules-winding-down": {
+    "title": "Google 停掉异步编程 agent Jules，经验并入 Antigravity",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "jules-winding-down",
+        "headline": "Google 停掉异步编程 agent Jules，经验并入 Antigravity"
+      }
+    ]
+  },
+  "model-views-1030": {
+    "title": "模型观感",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "model-views-1030",
+        "headline": "模型观感"
+      }
+    ]
+  },
+  "openai-api-credits": {
+    "title": "ChatGPT Pro 和 Business 每月送最多 500 美元 API 额度",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "openai-api-credits",
+        "headline": "ChatGPT Pro 和 Business 每月送最多 500 美元 API 额度"
+      }
+    ]
+  },
+  "claude-api-128mb": {
+    "title": "Claude API 最大请求从 32 MB 提到 128 MB",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "claude-api-128mb",
+        "headline": "Claude API 最大请求从 32 MB 提到 128 MB"
+      }
+    ]
+  },
+  "dev-tools-1030": {
+    "title": "编程工具小更新",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "dev-tools-1030",
+        "headline": "编程工具小更新"
+      }
+    ]
+  },
+  "baoyu-design-v2": {
+    "title": "baoyu-design v2：把 Claude Design、Slides 和 Dashboard 搬到本地",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "baoyu-design-v2",
+        "headline": "baoyu-design v2：把 Claude Design、Slides 和 Dashboard 搬到本地"
+      }
+    ]
+  },
+  "coding-agent-mania": {
+    "title": "Thariq：用编程 agent 时会陷入一种「躁狂」",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "coding-agent-mania",
+        "headline": "Thariq：用编程 agent 时会陷入一种「躁狂」"
+      }
+    ]
+  },
+  "deepmind-economics-agi": {
+    "title": "Google DeepMind《The Economics of Intelligence》：协作能力比单兵能力更决定经济变革",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "deepmind-economics-agi",
+        "headline": "Google DeepMind《The Economics of Intelligence》：协作能力比单兵能力更决定经济变革"
+      }
+    ]
+  },
+  "hnet-bytes": {
+    "title": "H-Net 新版：直接从字节学习，效率提高 3 到 5 倍",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "hnet-bytes",
+        "headline": "H-Net 新版：直接从字节学习，效率提高 3 到 5 倍"
+      }
+    ]
+  },
+  "google-sleep": {
+    "title": "Google Research SLEEP：给大模型加「睡眠巩固」阶段，减轻灾难性遗忘",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "google-sleep",
+        "headline": "Google Research SLEEP：给大模型加「睡眠巩固」阶段，减轻灾难性遗忘"
+      }
+    ]
+  },
+  "research-misc-1030": {
+    "title": "其他研究",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "research-misc-1030",
+        "headline": "其他研究"
+      }
+    ]
+  },
+  "open-models-1030": {
+    "title": "开源模型与机器人",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "open-models-1030",
+        "headline": "开源模型与机器人"
+      }
+    ]
+  },
+  "hf-papers-1030": {
+    "title": "论文速递",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "hf-papers-1030",
+        "headline": "论文速递"
+      }
+    ]
+  },
+  "mollick-picks-shovels": {
+    "title": "Ethan Mollick：AI 创业别只学「卖铲子」",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "mollick-picks-shovels",
+        "headline": "Ethan Mollick：AI 创业别只学「卖铲子」"
+      }
+    ]
+  },
+  "startup-misc-1030": {
+    "title": "融资与公司",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "startup-misc-1030",
+        "headline": "融资与公司"
+      }
+    ]
+  },
+  "andreessen-managerial": {
+    "title": "Andreessen：AI 可能终结「经理人社会」",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "andreessen-managerial",
+        "headline": "Andreessen：AI 可能终结「经理人社会」"
+      }
+    ]
+  },
+  "cn-industry-1030": {
+    "title": "中文圈：腾讯 WorkBuddy 手册、Shopify Editions 与 Video Agent 成本",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "cn-industry-1030",
+        "headline": "中文圈：腾讯 WorkBuddy 手册、Shopify Editions 与 Video Agent 成本"
+      }
+    ]
+  },
+  "community-misc-1030": {
+    "title": "作品与日常",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "community-misc-1030",
+        "headline": "作品与日常"
+      }
+    ]
+  },
+  "jupyter-security-council-2026": {
+    "title": "Jupyter 安全委员会：今年 181 份安全通告，AI 生成的报告把积压推到历史高位",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "jupyter-security-council-2026",
+        "headline": "Jupyter 安全委员会：今年 181 份安全通告，AI 生成的报告把积压推到历史高位"
+      }
+    ]
+  },
+  "ganymede-rust-jupyter": {
+    "title": "Ganymede：用 Rust 写的 Jupyter 服务器，不需要 Python",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "ganymede-rust-jupyter",
+        "headline": "Ganymede：用 Rust 写的 Jupyter 服务器，不需要 Python"
+      }
+    ]
+  },
+  "pyopensci-review-1030": {
+    "title": "pyOpenSci：AI 生成代码泛滥，人的审查更有价值",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "pyopensci-review-1030",
+        "headline": "pyOpenSci：AI 生成代码泛滥，人的审查更有价值"
+      }
+    ]
+  },
+  "jupyter-bsky-misc-1030": {
+    "title": "Bluesky 上的 Jupyter 零星动态",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "jupyter-bsky-misc-1030",
+        "headline": "Bluesky 上的 Jupyter 零星动态"
+      }
+    ]
+  },
+  "jupyter-security-funding-2026": {
+    "title": "Jupyter Foundation 第二次资助安全工作：投入加倍，Matthias Bussonnier 加入",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "jupyter-security-funding-2026",
+        "headline": "Jupyter Foundation 第二次资助安全工作：投入加倍，Matthias Bussonnier 加入"
+      }
+    ]
+  },
+  "ai-forecast-treatment-effects": {
+    "title": "Eva Vivalt：LLM 能从预注册文档预测经济学实验的处理效应",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "ai-forecast-treatment-effects",
+        "headline": "Eva Vivalt：LLM 能从预注册文档预测经济学实验的处理效应"
+      }
+    ]
+  },
+  "score-replication": {
+    "title": "SCORE 项目：社会和行为科学约一半研究结论能复现",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "score-replication",
+        "headline": "SCORE 项目：社会和行为科学约一半研究结论能复现"
+      }
+    ]
+  },
+  "project-protostar": {
+    "title": "Project ProtoStar：让公共资助的科研成果「AI 可用」",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "project-protostar",
+        "headline": "Project ProtoStar：让公共资助的科研成果「AI 可用」"
+      }
+    ]
+  },
+  "okfn-mozfest-mcp": {
+    "title": "OKFN 在 MozFest 2026 讲 MCP",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "okfn-mozfest-mcp",
+        "headline": "OKFN 在 MozFest 2026 讲 MCP"
+      }
+    ]
+  },
+  "wikimedia-diff-1030": {
+    "title": "维基媒体：手机上可用可视化编辑器，Wikidata 支持手机编辑",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "wikimedia-diff-1030",
+        "headline": "维基媒体：手机上可用可视化编辑器，Wikidata 支持手机编辑"
+      }
+    ]
+  },
+  "connected-data-1030": {
+    "title": "Connected Data：开放的 AI 本体库与 CDL26 议程",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "connected-data-1030",
+        "headline": "Connected Data：开放的 AI 本体库与 CDL26 议程"
+      }
+    ]
+  },
+  "pensoft-1030": {
+    "title": "Pensoft：首个姥鲨个体模型；将参加曼谷 iBOL 2026",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "pensoft-1030",
+        "headline": "Pensoft：首个姥鲨个体模型；将参加曼谷 iBOL 2026"
+      }
+    ]
+  },
+  "scienceclaw-hackathon": {
+    "title": "ScienceClaw 黑客松 10 月 30 日在 MIT 媒体实验室开幕",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "scienceclaw-hackathon",
+        "headline": "ScienceClaw 黑客松 10 月 30 日在 MIT 媒体实验室开幕"
+      }
+    ]
+  },
+  "open-science-bsky-1030": {
+    "title": "Bluesky「open science」速览",
+    "appearances": [
+      {
+        "date": "2026-10-30",
+        "anchor": "open-science-bsky-1030",
+        "headline": "Bluesky「open science」速览"
       }
     ]
   }
