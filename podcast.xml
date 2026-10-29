@@ -26,6 +26,38 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>10 月 30 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-10-30.html</link>
+      <description>昨天 AI 圈：OpenAI 公开前沿模型监控、Claude 每轮回答后安全自查、Mistral Large 4 开放权重、Jupyter 安全委员会被 AI 报告淹没；评论聊 AI 预测实验结果、企业 agent 违规基准、ProtoStar 与「卖铲子」之争
+
+章节：
+0:00 开场与头条预告
+1:05 快讯
+6:22 重点一：OpenAI 怎么盯住训练中的模型
+7:50 重点二：Claude 每轮回答后给自己做安全检查
+9:28 重点三：Mistral 放出万亿参数大模型
+11:01 重点四：Jupyter 被 AI 漏洞报告淹没
+12:41 重点五：AI 改变经济，关键在协作
+14:08 重点六：二十一个人，一天发布一百次
+15:26 重点七：OpenAI 额度翻倍，还送 API 额度
+17:03 评论一：AI 读预注册文件，就能猜到实验结果
+19:00 评论二：企业 agent，四成运行在违规
+20:31 评论三：让科研数据变得 AI 能用，谁来管
+22:10 评论四：用 agent 写代码时的那种躁狂
+23:35 评论五：AI 创业，该卖铲子还是用机器
+25:08 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-30.html</description>
+      <itunes:summary>昨天 AI 圈：OpenAI 公开前沿模型监控、Claude 每轮回答后安全自查、Mistral Large 4 开放权重、Jupyter 安全委员会被 AI 报告淹没；评论聊 AI 预测实验结果、企业 agent 违规基准、ProtoStar 与「卖铲子」之争</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-30.mp3" length="12231788" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:25:29</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>10 月 29 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-10-29.html</link>
       <description>昨天 AI 圈：Google 发布 Gemini 4 Carbon、Artificial Analysis v5 拉大开放权重差距、GitHub Copilot 自动选模型；评论聊 PRC 出版模式之争、OpenAlex 期刊名单、多智能体的四个难题
@@ -184,7 +216,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Thu, 29 Oct 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Thu, 29 Oct 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Fri, 30 Oct 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
