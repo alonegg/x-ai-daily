@@ -70,7 +70,7 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Meta Muse：四国上线都排在 ChatGPT 前面，「最友好」模型",
+    "title": "Meta Muse：回答比 ChatGPT 短 6.7 倍，还能替你打电话退保",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -111,6 +111,11 @@
         "date": "2026-10-30",
         "anchor": "meta-muse-wonder",
         "headline": "Meta Muse：四国上线都排在 ChatGPT 前面，「最友好」模型"
+      },
+      {
+        "date": "2026-10-31",
+        "anchor": "meta-muse-wonder",
+        "headline": "Meta Muse：回答比 ChatGPT 短 6.7 倍，还能替你打电话退保"
       }
     ]
   },
@@ -1460,7 +1465,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 后续：稳定版、面板自定义，以及「终端还是图形界面」之争",
+    "title": "OpenCode 支持用 Claude 订阅；T3 Code 的「自我排错」",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1526,6 +1531,11 @@
         "date": "2026-10-30",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 后续：稳定版、面板自定义，以及「终端还是图形界面」之争"
+      },
+      {
+        "date": "2026-10-31",
+        "anchor": "t3-code-beta",
+        "headline": "OpenCode 支持用 Claude 订阅；T3 Code 的「自我排错」"
       }
     ]
   },
@@ -5875,7 +5885,7 @@
     ]
   },
   "codex-quota-cut": {
-    "title": "OpenAI 把 Pro 各档和 Business Premium 用量翻倍，取消 Pro 200 降额",
+    "title": "Codex 新额度算账：500 美元档约值每月 1.05 万美元",
     "appearances": [
       {
         "date": "2026-10-29",
@@ -5886,6 +5896,11 @@
         "date": "2026-10-30",
         "anchor": "codex-quota-cut",
         "headline": "OpenAI 把 Pro 各档和 Business Premium 用量翻倍，取消 Pro 200 降额"
+      },
+      {
+        "date": "2026-10-31",
+        "anchor": "codex-quota-cut",
+        "headline": "Codex 新额度算账：500 美元档约值每月 1.05 万美元"
       }
     ]
   },
@@ -5900,7 +5915,7 @@
     ]
   },
   "katelyn-lesse-multiagent": {
-    "title": "Katelyn Lesse 在 Latent Space 的更多片段：Messages API 用 Rust 重写，沙箱逃逸「只在训练里」",
+    "title": "Anthropic 团队里没有 Rust 程序员，照样用 Claude 重写了 Messages API",
     "appearances": [
       {
         "date": "2026-10-29",
@@ -5911,6 +5926,11 @@
         "date": "2026-10-30",
         "anchor": "katelyn-lesse-multiagent",
         "headline": "Katelyn Lesse 在 Latent Space 的更多片段：Messages API 用 Rust 重写，沙箱逃逸「只在训练里」"
+      },
+      {
+        "date": "2026-10-31",
+        "anchor": "katelyn-lesse-multiagent",
+        "headline": "Anthropic 团队里没有 Rust 程序员，照样用 Claude 重写了 Messages API"
       }
     ]
   },
@@ -6305,12 +6325,17 @@
     ]
   },
   "baoyu-design-v2": {
-    "title": "baoyu-design v2：把 Claude Design、Slides 和 Dashboard 搬到本地",
+    "title": "baoyu-design v2.1 加评论；改名是为了避免被下架",
     "appearances": [
       {
         "date": "2026-10-30",
         "anchor": "baoyu-design-v2",
         "headline": "baoyu-design v2：把 Claude Design、Slides 和 Dashboard 搬到本地"
+      },
+      {
+        "date": "2026-10-31",
+        "anchor": "baoyu-design-v2",
+        "headline": "baoyu-design v2.1 加评论；改名是为了避免被下架"
       }
     ]
   },
@@ -6325,12 +6350,17 @@
     ]
   },
   "deepmind-economics-agi": {
-    "title": "Google DeepMind《The Economics of Intelligence》：协作能力比单兵能力更决定经济变革",
+    "title": "DeepMind 经济框架再解读",
     "appearances": [
       {
         "date": "2026-10-30",
         "anchor": "deepmind-economics-agi",
         "headline": "Google DeepMind《The Economics of Intelligence》：协作能力比单兵能力更决定经济变革"
+      },
+      {
+        "date": "2026-10-31",
+        "anchor": "deepmind-economics-agi",
+        "headline": "DeepMind 经济框架再解读"
       }
     ]
   },
@@ -6570,6 +6600,406 @@
       {
         "date": "2026-10-30",
         "anchor": "open-science-bsky-1030",
+        "headline": "Bluesky「open science」速览"
+      }
+    ]
+  },
+  "security-1031": {
+    "title": "安全事件扎堆：币安、Northflank、Cursor 插件市场",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "security-1031",
+        "headline": "安全事件扎堆：币安、Northflank、Cursor 插件市场"
+      }
+    ]
+  },
+  "fangcun-deepseek-safety": {
+    "title": "方寸实验室 87 页报告：DeepSeek V4.1 Flash 的失控与操纵风险",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "fangcun-deepseek-safety",
+        "headline": "方寸实验室 87 页报告：DeepSeek V4.1 Flash 的失控与操纵风险"
+      }
+    ]
+  },
+  "ai-formal-verification": {
+    "title": "AI 让形式化验证「复活」？",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "ai-formal-verification",
+        "headline": "AI 让形式化验证「复活」？"
+      }
+    ]
+  },
+  "claude-ultra-plan": {
+    "title": "Claude Max 20x 改名 Ultra，已验证账号取消 5 小时限额",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "claude-ultra-plan",
+        "headline": "Claude Max 20x 改名 Ultra，已验证账号取消 5 小时限额"
+      }
+    ]
+  },
+  "openai-private-intelligence": {
+    "title": "OpenAI 推出 Private Intelligence",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "openai-private-intelligence",
+        "headline": "OpenAI 推出 Private Intelligence"
+      }
+    ]
+  },
+  "google-suncatcher": {
+    "title": "Google 太空 TPU 第一次答题：在轨道上写了一首俳句",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "google-suncatcher",
+        "headline": "Google 太空 TPU 第一次答题：在轨道上写了一首俳句"
+      }
+    ]
+  },
+  "jepa-platonic-theorem": {
+    "title": "「柏拉图表征假说」成了定理：分开训练的 JEPA 会学到同一表征",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "jepa-platonic-theorem",
+        "headline": "「柏拉图表征假说」成了定理：分开训练的 JEPA 会学到同一表征"
+      }
+    ]
+  },
+  "gemini-graph-agents": {
+    "title": "Gemini 4 Argon agent 几天建成万亿边图计算",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "gemini-graph-agents",
+        "headline": "Gemini 4 Argon agent 几天建成万亿边图计算"
+      }
+    ]
+  },
+  "open-models-1031": {
+    "title": "新模型速递：微软 4B 电脑操作 agent、Phonic-1 语音模型、Mistral 访谈",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "open-models-1031",
+        "headline": "新模型速递：微软 4B 电脑操作 agent、Phonic-1 语音模型、Mistral 访谈"
+      }
+    ]
+  },
+  "gen-models-1031": {
+    "title": "生成模型速递：Pika H3 Flex、Idol、Surya 2.5、Mischief、Genie 4",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "gen-models-1031",
+        "headline": "生成模型速递：Pika H3 Flex、Idol、Surya 2.5、Mischief、Genie 4"
+      }
+    ]
+  },
+  "hf-papers-1031": {
+    "title": "论文与基准速递",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "hf-papers-1031",
+        "headline": "论文与基准速递"
+      }
+    ]
+  },
+  "llm-biology-gap": {
+    "title": "LLM 在生物上仍不行？",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "llm-biology-gap",
+        "headline": "LLM 在生物上仍不行？"
+      }
+    ]
+  },
+  "agent-memory-raw-history": {
+    "title": "agent 记忆之争：压缩摘要、按需检索还是保留原始记录",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "agent-memory-raw-history",
+        "headline": "agent 记忆之争：压缩摘要、按需检索还是保留原始记录"
+      }
+    ]
+  },
+  "opus55-claude-code-practice": {
+    "title": "Addy Osmani：Opus 5.5 时代怎么用 Claude Code",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "opus55-claude-code-practice",
+        "headline": "Addy Osmani：Opus 5.5 时代怎么用 Claude Code"
+      }
+    ]
+  },
+  "rise-of-ade": {
+    "title": "「ADE 的崛起」：六周不开 IDE",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "rise-of-ade",
+        "headline": "「ADE 的崛起」：六周不开 IDE"
+      }
+    ]
+  },
+  "agent-observability": {
+    "title": "agent 可观测性：「更像 agent 的 Databricks」",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "agent-observability",
+        "headline": "agent 可观测性：「更像 agent 的 Databricks」"
+      }
+    ]
+  },
+  "cursor-video-as-code": {
+    "title": "用电脑当 agent 的眼睛：Cursor 复刻 Slack 动效",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "cursor-video-as-code",
+        "headline": "用电脑当 agent 的眼睛：Cursor 复刻 Slack 动效"
+      }
+    ]
+  },
+  "mobile-coding-agents": {
+    "title": "手机上的编程 agent：Alma iOS、DSH 安卓版",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "mobile-coding-agents",
+        "headline": "手机上的编程 agent：Alma iOS、DSH 安卓版"
+      }
+    ]
+  },
+  "products-misc-1031": {
+    "title": "产品小动态：Claude 上 CarPlay、Gemini Notebook 教材、夸克网盘 Skill、OpenAI dots",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "products-misc-1031",
+        "headline": "产品小动态：Claude 上 CarPlay、Gemini Notebook 教材、夸克网盘 Skill、OpenAI dots"
+      }
+    ]
+  },
+  "community-misc-1031": {
+    "title": "作品与经验：Qwen3-TTS 自定义音色、JIRA 恐怖游戏、键盘小岛",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "community-misc-1031",
+        "headline": "作品与经验：Qwen3-TTS 自定义音色、JIRA 恐怖游戏、键盘小岛"
+      }
+    ]
+  },
+  "proton-ai-memo": {
+    "title": "Proton CTO 的 AI 备忘录引发反弹，CEO 取消「重新面试」",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "proton-ai-memo",
+        "headline": "Proton CTO 的 AI 备忘录引发反弹，CEO 取消「重新面试」"
+      }
+    ]
+  },
+  "cisco-legacy-rewrite": {
+    "title": "思科总裁给 27 岁员工不限量 token，目标两年重写 98% 遗留代码",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "cisco-legacy-rewrite",
+        "headline": "思科总裁给 27 岁员工不限量 token，目标两年重写 98% 遗留代码"
+      }
+    ]
+  },
+  "aliyun-agent-handbook": {
+    "title": "阿里云开源《AI Agent Handbook》：企业 agent 只有约 18% 真正上生产",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "aliyun-agent-handbook",
+        "headline": "阿里云开源《AI Agent Handbook》：企业 agent 只有约 18% 真正上生产"
+      }
+    ]
+  },
+  "ai-capability-gap": {
+    "title": "「前沿差距」：会用的人和其他人越拉越远",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "ai-capability-gap",
+        "headline": "「前沿差距」：会用的人和其他人越拉越远"
+      }
+    ]
+  },
+  "distillation-debate": {
+    "title": "蒸馏之争：《经济学人》为「中国模型抄美国」辩护，张一鸣反对蒸馏",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "distillation-debate",
+        "headline": "蒸馏之争：《经济学人》为「中国模型抄美国」辩护，张一鸣反对蒸馏"
+      }
+    ]
+  },
+  "industry-misc-1031": {
+    "title": "行业与政策杂项：法国按 GB 收税、奥地利公证、SaaS 困境、拉里·佩奇",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "industry-misc-1031",
+        "headline": "行业与政策杂项：法国按 GB 收税、奥地利公证、SaaS 困境、拉里·佩奇"
+      }
+    ]
+  },
+  "social-ai-slop": {
+    "title": "「这不能再叫社交媒体了」",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "social-ai-slop",
+        "headline": "「这不能再叫社交媒体了」"
+      }
+    ]
+  },
+  "jupyterlab-465": {
+    "title": "JupyterLab 4.6.5：v4 系列最大的一次修复版本",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "jupyterlab-465",
+        "headline": "JupyterLab 4.6.5：v4 系列最大的一次修复版本"
+      }
+    ]
+  },
+  "jupyter-workshops-2027": {
+    "title": "Jupyter 社区工作坊 2027 征集提案，11 月 30 日截止",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "jupyter-workshops-2027",
+        "headline": "Jupyter 社区工作坊 2027 征集提案，11 月 30 日截止"
+      }
+    ]
+  },
+  "parquet-bitmap-levels": {
+    "title": "QuantStack：Parquet 读取最多提速 20%",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "parquet-bitmap-levels",
+        "headline": "QuantStack：Parquet 读取最多提速 20%"
+      }
+    ]
+  },
+  "jupyter-bsky-misc-1031": {
+    "title": "Bluesky 上的 Jupyter 零星动态",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "jupyter-bsky-misc-1031",
+        "headline": "Bluesky 上的 Jupyter 零星动态"
+      }
+    ]
+  },
+  "prefix-basilisk-pixi-audit": {
+    "title": "Wolf Vollprecht：prefix.dev 推出 Basilisk 和 pixi-audit",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "prefix-basilisk-pixi-audit",
+        "headline": "Wolf Vollprecht：prefix.dev 推出 Basilisk 和 pixi-audit"
+      }
+    ]
+  },
+  "wes-mythical-agent-month": {
+    "title": "Wes McKinney 在 DevGuild 重读《人月神话》",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "wes-mythical-agent-month",
+        "headline": "Wes McKinney 在 DevGuild 重读《人月神话》"
+      }
+    ]
+  },
+  "wikimedia-amicus-openai": {
+    "title": "维基媒体基金会就 OpenAI 版权案提交法庭之友意见：训练和检索回答要分开看",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "wikimedia-amicus-openai",
+        "headline": "维基媒体基金会就 OpenAI 版权案提交法庭之友意见：训练和检索回答要分开看"
+      }
+    ]
+  },
+  "npov-onset": {
+    "title": "NPOV-Onset：被标「不中立」的条目一年前就不同，而不是慢慢滑过去",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "npov-onset",
+        "headline": "NPOV-Onset：被标「不中立」的条目一年前就不同，而不是慢慢滑过去"
+      }
+    ]
+  },
+  "wikimedia-diff-1031": {
+    "title": "维基媒体社区：语言多样性导师计划、少数群体导师计划、分享卡片工具、突尼斯 GLAM 日",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "wikimedia-diff-1031",
+        "headline": "维基媒体社区：语言多样性导师计划、少数群体导师计划、分享卡片工具、突尼斯 GLAM 日"
+      }
+    ]
+  },
+  "connected-data-1031": {
+    "title": "Connected Data：语义层是企业 agent 规模化的前提；阿斯利康的 AI-ready 数据产品",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "connected-data-1031",
+        "headline": "Connected Data：语义层是企业 agent 规模化的前提；阿斯利康的 AI-ready 数据产品"
+      }
+    ]
+  },
+  "aware-interface-as-skill": {
+    "title": "「界面即 skill」：在自己的浏览器里写论文",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "aware-interface-as-skill",
+        "headline": "「界面即 skill」：在自己的浏览器里写论文"
+      }
+    ]
+  },
+  "pensoft-1031": {
+    "title": "Pensoft：ZoologyCon 2026 摘要集发布，Penev 讲「AI 时代的 FAIR 出版」",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "pensoft-1031",
+        "headline": "Pensoft：ZoologyCon 2026 摘要集发布，Penev 讲「AI 时代的 FAIR 出版」"
+      }
+    ]
+  },
+  "open-science-bsky-1031": {
+    "title": "Bluesky「open science」速览",
+    "appearances": [
+      {
+        "date": "2026-10-31",
+        "anchor": "open-science-bsky-1031",
         "headline": "Bluesky「open science」速览"
       }
     ]
