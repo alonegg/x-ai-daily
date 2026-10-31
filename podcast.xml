@@ -26,6 +26,36 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 1 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-01.html</link>
+      <description>昨天 AI 圈：DeepSeek Harness 的 Super-agent 设计、Anthropic 自动红队与扩展市场安全、Manus 和 Amp 的 AI 原生组织、国产 OCR 三强、欧洲 AI 税；评论聊 AI 时代的开放科学、「Fable 5 权重」疑似造假、Qwenputer、Proton 风波后续和 Claude 订阅
+
+章节：
+0:00 开场与头条预告
+1:03 快讯
+6:02 重点一：一个人能盯几个 agent，DeepSeek 给出系统答案
+8:16 重点二：自动红队、假冒扩展和一个新开关
+9:57 重点三：AI 原生的公司长什么样
+11:49 重点四：国产文字识别模型，三家各有所长
+13:02 重点五：欧洲开始向外国 AI 收钱？
+14:21 评论一：AI 时代，重看开放科学
+16:43 评论二：一条爆料，四步核查
+18:52 评论三：把处理器编进模型里
+20:51 评论四：Proton 道歉之后
+22:50 评论五：订阅、第三方工具和一笔 token 账
+24:27 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-01.html</description>
+      <itunes:summary>昨天 AI 圈：DeepSeek Harness 的 Super-agent 设计、Anthropic 自动红队与扩展市场安全、Manus 和 Amp 的 AI 原生组织、国产 OCR 三强、欧洲 AI 税；评论聊 AI 时代的开放科学、「Fable 5 权重」疑似造假、Qwenputer、Proton 风波后续和 Claude 订阅</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-01.mp3" length="11891948" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:24:46</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>10 月 31 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-10-31.html</link>
       <description>昨天 AI 圈：Claude Max 20x 改名 Ultra 并取消 5 小时限额、Google 太空 TPU 第一次答题、方寸实验室的 DeepSeek 安全报告、JupyterLab 4.6.5；评论聊维基媒体版权立场、agent 记忆、安全三连、Proton 风波和维基百科的「不中立」研究
@@ -247,7 +277,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Sat, 31 Oct 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Sat, 31 Oct 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
