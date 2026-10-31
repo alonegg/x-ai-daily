@@ -70,7 +70,7 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Meta Muse：回答比 ChatGPT 短 6.7 倍，还能替你打电话退保",
+    "title": "Meta Muse Voice 悄悄上线",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -116,6 +116,11 @@
         "date": "2026-10-31",
         "anchor": "meta-muse-wonder",
         "headline": "Meta Muse：回答比 ChatGPT 短 6.7 倍，还能替你打电话退保"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "meta-muse-wonder",
+        "headline": "Meta Muse Voice 悄悄上线"
       }
     ]
   },
@@ -1465,7 +1470,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "OpenCode 支持用 Claude 订阅；T3 Code 的「自我排错」",
+    "title": "T3 Code 加入 /btw 和侧聊；Alma 中继开源；Hex 语音输入",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1536,6 +1541,11 @@
         "date": "2026-10-31",
         "anchor": "t3-code-beta",
         "headline": "OpenCode 支持用 Claude 订阅；T3 Code 的「自我排错」"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 加入 /btw 和侧聊；Alma 中继开源；Hex 语音输入"
       }
     ]
   },
@@ -3675,12 +3685,17 @@
     ]
   },
   "strasser-open-science-ai": {
-    "title": "Carly Strasser：AI 时代重新看开放科学，「科学优先，开放是手段」",
+    "title": "Carly Strasser：《AI 时代重看开放科学》",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "strasser-open-science-ai",
         "headline": "Carly Strasser：AI 时代重新看开放科学，「科学优先，开放是手段」"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "strasser-open-science-ai",
+        "headline": "Carly Strasser：《AI 时代重看开放科学》"
       }
     ]
   },
@@ -5500,12 +5515,17 @@
     ]
   },
   "deepseek-harness-plugins": {
-    "title": "DeepSeek Harness 插件生态升温：B 站、大学生、极客都在写插件",
+    "title": "DeepSeek Harness 插件热：宝玉把 Claude Design 搬上去，歸藏合并设计 Skill",
     "appearances": [
       {
         "date": "2026-10-28",
         "anchor": "deepseek-harness-plugins",
         "headline": "DeepSeek Harness 插件生态升温：B 站、大学生、极客都在写插件"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "deepseek-harness-plugins",
+        "headline": "DeepSeek Harness 插件热：宝玉把 Claude Design 搬上去，歸藏合并设计 Skill"
       }
     ]
   },
@@ -5570,12 +5590,17 @@
     ]
   },
   "manus-ai-native-org": {
-    "title": "Manus 联创张涛：「用 Manus 改造 Manus」的 AI 原生组织实践",
+    "title": "Manus：「用 Manus 改造 Manus」",
     "appearances": [
       {
         "date": "2026-10-28",
         "anchor": "manus-ai-native-org",
         "headline": "Manus 联创张涛：「用 Manus 改造 Manus」的 AI 原生组织实践"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "manus-ai-native-org",
+        "headline": "Manus：「用 Manus 改造 Manus」"
       }
     ]
   },
@@ -5915,7 +5940,7 @@
     ]
   },
   "katelyn-lesse-multiagent": {
-    "title": "Anthropic 团队里没有 Rust 程序员，照样用 Claude 重写了 Messages API",
+    "title": "Anthropic 用 Claude 重写 Rust 后端：后续讨论",
     "appearances": [
       {
         "date": "2026-10-29",
@@ -5931,6 +5956,11 @@
         "date": "2026-10-31",
         "anchor": "katelyn-lesse-multiagent",
         "headline": "Anthropic 团队里没有 Rust 程序员，照样用 Claude 重写了 Messages API"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "katelyn-lesse-multiagent",
+        "headline": "Anthropic 用 Claude 重写 Rust 后端：后续讨论"
       }
     ]
   },
@@ -6445,12 +6475,17 @@
     ]
   },
   "cn-industry-1030": {
-    "title": "中文圈：腾讯 WorkBuddy 手册、Shopify Editions 与 Video Agent 成本",
+    "title": "腾讯 78 页 agent 手册第二章：内部提效",
     "appearances": [
       {
         "date": "2026-10-30",
         "anchor": "cn-industry-1030",
         "headline": "中文圈：腾讯 WorkBuddy 手册、Shopify Editions 与 Video Agent 成本"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "cn-industry-1030",
+        "headline": "腾讯 78 页 agent 手册第二章：内部提效"
       }
     ]
   },
@@ -6585,12 +6620,17 @@
     ]
   },
   "scienceclaw-hackathon": {
-    "title": "ScienceClaw 黑客松 10 月 30 日在 MIT 媒体实验室开幕",
+    "title": "ScienceClaw 黑客松已开幕",
     "appearances": [
       {
         "date": "2026-10-30",
         "anchor": "scienceclaw-hackathon",
         "headline": "ScienceClaw 黑客松 10 月 30 日在 MIT 媒体实验室开幕"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "scienceclaw-hackathon",
+        "headline": "ScienceClaw 黑客松已开幕"
       }
     ]
   },
@@ -6605,12 +6645,17 @@
     ]
   },
   "security-1031": {
-    "title": "安全事件扎堆：币安、Northflank、Cursor 插件市场",
+    "title": "扩展市场的「认证发布者」太容易拿到；Claude Code 新增读写边界设置",
     "appearances": [
       {
         "date": "2026-10-31",
         "anchor": "security-1031",
         "headline": "安全事件扎堆：币安、Northflank、Cursor 插件市场"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "security-1031",
+        "headline": "扩展市场的「认证发布者」太容易拿到；Claude Code 新增读写边界设置"
       }
     ]
   },
@@ -6635,12 +6680,17 @@
     ]
   },
   "claude-ultra-plan": {
-    "title": "Claude Max 20x 改名 Ultra，已验证账号取消 5 小时限额",
+    "title": "Claude 订阅后续：OpenCode 可用订阅登录，Magpie 改走 TUI",
     "appearances": [
       {
         "date": "2026-10-31",
         "anchor": "claude-ultra-plan",
         "headline": "Claude Max 20x 改名 Ultra，已验证账号取消 5 小时限额"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "claude-ultra-plan",
+        "headline": "Claude 订阅后续：OpenCode 可用订阅登录，Magpie 改走 TUI"
       }
     ]
   },
@@ -6825,12 +6875,17 @@
     ]
   },
   "aliyun-agent-handbook": {
-    "title": "阿里云开源《AI Agent Handbook》：企业 agent 只有约 18% 真正上生产",
+    "title": "阿里云《AI Agent Handbook》调研细节",
     "appearances": [
       {
         "date": "2026-10-31",
         "anchor": "aliyun-agent-handbook",
         "headline": "阿里云开源《AI Agent Handbook》：企业 agent 只有约 18% 真正上生产"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "aliyun-agent-handbook",
+        "headline": "阿里云《AI Agent Handbook》调研细节"
       }
     ]
   },
@@ -6855,12 +6910,17 @@
     ]
   },
   "industry-misc-1031": {
-    "title": "行业与政策杂项：法国按 GB 收税、奥地利公证、SaaS 困境、拉里·佩奇",
+    "title": "欧洲开始「向外国 AI 收钱」？德国部长提议对 AI 创造的价值征税",
     "appearances": [
       {
         "date": "2026-10-31",
         "anchor": "industry-misc-1031",
         "headline": "行业与政策杂项：法国按 GB 收税、奥地利公证、SaaS 困境、拉里·佩奇"
+      },
+      {
+        "date": "2026-11-01",
+        "anchor": "industry-misc-1031",
+        "headline": "欧洲开始「向外国 AI 收钱」？德国部长提议对 AI 创造的价值征税"
       }
     ]
   },
@@ -7000,6 +7060,306 @@
       {
         "date": "2026-10-31",
         "anchor": "open-science-bsky-1031",
+        "headline": "Bluesky「open science」速览"
+      }
+    ]
+  },
+  "fable5-weights-hoax": {
+    "title": "「Claude Fable 5 权重」在兜售，网友比对后疑似造假",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "fable5-weights-hoax",
+        "headline": "「Claude Fable 5 权重」在兜售，网友比对后疑似造假"
+      }
+    ]
+  },
+  "anthropic-auto-redteam": {
+    "title": "Anthropic：让上千个 Claude agent 自动做「隐蔽错位」红队",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "anthropic-auto-redteam",
+        "headline": "Anthropic：让上千个 Claude agent 自动做「隐蔽错位」红队"
+      }
+    ]
+  },
+  "message-layer-policing": {
+    "title": "Erik Voorhees：在消息层监管 AI 对话等于监管思想",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "message-layer-policing",
+        "headline": "Erik Voorhees：在消息层监管 AI 对话等于监管思想"
+      }
+    ]
+  },
+  "deepseek-superagent": {
+    "title": "DeepSeek Harness 团队：Super-agent 设计探索",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "deepseek-superagent",
+        "headline": "DeepSeek Harness 团队：Super-agent 设计探索"
+      }
+    ]
+  },
+  "amp-culture-slop": {
+    "title": "Amp：人人能推 main，靠文化而不是 PR 拦「水货」",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "amp-culture-slop",
+        "headline": "Amp：人人能推 main，靠文化而不是 PR 拦「水货」"
+      }
+    ]
+  },
+  "harness-engineering-debate": {
+    "title": "harness 工程是不是「已经解决」？",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "harness-engineering-debate",
+        "headline": "harness 工程是不是「已经解决」？"
+      }
+    ]
+  },
+  "dot-control-ux": {
+    "title": "个人 agent 的控制感：Mollick 谈 OpenAI Dot",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "dot-control-ux",
+        "headline": "个人 agent 的控制感：Mollick 谈 OpenAI Dot"
+      }
+    ]
+  },
+  "enterprise-ai-delivery": {
+    "title": "企业 AI 难按软件毛利卖；遗留系统迁移积压正在被释放",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "enterprise-ai-delivery",
+        "headline": "企业 AI 难按软件毛利卖；遗留系统迁移积压正在被释放"
+      }
+    ]
+  },
+  "langchain-enterprise-rag": {
+    "title": "LangChain：企业 RAG 先修检索",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "langchain-enterprise-rag",
+        "headline": "LangChain：企业 RAG 先修检索"
+      }
+    ]
+  },
+  "effort-settings-1101": {
+    "title": "用法心得：Opus 5.5 用 high 就够，低档位加批评循环",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "effort-settings-1101",
+        "headline": "用法心得：Opus 5.5 用 high 就够，低档位加批评循环"
+      }
+    ]
+  },
+  "claude-code-templates-1101": {
+    "title": "Claude Code 周边：Rex Claude 与会话通信可视化",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "claude-code-templates-1101",
+        "headline": "Claude Code 周边：Rex Claude 与会话通信可视化"
+      }
+    ]
+  },
+  "theo-computer-use-bench": {
+    "title": "Theo 的电脑操作基准；他与 Primeagen 争 Argon 4",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "theo-computer-use-bench",
+        "headline": "Theo 的电脑操作基准；他与 Primeagen 争 Argon 4"
+      }
+    ]
+  },
+  "qwenputer": {
+    "title": "Qwenputer：Qwen3.5-4B 权重里有一颗 RISC-V CPU",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "qwenputer",
+        "headline": "Qwenputer：Qwen3.5-4B 权重里有一颗 RISC-V CPU"
+      }
+    ]
+  },
+  "cn-ocr-models": {
+    "title": "三款国产 OCR 模型横评",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "cn-ocr-models",
+        "headline": "三款国产 OCR 模型横评"
+      }
+    ]
+  },
+  "omni-models-1101": {
+    "title": "多模态解析与生成：LFM3-Omni 浏览器本地跑、腾讯 Youtu-Parsing-Omni 与 Hy-Nomas",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "omni-models-1101",
+        "headline": "多模态解析与生成：LFM3-Omni 浏览器本地跑、腾讯 Youtu-Parsing-Omni 与 Hy-Nomas"
+      }
+    ]
+  },
+  "nvidia-open-1101": {
+    "title": "NVIDIA 开源三件：印度语预训练数据、9.6M 语音增强模型、MotionBricks",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "nvidia-open-1101",
+        "headline": "NVIDIA 开源三件：印度语预训练数据、9.6M 语音增强模型、MotionBricks"
+      }
+    ]
+  },
+  "hf-papers-1101": {
+    "title": "论文速递",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "hf-papers-1101",
+        "headline": "论文速递"
+      }
+    ]
+  },
+  "llm-train-infer-course": {
+    "title": "Jia-Bin Huang 的「AI 训练与推理」视频课",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "llm-train-infer-course",
+        "headline": "Jia-Bin Huang 的「AI 训练与推理」视频课"
+      }
+    ]
+  },
+  "model-personality-1101": {
+    "title": "模型「性格」：Kimi 和 Astra 几乎重合",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "model-personality-1101",
+        "headline": "模型「性格」：Kimi 和 Astra 几乎重合"
+      }
+    ]
+  },
+  "apple-intelligence-cn": {
+    "title": "Apple 智能即将在国内上线，千问驱动",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "apple-intelligence-cn",
+        "headline": "Apple 智能即将在国内上线，千问驱动"
+      }
+    ]
+  },
+  "altman-local-inference": {
+    "title": "Sam Altman：本地推理是稀缺资源的错配",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "altman-local-inference",
+        "headline": "Sam Altman：本地推理是稀缺资源的错配"
+      }
+    ]
+  },
+  "deepmind-1101": {
+    "title": "Google DeepMind：PlanAssist 帮英国规划审批提速；一句话造出跳舞的南瓜机器人",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "deepmind-1101",
+        "headline": "Google DeepMind：PlanAssist 帮英国规划审批提速；一句话造出跳舞的南瓜机器人"
+      }
+    ]
+  },
+  "grok-bot-1101": {
+    "title": "Grok Bot：团队搭建指南与国内支付",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "grok-bot-1101",
+        "headline": "Grok Bot：团队搭建指南与国内支付"
+      }
+    ]
+  },
+  "community-misc-1101": {
+    "title": "小工具与作品",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "community-misc-1101",
+        "headline": "小工具与作品"
+      }
+    ]
+  },
+  "cdl26-graphrag-workshop": {
+    "title": "Connected Data London：用 Jupyter 或 Colab 动手做 GraphRAG",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "cdl26-graphrag-workshop",
+        "headline": "Connected Data London：用 Jupyter 或 Colab 动手做 GraphRAG"
+      }
+    ]
+  },
+  "jupyter-bsky-misc-1101": {
+    "title": "Bluesky 上的 Jupyter 零星动态",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "jupyter-bsky-misc-1101",
+        "headline": "Bluesky 上的 Jupyter 零星动态"
+      }
+    ]
+  },
+  "colab-a100-tip": {
+    "title": "Colab 跑 A100 的省钱提示",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "colab-a100-tip",
+        "headline": "Colab 跑 A100 的省钱提示"
+      }
+    ]
+  },
+  "wikidata-14-dagbani": {
+    "title": "Wikidata 14 岁：达格巴尼维基人在塔马利办生日活动",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "wikidata-14-dagbani",
+        "headline": "Wikidata 14 岁：达格巴尼维基人在塔马利办生日活动"
+      }
+    ]
+  },
+  "wikimedia-diff-1101": {
+    "title": "维基媒体社区：电台里的贝塔维语词典、印度维基大会、雅加达英语俱乐部培训",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "wikimedia-diff-1101",
+        "headline": "维基媒体社区：电台里的贝塔维语词典、印度维基大会、雅加达英语俱乐部培训"
+      }
+    ]
+  },
+  "open-science-bsky-1101": {
+    "title": "Bluesky「open science」速览",
+    "appearances": [
+      {
+        "date": "2026-11-01",
+        "anchor": "open-science-bsky-1101",
         "headline": "Bluesky「open science」速览"
       }
     ]
