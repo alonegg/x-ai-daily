@@ -26,6 +26,37 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>10 月 31 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-10-31.html</link>
+      <description>昨天 AI 圈：Claude Max 20x 改名 Ultra 并取消 5 小时限额、Google 太空 TPU 第一次答题、方寸实验室的 DeepSeek 安全报告、JupyterLab 4.6.5；评论聊维基媒体版权立场、agent 记忆、安全三连、Proton 风波和维基百科的「不中立」研究
+
+章节：
+0:00 开场与头条预告
+1:06 快讯
+6:32 重点一：Claude 改名 Ultra，订阅账单怎么算
+8:19 重点二：Google 的太空 TPU 第一次答题
+9:54 重点三：第三方给 DeepSeek 做了一次安全体检
+11:35 重点四：agent 几天建成万亿级图计算
+12:48 重点五：JupyterLab 出了最大的一次修复版
+14:09 重点六：阿里云的 agent 手册，和一组冷静的数字
+15:20 评论一：维基媒体在 AI 版权案里两边都不站
+17:23 评论二：agent 的记忆，该做摘要，还是留原件
+19:13 评论三：一周三起，入口都在开发者身边
+21:09 评论四：Proton 的 AI 风波和思科的重写计划
+23:04 评论五：维基百科的「不中立」，不是慢慢变出来的
+25:02 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-31.html</description>
+      <itunes:summary>昨天 AI 圈：Claude Max 20x 改名 Ultra 并取消 5 小时限额、Google 太空 TPU 第一次答题、方寸实验室的 DeepSeek 安全报告、JupyterLab 4.6.5；评论聊维基媒体版权立场、agent 记忆、安全三连、Proton 风波和维基百科的「不中立」研究</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-31.mp3" length="12187244" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:25:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>10 月 30 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-10-30.html</link>
       <description>昨天 AI 圈：OpenAI 公开前沿模型监控、Claude 每轮回答后安全自查、Mistral Large 4 开放权重、Jupyter 安全委员会被 AI 报告淹没；评论聊 AI 预测实验结果、企业 agent 违规基准、ProtoStar 与「卖铲子」之争
@@ -216,7 +247,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Fri, 30 Oct 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Fri, 30 Oct 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
