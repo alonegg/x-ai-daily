@@ -26,6 +26,36 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 2 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-02.html</link>
+      <description>昨天 AI 圈：Anthropic 每天约 3 万次合并靠「证据包」、Super-agent 后续与主动 agent 六道题、币安被盗复盘与 Linux 漏洞、LeCun 谈表征与 Llama、Karpathy 的 HackerTube；评论聊 agent 重写与许可证、97 个词复现 ETH 证明、按 harness 安全度放开模型能力、手机上的 notebook、GPT-4 到今天的分界线
+
+章节：
+0:00 开场与头条预告
+0:58 快讯
+6:09 重点一：每天三万次合并，靠的是证据
+8:16 重点二：一个人管不过来那么多 agent 了
+10:30 重点三：币安被盗复盘，和一个危险的 Linux 漏洞
+12:21 重点四：LeCun 的表征理论，和他对 Llama 的澄清
+13:56 重点五：两小时做一个视频网站，一句话剪一条视频
+15:25 评论一：agent 重写一切，许可证怎么办
+17:20 评论二：九十七个词，和一个关于需求的问题
+19:30 评论三：模型能做什么，该不该看 harness 有多安全
+20:57 评论四：在手机上跑 notebook
+22:47 评论五：从四分钟到几周
+24:16 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-02.html</description>
+      <itunes:summary>昨天 AI 圈：Anthropic 每天约 3 万次合并靠「证据包」、Super-agent 后续与主动 agent 六道题、币安被盗复盘与 Linux 漏洞、LeCun 谈表征与 Llama、Karpathy 的 HackerTube；评论聊 agent 重写与许可证、97 个词复现 ETH 证明、按 harness 安全度放开模型能力、手机上的 notebook、GPT-4 到今天的分界线</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-02.mp3" length="11867564" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:24:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 1 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-01.html</link>
       <description>昨天 AI 圈：DeepSeek Harness 的 Super-agent 设计、Anthropic 自动红队与扩展市场安全、Manus 和 Amp 的 AI 原生组织、国产 OCR 三强、欧洲 AI 税；评论聊 AI 时代的开放科学、「Fable 5 权重」疑似造假、Qwenputer、Proton 风波后续和 Claude 订阅
@@ -277,7 +307,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Sun, 01 Nov 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Sun, 01 Nov 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
