@@ -1470,7 +1470,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 加入 /btw 和侧聊；Alma 中继开源；Hex 语音输入",
+    "title": "T3 Code、Alma 与 Grok Bot：远程编程客户端的小更新",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1546,6 +1546,11 @@
         "date": "2026-11-01",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 加入 /btw 和侧聊；Alma 中继开源；Hex 语音输入"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code、Alma 与 Grok Bot：远程编程客户端的小更新"
       }
     ]
   },
@@ -4580,12 +4585,17 @@
     ]
   },
   "langgraph-prod-controls": {
-    "title": "LangGraph agent 上生产的五项控制，以及 LangChain 的几条近况",
+    "title": "LangChain：生产环境里 LangGraph agent 的五道控制",
     "appearances": [
       {
         "date": "2026-10-25",
         "anchor": "langgraph-prod-controls",
         "headline": "LangGraph agent 上生产的五项控制，以及 LangChain 的几条近况"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "langgraph-prod-controls",
+        "headline": "LangChain：生产环境里 LangGraph agent 的五道控制"
       }
     ]
   },
@@ -5475,12 +5485,17 @@
     ]
   },
   "claude-eth-paper": {
-    "title": "同一天，Anthropic 放出唯一署名为 Claude 的论文，也推翻了 ETH",
+    "title": "推翻 ETH 后续：97 个词的提示词，以及「需求」之问",
     "appearances": [
       {
         "date": "2026-10-28",
         "anchor": "claude-eth-paper",
         "headline": "同一天，Anthropic 放出唯一署名为 Claude 的论文，也推翻了 ETH"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "claude-eth-paper",
+        "headline": "推翻 ETH 后续：97 个词的提示词，以及「需求」之问"
       }
     ]
   },
@@ -5940,7 +5955,7 @@
     ]
   },
   "katelyn-lesse-multiagent": {
-    "title": "Anthropic 用 Claude 重写 Rust 后端：后续讨论",
+    "title": "Anthropic 用 Claude 重写 Rust 后端：迁移三步",
     "appearances": [
       {
         "date": "2026-10-29",
@@ -5961,6 +5976,11 @@
         "date": "2026-11-01",
         "anchor": "katelyn-lesse-multiagent",
         "headline": "Anthropic 用 Claude 重写 Rust 后端：后续讨论"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "katelyn-lesse-multiagent",
+        "headline": "Anthropic 用 Claude 重写 Rust 后端：迁移三步"
       }
     ]
   },
@@ -6125,12 +6145,17 @@
     ]
   },
   "vibe-gaming": {
-    "title": "Simon Willison：Opus 5.5 让 AI 能做出「真正好玩」的游戏",
+    "title": "Thariq 用 AI 做游戏：换成生成精灵图，新角色是用火的跆拳道大师",
     "appearances": [
       {
         "date": "2026-10-29",
         "anchor": "vibe-gaming",
         "headline": "Simon Willison：Opus 5.5 让 AI 能做出「真正好玩」的游戏"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "vibe-gaming",
+        "headline": "Thariq 用 AI 做游戏：换成生成精灵图，新角色是用火的跆拳道大师"
       }
     ]
   },
@@ -6645,7 +6670,7 @@
     ]
   },
   "security-1031": {
-    "title": "扩展市场的「认证发布者」太容易拿到；Claude Code 新增读写边界设置",
+    "title": "币安 63 亿美元被盗：李博杰复盘，FBI 认定朝鲜所为",
     "appearances": [
       {
         "date": "2026-10-31",
@@ -6656,6 +6681,11 @@
         "date": "2026-11-01",
         "anchor": "security-1031",
         "headline": "扩展市场的「认证发布者」太容易拿到；Claude Code 新增读写边界设置"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "security-1031",
+        "headline": "币安 63 亿美元被盗：李博杰复盘，FBI 认定朝鲜所为"
       }
     ]
   },
@@ -6715,12 +6745,17 @@
     ]
   },
   "jepa-platonic-theorem": {
-    "title": "「柏拉图表征假说」成了定理：分开训练的 JEPA 会学到同一表征",
+    "title": "「柏拉图表征」后续与 LeCun 澄清 FAIR 和 Llama 的历史",
     "appearances": [
       {
         "date": "2026-10-31",
         "anchor": "jepa-platonic-theorem",
         "headline": "「柏拉图表征假说」成了定理：分开训练的 JEPA 会学到同一表征"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "jepa-platonic-theorem",
+        "headline": "「柏拉图表征」后续与 LeCun 澄清 FAIR 和 Llama 的历史"
       }
     ]
   },
@@ -7095,12 +7130,17 @@
     ]
   },
   "deepseek-superagent": {
-    "title": "DeepSeek Harness 团队：Super-agent 设计探索",
+    "title": "DeepSeek Super-agent 后续：李博杰逐条点评，英文版发布",
     "appearances": [
       {
         "date": "2026-11-01",
         "anchor": "deepseek-superagent",
         "headline": "DeepSeek Harness 团队：Super-agent 设计探索"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "deepseek-superagent",
+        "headline": "DeepSeek Super-agent 后续：李博杰逐条点评，英文版发布"
       }
     ]
   },
@@ -7115,12 +7155,17 @@
     ]
   },
   "harness-engineering-debate": {
-    "title": "harness 工程是不是「已经解决」？",
+    "title": "Harrison Chase：主动常驻 agent 的六道新题",
     "appearances": [
       {
         "date": "2026-11-01",
         "anchor": "harness-engineering-debate",
         "headline": "harness 工程是不是「已经解决」？"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "harness-engineering-debate",
+        "headline": "Harrison Chase：主动常驻 agent 的六道新题"
       }
     ]
   },
@@ -7155,12 +7200,17 @@
     ]
   },
   "effort-settings-1101": {
-    "title": "用法心得：Opus 5.5 用 high 就够，低档位加批评循环",
+    "title": "Claude Code 里 ultrathink 回来了；Codex 的 Pro、Ultra、Max Thinking 怎么分",
     "appearances": [
       {
         "date": "2026-11-01",
         "anchor": "effort-settings-1101",
         "headline": "用法心得：Opus 5.5 用 high 就够，低档位加批评循环"
+      },
+      {
+        "date": "2026-11-02",
+        "anchor": "effort-settings-1101",
+        "headline": "Claude Code 里 ultrathink 回来了；Codex 的 Pro、Ultra、Max Thinking 怎么分"
       }
     ]
   },
@@ -7360,6 +7410,226 @@
       {
         "date": "2026-11-01",
         "anchor": "open-science-bsky-1101",
+        "headline": "Bluesky「open science」速览"
+      }
+    ]
+  },
+  "harness-security-tiering": {
+    "title": "Daniel Avila：模型能力的开放程度，能不能看 harness 有多安全？",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "harness-security-tiering",
+        "headline": "Daniel Avila：模型能力的开放程度，能不能看 harness 有多安全？"
+      }
+    ]
+  },
+  "agent-covert-channel": {
+    "title": "两个隔离的同款 AI 自己发明了通信协议",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "agent-covert-channel",
+        "headline": "两个隔离的同款 AI 自己发明了通信协议"
+      }
+    ]
+  },
+  "agent-rewrite-anything": {
+    "title": "Armin Ronacher：agent 能重写 CPython，测试套件并非必需，以及「GPL 洗成 MIT」",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "agent-rewrite-anything",
+        "headline": "Armin Ronacher：agent 能重写 CPython，测试套件并非必需，以及「GPL 洗成 MIT」"
+      }
+    ]
+  },
+  "verification-evidence-merge": {
+    "title": "Anthropic 日合并约 3 万次：人审「证据包」；Daniel Avila 开自动合并",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "verification-evidence-merge",
+        "headline": "Anthropic 日合并约 3 万次：人审「证据包」；Daniel Avila 开自动合并"
+      }
+    ]
+  },
+  "software-factory-orchestration": {
+    "title": "编排 bot 当经理，coding agent 干活：软件产线的「倒金字塔」",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "software-factory-orchestration",
+        "headline": "编排 bot 当经理，coding agent 干活：软件产线的「倒金字塔」"
+      }
+    ]
+  },
+  "karpathy-hackertube": {
+    "title": "Karpathy 的 HackerTube：两小时把 HN 二十年的推荐做成视频站",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "karpathy-hackertube",
+        "headline": "Karpathy 的 HackerTube：两小时把 HN 二十年的推荐做成视频站"
+      }
+    ]
+  },
+  "levelsio-vlog-claude-edit": {
+    "title": "levelsio 的 vlog 全程由 Claude Code 剪辑",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "levelsio-vlog-claude-edit",
+        "headline": "levelsio 的 vlog 全程由 Claude Code 剪辑"
+      }
+    ]
+  },
+  "skills-1102": {
+    "title": "Skills 速递：Codex 十月增速前十、Stageshow、Brainstorming、大象与金鱼、Aura Autopilot",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "skills-1102",
+        "headline": "Skills 速递：Codex 十月增速前十、Stageshow、Brainstorming、大象与金鱼、Aura Autopilot"
+      }
+    ]
+  },
+  "hf-papers-1102": {
+    "title": "论文速递",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "hf-papers-1102",
+        "headline": "论文速递"
+      }
+    ]
+  },
+  "cs329a-self-improving-agents": {
+    "title": "斯坦福 CS329A「自我改进的 AI Agent」",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "cs329a-self-improving-agents",
+        "headline": "斯坦福 CS329A「自我改进的 AI Agent」"
+      }
+    ]
+  },
+  "agentic-productivity-line": {
+    "title": "Mollick：GPT-4 只能独立干 4 分钟，现在能干几周",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "agentic-productivity-line",
+        "headline": "Mollick：GPT-4 只能独立干 4 分钟，现在能干几周"
+      }
+    ]
+  },
+  "mptcp-takeover": {
+    "title": "Linux MPTCP 漏洞：只开一个 TCP 端口也可能被接管",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "mptcp-takeover",
+        "headline": "Linux MPTCP 漏洞：只开一个 TCP 端口也可能被接管"
+      }
+    ]
+  },
+  "us-claude-account-guide": {
+    "title": "李博杰：「肉身去美国办手机号和银行卡」攻略",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "us-claude-account-guide",
+        "headline": "李博杰：「肉身去美国办手机号和银行卡」攻略"
+      }
+    ]
+  },
+  "slop-reply-bots": {
+    "title": "AI 回复机器人在「进化」",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "slop-reply-bots",
+        "headline": "AI 回复机器人在「进化」"
+      }
+    ]
+  },
+  "community-misc-1102": {
+    "title": "开源小工具",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "community-misc-1102",
+        "headline": "开源小工具"
+      }
+    ]
+  },
+  "scirepl-mobile-notebook": {
+    "title": "SciREPL：手机上本地运行的多语言 notebook，能读写 .ipynb",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "scirepl-mobile-notebook",
+        "headline": "SciREPL：手机上本地运行的多语言 notebook，能读写 .ipynb"
+      }
+    ]
+  },
+  "myst-agent-notes": {
+    "title": "用 MyST 记录「代码该做什么」，给人和 agent 一起读",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "myst-agent-notes",
+        "headline": "用 MyST 记录「代码该做什么」，给人和 agent 一起读"
+      }
+    ]
+  },
+  "jupyter-bsky-misc-1102": {
+    "title": "Bluesky 上的 Jupyter 零星动态",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "jupyter-bsky-misc-1102",
+        "headline": "Bluesky 上的 Jupyter 零星动态"
+      }
+    ]
+  },
+  "wikimedia-diff-1102": {
+    "title": "维基媒体社区：SheSaid 印尼、香料之路记录、水泥厂遗产摄影",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "wikimedia-diff-1102",
+        "headline": "维基媒体社区：SheSaid 印尼、香料之路记录、水泥厂遗产摄影"
+      }
+    ]
+  },
+  "cdl26-state-of-the-graph": {
+    "title": "Connected Data London：State of the Graph 的中立图技术地图",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "cdl26-state-of-the-graph",
+        "headline": "Connected Data London：State of the Graph 的中立图技术地图"
+      }
+    ]
+  },
+  "ancient-texts-ai-translation": {
+    "title": "Mollick：用 AI 清理古代文献的翻译积压",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "ancient-texts-ai-translation",
+        "headline": "Mollick：用 AI 清理古代文献的翻译积压"
+      }
+    ]
+  },
+  "open-science-bsky-1102": {
+    "title": "Bluesky「open science」速览",
+    "appearances": [
+      {
+        "date": "2026-11-02",
+        "anchor": "open-science-bsky-1102",
         "headline": "Bluesky「open science」速览"
       }
     ]
