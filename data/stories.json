@@ -1470,7 +1470,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code、Alma 与 Grok Bot：远程编程客户端的小更新",
+    "title": "T3 Code：企业托管策略、吞吐量与构建时间",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1551,6 +1551,11 @@
         "date": "2026-11-02",
         "anchor": "t3-code-beta",
         "headline": "T3 Code、Alma 与 Grok Bot：远程编程客户端的小更新"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code：企业托管策略、吞吐量与构建时间"
       }
     ]
   },
@@ -3230,7 +3235,7 @@
     ]
   },
   "proactive-agents-compare": {
-    "title": "个人 agent 对比与 Muse 日本上线",
+    "title": "yetone 的个人 agent 大考核：找一张壁纸的最高清版本",
     "appearances": [
       {
         "date": "2026-10-22",
@@ -3241,6 +3246,11 @@
         "date": "2026-10-24",
         "anchor": "proactive-agents-compare",
         "headline": "个人 agent 对比与 Muse 日本上线"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "proactive-agents-compare",
+        "headline": "yetone 的个人 agent 大考核：找一张壁纸的最高清版本"
       }
     ]
   },
@@ -3275,7 +3285,7 @@
     ]
   },
   "anthropic-s1-ipo": {
-    "title": "Anthropic S-1 再解读：二季度经营利润 9.74 亿美元",
+    "title": "S-1 修订版：内部预期可能「即将」达到加速门槛；季度收入继续跳涨",
     "appearances": [
       {
         "date": "2026-10-22",
@@ -3291,6 +3301,11 @@
         "date": "2026-10-30",
         "anchor": "anthropic-s1-ipo",
         "headline": "Anthropic S-1 再解读：二季度经营利润 9.74 亿美元"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "anthropic-s1-ipo",
+        "headline": "S-1 修订版：内部预期可能「即将」达到加速门槛；季度收入继续跳涨"
       }
     ]
   },
@@ -4960,7 +4975,7 @@
     ]
   },
   "omarchy-ipad-freebsd": {
-    "title": "Omarchy 后续：4.5 RC2 最快 6 秒装完，levelsio 开箱 DHH 寄的 Dell XPS 14",
+    "title": "Omarchy 后续：4.5 RC3、7 秒装完、iPad mini 4 和 NVIDIA N1X",
     "appearances": [
       {
         "date": "2026-10-26",
@@ -4976,6 +4991,11 @@
         "date": "2026-10-29",
         "anchor": "omarchy-ipad-freebsd",
         "headline": "Omarchy 后续：4.5 RC2 最快 6 秒装完，levelsio 开箱 DHH 寄的 Dell XPS 14"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "omarchy-ipad-freebsd",
+        "headline": "Omarchy 后续：4.5 RC3、7 秒装完、iPad mini 4 和 NVIDIA N1X"
       }
     ]
   },
@@ -6320,12 +6340,17 @@
     ]
   },
   "mistral-large-4": {
-    "title": "Mistral 开放 Mistral Large 4（Le Chonk）权重：1T 参数，主打编程 agent 和网络防御",
+    "title": "Mistral Large 4 技术报告发布",
     "appearances": [
       {
         "date": "2026-10-30",
         "anchor": "mistral-large-4",
         "headline": "Mistral 开放 Mistral Large 4（Le Chonk）权重：1T 参数，主打编程 agent 和网络防御"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "mistral-large-4",
+        "headline": "Mistral Large 4 技术报告发布"
       }
     ]
   },
@@ -6500,7 +6525,7 @@
     ]
   },
   "cn-industry-1030": {
-    "title": "腾讯 78 页 agent 手册第二章：内部提效",
+    "title": "腾讯 78 页 agent 手册第三章：技术底座",
     "appearances": [
       {
         "date": "2026-10-30",
@@ -6511,6 +6536,11 @@
         "date": "2026-11-01",
         "anchor": "cn-industry-1030",
         "headline": "腾讯 78 页 agent 手册第二章：内部提效"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "cn-industry-1030",
+        "headline": "腾讯 78 页 agent 手册第三章：技术底座"
       }
     ]
   },
@@ -6545,12 +6575,17 @@
     ]
   },
   "pyopensci-review-1030": {
-    "title": "pyOpenSci：AI 生成代码泛滥，人的审查更有价值",
+    "title": "pyOpenSci 获斯隆基金会资助，研究 AI 工具如何改变科学开源",
     "appearances": [
       {
         "date": "2026-10-30",
         "anchor": "pyopensci-review-1030",
         "headline": "pyOpenSci：AI 生成代码泛滥，人的审查更有价值"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "pyopensci-review-1030",
+        "headline": "pyOpenSci 获斯隆基金会资助，研究 AI 工具如何改变科学开源"
       }
     ]
   },
@@ -6645,7 +6680,7 @@
     ]
   },
   "scienceclaw-hackathon": {
-    "title": "ScienceClaw 黑客松已开幕",
+    "title": "MIT ScienceClaw 黑客松：150 多人做科学 agent",
     "appearances": [
       {
         "date": "2026-10-30",
@@ -6656,6 +6691,11 @@
         "date": "2026-11-01",
         "anchor": "scienceclaw-hackathon",
         "headline": "ScienceClaw 黑客松已开幕"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "scienceclaw-hackathon",
+        "headline": "MIT ScienceClaw 黑客松：150 多人做科学 agent"
       }
     ]
   },
@@ -6670,7 +6710,7 @@
     ]
   },
   "security-1031": {
-    "title": "币安 63 亿美元被盗：李博杰复盘，FBI 认定朝鲜所为",
+    "title": "币安被盗案：FBI 全球通缉朝鲜黑客朴珍赫",
     "appearances": [
       {
         "date": "2026-10-31",
@@ -6686,6 +6726,11 @@
         "date": "2026-11-02",
         "anchor": "security-1031",
         "headline": "币安 63 亿美元被盗：李博杰复盘，FBI 认定朝鲜所为"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "security-1031",
+        "headline": "币安被盗案：FBI 全球通缉朝鲜黑客朴珍赫"
       }
     ]
   },
@@ -6980,12 +7025,17 @@
     ]
   },
   "jupyter-workshops-2027": {
-    "title": "Jupyter 社区工作坊 2027 征集提案，11 月 30 日截止",
+    "title": "Jupyter 社区工作坊 2027 提案征集：11 月 30 日截止",
     "appearances": [
       {
         "date": "2026-10-31",
         "anchor": "jupyter-workshops-2027",
         "headline": "Jupyter 社区工作坊 2027 征集提案，11 月 30 日截止"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "jupyter-workshops-2027",
+        "headline": "Jupyter 社区工作坊 2027 提案征集：11 月 30 日截止"
       }
     ]
   },
@@ -7335,12 +7385,17 @@
     ]
   },
   "grok-bot-1101": {
-    "title": "Grok Bot：团队搭建指南与国内支付",
+    "title": "歸藏：Grok Bot 用量突然收紧",
     "appearances": [
       {
         "date": "2026-11-01",
         "anchor": "grok-bot-1101",
         "headline": "Grok Bot：团队搭建指南与国内支付"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "grok-bot-1101",
+        "headline": "歸藏：Grok Bot 用量突然收紧"
       }
     ]
   },
@@ -7465,12 +7520,17 @@
     ]
   },
   "karpathy-hackertube": {
-    "title": "Karpathy 的 HackerTube：两小时把 HN 二十年的推荐做成视频站",
+    "title": "HackerTube 之后：12G 的 HN 数据集与一串衍生站点",
     "appearances": [
       {
         "date": "2026-11-02",
         "anchor": "karpathy-hackertube",
         "headline": "Karpathy 的 HackerTube：两小时把 HN 二十年的推荐做成视频站"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "karpathy-hackertube",
+        "headline": "HackerTube 之后：12G 的 HN 数据集与一串衍生站点"
       }
     ]
   },
@@ -7525,12 +7585,17 @@
     ]
   },
   "mptcp-takeover": {
-    "title": "Linux MPTCP 漏洞：只开一个 TCP 端口也可能被接管",
+    "title": "Ubuntu 仍未修补 MPTCP 漏洞，levelsio 考虑全换 Debian",
     "appearances": [
       {
         "date": "2026-11-02",
         "anchor": "mptcp-takeover",
         "headline": "Linux MPTCP 漏洞：只开一个 TCP 端口也可能被接管"
+      },
+      {
+        "date": "2026-11-03",
+        "anchor": "mptcp-takeover",
+        "headline": "Ubuntu 仍未修补 MPTCP 漏洞，levelsio 考虑全换 Debian"
       }
     ]
   },
@@ -7630,6 +7695,316 @@
       {
         "date": "2026-11-02",
         "anchor": "open-science-bsky-1102",
+        "headline": "Bluesky「open science」速览"
+      }
+    ]
+  },
+  "claude-message-threads": {
+    "title": "Messages API 公测「消息线程」：长对话不必每轮重发历史",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "claude-message-threads",
+        "headline": "Messages API 公测「消息线程」：长对话不必每轮重发历史"
+      }
+    ]
+  },
+  "anthropic-residency": {
+    "title": "Anthropic Residency：教授、技术创始人、资深工程师转做 AI 安全，不要求机器学习背景",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "anthropic-residency",
+        "headline": "Anthropic Residency：教授、技术创始人、资深工程师转做 AI 安全，不要求机器学习背景"
+      }
+    ]
+  },
+  "anthropic-agents-sdk-limit-bug": {
+    "title": "Theo：Agents SDK 消耗 5 小时额度更快的 bug",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "anthropic-agents-sdk-limit-bug",
+        "headline": "Theo：Agents SDK 消耗 5 小时额度更快的 bug"
+      }
+    ]
+  },
+  "weight-space-programming": {
+    "title": "权重空间编程：GPT-6 Astra 直接编辑 Qwen3.5-0.8B 的权重",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "weight-space-programming",
+        "headline": "权重空间编程：GPT-6 Astra 直接编辑 Qwen3.5-0.8B 的权重"
+      }
+    ]
+  },
+  "benchmarks-1103": {
+    "title": "新基准：SemiAnalysis 的 GDPx 与 OpenAI 的 LifeVal",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "benchmarks-1103",
+        "headline": "新基准：SemiAnalysis 的 GDPx 与 OpenAI 的 LifeVal"
+      }
+    ]
+  },
+  "visual-nudge-multimodal": {
+    "title": "DeepMind：无关的小图形能悄悄改变多模态模型的决策",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "visual-nudge-multimodal",
+        "headline": "DeepMind：无关的小图形能悄悄改变多模态模型的决策"
+      }
+    ]
+  },
+  "decisionrag": {
+    "title": "DecisionRAG：用决策模型逐层打分做检索",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "decisionrag",
+        "headline": "DecisionRAG：用决策模型逐层打分做检索"
+      }
+    ]
+  },
+  "model-rumors-1103": {
+    "title": "Fable 5.5 灰度传闻与「Mythos 级」权重传闻",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "model-rumors-1103",
+        "headline": "Fable 5.5 灰度传闻与「Mythos 级」权重传闻"
+      }
+    ]
+  },
+  "hf-papers-1103": {
+    "title": "论文与模型速递",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "hf-papers-1103",
+        "headline": "论文与模型速递"
+      }
+    ]
+  },
+  "mcp-without-contract": {
+    "title": "MCP 之争：agent 几乎不用，但它可能是「没有契约的 API」",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "mcp-without-contract",
+        "headline": "MCP 之争：agent 几乎不用，但它可能是「没有契约的 API」"
+      }
+    ]
+  },
+  "senior-devs-agent-caution": {
+    "title": "Thoughtworks：资深开发者为何仍对 coding agent 谨慎",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "senior-devs-agent-caution",
+        "headline": "Thoughtworks：资深开发者为何仍对 coding agent 谨慎"
+      }
+    ]
+  },
+  "arca-task-routing": {
+    "title": "Arca 的 AI 负责人：按任务分模型，钱不交给 agent 动",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "arca-task-routing",
+        "headline": "Arca 的 AI 负责人：按任务分模型，钱不交给 agent 动"
+      }
+    ]
+  },
+  "openrouter-code-review": {
+    "title": "OpenRouter：能给出可复现证据的 AI 代码审查脚本",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "openrouter-code-review",
+        "headline": "OpenRouter：能给出可复现证据的 AI 代码审查脚本"
+      }
+    ]
+  },
+  "deepseek-tools-pricing": {
+    "title": "DeepSeek Search 和 Fetch 工具结束免费",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "deepseek-tools-pricing",
+        "headline": "DeepSeek Search 和 Fetch 工具结束免费"
+      }
+    ]
+  },
+  "workflow-to-agent-views": {
+    "title": "从 workflow 到 agent：Coze 前开发者的感慨，Manus 客户端「半透明」",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "workflow-to-agent-views",
+        "headline": "从 workflow 到 agent：Coze 前开发者的感慨，Manus 客户端「半透明」"
+      }
+    ]
+  },
+  "ai-layers-five-verbs": {
+    "title": "企业 AI 的五层：RAG、知识图谱、语义层与 agent 别混为一谈",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "ai-layers-five-verbs",
+        "headline": "企业 AI 的五层：RAG、知识图谱、语义层与 agent 别混为一谈"
+      }
+    ]
+  },
+  "agent-misc-1103": {
+    "title": "agent 杂谈：浏览器会话怎么保活、云端 agent、Agentic Engineering 论文、LangChain 动态",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "agent-misc-1103",
+        "headline": "agent 杂谈：浏览器会话怎么保活、云端 agent、Agentic Engineering 论文、LangChain 动态"
+      }
+    ]
+  },
+  "levelsio-bf1942-port": {
+    "title": "levelsio 用 Claude Code 把《战地 1942》试玩版反编译成网页版，支持联机",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "levelsio-bf1942-port",
+        "headline": "levelsio 用 Claude Code 把《战地 1942》试玩版反编译成网页版，支持联机"
+      }
+    ]
+  },
+  "builds-1103": {
+    "title": "作品速递：美国最快路线地图、狗狗小队游戏、Kronos 交易组合",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "builds-1103",
+        "headline": "作品速递：美国最快路线地图、狗狗小队游戏、Kronos 交易组合"
+      }
+    ]
+  },
+  "thariq-tokens": {
+    "title": "Thariq：用了一周，200 美元档就够",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "thariq-tokens",
+        "headline": "Thariq：用了一周，200 美元档就够"
+      }
+    ]
+  },
+  "legora-interview": {
+    "title": "Legora CTO 访谈：一次模型发布让引用准确率从 70% 到 99%",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "legora-interview",
+        "headline": "Legora CTO 访谈：一次模型发布让引用准确率从 70% 到 99%"
+      }
+    ]
+  },
+  "passkeys-debate": {
+    "title": "通行密钥算不算双因素？以及 Cloudflare 邮件发送限流",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "passkeys-debate",
+        "headline": "通行密钥算不算双因素？以及 Cloudflare 邮件发送限流"
+      }
+    ]
+  },
+  "dhh-agent-views": {
+    "title": "DHH 三连：agent 时代难相处的人要吃苦，agent 绕开守门人，对 agent 也要礼貌",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "dhh-agent-views",
+        "headline": "DHH 三连：agent 时代难相处的人要吃苦，agent 绕开守门人，对 agent 也要礼貌"
+      }
+    ]
+  },
+  "labs-disposable-products": {
+    "title": "Mollick：实验室把产品当一次性的；AI 采用率还在涨",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "labs-disposable-products",
+        "headline": "Mollick：实验室把产品当一次性的；AI 采用率还在涨"
+      }
+    ]
+  },
+  "community-misc-1103": {
+    "title": "社区杂项",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "community-misc-1103",
+        "headline": "社区杂项"
+      }
+    ]
+  },
+  "marimo-sdss": {
+    "title": "marimo 案例：斯隆数字巡天把响应式 notebook 当成数据入口",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "marimo-sdss",
+        "headline": "marimo 案例：斯隆数字巡天把响应式 notebook 当成数据入口"
+      }
+    ]
+  },
+  "jupyter-bsky-misc-1103": {
+    "title": "Bluesky 上的 Jupyter 相关零星动态",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "jupyter-bsky-misc-1103",
+        "headline": "Bluesky 上的 Jupyter 相关零星动态"
+      }
+    ]
+  },
+  "wikimedia-diff-1103": {
+    "title": "维基媒体社区：WikiGap 尼日利亚新增 598 篇女性条目，GLAM 三季度回顾",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "wikimedia-diff-1103",
+        "headline": "维基媒体社区：WikiGap 尼日利亚新增 598 篇女性条目，GLAM 三季度回顾"
+      }
+    ]
+  },
+  "tettrix-taxonomy": {
+    "title": "TETTRIX：1200 万欧元的欧盟分类学项目，Pensoft 负责外联",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "tettrix-taxonomy",
+        "headline": "TETTRIX：1200 万欧元的欧盟分类学项目，Pensoft 负责外联"
+      }
+    ]
+  },
+  "connected-data-1103": {
+    "title": "Connected Data London：语义网 25 年对谈与「三种图」的边界",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "connected-data-1103",
+        "headline": "Connected Data London：语义网 25 年对谈与「三种图」的边界"
+      }
+    ]
+  },
+  "open-science-bsky-1103": {
+    "title": "Bluesky「open science」速览",
+    "appearances": [
+      {
+        "date": "2026-11-03",
+        "anchor": "open-science-bsky-1103",
         "headline": "Bluesky「open science」速览"
       }
     ]
