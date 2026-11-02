@@ -26,6 +26,38 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 3 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-03.html</link>
+      <description>昨天 AI 圈：Claude API 消息线程、levelsio 把《战地 1942》搬上网页、GDPx 与 LifeVal 新基准、小图形悄悄左右多模态模型、Anthropic Residency、pyOpenSci 获斯隆资助；评论聊改权重、MCP 之争、marimo 进 SDSS、资深开发者的谨慎、S-1 里的「加速」
+
+章节：
+0:00 开场与头条预告
+0:57 快讯
+6:17 重点一：Claude 接口有了消息线程
+7:44 重点二：一款老游戏，从机器码搬到网页
+9:24 重点三：两个新基准，一个难，一个接地气
+10:51 重点四：一颗红心，就能改变模型写代码的方式
+12:11 重点五：Anthropic 招资深人士转行做 AI 安全
+13:38 重点六：pyOpenSci 拿到资助，研究 AI 怎么改变科学开源
+15:07 一起讨论
+15:16 评论一：一个模型给另一个模型做手术
+16:54 评论二：MCP 是不是一个没有契约的接口
+18:38 评论三：marimo 走进斯隆数字巡天
+20:33 评论四：为什么最有经验的程序员最谨慎
+22:25 评论五：上市文件里的加速
+24:00 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-03.html</description>
+      <itunes:summary>昨天 AI 圈：Claude API 消息线程、levelsio 把《战地 1942》搬上网页、GDPx 与 LifeVal 新基准、小图形悄悄左右多模态模型、Anthropic Residency、pyOpenSci 获斯隆资助；评论聊改权重、MCP 之争、marimo 进 SDSS、资深开发者的谨慎、S-1 里的「加速」</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-03.mp3" length="11677100" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:24:20</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 2 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-02.html</link>
       <description>昨天 AI 圈：Anthropic 每天约 3 万次合并靠「证据包」、Super-agent 后续与主动 agent 六道题、币安被盗复盘与 Linux 漏洞、LeCun 谈表征与 Llama、Karpathy 的 HackerTube；评论聊 agent 重写与许可证、97 个词复现 ETH 证明、按 harness 安全度放开模型能力、手机上的 notebook、GPT-4 到今天的分界线
@@ -307,7 +339,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Mon, 02 Nov 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Mon, 02 Nov 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Tue, 03 Nov 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
