@@ -26,6 +26,38 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 4 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-04.html</link>
+      <description>昨天 AI 圈：Anthropic 开源 FlashProve、Claude 插件自动连接与 Claude Code 十月更新、权重空间编程被复现、Code Mode、levelsio 把开支压到每月 300 美元、科研开放权重模型；评论聊 Git 撑不住 agent、Revolut 改用开放权重、维护者看不见对面的人、OSF 关停时间表、agent 自我复盘
+
+章节：
+0:00 开场与头条预告
+0:56 快讯
+5:21 重点一：Anthropic 开源 FlashProve
+6:40 重点二：Claude 插件登录即连，Claude Code 十月更新
+8:11 重点三：模型改模型的权重，被独立复现了
+9:43 重点四：agent 可能很快只剩一个工具
+10:58 重点五：独立开发者用 AI 把开支砍掉九成
+12:16 重点六：面向科研的开放权重模型
+13:28 一起讨论
+13:39 评论一：Git 撑不住 agent，是改造还是替换
+15:52 评论二：前沿模型变成例外，开放模型变成默认
+17:38 评论三：维护者失去的，是对面的人
+19:38 评论四：OSF 关停的时间表
+21:29 评论五：让 AI 自己复盘、自己改手册，管用吗
+23:28 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-04.html</description>
+      <itunes:summary>昨天 AI 圈：Anthropic 开源 FlashProve、Claude 插件自动连接与 Claude Code 十月更新、权重空间编程被复现、Code Mode、levelsio 把开支压到每月 300 美元、科研开放权重模型；评论聊 Git 撑不住 agent、Revolut 改用开放权重、维护者看不见对面的人、OSF 关停时间表、agent 自我复盘</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-04.mp3" length="11432300" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:23:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 3 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-03.html</link>
       <description>昨天 AI 圈：Claude API 消息线程、levelsio 把《战地 1942》搬上网页、GDPx 与 LifeVal 新基准、小图形悄悄左右多模态模型、Anthropic Residency、pyOpenSci 获斯隆资助；评论聊改权重、MCP 之争、marimo 进 SDSS、资深开发者的谨慎、S-1 里的「加速」
@@ -339,7 +371,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Tue, 03 Nov 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Tue, 03 Nov 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Wed, 04 Nov 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>

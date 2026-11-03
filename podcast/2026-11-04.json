@@ -1,0 +1,87 @@
+{
+ "title": "11 月 4 日 AI 播报",
+ "summary": "昨天 AI 圈：Anthropic 开源 FlashProve、Claude 插件自动连接与 Claude Code 十月更新、权重空间编程被复现、Code Mode、levelsio 把开支压到每月 300 美元、科研开放权重模型；评论聊 Git 撑不住 agent、Revolut 改用开放权重、维护者看不见对面的人、OSF 关停时间表、agent 自我复盘",
+ "voice": "男声",
+ "voice_id": "qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1429.0,
+ "size": 11432300,
+ "src": "https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-04.mp3",
+ "pubDate": "2026-11-04T07:53:00+08:00",
+ "chapters": [
+  {
+   "t": 0,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 56.2,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 321.2,
+   "title": "重点一：Anthropic 开源 FlashProve",
+   "group": "今日重点"
+  },
+  {
+   "t": 399.5,
+   "title": "重点二：Claude 插件登录即连，Claude Code 十月更新",
+   "group": "今日重点"
+  },
+  {
+   "t": 491.2,
+   "title": "重点三：模型改模型的权重，被独立复现了",
+   "group": "今日重点"
+  },
+  {
+   "t": 583.0,
+   "title": "重点四：agent 可能很快只剩一个工具",
+   "group": "今日重点"
+  },
+  {
+   "t": 657.9,
+   "title": "重点五：独立开发者用 AI 把开支砍掉九成",
+   "group": "今日重点"
+  },
+  {
+   "t": 735.7,
+   "title": "重点六：面向科研的开放权重模型",
+   "group": "今日重点"
+  },
+  {
+   "t": 808.2,
+   "title": "一起讨论",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 818.6,
+   "title": "评论一：Git 撑不住 agent，是改造还是替换",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 951.5,
+   "title": "评论二：前沿模型变成例外，开放模型变成默认",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1058.5,
+   "title": "评论三：维护者失去的，是对面的人",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1177.7,
+   "title": "评论四：OSF 关停的时间表",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1288.7,
+   "title": "评论五：让 AI 自己复盘、自己改手册，管用吗",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1408.1,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}
