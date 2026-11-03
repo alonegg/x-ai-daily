@@ -270,7 +270,7 @@
     ]
   },
   "anthropic-scion": {
-    "title": "Theo：Anthropic 被 GitHub 卡脖子才重造了 git，很多团队都会走到这一步",
+    "title": "OpenAI 的 Pando 与 Anthropic 的 Scion：同一个瓶颈，相反的解法",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -281,6 +281,11 @@
         "date": "2026-10-20",
         "anchor": "anthropic-scion",
         "headline": "Theo：Anthropic 被 GitHub 卡脖子才重造了 git，很多团队都会走到这一步"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "anthropic-scion",
+        "headline": "OpenAI 的 Pando 与 Anthropic 的 Scion：同一个瓶颈，相反的解法"
       }
     ]
   },
@@ -1470,7 +1475,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code：企业托管策略、吞吐量与构建时间",
+    "title": "T3 Code 第 33 天：一堆小改进",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1556,6 +1561,11 @@
         "date": "2026-11-03",
         "anchor": "t3-code-beta",
         "headline": "T3 Code：企业托管策略、吞吐量与构建时间"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 第 33 天：一堆小改进"
       }
     ]
   },
@@ -4975,7 +4985,7 @@
     ]
   },
   "omarchy-ipad-freebsd": {
-    "title": "Omarchy 后续：4.5 RC3、7 秒装完、iPad mini 4 和 NVIDIA N1X",
+    "title": "Omarchy 后续：Linux 在 M1 Max 上内存带宽反超 macOS，agent 自动化测试",
     "appearances": [
       {
         "date": "2026-10-26",
@@ -4996,6 +5006,11 @@
         "date": "2026-11-03",
         "anchor": "omarchy-ipad-freebsd",
         "headline": "Omarchy 后续：4.5 RC3、7 秒装完、iPad mini 4 和 NVIDIA N1X"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "omarchy-ipad-freebsd",
+        "headline": "Omarchy 后续：Linux 在 M1 Max 上内存带宽反超 macOS，agent 自动化测试"
       }
     ]
   },
@@ -5355,12 +5370,17 @@
     ]
   },
   "aie-code-1027": {
-    "title": "活动预告：AIE CODE 闭幕主题演讲由 Thariq 担任，ThursdAI 现场直播",
+    "title": "AIE CODE 大会：讲者名单与「提高你的野心」专场",
     "appearances": [
       {
         "date": "2026-10-27",
         "anchor": "aie-code-1027",
         "headline": "活动预告：AIE CODE 闭幕主题演讲由 Thariq 担任，ThursdAI 现场直播"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "aie-code-1027",
+        "headline": "AIE CODE 大会：讲者名单与「提高你的野心」专场"
       }
     ]
   },
@@ -5850,7 +5870,7 @@
     ]
   },
   "gemini-4-carbon": {
-    "title": "Gemini 4 Carbon 后续：编程 agent 指数仅次于 Opus 5.5，幻觉率升到 11%",
+    "title": "Gemini 4 Carbon 后续：Arena 实测接近 Opus；OpenAI 新模型猜测",
     "appearances": [
       {
         "date": "2026-10-29",
@@ -5861,6 +5881,11 @@
         "date": "2026-10-30",
         "anchor": "gemini-4-carbon",
         "headline": "Gemini 4 Carbon 后续：编程 agent 指数仅次于 Opus 5.5，幻觉率升到 11%"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "gemini-4-carbon",
+        "headline": "Gemini 4 Carbon 后续：Arena 实测接近 Opus；OpenAI 新模型猜测"
       }
     ]
   },
@@ -6575,7 +6600,7 @@
     ]
   },
   "pyopensci-review-1030": {
-    "title": "pyOpenSci 获斯隆基金会资助，研究 AI 工具如何改变科学开源",
+    "title": "pyOpenSci：EuroPython 维护者焦点小组，「看不见对面的人」",
     "appearances": [
       {
         "date": "2026-10-30",
@@ -6586,6 +6611,11 @@
         "date": "2026-11-03",
         "anchor": "pyopensci-review-1030",
         "headline": "pyOpenSci 获斯隆基金会资助，研究 AI 工具如何改变科学开源"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "pyopensci-review-1030",
+        "headline": "pyOpenSci：EuroPython 维护者焦点小组，「看不见对面的人」"
       }
     ]
   },
@@ -6755,7 +6785,7 @@
     ]
   },
   "claude-ultra-plan": {
-    "title": "Claude 订阅后续：OpenCode 可用订阅登录，Magpie 改走 TUI",
+    "title": "Claude Ultra 后续：Theo 谈「验证」与 5 小时限额",
     "appearances": [
       {
         "date": "2026-10-31",
@@ -6766,6 +6796,11 @@
         "date": "2026-11-01",
         "anchor": "claude-ultra-plan",
         "headline": "Claude 订阅后续：OpenCode 可用订阅登录，Magpie 改走 TUI"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "claude-ultra-plan",
+        "headline": "Claude Ultra 后续：Theo 谈「验证」与 5 小时限额"
       }
     ]
   },
@@ -7520,7 +7555,7 @@
     ]
   },
   "karpathy-hackertube": {
-    "title": "HackerTube 之后：12G 的 HN 数据集与一串衍生站点",
+    "title": "HN 数据宝库后续：书库、生意经、写作课，还有 Reddit 全量数据",
     "appearances": [
       {
         "date": "2026-11-02",
@@ -7531,6 +7566,11 @@
         "date": "2026-11-03",
         "anchor": "karpathy-hackertube",
         "headline": "HackerTube 之后：12G 的 HN 数据集与一串衍生站点"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "karpathy-hackertube",
+        "headline": "HN 数据宝库后续：书库、生意经、写作课，还有 Reddit 全量数据"
       }
     ]
   },
@@ -7730,12 +7770,17 @@
     ]
   },
   "weight-space-programming": {
-    "title": "权重空间编程：GPT-6 Astra 直接编辑 Qwen3.5-0.8B 的权重",
+    "title": "权重空间编程后续：被复现，「台阶式」出现在最新一代模型上",
     "appearances": [
       {
         "date": "2026-11-03",
         "anchor": "weight-space-programming",
         "headline": "权重空间编程：GPT-6 Astra 直接编辑 Qwen3.5-0.8B 的权重"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "weight-space-programming",
+        "headline": "权重空间编程后续：被复现，「台阶式」出现在最新一代模型上"
       }
     ]
   },
@@ -7760,12 +7805,17 @@
     ]
   },
   "decisionrag": {
-    "title": "DecisionRAG：用决策模型逐层打分做检索",
+    "title": "检索之争：「检索先是 harness 问题」与 DecisionRAG",
     "appearances": [
       {
         "date": "2026-11-03",
         "anchor": "decisionrag",
         "headline": "DecisionRAG：用决策模型逐层打分做检索"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "decisionrag",
+        "headline": "检索之争：「检索先是 harness 问题」与 DecisionRAG"
       }
     ]
   },
@@ -7870,12 +7920,17 @@
     ]
   },
   "levelsio-bf1942-port": {
-    "title": "levelsio 用 Claude Code 把《战地 1942》试玩版反编译成网页版，支持联机",
+    "title": "《战地 1942》网页版后续：威克岛地图上线，成为官方服务器",
     "appearances": [
       {
         "date": "2026-11-03",
         "anchor": "levelsio-bf1942-port",
         "headline": "levelsio 用 Claude Code 把《战地 1942》试玩版反编译成网页版，支持联机"
+      },
+      {
+        "date": "2026-11-04",
+        "anchor": "levelsio-bf1942-port",
+        "headline": "《战地 1942》网页版后续：威克岛地图上线，成为官方服务器"
       }
     ]
   },
@@ -8006,6 +8061,306 @@
         "date": "2026-11-03",
         "anchor": "open-science-bsky-1103",
         "headline": "Bluesky「open science」速览"
+      }
+    ]
+  },
+  "anthropic-flashprove": {
+    "title": "FlashProve：用密码学证明「这条回答确实来自这个模型」",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "anthropic-flashprove",
+        "headline": "FlashProve：用密码学证明「这条回答确实来自这个模型」"
+      }
+    ]
+  },
+  "claude-plugin-autoconnect": {
+    "title": "Claude 团队版和企业版：公司开通的插件登录即自动连接",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "claude-plugin-autoconnect",
+        "headline": "Claude 团队版和企业版：公司开通的插件登录即自动连接"
+      }
+    ]
+  },
+  "claude-code-oct-recap": {
+    "title": "Claude Code 十月更新汇总",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "claude-code-oct-recap",
+        "headline": "Claude Code 十月更新汇总"
+      }
+    ]
+  },
+  "catwu-leaves-anthropic": {
+    "title": "Claude Code 产品负责人 Cat Wu 离开 Anthropic",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "catwu-leaves-anthropic",
+        "headline": "Claude Code 产品负责人 Cat Wu 离开 Anthropic"
+      }
+    ]
+  },
+  "anthropic-platform-comms-job": {
+    "title": "Anthropic 招 Claude 开发者平台传播负责人",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "anthropic-platform-comms-job",
+        "headline": "Anthropic 招 Claude 开发者平台传播负责人"
+      }
+    ]
+  },
+  "open-weights-1104": {
+    "title": "开放权重速递：Hydrogen-1.0、P-H3-Image、WeVisOne-VL、LeVJEPA 1.5",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "open-weights-1104",
+        "headline": "开放权重速递：Hydrogen-1.0、P-H3-Image、WeVisOne-VL、LeVJEPA 1.5"
+      }
+    ]
+  },
+  "ai-research-agents-1104": {
+    "title": "科研 agent：腾讯混元 Hyra 2.0 与 Locus",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "ai-research-agents-1104",
+        "headline": "科研 agent：腾讯混元 Hyra 2.0 与 Locus"
+      }
+    ]
+  },
+  "hf-papers-1104": {
+    "title": "论文与模型速递",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "hf-papers-1104",
+        "headline": "论文与模型速递"
+      }
+    ]
+  },
+  "retro-self-evolve-study": {
+    "title": "让编程 agent 自己复盘改手册：7 次有效测试只有 2 项彻底见效",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "retro-self-evolve-study",
+        "headline": "让编程 agent 自己复盘改手册：7 次有效测试只有 2 项彻底见效"
+      }
+    ]
+  },
+  "agent-code-mode": {
+    "title": "Code Mode：agent 很快可能只剩一个 exec 工具",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "agent-code-mode",
+        "headline": "Code Mode：agent 很快可能只剩一个 exec 工具"
+      }
+    ]
+  },
+  "agent-critical-thinking": {
+    "title": "Addy Osmani：agent 把活干完了，批判性思考得自己留住",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "agent-critical-thinking",
+        "headline": "Addy Osmani：agent 把活干完了，批判性思考得自己留住"
+      }
+    ]
+  },
+  "langchain-browser-tools": {
+    "title": "浏览器是新的终端：LangChain 怎么为托管 Deep Agents 设计浏览器工具",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "langchain-browser-tools",
+        "headline": "浏览器是新的终端：LangChain 怎么为托管 Deep Agents 设计浏览器工具"
+      }
+    ]
+  },
+  "nvidia-auto-ontology": {
+    "title": "NVIDIA Auto Ontology：给 agent 用的企业语义层",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "nvidia-auto-ontology",
+        "headline": "NVIDIA Auto Ontology：给 agent 用的企业语义层"
+      }
+    ]
+  },
+  "agent-misc-1104": {
+    "title": "agent 杂谈：「苦涩的教训」、调试技能、MCP 可观测性、推理速度",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "agent-misc-1104",
+        "headline": "agent 杂谈：「苦涩的教训」、调试技能、MCP 可观测性、推理速度"
+      }
+    ]
+  },
+  "revolut-open-weights": {
+    "title": "Revolut 据称迁到自托管 GLM：开放权重成默认，前沿模型成例外",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "revolut-open-weights",
+        "headline": "Revolut 据称迁到自托管 GLM：开放权重成默认，前沿模型成例外"
+      }
+    ]
+  },
+  "levelsio-cost-cuts": {
+    "title": "levelsio：Claude Code 帮他把业务开支压到每月约 300 美元",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "levelsio-cost-cuts",
+        "headline": "levelsio：Claude Code 帮他把业务开支压到每月约 300 美元"
+      }
+    ]
+  },
+  "openai-physical-security-1104": {
+    "title": "OpenAI：ChatGPT 和 Codex 进入硬件工程；漏洞赏金最高 17.2 万美元",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "openai-physical-security-1104",
+        "headline": "OpenAI：ChatGPT 和 Codex 进入硬件工程；漏洞赏金最高 17.2 万美元"
+      }
+    ]
+  },
+  "software-factories-1104": {
+    "title": "软件工厂：Warp 每个 PR 从约 80 美元降到 15 到 20 美元；Traversal 融资 1.2 亿美元",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "software-factories-1104",
+        "headline": "软件工厂：Warp 每个 PR 从约 80 美元降到 15 到 20 美元；Traversal 融资 1.2 亿美元"
+      }
+    ]
+  },
+  "ai-short-drama-1104": {
+    "title": "AI 短剧《持械入宋》：十来人的团队，播放量超 60 亿",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "ai-short-drama-1104",
+        "headline": "AI 短剧《持械入宋》：十来人的团队，播放量超 60 亿"
+      }
+    ]
+  },
+  "builds-1104": {
+    "title": "小工具速递：乔木闪记、baoyu-design Motion、归藏设计插件、电子书双语",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "builds-1104",
+        "headline": "小工具速递：乔木闪记、baoyu-design Motion、归藏设计插件、电子书双语"
+      }
+    ]
+  },
+  "theo-views-1104": {
+    "title": "Theo 一串观点：苹果、Discord、Electron 与投资人",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "theo-views-1104",
+        "headline": "Theo 一串观点：苹果、Discord、Electron 与投资人"
+      }
+    ]
+  },
+  "mollick-views-1104": {
+    "title": "Mollick：AI 评审论文已经很有用；X 上的 AI 垃圾评论其实容易拦",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "mollick-views-1104",
+        "headline": "Mollick：AI 评审论文已经很有用；X 上的 AI 垃圾评论其实容易拦"
+      }
+    ]
+  },
+  "cn-community-1104": {
+    "title": "中文圈：代码细节还重要吗、国内大厂的 AI 编程现状",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "cn-community-1104",
+        "headline": "中文圈：代码细节还重要吗、国内大厂的 AI 编程现状"
+      }
+    ]
+  },
+  "community-misc-1104": {
+    "title": "社区杂项",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "community-misc-1104",
+        "headline": "社区杂项"
+      }
+    ]
+  },
+  "jupyter-bsky-misc-1104": {
+    "title": "Bluesky 上的 Jupyter 工具动态：jotter、PHP 内核、Dragonfly Notebook、R 与 Jupyter 交流会",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "jupyter-bsky-misc-1104",
+        "headline": "Bluesky 上的 Jupyter 工具动态：jotter、PHP 内核、Dragonfly Notebook、R 与 Jupyter 交流会"
+      }
+    ]
+  },
+  "osf-projects-sunset": {
+    "title": "OSF 项目关停时间表：11 月 16 日起不能新建，明年 2 月 19 日起全部只读",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "osf-projects-sunset",
+        "headline": "OSF 项目关停时间表：11 月 16 日起不能新建，明年 2 月 19 日起全部只读"
+      }
+    ]
+  },
+  "french-open-science-strategy": {
+    "title": "法国开放科学战略 2026–2033",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "french-open-science-strategy",
+        "headline": "法国开放科学战略 2026–2033"
+      }
+    ]
+  },
+  "wikimedia-diff-1104": {
+    "title": "维基媒体社区：PHP 漏洞让工具下线、IndiaFOSS、乌干达年会与 Wikidata 14 岁",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "wikimedia-diff-1104",
+        "headline": "维基媒体社区：PHP 漏洞让工具下线、IndiaFOSS、乌干达年会与 Wikidata 14 岁"
+      }
+    ]
+  },
+  "connected-data-1104": {
+    "title": "企业知识图谱：一个企业需要几个本体？",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "connected-data-1104",
+        "headline": "企业知识图谱：一个企业需要几个本体？"
+      }
+    ]
+  },
+  "open-science-bsky-1104": {
+    "title": "开放科学速览：Paperclip 数据集、ARPHA 与 EASE、OpenScope 转型、UIST 演示",
+    "appearances": [
+      {
+        "date": "2026-11-04",
+        "anchor": "open-science-bsky-1104",
+        "headline": "开放科学速览：Paperclip 数据集、ARPHA 与 EASE、OpenScope 转型、UIST 演示"
       }
     ]
   }
