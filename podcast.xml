@@ -26,6 +26,38 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 5 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-05.html</link>
+      <description>昨天 AI 圈：OpenAI 收购 Pierre 与「收购日」、Kimi K3.1 Pro 放权重和混元 Hy4、Claude 解出细菌 vault 粒子结构、Claude Code 子代理省额度、OpenAI 硬件设计细节、JupyterLite 本地跑模型；评论聊 AI 搜索钓鱼、「依赖已死」、OpenAlex 合并 1700 万条重复记录、AI 时代的数学规范、AI 一年半写 371 本书
+
+章节：
+0:00 开场与头条预告
+0:59 快讯
+6:58 重点一：OpenAI 收购 Pierre，审代码成了新瓶颈
+8:39 重点二：开放模型日，Kimi 放权重，混元 Hy 四正式发布
+10:31 重点三：Claude 帮忙解开一个四十年的蛋白谜题
+12:03 重点四：Claude Code 让后台助手更省额度
+13:24 重点五：AI 设计硬件，还差最后一公里
+14:34 重点六：在浏览器里的 Jupyter 跑 AI 模型
+16:11 一起讨论
+16:21 评论一：AI 搜索，成了新的钓鱼入口
+17:48 评论二：依赖已死？
+19:35 评论三：一篇论文出现两次，现在合并了
+21:21 评论四：AI 时代，数学家的新规矩
+22:56 评论五：一年半，用 AI 写了三百七十一本书
+24:44 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-05.html</description>
+      <itunes:summary>昨天 AI 圈：OpenAI 收购 Pierre 与「收购日」、Kimi K3.1 Pro 放权重和混元 Hy4、Claude 解出细菌 vault 粒子结构、Claude Code 子代理省额度、OpenAI 硬件设计细节、JupyterLite 本地跑模型；评论聊 AI 搜索钓鱼、「依赖已死」、OpenAlex 合并 1700 万条重复记录、AI 时代的数学规范、AI 一年半写 371 本书</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-05.mp3" length="12025772" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:25:03</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 4 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-04.html</link>
       <description>昨天 AI 圈：Anthropic 开源 FlashProve、Claude 插件自动连接与 Claude Code 十月更新、权重空间编程被复现、Code Mode、levelsio 把开支压到每月 300 美元、科研开放权重模型；评论聊 Git 撑不住 agent、Revolut 改用开放权重、维护者看不见对面的人、OSF 关停时间表、agent 自我复盘
@@ -371,7 +403,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Wed, 04 Nov 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Wed, 04 Nov 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Thu, 05 Nov 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
