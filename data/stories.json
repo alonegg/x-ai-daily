@@ -3295,7 +3295,7 @@
     ]
   },
   "anthropic-s1-ipo": {
-    "title": "S-1 修订版：内部预期可能「即将」达到加速门槛；季度收入继续跳涨",
+    "title": "「Anthropic 取消 IPO」传闻：Theo 先转述，后称大概率不实",
     "appearances": [
       {
         "date": "2026-10-22",
@@ -3316,6 +3316,11 @@
         "date": "2026-11-03",
         "anchor": "anthropic-s1-ipo",
         "headline": "S-1 修订版：内部预期可能「即将」达到加速门槛；季度收入继续跳涨"
+      },
+      {
+        "date": "2026-11-05",
+        "anchor": "anthropic-s1-ipo",
+        "headline": "「Anthropic 取消 IPO」传闻：Theo 先转述，后称大概率不实"
       }
     ]
   },
@@ -3600,12 +3605,17 @@
     ]
   },
   "fernando-compute-paris": {
-    "title": "Fernando Pérez 将为 Compute! Paris 2026 做开幕主题演讲",
+    "title": "Compute! Paris：Project Jupyter 11 月 25–26 日到场，Fernando Pérez 开幕演讲",
     "appearances": [
       {
         "date": "2026-10-22",
         "anchor": "fernando-compute-paris",
         "headline": "Fernando Pérez 将为 Compute! Paris 2026 做开幕主题演讲"
+      },
+      {
+        "date": "2026-11-05",
+        "anchor": "fernando-compute-paris",
+        "headline": "Compute! Paris：Project Jupyter 11 月 25–26 日到场，Fernando Pérez 开幕演讲"
       }
     ]
   },
@@ -4260,7 +4270,7 @@
     ]
   },
   "kimi-k31-pro": {
-    "title": "Kimi K3.1 Pro 后续：英文 KOL「揭露」宣发，中文圈议论",
+    "title": "Kimi K3.1 Pro 放出开放权重，约 1.5TB",
     "appearances": [
       {
         "date": "2026-10-24",
@@ -4276,6 +4286,11 @@
         "date": "2026-10-26",
         "anchor": "kimi-k31-pro",
         "headline": "Kimi K3.1 Pro 后续：英文 KOL「揭露」宣发，中文圈议论"
+      },
+      {
+        "date": "2026-11-05",
+        "anchor": "kimi-k31-pro",
+        "headline": "Kimi K3.1 Pro 放出开放权重，约 1.5TB"
       }
     ]
   },
@@ -4985,7 +5000,7 @@
     ]
   },
   "omarchy-ipad-freebsd": {
-    "title": "Omarchy 后续：Linux 在 M1 Max 上内存带宽反超 macOS，agent 自动化测试",
+    "title": "Omarchy 4.5 发布：支持苹果 M1 到 M3，默认听写换 Superwhisper",
     "appearances": [
       {
         "date": "2026-10-26",
@@ -5011,6 +5026,11 @@
         "date": "2026-11-04",
         "anchor": "omarchy-ipad-freebsd",
         "headline": "Omarchy 后续：Linux 在 M1 Max 上内存带宽反超 macOS，agent 自动化测试"
+      },
+      {
+        "date": "2026-11-05",
+        "anchor": "omarchy-ipad-freebsd",
+        "headline": "Omarchy 4.5 发布：支持苹果 M1 到 M3，默认听写换 Superwhisper"
       }
     ]
   },
@@ -5970,7 +5990,7 @@
     ]
   },
   "codex-quota-cut": {
-    "title": "Codex 新额度算账：500 美元档约值每月 1.05 万美元",
+    "title": "Pro 额度翻倍后续：Theo 算账；Altman 谈「人要掌控未来」和内存",
     "appearances": [
       {
         "date": "2026-10-29",
@@ -5986,6 +6006,11 @@
         "date": "2026-10-31",
         "anchor": "codex-quota-cut",
         "headline": "Codex 新额度算账：500 美元档约值每月 1.05 万美元"
+      },
+      {
+        "date": "2026-11-05",
+        "anchor": "codex-quota-cut",
+        "headline": "Pro 额度翻倍后续：Theo 算账；Altman 谈「人要掌控未来」和内存"
       }
     ]
   },
@@ -8115,12 +8140,17 @@
     ]
   },
   "open-weights-1104": {
-    "title": "开放权重速递：Hydrogen-1.0、P-H3-Image、WeVisOne-VL、LeVJEPA 1.5",
+    "title": "JEPA 之争与 LeVJEPA 1.5 后续",
     "appearances": [
       {
         "date": "2026-11-04",
         "anchor": "open-weights-1104",
         "headline": "开放权重速递：Hydrogen-1.0、P-H3-Image、WeVisOne-VL、LeVJEPA 1.5"
+      },
+      {
+        "date": "2026-11-05",
+        "anchor": "open-weights-1104",
+        "headline": "JEPA 之争与 LeVJEPA 1.5 后续"
       }
     ]
   },
@@ -8175,12 +8205,17 @@
     ]
   },
   "langchain-browser-tools": {
-    "title": "浏览器是新的终端：LangChain 怎么为托管 Deep Agents 设计浏览器工具",
+    "title": "给 agent 一个浏览器：LangChain 的演示、翻车实录与工具集对比",
     "appearances": [
       {
         "date": "2026-11-04",
         "anchor": "langchain-browser-tools",
         "headline": "浏览器是新的终端：LangChain 怎么为托管 Deep Agents 设计浏览器工具"
+      },
+      {
+        "date": "2026-11-05",
+        "anchor": "langchain-browser-tools",
+        "headline": "给 agent 一个浏览器：LangChain 的演示、翻车实录与工具集对比"
       }
     ]
   },
@@ -8225,12 +8260,17 @@
     ]
   },
   "openai-physical-security-1104": {
-    "title": "OpenAI：ChatGPT 和 Codex 进入硬件工程；漏洞赏金最高 17.2 万美元",
+    "title": "GPT-6 Astra 设计硬件后续：小批样机、内部模型 0.875 分",
     "appearances": [
       {
         "date": "2026-11-04",
         "anchor": "openai-physical-security-1104",
         "headline": "OpenAI：ChatGPT 和 Codex 进入硬件工程；漏洞赏金最高 17.2 万美元"
+      },
+      {
+        "date": "2026-11-05",
+        "anchor": "openai-physical-security-1104",
+        "headline": "GPT-6 Astra 设计硬件后续：小批样机、内部模型 0.875 分"
       }
     ]
   },
@@ -8361,6 +8401,346 @@
         "date": "2026-11-04",
         "anchor": "open-science-bsky-1104",
         "headline": "开放科学速览：Paperclip 数据集、ARPHA 与 EASE、OpenScope 转型、UIST 演示"
+      }
+    ]
+  },
+  "openai-acquires-pierre": {
+    "title": "OpenAI 收购 Pierre：给 Codex 补上「看代码、审代码」",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "openai-acquires-pierre",
+        "headline": "OpenAI 收购 Pierre：给 Codex 补上「看代码、审代码」"
+      }
+    ]
+  },
+  "ai-acquisitions-1105": {
+    "title": "「收购日」：Factory 收 HumanLayer，Meta 收 Conductor",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "ai-acquisitions-1105",
+        "headline": "「收购日」：Factory 收 HumanLayer，Meta 收 Conductor"
+      }
+    ]
+  },
+  "openai-misc-1105": {
+    "title": "Codex 进入 Agents SDK；ChatGPT 周活 12 亿",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "openai-misc-1105",
+        "headline": "Codex 进入 Agents SDK；ChatGPT 周活 12 亿"
+      }
+    ]
+  },
+  "anthropic-vault-particle": {
+    "title": "Claude 帮 Anthropic 解出第一个细菌 vault 粒子的三维结构",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "anthropic-vault-particle",
+        "headline": "Claude 帮 Anthropic 解出第一个细菌 vault 粒子的三维结构"
+      }
+    ]
+  },
+  "claude-code-1105": {
+    "title": "Claude Code：后台子代理状态更新成本降约 99%；桌面版加 /storage；游戏规则修正",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "claude-code-1105",
+        "headline": "Claude Code：后台子代理状态更新成本降约 99%；桌面版加 /storage；游戏规则修正"
+      }
+    ]
+  },
+  "claude-text-watermark": {
+    "title": "Claude 生成文本开始带水印",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "claude-text-watermark",
+        "headline": "Claude 生成文本开始带水印"
+      }
+    ]
+  },
+  "theo-anthropic-vaguepost": {
+    "title": "Theo 发帖「今天是我在 Anthropic 的最后一天」",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "theo-anthropic-vaguepost",
+        "headline": "Theo 发帖「今天是我在 Anthropic 的最后一天」"
+      }
+    ]
+  },
+  "tencent-hy4": {
+    "title": "腾讯混元 Hy4 正式发布：约 770B，首次能看图、能操作电脑，权重「计划开源」",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "tencent-hy4",
+        "headline": "腾讯混元 Hy4 正式发布：约 770B，首次能看图、能操作电脑，权重「计划开源」"
+      }
+    ]
+  },
+  "ripple-65b": {
+    "title": "Ripple-65B Preview：3200 万美元从零训练的美国开放权重编程模型",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "ripple-65b",
+        "headline": "Ripple-65B Preview：3200 万美元从零训练的美国开放权重编程模型"
+      }
+    ]
+  },
+  "gen-models-1105": {
+    "title": "多模态与生成速递：Gemini 电脑操作正式版、Atmee v2、Muse 下载量",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "gen-models-1105",
+        "headline": "多模态与生成速递：Gemini 电脑操作正式版、Atmee v2、Muse 下载量"
+      }
+    ]
+  },
+  "google-scientisttwo": {
+    "title": "Google ScientistTwo：端到端自动科研框架",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "google-scientisttwo",
+        "headline": "Google ScientistTwo：端到端自动科研框架"
+      }
+    ]
+  },
+  "zyphra-zha": {
+    "title": "ZHA：用树状目录索引加速超长上下文",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "zyphra-zha",
+        "headline": "ZHA：用树状目录索引加速超长上下文"
+      }
+    ]
+  },
+  "hf-papers-1105": {
+    "title": "论文速递",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "hf-papers-1105",
+        "headline": "论文速递"
+      }
+    ]
+  },
+  "genproof-quickproof": {
+    "title": "GenProof：AI 写证明、机器检查，已在开源软件里找到 300 多个 bug",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "genproof-quickproof",
+        "headline": "GenProof：AI 写证明、机器检查，已在开源软件里找到 300 多个 bug"
+      }
+    ]
+  },
+  "mit-6s950-data": {
+    "title": "MIT 6.S950 第 7 讲：用别人的数据，就接受了别人的选择",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "mit-6s950-data",
+        "headline": "MIT 6.S950 第 7 讲：用别人的数据，就接受了别人的选择"
+      }
+    ]
+  },
+  "chatgpt-scam-clone": {
+    "title": "ChatGPT 反复推荐 T3 Code 的仿冒恶意站",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "chatgpt-scam-clone",
+        "headline": "ChatGPT 反复推荐 T3 Code 的仿冒恶意站"
+      }
+    ]
+  },
+  "deps-are-over": {
+    "title": "「依赖已死」预测",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "deps-are-over",
+        "headline": "「依赖已死」预测"
+      }
+    ]
+  },
+  "agent-first-products": {
+    "title": "agent 时代的产品：62% 的下载来自 agent；Siri 开放 App Intents",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "agent-first-products",
+        "headline": "agent 时代的产品：62% 的下载来自 agent；Siri 开放 App Intents"
+      }
+    ]
+  },
+  "playwright-security": {
+    "title": "Playwright 澄清：别删，它不自带浏览器",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "playwright-security",
+        "headline": "Playwright 澄清：别删，它不自带浏览器"
+      }
+    ]
+  },
+  "mcp-tools-1105": {
+    "title": "MCP 可观测性后续与 TemPad Dev 1.0",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "mcp-tools-1105",
+        "headline": "MCP 可观测性后续与 TemPad Dev 1.0"
+      }
+    ]
+  },
+  "builds-1105": {
+    "title": "开源小工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "builds-1105",
+        "headline": "开源小工具速递"
+      }
+    ]
+  },
+  "industry-1105": {
+    "title": "Fal 融资 16.5 亿美元，估值 160 亿；Canva 重组 22%；Google 五国自愿离职",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "industry-1105",
+        "headline": "Fal 融资 16.5 亿美元，估值 160 亿；Canva 重组 22%；Google 五国自愿离职"
+      }
+    ]
+  },
+  "ai-books-coral-hart": {
+    "title": "AI 写书：一年半 371 本、约 100 万美元",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "ai-books-coral-hart",
+        "headline": "AI 写书：一年半 371 本、约 100 万美元"
+      }
+    ]
+  },
+  "ai-society-1105": {
+    "title": "AI 与社会：选民、青少年与「去护栏」模型",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "ai-society-1105",
+        "headline": "AI 与社会：选民、青少年与「去护栏」模型"
+      }
+    ]
+  },
+  "community-misc-1105": {
+    "title": "社区杂项",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "community-misc-1105",
+        "headline": "社区杂项"
+      }
+    ]
+  },
+  "lmlite-jupyterlite": {
+    "title": "lmLite：在 JupyterLite 里用 Python 跑浏览器本地模型",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "lmlite-jupyterlite",
+        "headline": "lmLite：在 JupyterLite 里用 Python 跑浏览器本地模型"
+      }
+    ]
+  },
+  "jupyter-misc-1105": {
+    "title": "Jupyter 工具与基础设施动态",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "jupyter-misc-1105",
+        "headline": "Jupyter 工具与基础设施动态"
+      }
+    ]
+  },
+  "openalex-matcher-merge": {
+    "title": "OpenAlex 合并 1732 万条重复作品，约 87 万篇变为开放获取",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "openalex-matcher-merge",
+        "headline": "OpenAlex 合并 1732 万条重复作品，约 87 万篇变为开放获取"
+      }
+    ]
+  },
+  "math-ai-norms": {
+    "title": "32 位数学家写出 AI 时代的数学研究规范",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "math-ai-norms",
+        "headline": "32 位数学家写出 AI 时代的数学研究规范"
+      }
+    ]
+  },
+  "wikipedia-library-q3": {
+    "title": "Wikipedia Library 季报：帮 Citoid 解封，新增两项资源",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "wikipedia-library-q3",
+        "headline": "Wikipedia Library 季报：帮 Citoid 解封，新增两项资源"
+      }
+    ]
+  },
+  "wikimedia-diff-1105": {
+    "title": "维基媒体社区：WikiBanua 扩展到加里曼丹、摩洛哥 WikiCamp 与学生黑客松",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "wikimedia-diff-1105",
+        "headline": "维基媒体社区：WikiBanua 扩展到加里曼丹、摩洛哥 WikiCamp 与学生黑客松"
+      }
+    ]
+  },
+  "pensoft-1105": {
+    "title": "Pensoft：REALISE 项目启动，Penev 讲「AI 时代的 FAIR」",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "pensoft-1105",
+        "headline": "Pensoft：REALISE 项目启动，Penev 讲「AI 时代的 FAIR」"
+      }
+    ]
+  },
+  "connected-data-1105": {
+    "title": "知识图谱：Netflix 的可观测性本体与「炒作周期」",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "connected-data-1105",
+        "headline": "知识图谱：Netflix 的可观测性本体与「炒作周期」"
+      }
+    ]
+  },
+  "open-science-bsky-1105": {
+    "title": "开放科学速览：UNESCO、UKRI 数据政策与旧仪器复活",
+    "appearances": [
+      {
+        "date": "2026-11-05",
+        "anchor": "open-science-bsky-1105",
+        "headline": "开放科学速览：UNESCO、UKRI 数据政策与旧仪器复活"
       }
     ]
   }
