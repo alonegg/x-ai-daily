@@ -70,7 +70,7 @@
     ]
   },
   "meta-muse-wonder": {
-    "title": "Meta Muse Voice 悄悄上线",
+    "title": "Muse 语音模式美国全量：电话与视频",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -121,6 +121,11 @@
         "date": "2026-11-01",
         "anchor": "meta-muse-wonder",
         "headline": "Meta Muse Voice 悄悄上线"
+      },
+      {
+        "date": "2026-11-06",
+        "anchor": "meta-muse-wonder",
+        "headline": "Muse 语音模式美国全量：电话与视频"
       }
     ]
   },
@@ -4545,12 +4550,17 @@
     ]
   },
   "thariq-leaves-anthropic": {
-    "title": "Claude Code 核心成员 Thariq Shihipar 离开 Anthropic",
+    "title": "Thariq Shihipar：别把实验室偶像化；勇气比天才稀缺",
     "appearances": [
       {
         "date": "2026-10-25",
         "anchor": "thariq-leaves-anthropic",
         "headline": "Claude Code 核心成员 Thariq Shihipar 离开 Anthropic"
+      },
+      {
+        "date": "2026-11-06",
+        "anchor": "thariq-leaves-anthropic",
+        "headline": "Thariq Shihipar：别把实验室偶像化；勇气比天才稀缺"
       }
     ]
   },
@@ -7945,7 +7955,7 @@
     ]
   },
   "levelsio-bf1942-port": {
-    "title": "《战地 1942》网页版后续：威克岛地图上线，成为官方服务器",
+    "title": "levelsio：BF1942 上手机浏览器；Claude 改竖屏 HUD",
     "appearances": [
       {
         "date": "2026-11-03",
@@ -7956,6 +7966,11 @@
         "date": "2026-11-04",
         "anchor": "levelsio-bf1942-port",
         "headline": "《战地 1942》网页版后续：威克岛地图上线，成为官方服务器"
+      },
+      {
+        "date": "2026-11-06",
+        "anchor": "levelsio-bf1942-port",
+        "headline": "levelsio：BF1942 上手机浏览器；Claude 改竖屏 HUD"
       }
     ]
   },
@@ -8120,12 +8135,17 @@
     ]
   },
   "catwu-leaves-anthropic": {
-    "title": "Claude Code 产品负责人 Cat Wu 离开 Anthropic",
+    "title": "Cat Wu 加入 OpenAI，负责核心产品管理",
     "appearances": [
       {
         "date": "2026-11-04",
         "anchor": "catwu-leaves-anthropic",
         "headline": "Claude Code 产品负责人 Cat Wu 离开 Anthropic"
+      },
+      {
+        "date": "2026-11-06",
+        "anchor": "catwu-leaves-anthropic",
+        "headline": "Cat Wu 加入 OpenAI，负责核心产品管理"
       }
     ]
   },
@@ -8435,12 +8455,17 @@
     ]
   },
   "anthropic-vault-particle": {
-    "title": "Claude 帮 Anthropic 解出第一个细菌 vault 粒子的三维结构",
+    "title": "vault 粒子后续细节；以及「实验室在逆向互联网软件」说法",
     "appearances": [
       {
         "date": "2026-11-05",
         "anchor": "anthropic-vault-particle",
         "headline": "Claude 帮 Anthropic 解出第一个细菌 vault 粒子的三维结构"
+      },
+      {
+        "date": "2026-11-06",
+        "anchor": "anthropic-vault-particle",
+        "headline": "vault 粒子后续细节；以及「实验室在逆向互联网软件」说法"
       }
     ]
   },
@@ -8741,6 +8766,306 @@
         "date": "2026-11-05",
         "anchor": "open-science-bsky-1105",
         "headline": "开放科学速览：UNESCO、UKRI 数据政策与旧仪器复活"
+      }
+    ]
+  },
+  "openai-images-26": {
+    "title": "Images 2.6：SVG、GIF，API 出图约快 50%；自称每周约 40 亿张",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "openai-images-26",
+        "headline": "Images 2.6：SVG、GIF，API 出图约快 50%；自称每周约 40 亿张"
+      }
+    ]
+  },
+  "openai-linux-cyber": {
+    "title": "自主流水线打 Linux：948 个本地提权；GPT-6 Cyber 与 Daybreak 扩大",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "openai-linux-cyber",
+        "headline": "自主流水线打 Linux：948 个本地提权；GPT-6 Cyber 与 Daybreak 扩大"
+      }
+    ]
+  },
+  "austin-lau-openai": {
+    "title": "Anthropic 首位增长员工 Austin Lau 也去了 OpenAI",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "austin-lau-openai",
+        "headline": "Anthropic 首位增长员工 Austin Lau 也去了 OpenAI"
+      }
+    ]
+  },
+  "openai-misc-1106": {
+    "title": "社区基建承诺；ChatGPT Classic 将下线",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "openai-misc-1106",
+        "headline": "社区基建承诺；ChatGPT Classic 将下线"
+      }
+    ]
+  },
+  "metr-anthropic-acceleration": {
+    "title": "METR：Anthropic 能力进步约 2 倍，大部分或来自 AI 研发；证据大多被涂黑",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "metr-anthropic-acceleration",
+        "headline": "METR：Anthropic 能力进步约 2 倍，大部分或来自 AI 研发；证据大多被涂黑"
+      }
+    ]
+  },
+  "claude-personal-finance": {
+    "title": "Claude Personal Finance：美国 Pro 及以上只读连银行",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "claude-personal-finance",
+        "headline": "Claude Personal Finance：美国 Pro 及以上只读连银行"
+      }
+    ]
+  },
+  "addy-osmani-30k-merges": {
+    "title": "Addy Osmani：一天合并约 3 万次变更，人看的是 AI 交上的证据",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "addy-osmani-30k-merges",
+        "headline": "Addy Osmani：一天合并约 3 万次变更，人看的是 AI 交上的证据"
+      }
+    ]
+  },
+  "gemini-omni-flash-12": {
+    "title": "Gemini Omni Flash 1.2：更长视频、对话内编辑，价低约 30%",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "gemini-omni-flash-12",
+        "headline": "Gemini Omni Flash 1.2：更长视频、对话内编辑，价低约 30%"
+      }
+    ]
+  },
+  "open-weights-1106": {
+    "title": "百度 ERNIE 5.5 Flash Base 开源；Kimi / Ripple / SWE-2 Flash 余波",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "open-weights-1106",
+        "headline": "百度 ERNIE 5.5 Flash Base 开源；Kimi / Ripple / SWE-2 Flash 余波"
+      }
+    ]
+  },
+  "langchain-async-subagents": {
+    "title": "LangChain：Deep Agents 异步子代理大改",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "langchain-async-subagents",
+        "headline": "LangChain：Deep Agents 异步子代理大改"
+      }
+    ]
+  },
+  "agent-context-tools-1106": {
+    "title": "上下文层、证据文化与逆向 Skill",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "agent-context-tools-1106",
+        "headline": "上下文层、证据文化与逆向 Skill"
+      }
+    ]
+  },
+  "builds-1106": {
+    "title": "小工具与体验：Cap、知了、Orca、叭哥说",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "builds-1106",
+        "headline": "小工具与体验：Cap、知了、Orca、叭哥说"
+      }
+    ]
+  },
+  "collaborative-intelligence-bench": {
+    "title": "协作智力基准：最强当队友也只有 82.2",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "collaborative-intelligence-bench",
+        "headline": "协作智力基准：最强当队友也只有 82.2"
+      }
+    ]
+  },
+  "vflash-physical-ai": {
+    "title": "VFlash：物理 AI 的 System-1 视觉，边缘上动作解码约快 12 倍",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "vflash-physical-ai",
+        "headline": "VFlash：物理 AI 的 System-1 视觉，边缘上动作解码约快 12 倍"
+      }
+    ]
+  },
+  "robotics-papers-1106": {
+    "title": "机器人与世界模型速递",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "robotics-papers-1106",
+        "headline": "机器人与世界模型速递"
+      }
+    ]
+  },
+  "ontosmith-framework": {
+    "title": "OntoSmith：分层模型低成本建知识图谱",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "ontosmith-framework",
+        "headline": "OntoSmith：分层模型低成本建知识图谱"
+      }
+    ]
+  },
+  "stanford-cs329z-1106": {
+    "title": "斯坦福 CS 329Z：数据筛选与 Agent 评测基准设计",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "stanford-cs329z-1106",
+        "headline": "斯坦福 CS 329Z：数据筛选与 Agent 评测基准设计"
+      }
+    ]
+  },
+  "lovable-architecture": {
+    "title": "Lovable 架构复盘：到 7000 万项目，整机状态可分支合并",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "lovable-architecture",
+        "headline": "Lovable 架构复盘：到 7000 万项目，整机状态可分支合并"
+      }
+    ]
+  },
+  "ai-reply-bots": {
+    "title": "X 上的 AI 回复机器人：levelsio 每天约屏蔽 50 个",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "ai-reply-bots",
+        "headline": "X 上的 AI 回复机器人：levelsio 每天约屏蔽 50 个"
+      }
+    ]
+  },
+  "notion-ai-stats": {
+    "title": "Notion：一半页面由 Agent 创建；站内 AI 用量约 ×9",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "notion-ai-stats",
+        "headline": "Notion：一半页面由 Agent 创建；站内 AI 用量约 ×9"
+      }
+    ]
+  },
+  "ai-society-1106": {
+    "title": "生产率、选举与 Apple 砍 AI 预算",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "ai-society-1106",
+        "headline": "生产率、选举与 Apple 砍 AI 预算"
+      }
+    ]
+  },
+  "aie-shanghai-1106": {
+    "title": "AIE 上海：Ryo Lu「什么都能做时，我们还知道想要什么吗」",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "aie-shanghai-1106",
+        "headline": "AIE 上海：Ryo Lu「什么都能做时，我们还知道想要什么吗」"
+      }
+    ]
+  },
+  "community-misc-1106": {
+    "title": "TikTok 推荐逆向（二手转述）；Omarchy 与 X Web 性能",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "community-misc-1106",
+        "headline": "TikTok 推荐逆向（二手转述）；Omarchy 与 X Web 性能"
+      }
+    ]
+  },
+  "jupyter-security-ai-reports": {
+    "title": "安全委员会：2026 年 181 份 GHSA，9 月单月 40 份多为 AI 生成",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "jupyter-security-ai-reports",
+        "headline": "安全委员会：2026 年 181 份 GHSA，9 月单月 40 份多为 AI 生成"
+      }
+    ]
+  },
+  "eosc-jupyterlab": {
+    "title": "EOSC-EU Node：更大 VM、Conda Switcher 可复现 JupyterLab",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "eosc-jupyterlab",
+        "headline": "EOSC-EU Node：更大 VM、Conda Switcher 可复现 JupyterLab"
+      }
+    ]
+  },
+  "pyopensci-ai-maintainers": {
+    "title": "pyOpenSci：人消失以后——维护者怎么看 AI 贡献",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "pyopensci-ai-maintainers",
+        "headline": "pyOpenSci：人消失以后——维护者怎么看 AI 贡献"
+      }
+    ]
+  },
+  "okfn-datapackage-v2": {
+    "title": "OKFN：Frictionless R/Python 支持 Data Package v2",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "okfn-datapackage-v2",
+        "headline": "OKFN：Frictionless R/Python 支持 Data Package v2"
+      }
+    ]
+  },
+  "wikimedia-enterprise-fy2526": {
+    "title": "Wikimedia Enterprise：FY2025-26 净利润约 740 万美元",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "wikimedia-enterprise-fy2526",
+        "headline": "Wikimedia Enterprise：FY2025-26 净利润约 740 万美元"
+      }
+    ]
+  },
+  "wikimedia-audit-small-wikis": {
+    "title": "基金会审计与「小维基的 AI 隐形税」",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "wikimedia-audit-small-wikis",
+        "headline": "基金会审计与「小维基的 AI 隐形税」"
+      }
+    ]
+  },
+  "open-science-misc-1106": {
+    "title": "Mathlib 获 Demailly 开放科学奖；其他速览",
+    "appearances": [
+      {
+        "date": "2026-11-06",
+        "anchor": "open-science-misc-1106",
+        "headline": "Mathlib 获 Demailly 开放科学奖；其他速览"
       }
     ]
   }
