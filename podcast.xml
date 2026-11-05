@@ -26,6 +26,39 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 6 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-06.html</link>
+      <description>昨天 AI 圈：OpenAI 放出 Images 2.6 与 GPT-6 Cyber，一次流水线跑出 948 个 Linux 本地提权；Cat Wu 加入 OpenAI；METR 称 Anthropic 进步约翻倍但大半证据被涂黑；Jupyter 被 AI 安全报告淹没；评论聊人才流动、透明度、agent 安全与维护者「人消失」
+
+章节：
+0:00 开场与头条预告
+1:33 快讯
+10:16 重点一：Images 二点六，SVG 和 GIF 一起来
+11:41 重点二：九百四十八个 Linux 本地提权，和 GPT 六 Cyber
+13:25 重点三：Cat Wu 加入 OpenAI
+14:38 重点四：METR，Anthropic 进步约翻倍
+16:16 重点五：Thariq 访谈，别把实验室偶像化
+17:40 重点六：一天三万次合并，人看的是证据
+18:49 重点七：Jupyter 被 AI 安全报告淹没
+19:55 一起讨论
+20:04 评论一：Cat Wu，谁在定义可控的 agent
+20:58 评论二：METR 涂黑，透明度打了折
+22:09 评论三：九百四十八个提权，防御窗口在缩吗
+23:26 评论四：维护者更怕「人消失」
+24:38 评论五：Jupyter 的 AI 安全报告洪峰
+25:54 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-06.html</description>
+      <itunes:summary>昨天 AI 圈：OpenAI 放出 Images 2.6 与 GPT-6 Cyber，一次流水线跑出 948 个 Linux 本地提权；Cat Wu 加入 OpenAI；METR 称 Anthropic 进步约翻倍但大半证据被涂黑；Jupyter 被 AI 安全报告淹没；评论聊人才流动、透明度、agent 安全与维护者「人消失」</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-06.mp3" length="12566828" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:26:11</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 5 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-05.html</link>
       <description>昨天 AI 圈：OpenAI 收购 Pierre 与「收购日」、Kimi K3.1 Pro 放权重和混元 Hy4、Claude 解出细菌 vault 粒子结构、Claude Code 子代理省额度、OpenAI 硬件设计细节、JupyterLite 本地跑模型；评论聊 AI 搜索钓鱼、「依赖已死」、OpenAlex 合并 1700 万条重复记录、AI 时代的数学规范、AI 一年半写 371 本书
@@ -403,7 +436,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Thu, 05 Nov 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Thu, 05 Nov 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Fri, 06 Nov 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
