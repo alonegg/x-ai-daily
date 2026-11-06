@@ -8820,12 +8820,17 @@
     ]
   },
   "claude-personal-finance": {
-    "title": "Claude Personal Finance：美国 Pro 及以上只读连银行",
+    "title": "Personal Finance 余波",
     "appearances": [
       {
         "date": "2026-11-06",
         "anchor": "claude-personal-finance",
         "headline": "Claude Personal Finance：美国 Pro 及以上只读连银行"
+      },
+      {
+        "date": "2026-11-07",
+        "anchor": "claude-personal-finance",
+        "headline": "Personal Finance 余波"
       }
     ]
   },
@@ -8840,12 +8845,17 @@
     ]
   },
   "gemini-omni-flash-12": {
-    "title": "Gemini Omni Flash 1.2：更长视频、对话内编辑，价低约 30%",
+    "title": "Gemini Omni 1.2 Flash 后续",
     "appearances": [
       {
         "date": "2026-11-06",
         "anchor": "gemini-omni-flash-12",
         "headline": "Gemini Omni Flash 1.2：更长视频、对话内编辑，价低约 30%"
+      },
+      {
+        "date": "2026-11-07",
+        "anchor": "gemini-omni-flash-12",
+        "headline": "Gemini Omni 1.2 Flash 后续"
       }
     ]
   },
@@ -9066,6 +9076,266 @@
         "date": "2026-11-06",
         "anchor": "open-science-misc-1106",
         "headline": "Mathlib 获 Demailly 开放科学奖；其他速览"
+      }
+    ]
+  },
+  "anthropic-memory-dreaming": {
+    "title": "工程博客：agent 记忆与 dreaming",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "anthropic-memory-dreaming",
+        "headline": "工程博客：agent 记忆与 dreaming"
+      }
+    ]
+  },
+  "anthropic-science-modeling": {
+    "title": "科学博客：教 AI 建科学模型",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "anthropic-science-modeling",
+        "headline": "科学博客：教 AI 建科学模型"
+      }
+    ]
+  },
+  "claude-code-cloud-env": {
+    "title": "Claude Code 云会话：自动配环境，密钥不进模型",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "claude-code-cloud-env",
+        "headline": "Claude Code 云会话：自动配环境，密钥不进模型"
+      }
+    ]
+  },
+  "openai-biobasicsbench": {
+    "title": "BioBasicsBench：100 个真实湿实验日常分析",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "openai-biobasicsbench",
+        "headline": "BioBasicsBench：100 个真实湿实验日常分析"
+      }
+    ]
+  },
+  "openai-fmf-jailbreak": {
+    "title": "与 FMF：网络越狱评级框架 v1.0",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "openai-fmf-jailbreak",
+        "headline": "与 FMF：网络越狱评级框架 v1.0"
+      }
+    ]
+  },
+  "deepmind-rsa-cryptanalysis": {
+    "title": "DeepMind：AI agent 辅助发现遗留 RSA-1024 弱点",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "deepmind-rsa-cryptanalysis",
+        "headline": "DeepMind：AI agent 辅助发现遗留 RSA-1024 弱点"
+      }
+    ]
+  },
+  "meta-muse-specialized-models": {
+    "title": "用 Muse Wonder 训出的专用模型上线；Active Memory / Focus",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "meta-muse-specialized-models",
+        "headline": "用 Muse Wonder 训出的专用模型上线；Active Memory / Focus"
+      }
+    ]
+  },
+  "meta-muse-spaces": {
+    "title": "Spaces：聊天生成并置顶个人兴趣空间",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "meta-muse-spaces",
+        "headline": "Spaces：聊天生成并置顶个人兴趣空间"
+      }
+    ]
+  },
+  "inkling-2-small": {
+    "title": "Thinking Machines：Inkling 2 Small",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "inkling-2-small",
+        "headline": "Thinking Machines：Inkling 2 Small"
+      }
+    ]
+  },
+  "hf-moe-handbook": {
+    "title": "Hugging Face：终极 MoE 训练手册",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "hf-moe-handbook",
+        "headline": "Hugging Face：终极 MoE 训练手册"
+      }
+    ]
+  },
+  "ernie-55-flash-base": {
+    "title": "百度 ERNIE-5.5-Flash-Base 开源（转述）",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "ernie-55-flash-base",
+        "headline": "百度 ERNIE-5.5-Flash-Base 开源（转述）"
+      }
+    ]
+  },
+  "shopify-reflex": {
+    "title": "Shopify Reflex：无模拟器验证原生 App 行为",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "shopify-reflex",
+        "headline": "Shopify Reflex：无模拟器验证原生 App 行为"
+      }
+    ]
+  },
+  "hf-robotics-stats": {
+    "title": "Hugging Face 开源机器人半年账",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "hf-robotics-stats",
+        "headline": "Hugging Face 开源机器人半年账"
+      }
+    ]
+  },
+  "langchain-weekly-1107": {
+    "title": "LangChain 本周：异步子代理、浏览器工具、BYOC",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "langchain-weekly-1107",
+        "headline": "LangChain 本周：异步子代理、浏览器工具、BYOC"
+      }
+    ]
+  },
+  "ontology-for-agents": {
+    "title": "Connected Data：Agent 需要什么样的本体",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "ontology-for-agents",
+        "headline": "Connected Data：Agent 需要什么样的本体"
+      }
+    ]
+  },
+  "creator-apps-mcp": {
+    "title": "创作者应用内置 MCP",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "creator-apps-mcp",
+        "headline": "创作者应用内置 MCP"
+      }
+    ]
+  },
+  "papers-1107": {
+    "title": "论文与开源速递",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "papers-1107",
+        "headline": "论文与开源速递"
+      }
+    ]
+  },
+  "ramp-ai-spend-flat": {
+    "title": "Ramp：用量涨、支出停；IPO 估值预期下修",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "ramp-ai-spend-flat",
+        "headline": "Ramp：用量涨、支出停；IPO 估值预期下修"
+      }
+    ]
+  },
+  "community-1107": {
+    "title": "模型空窗期吐槽；AI 回复垃圾号",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "community-1107",
+        "headline": "模型空窗期吐槽；AI 回复垃圾号"
+      }
+    ]
+  },
+  "jupyterhub-roadmapping": {
+    "title": "JupyterHub：路线图工作复盘",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "jupyterhub-roadmapping",
+        "headline": "JupyterHub：路线图工作复盘"
+      }
+    ]
+  },
+  "jupyter-robots-bluetooth": {
+    "title": "QuantStack：在 JupyterLite 里用蓝牙开乐高机器人",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "jupyter-robots-bluetooth",
+        "headline": "QuantStack：在 JupyterLite 里用蓝牙开乐高机器人"
+      }
+    ]
+  },
+  "bids-notebook-link": {
+    "title": "BIDS 研讨：Notebook.link 与科学传播",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "bids-notebook-link",
+        "headline": "BIDS 研讨：Notebook.link 与科学传播"
+      }
+    ]
+  },
+  "nod-jupyterlab": {
+    "title": "Nod：从代码库任意位置打开 notebook",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "nod-jupyterlab",
+        "headline": "Nod：从代码库任意位置打开 notebook"
+      }
+    ]
+  },
+  "jupyterlab-desktop-cve": {
+    "title": "JupyterLab Desktop 高危漏洞（聚合源报告）",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "jupyterlab-desktop-cve",
+        "headline": "JupyterLab Desktop 高危漏洞（聚合源报告）"
+      }
+    ]
+  },
+  "unesco-equity-scholcomm": {
+    "title": "UNESCO：开放科学实施中的学术传播公平性",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "unesco-equity-scholcomm",
+        "headline": "UNESCO：开放科学实施中的学术传播公平性"
+      }
+    ]
+  },
+  "open-science-misc-1107": {
+    "title": "其他速览",
+    "appearances": [
+      {
+        "date": "2026-11-07",
+        "anchor": "open-science-misc-1107",
+        "headline": "其他速览"
       }
     ]
   }
