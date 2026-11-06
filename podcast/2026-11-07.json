@@ -1,0 +1,82 @@
+{
+ "title": "11 月 7 日 AI 播报",
+ "summary": "昨天：Thinking Machines 发 Inkling 2 Small；Anthropic 讲记忆做梦与科学建模；DeepMind 压测遗留 RSA；Meta 下放 Muse 能力；Ramp 显示企业 AI 用量涨、账单不动",
+ "voice": "男声",
+ "voice_id": "qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1376.3,
+ "size": 11010284,
+ "src": "https://pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-07.mp3",
+ "pubDate": "2026-11-07T07:53:00+08:00",
+ "chapters": [
+  {
+   "t": 0,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 83.1,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 483.7,
+   "title": "重点一：Inkling 2 Small",
+   "group": "今日重点"
+  },
+  {
+   "t": 587.3,
+   "title": "重点二：Anthropic 的记忆做梦与科学建模",
+   "group": "今日重点"
+  },
+  {
+   "t": 721.8,
+   "title": "重点三：DeepMind 压测遗留 RSA",
+   "group": "今日重点"
+  },
+  {
+   "t": 815.4,
+   "title": "重点四：Muse 专用模型与 Spaces",
+   "group": "今日重点"
+  },
+  {
+   "t": 896.9,
+   "title": "重点五：开发工具链把验收留给人",
+   "group": "今日重点"
+  },
+  {
+   "t": 965.8,
+   "title": "重点六：JupyterHub 路线图与课堂机器人",
+   "group": "今日重点"
+  },
+  {
+   "t": 1046.7,
+   "title": "评论一：企业 AI 账单用量涨、钱不动",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1143.3,
+   "title": "评论二：记忆该记什么",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1197.0,
+   "title": "评论三：加密压测与防御窗口",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1246.2,
+   "title": "评论四：旗舰能力稀释进默认产品",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1290.3,
+   "title": "评论五：开权重时间表与安全门",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1338.1,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}
