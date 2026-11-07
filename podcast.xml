@@ -26,6 +26,37 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 8 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-08.html</link>
+      <description>昨天：Karpathy 三分钟做出 TristanTube；家具 BOM 与木工市场；Mollick 谈查事实与调查新闻；Anthropic 做梦对上 Google SLEEP；PSI 称证明量子随机数据猜想
+
+章节：
+0:00 开场与头条预告
+1:40 快讯
+11:12 重点一：AI 编程工作流正在改写分工
+13:14 重点二：做梦整理外部记忆，SLEEP 写入参数
+15:40 重点三：研究时间被压缩，身体直觉还很缺
+17:54 重点四：开源生成工具把「看」做成「进得去」
+19:42 重点五：小模型上生产，安全体系先讲流程
+22:00 重点六：Jupyter 安全与开源维护的人情账
+24:13 评论一：三分钟原型到底证明了什么
+25:33 评论二：家具便宜八成，供应链跟得上吗
+26:49 评论三：人还该不该当纠错员
+28:12 评论四：量子随机数据猜想，先听清是谁在主张
+29:44 评论五：外部笔记还是改参数，选你怕的那种失败
+31:00 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-08.html</description>
+      <itunes:summary>昨天：Karpathy 三分钟做出 TristanTube；家具 BOM 与木工市场；Mollick 谈查事实与调查新闻；Anthropic 做梦对上 Google SLEEP；PSI 称证明量子随机数据猜想</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-08.mp3" length="15121388" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 07:53:00 +0800</pubDate>
+      <itunes:duration>00:31:30</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 7 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-07.html</link>
       <description>昨天：Thinking Machines 发 Inkling 2 Small；Anthropic 讲记忆做梦与科学建模；DeepMind 压测遗留 RSA；Meta 下放 Muse 能力；Ramp 显示企业 AI 用量涨、账单不动
@@ -467,7 +498,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Sat, 07 Nov 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Sat, 07 Nov 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Sun, 08 Nov 2026 07:53:00 +0800</lastBuildDate>
+    <pubDate>Sun, 08 Nov 2026 07:53:00 +0800</pubDate>
   </channel>
 </rss>
