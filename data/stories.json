@@ -6515,12 +6515,17 @@
     ]
   },
   "google-sleep": {
-    "title": "Google Research SLEEP：给大模型加「睡眠巩固」阶段，减轻灾难性遗忘",
+    "title": "Google Research：SLEEP 框架（写进参数）",
     "appearances": [
       {
         "date": "2026-10-30",
         "anchor": "google-sleep",
         "headline": "Google Research SLEEP：给大模型加「睡眠巩固」阶段，减轻灾难性遗忘"
+      },
+      {
+        "date": "2026-11-08",
+        "anchor": "google-sleep",
+        "headline": "Google Research：SLEEP 框架（写进参数）"
       }
     ]
   },
@@ -9080,12 +9085,17 @@
     ]
   },
   "anthropic-memory-dreaming": {
-    "title": "工程博客：agent 记忆与 dreaming",
+    "title": "后续：Anthropic dreaming 中文拆解数字",
     "appearances": [
       {
         "date": "2026-11-07",
         "anchor": "anthropic-memory-dreaming",
         "headline": "工程博客：agent 记忆与 dreaming"
+      },
+      {
+        "date": "2026-11-08",
+        "anchor": "anthropic-memory-dreaming",
+        "headline": "后续：Anthropic dreaming 中文拆解数字"
       }
     ]
   },
@@ -9310,12 +9320,17 @@
     ]
   },
   "jupyterlab-desktop-cve": {
-    "title": "JupyterLab Desktop 高危漏洞（聚合源报告）",
+    "title": "后续：JupyterLab Desktop CVE 聚合源续报",
     "appearances": [
       {
         "date": "2026-11-07",
         "anchor": "jupyterlab-desktop-cve",
         "headline": "JupyterLab Desktop 高危漏洞（聚合源报告）"
+      },
+      {
+        "date": "2026-11-08",
+        "anchor": "jupyterlab-desktop-cve",
+        "headline": "后续：JupyterLab Desktop CVE 聚合源续报"
       }
     ]
   },
@@ -9335,6 +9350,336 @@
       {
         "date": "2026-11-07",
         "anchor": "open-science-misc-1107",
+        "headline": "其他速览"
+      }
+    ]
+  },
+  "karpathy-tristantube": {
+    "title": "Karpathy：TristanTube，Claude Code 三分钟 one-shot",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "karpathy-tristantube",
+        "headline": "Karpathy：TristanTube，Claude Code 三分钟 one-shot"
+      }
+    ]
+  },
+  "theo-engineer-gap-100x": {
+    "title": "Theo：平均工程师与顶尖差距被 AI 拉到至少 100×",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "theo-engineer-gap-100x",
+        "headline": "Theo：平均工程师与顶尖差距被 AI 拉到至少 100×"
+      }
+    ]
+  },
+  "t3os-omarchy": {
+    "title": "T3OS 延期；建议先用 Omarchy",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "t3os-omarchy",
+        "headline": "T3OS 延期；建议先用 Omarchy"
+      }
+    ]
+  },
+  "opus-55-max-fail": {
+    "title": "Opus 5.5：max 推理失败率约为 high 的 2×（Theo 转述遥测）",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "opus-55-max-fail",
+        "headline": "Opus 5.5：max 推理失败率约为 high 的 2×（Theo 转述遥测）"
+      }
+    ]
+  },
+  "addy-concise-output": {
+    "title": "Addy：Claude Code 输出风格 Concise",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "addy-concise-output",
+        "headline": "Addy：Claude Code 输出风格 Concise"
+      }
+    ]
+  },
+  "champion-kit": {
+    "title": "Champion Kit：官方插件帮团队推 Claude 采用",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "champion-kit",
+        "headline": "Champion Kit：官方插件帮团队推 Claude 采用"
+      }
+    ]
+  },
+  "claude-code-projects": {
+    "title": "Conductor 用户迁 Claude Code Projects；Duet 看手机会话",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "claude-code-projects",
+        "headline": "Conductor 用户迁 Claude Code Projects；Duet 看手机会话"
+      }
+    ]
+  },
+  "levelsio-claude-furniture": {
+    "title": "levelsio：Claude Code 设计家具 + BOM；木工市场",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "levelsio-claude-furniture",
+        "headline": "levelsio：Claude Code 设计家具 + BOM；木工市场"
+      }
+    ]
+  },
+  "langchain-long-tasks": {
+    "title": "LangChain：长任务不该堵住聊天",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "langchain-long-tasks",
+        "headline": "LangChain：长任务不该堵住聊天"
+      }
+    ]
+  },
+  "capwise-screen-recorder": {
+    "title": "开源录屏 Capwise 第一版",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "capwise-screen-recorder",
+        "headline": "开源录屏 Capwise 第一版"
+      }
+    ]
+  },
+  "psi-aaronson-ambainis": {
+    "title": "PSI：Aaronson–Ambainis 猜想（其方主张，AI+Lean）",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "psi-aaronson-ambainis",
+        "headline": "PSI：Aaronson–Ambainis 猜想（其方主张，AI+Lean）"
+      }
+    ]
+  },
+  "mollick-research-time": {
+    "title": "Mollick / Anthropic：AI 可承担新研究时间的 27–52%（中位 38%）",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "mollick-research-time",
+        "headline": "Mollick / Anthropic：AI 可承担新研究时间的 27–52%（中位 38%）"
+      }
+    ]
+  },
+  "embodied-agent-arena": {
+    "title": "Embodied Agent Arena：1000 案评 10 个前沿 VLM agent",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "embodied-agent-arena",
+        "headline": "Embodied Agent Arena：1000 案评 10 个前沿 VLM agent"
+      }
+    ]
+  },
+  "shadowbench": {
+    "title": "ShadowBench：6 款前沿模型做动物手影全失败",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "shadowbench",
+        "headline": "ShadowBench：6 款前沿模型做动物手影全失败"
+      }
+    ]
+  },
+  "jim-fan-corl-keynote": {
+    "title": "Jim Fan：CoRL Keynote，奥斯汀 Hilton，11 月 9 日 1:45 pm",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "jim-fan-corl-keynote",
+        "headline": "Jim Fan：CoRL Keynote，奥斯汀 Hilton，11 月 9 日 1:45 pm"
+      }
+    ]
+  },
+  "nvidia-lyra-2": {
+    "title": "英伟达 Lyra 2.0：照片+相机轨迹→视频→3DGS",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "nvidia-lyra-2",
+        "headline": "英伟达 Lyra 2.0：照片+相机轨迹→视频→3DGS"
+      }
+    ]
+  },
+  "minimax-hyperflow-h3-flash": {
+    "title": "MiniMax HyperFlow H3 Flash",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "minimax-hyperflow-h3-flash",
+        "headline": "MiniMax HyperFlow H3 Flash"
+      }
+    ]
+  },
+  "craft-anything": {
+    "title": "Craft Anything：300+ 工具，净室 vs 深度，Claude Code",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "craft-anything",
+        "headline": "Craft Anything：300+ 工具，净室 vs 深度，Claude Code"
+      }
+    ]
+  },
+  "loco-compress": {
+    "title": "LoCo：教模型何时停思考，数学长度约 −45% / 代码约 −36%",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "loco-compress",
+        "headline": "LoCo：教模型何时停思考，数学长度约 −45% / 代码约 −36%"
+      }
+    ]
+  },
+  "moviedit": {
+    "title": "MoviEdit：跨镜头长视频编辑",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "moviedit",
+        "headline": "MoviEdit：跨镜头长视频编辑"
+      }
+    ]
+  },
+  "dreamx-latent-actions": {
+    "title": "DreamX：统一人机潜在动作（约 300× 压缩）",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "dreamx-latent-actions",
+        "headline": "DreamX：统一人机潜在动作（约 300× 压缩）"
+      }
+    ]
+  },
+  "tencent-dspine-27b": {
+    "title": "腾讯 DSpine 27B（Qwen 系，Apache 2.0）",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "tencent-dspine-27b",
+        "headline": "腾讯 DSpine 27B（Qwen 系，Apache 2.0）"
+      }
+    ]
+  },
+  "airbnb-gemma4-e2b": {
+    "title": "Airbnb：Gemma4-E2B 内容审核，约 1% 前沿 API 成本（有条件）",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "airbnb-gemma4-e2b",
+        "headline": "Airbnb：Gemma4-E2B 内容审核，约 1% 前沿 API 成本（有条件）"
+      }
+    ]
+  },
+  "uber-secure-ai": {
+    "title": "Uber Secure AI：Registry / Argus / Guard（无公开拦截率）",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "uber-secure-ai",
+        "headline": "Uber Secure AI：Registry / Argus / Guard（无公开拦截率）"
+      }
+    ]
+  },
+  "visa-vvah": {
+    "title": "Visa VVAH：漏洞发现→修补→验证闭环，称周→小时",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "visa-vvah",
+        "headline": "Visa VVAH：漏洞发现→修补→验证闭环，称周→小时"
+      }
+    ]
+  },
+  "dario-nyt-profile": {
+    "title": "宝玉译：纽约时报 Dario Amodei 人物稿（Dario 拒访）",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "dario-nyt-profile",
+        "headline": "宝玉译：纽约时报 Dario Amodei 人物稿（Dario 拒访）"
+      }
+    ]
+  },
+  "anthropic-ipo-tracking": {
+    "title": "swyx + jaminball：Anthropic IPO 周更跟踪",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "anthropic-ipo-tracking",
+        "headline": "swyx + jaminball：Anthropic IPO 周更跟踪"
+      }
+    ]
+  },
+  "uv-speculative-pypi": {
+    "title": "uv：解析依赖时推测性拉取 PyPI",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "uv-speculative-pypi",
+        "headline": "uv：解析依赖时推测性拉取 PyPI"
+      }
+    ]
+  },
+  "pyopensci-europython-ai": {
+    "title": "pyOpenSci：EuroPython 维护者谈 AI 贡献——人际连接在消失",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "pyopensci-europython-ai",
+        "headline": "pyOpenSci：EuroPython 维护者谈 AI 贡献——人际连接在消失"
+      }
+    ]
+  },
+  "pycharm-jupyter-widget-cve": {
+    "title": "PyCharm Safe Mode：Jupyter widget 模块代码执行（EUVD-2026-118314）",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "pycharm-jupyter-widget-cve",
+        "headline": "PyCharm Safe Mode：Jupyter widget 模块代码执行（EUVD-2026-118314）"
+      }
+    ]
+  },
+  "wikimedia-userscripts": {
+    "title": "Wikimedia Diff：五个小用户脚本；爱因斯坦照片使用快照",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "wikimedia-userscripts",
+        "headline": "Wikimedia Diff：五个小用户脚本；爱因斯坦照片使用快照"
+      }
+    ]
+  },
+  "road-to-wiki-gurugram": {
+    "title": "Road to Wiki：古尔冈 Cohort 2 结业聚会",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "road-to-wiki-gurugram",
+        "headline": "Road to Wiki：古尔冈 Cohort 2 结业聚会"
+      }
+    ]
+  },
+  "open-knowledge-misc-1108": {
+    "title": "其他速览",
+    "appearances": [
+      {
+        "date": "2026-11-08",
+        "anchor": "open-knowledge-misc-1108",
         "headline": "其他速览"
       }
     ]
