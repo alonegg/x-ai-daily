@@ -8815,12 +8815,17 @@
     ]
   },
   "metr-anthropic-acceleration": {
-    "title": "METR：Anthropic 能力进步约 2 倍，大部分或来自 AI 研发；证据大多被涂黑",
+    "title": "后续：METR 对 Anthropic 研发加速的评估——Gorden Sun 中文要点",
     "appearances": [
       {
         "date": "2026-11-06",
         "anchor": "metr-anthropic-acceleration",
         "headline": "METR：Anthropic 能力进步约 2 倍，大部分或来自 AI 研发；证据大多被涂黑"
+      },
+      {
+        "date": "2026-11-09",
+        "anchor": "metr-anthropic-acceleration",
+        "headline": "后续：METR 对 Anthropic 研发加速的评估——Gorden Sun 中文要点"
       }
     ]
   },
@@ -9085,7 +9090,7 @@
     ]
   },
   "anthropic-memory-dreaming": {
-    "title": "后续：Anthropic dreaming 中文拆解数字",
+    "title": "后续：Anthropic「做梦」记忆——宝玉版拆解的其余数字",
     "appearances": [
       {
         "date": "2026-11-07",
@@ -9096,6 +9101,11 @@
         "date": "2026-11-08",
         "anchor": "anthropic-memory-dreaming",
         "headline": "后续：Anthropic dreaming 中文拆解数字"
+      },
+      {
+        "date": "2026-11-09",
+        "anchor": "anthropic-memory-dreaming",
+        "headline": "后续：Anthropic「做梦」记忆——宝玉版拆解的其余数字"
       }
     ]
   },
@@ -9425,12 +9435,17 @@
     ]
   },
   "levelsio-claude-furniture": {
-    "title": "levelsio：Claude Code 设计家具 + BOM；木工市场",
+    "title": "levelsio 后续：AI 设计家具并直接向中国订购；「个性化硬件第二次创客浪潮」",
     "appearances": [
       {
         "date": "2026-11-08",
         "anchor": "levelsio-claude-furniture",
         "headline": "levelsio：Claude Code 设计家具 + BOM；木工市场"
+      },
+      {
+        "date": "2026-11-09",
+        "anchor": "levelsio-claude-furniture",
+        "headline": "levelsio 后续：AI 设计家具并直接向中国订购；「个性化硬件第二次创客浪潮」"
       }
     ]
   },
@@ -9445,12 +9460,17 @@
     ]
   },
   "capwise-screen-recorder": {
-    "title": "开源录屏 Capwise 第一版",
+    "title": "vista8：CapWise（灵录）达到基本可用，周末 AI 新增 6.43 万行代码",
     "appearances": [
       {
         "date": "2026-11-08",
         "anchor": "capwise-screen-recorder",
         "headline": "开源录屏 Capwise 第一版"
+      },
+      {
+        "date": "2026-11-09",
+        "anchor": "capwise-screen-recorder",
+        "headline": "vista8：CapWise（灵录）达到基本可用，周末 AI 新增 6.43 万行代码"
       }
     ]
   },
@@ -9681,6 +9701,326 @@
         "date": "2026-11-08",
         "anchor": "open-knowledge-misc-1108",
         "headline": "其他速览"
+      }
+    ]
+  },
+  "anthropic-science-usage": {
+    "title": "Anthropic 分析约 20.7 万次科研会话：分析数据最多，提想法最少",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "anthropic-science-usage",
+        "headline": "Anthropic 分析约 20.7 万次科研会话：分析数据最多，提想法最少"
+      }
+    ]
+  },
+  "anthropic-ipo-valuation-cut": {
+    "title": "Anthropic IPO 买方估值降到 1.2–1.3 万亿美元（彭博，宝玉整理）",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "anthropic-ipo-valuation-cut",
+        "headline": "Anthropic IPO 买方估值降到 1.2–1.3 万亿美元（彭博，宝玉整理）"
+      }
+    ]
+  },
+  "yao-shunyu-moat": {
+    "title": "姚顺雨：护城河在产品层，数据上下文和信任",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "yao-shunyu-moat",
+        "headline": "姚顺雨：护城河在产品层，数据上下文和信任"
+      }
+    ]
+  },
+  "anthropic-reasoning-summarizer": {
+    "title": "Theo：Anthropic 正按账号逐步改推理摘要器",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "anthropic-reasoning-summarizer",
+        "headline": "Theo：Anthropic 正按账号逐步改推理摘要器"
+      }
+    ]
+  },
+  "agent-evidence-review": {
+    "title": "Agent 说「完成了」≠ 过程没问题：Warp 的 Ben Holmes",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "agent-evidence-review",
+        "headline": "Agent 说「完成了」≠ 过程没问题：Warp 的 Ben Holmes"
+      }
+    ]
+  },
+  "agent-visual-proof": {
+    "title": "宝玉：要 agent 交截图或录屏当「证据」",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "agent-visual-proof",
+        "headline": "宝玉：要 agent 交截图或录屏当「证据」"
+      }
+    ]
+  },
+  "addy-agents-manager": {
+    "title": "Addy Osmani：Coding Agent 让你成了管理者，但不该让你更忙",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "addy-agents-manager",
+        "headline": "Addy Osmani：Coding Agent 让你成了管理者，但不该让你更忙"
+      }
+    ]
+  },
+  "egm-design-review": {
+    "title": "Elephant-Goldfish Model：大象 agent 设计，金鱼 agent 评审",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "egm-design-review",
+        "headline": "Elephant-Goldfish Model：大象 agent 设计，金鱼 agent 评审"
+      }
+    ]
+  },
+  "github-agents-rebuild": {
+    "title": "GitHub 为 agent 时代重建：Jay Parikh 访谈（Latent Space）",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "github-agents-rebuild",
+        "headline": "GitHub 为 agent 时代重建：Jay Parikh 访谈（Latent Space）"
+      }
+    ]
+  },
+  "mitsuhiko-agent-heap-dump": {
+    "title": "mitsuhiko：持久的编码 agent，「堆转储」式记忆可能更好",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "mitsuhiko-agent-heap-dump",
+        "headline": "mitsuhiko：持久的编码 agent，「堆转储」式记忆可能更好"
+      }
+    ]
+  },
+  "saas-vs-internal-maintenance": {
+    "title": "Daniel Avila：企业用自建/开源替代 SaaS，维护和安全才是问题",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "saas-vs-internal-maintenance",
+        "headline": "Daniel Avila：企业用自建/开源替代 SaaS，维护和安全才是问题"
+      }
+    ]
+  },
+  "agent-misc-1109": {
+    "title": "其他 agent 速览",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "agent-misc-1109",
+        "headline": "其他 agent 速览"
+      }
+    ]
+  },
+  "asahi-genai-ban": {
+    "title": "Asahi Linux 改 GPLv2、全面禁用生成式 AI：DHH、Steinberger、mitsuhiko 各表态",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "asahi-genai-ban",
+        "headline": "Asahi Linux 改 GPLv2、全面禁用生成式 AI：DHH、Steinberger、mitsuhiko 各表态"
+      }
+    ]
+  },
+  "omarchy-agents-hardware": {
+    "title": "Omarchy：agent 让各地开发者各自适配 Apple Silicon、Snapdragon；承诺永久免费",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "omarchy-agents-hardware",
+        "headline": "Omarchy：agent 让各地开发者各自适配 Apple Silicon、Snapdragon；承诺永久免费"
+      }
+    ]
+  },
+  "pocketjs-omarchy-gui": {
+    "title": "PocketJS 从头实现 Omarchy 式 GUI 环境（李博杰推荐）",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "pocketjs-omarchy-gui",
+        "headline": "PocketJS 从头实现 Omarchy 式 GUI 环境（李博杰推荐）"
+      }
+    ]
+  },
+  "deepseek-harness-alpie": {
+    "title": "DeepSeek Harness 日活破 154 万；印度 Alpie 9B 被指照搬 Qwen",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "deepseek-harness-alpie",
+        "headline": "DeepSeek Harness 日活破 154 万；印度 Alpie 9B 被指照搬 Qwen"
+      }
+    ]
+  },
+  "nvidia-huang-investigation": {
+    "title": "黄仁勋致信员工承认不忠，董事会成立独立委员会调查「国家安全疑虑」",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "nvidia-huang-investigation",
+        "headline": "黄仁勋致信员工承认不忠，董事会成立独立委员会调查「国家安全疑虑」"
+      }
+    ]
+  },
+  "swyx-cursor-aie": {
+    "title": "Swyx：Cursor 2025 年底 ARR 10 亿美元，企业端季度环比增长 300%；AIE CODE 周庆祝 100 万 AI 工程师",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "swyx-cursor-aie",
+        "headline": "Swyx：Cursor 2025 年底 ARR 10 亿美元，企业端季度环比增长 300%；AIE CODE 周庆祝 100 万 AI 工程师"
+      }
+    ]
+  },
+  "levelsio-slop-tv": {
+    "title": "levelsio：Infinite Slop TV 收官——1780 万次片段观看，约 44% 消息被审核拦下",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "levelsio-slop-tv",
+        "headline": "levelsio：Infinite Slop TV 收官——1780 万次片段观看，约 44% 消息被审核拦下"
+      }
+    ]
+  },
+  "levelsio-misc-1109": {
+    "title": "levelsio 其他：10 分钟给 Hotelist 加 9 种语言；SSH 访问的个人站；推荐 Backrooms 模拟器",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "levelsio-misc-1109",
+        "headline": "levelsio 其他：10 分钟给 Hotelist 加 9 种语言；SSH 访问的个人站；推荐 Backrooms 模拟器"
+      }
+    ]
+  },
+  "sand3d-library": {
+    "title": "Sand3D：给 LLM 用的 Blender 3D 建模库，开源 10 万+组件",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "sand3d-library",
+        "headline": "Sand3D：给 LLM 用的 Blender 3D 建模库，开源 10 万+组件"
+      }
+    ]
+  },
+  "poteto-music-system": {
+    "title": "poteto：不懂音乐术语，也能与 AI 做出随游戏变化的 Game Boy 风格音乐系统",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "poteto-music-system",
+        "headline": "poteto：不懂音乐术语，也能与 AI 做出随游戏变化的 Game Boy 风格音乐系统"
+      }
+    ]
+  },
+  "tools-misc-1109": {
+    "title": "其他工具与吐槽",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "tools-misc-1109",
+        "headline": "其他工具与吐槽"
+      }
+    ]
+  },
+  "full-duplex-cost": {
+    "title": "李博杰：full duplex 语音模型的推理成本为什么这么高",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "full-duplex-cost",
+        "headline": "李博杰：full duplex 语音模型的推理成本为什么这么高"
+      }
+    ]
+  },
+  "hf-papers-1109": {
+    "title": "Hugging Face 论文与开源模型",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "hf-papers-1109",
+        "headline": "Hugging Face 论文与开源模型"
+      }
+    ]
+  },
+  "matanyone-e": {
+    "title": "MatAnyone-E：4K 视频抠像提速 7.4 倍、显存降到约十三分之一",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "matanyone-e",
+        "headline": "MatAnyone-E：4K 视频抠像提速 7.4 倍、显存降到约十三分之一"
+      }
+    ]
+  },
+  "models-misc-1109": {
+    "title": "其他速览",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "models-misc-1109",
+        "headline": "其他速览"
+      }
+    ]
+  },
+  "jupyter-bsky-1109": {
+    "title": "Bluesky 零星讨论：.ipynb 对比工具、Python 安装困惑、MyST 支持请求",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "jupyter-bsky-1109",
+        "headline": "Bluesky 零星讨论：.ipynb 对比工具、Python 安装困惑、MyST 支持请求"
+      }
+    ]
+  },
+  "wikimedia-western-armenian": {
+    "title": "Wikimedia Diff：西亚美尼亚语维基——「热情从来不是问题」",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "wikimedia-western-armenian",
+        "headline": "Wikimedia Diff：西亚美尼亚语维基——「热情从来不是问题」"
+      }
+    ]
+  },
+  "wikimedia-africa-1109": {
+    "title": "Wikimedia Diff：非洲维基社区的技能培训与青年训练营",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "wikimedia-africa-1109",
+        "headline": "Wikimedia Diff：非洲维基社区的技能培训与青年训练营"
+      }
+    ]
+  },
+  "wikimedia-icf-2025": {
+    "title": "Wikimedia Diff：维基人参加国际公民论坛（ICF 2025）的反思",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "wikimedia-icf-2025",
+        "headline": "Wikimedia Diff：维基人参加国际公民论坛（ICF 2025）的反思"
+      }
+    ]
+  },
+  "open-science-bsky-1109": {
+    "title": "Bluesky「open science」速览",
+    "appearances": [
+      {
+        "date": "2026-11-09",
+        "anchor": "open-science-bsky-1109",
+        "headline": "Bluesky「open science」速览"
       }
     ]
   }
