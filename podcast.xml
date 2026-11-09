@@ -26,6 +26,36 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 9 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-09.html</link>
+      <description>昨天：Asahi 生成式 AI 贡献禁令与许可证争议；Anthropic 科研会话报告与 IPO 估值；英伟达董事会调查；智能体「完成了」不等于没问题；Infinite Slop TV 收官
+
+章节：
+0:01 开场与头条预告
+1:55 快讯
+7:02 重点一：Anthropic 的科研会话报告
+9:40 重点二：彭博称 Anthropic 估值预期继续下调
+11:36 重点三：英伟达董事会启动独立调查
+13:02 重点四：智能体工程，验证和审查成了主线
+14:23 重点五：李博杰拆解全双工语音模型的成本
+16:00 评论一：Asahi 禁用 AI，开源社区被切开了吗
+17:59 评论二：科研自动化，瓶颈在实验室
+18:41 评论三：Anthropic 的估值，别把区间当结论
+19:15 评论四：智能体说完成了，你要看到什么
+19:50 评论五：Infinite Slop TV 为什么收官
+20:50 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-09.html</description>
+      <itunes:summary>昨天：Asahi 生成式 AI 贡献禁令与许可证争议；Anthropic 科研会话报告与 IPO 估值；英伟达董事会调查；智能体「完成了」不等于没问题；Infinite Slop TV 收官</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-09.mp3" length="10264172" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 09:24:07 +0800</pubDate>
+      <itunes:duration>00:21:23</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 8 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-08.html</link>
       <description>昨天：Karpathy 三分钟做出 TristanTube；家具 BOM 与木工市场；Mollick 谈查事实与调查新闻；Anthropic 做梦对上 Google SLEEP；PSI 称证明量子随机数据猜想
@@ -48,7 +78,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-08.html</description>
       <itunes:summary>昨天：Karpathy 三分钟做出 TristanTube；家具 BOM 与木工市场；Mollick 谈查事实与调查新闻；Anthropic 做梦对上 Google SLEEP；PSI 称证明量子随机数据猜想</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-08.mp3" length="15121388" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-08.mp3" length="15121388" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-08</guid>
       <pubDate>Sun, 08 Nov 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:31:30</itunes:duration>
@@ -79,7 +109,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-07.html</description>
       <itunes:summary>昨天：Thinking Machines 发 Inkling 2 Small；Anthropic 讲记忆做梦与科学建模；DeepMind 压测遗留 RSA；Meta 下放 Muse 能力；Ramp 显示企业 AI 用量涨、账单不动</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-07.mp3" length="11010284" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-07.mp3" length="11010284" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-07</guid>
       <pubDate>Sat, 07 Nov 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:22:56</itunes:duration>
@@ -112,7 +142,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-06.html</description>
       <itunes:summary>昨天 AI 圈：OpenAI 放出 Images 2.6 与 GPT-6 Cyber，一次流水线跑出 948 个 Linux 本地提权；Cat Wu 加入 OpenAI；METR 称 Anthropic 进步约翻倍但大半证据被涂黑；Jupyter 被 AI 安全报告淹没；评论聊人才流动、透明度、agent 安全与维护者「人消失」</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-06.mp3" length="12566828" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-06.mp3" length="12566828" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-06</guid>
       <pubDate>Fri, 06 Nov 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:26:11</itunes:duration>
@@ -144,7 +174,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-05.html</description>
       <itunes:summary>昨天 AI 圈：OpenAI 收购 Pierre 与「收购日」、Kimi K3.1 Pro 放权重和混元 Hy4、Claude 解出细菌 vault 粒子结构、Claude Code 子代理省额度、OpenAI 硬件设计细节、JupyterLite 本地跑模型；评论聊 AI 搜索钓鱼、「依赖已死」、OpenAlex 合并 1700 万条重复记录、AI 时代的数学规范、AI 一年半写 371 本书</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-05.mp3" length="12556268" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-05.mp3" length="12556268" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-05</guid>
       <pubDate>Thu, 05 Nov 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:26:10</itunes:duration>
@@ -176,7 +206,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-04.html</description>
       <itunes:summary>昨天 AI 圈：Anthropic 开源 FlashProve、Claude 插件自动连接与 Claude Code 十月更新、权重空间编程被复现、Code Mode、levelsio 把开支压到每月 300 美元、科研开放权重模型；评论聊 Git 撑不住 agent、Revolut 改用开放权重、维护者看不见对面的人、OSF 关停时间表、agent 自我复盘</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-04.mp3" length="11432300" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-04.mp3" length="11432300" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-04</guid>
       <pubDate>Wed, 04 Nov 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:23:49</itunes:duration>
@@ -208,7 +238,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-03.html</description>
       <itunes:summary>昨天 AI 圈：Claude API 消息线程、levelsio 把《战地 1942》搬上网页、GDPx 与 LifeVal 新基准、小图形悄悄左右多模态模型、Anthropic Residency、pyOpenSci 获斯隆资助；评论聊改权重、MCP 之争、marimo 进 SDSS、资深开发者的谨慎、S-1 里的「加速」</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-03.mp3" length="11677100" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-03.mp3" length="11677100" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-03</guid>
       <pubDate>Tue, 03 Nov 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:24:20</itunes:duration>
@@ -238,7 +268,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-02.html</description>
       <itunes:summary>昨天 AI 圈：Anthropic 每天约 3 万次合并靠「证据包」、Super-agent 后续与主动 agent 六道题、币安被盗复盘与 Linux 漏洞、LeCun 谈表征与 Llama、Karpathy 的 HackerTube；评论聊 agent 重写与许可证、97 个词复现 ETH 证明、按 harness 安全度放开模型能力、手机上的 notebook、GPT-4 到今天的分界线</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-02.mp3" length="11867564" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-02.mp3" length="11867564" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-02</guid>
       <pubDate>Mon, 02 Nov 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:24:43</itunes:duration>
@@ -268,7 +298,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-01.html</description>
       <itunes:summary>昨天 AI 圈：DeepSeek Harness 的 Super-agent 设计、Anthropic 自动红队与扩展市场安全、Manus 和 Amp 的 AI 原生组织、国产 OCR 三强、欧洲 AI 税；评论聊 AI 时代的开放科学、「Fable 5 权重」疑似造假、Qwenputer、Proton 风波后续和 Claude 订阅</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-11-01.mp3" length="11891948" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-01.mp3" length="11891948" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-01</guid>
       <pubDate>Sun, 01 Nov 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:24:46</itunes:duration>
@@ -299,7 +329,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-31.html</description>
       <itunes:summary>昨天 AI 圈：Claude Max 20x 改名 Ultra 并取消 5 小时限额、Google 太空 TPU 第一次答题、方寸实验室的 DeepSeek 安全报告、JupyterLab 4.6.5；评论聊维基媒体版权立场、agent 记忆、安全三连、Proton 风波和维基百科的「不中立」研究</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-31.mp3" length="12187244" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-31.mp3" length="12187244" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-31</guid>
       <pubDate>Sat, 31 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:23</itunes:duration>
@@ -331,7 +361,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-30.html</description>
       <itunes:summary>昨天 AI 圈：OpenAI 公开前沿模型监控、Claude 每轮回答后安全自查、Mistral Large 4 开放权重、Jupyter 安全委员会被 AI 报告淹没；评论聊 AI 预测实验结果、企业 agent 违规基准、ProtoStar 与「卖铲子」之争</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-30.mp3" length="12231788" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-30.mp3" length="12231788" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-30</guid>
       <pubDate>Fri, 30 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:29</itunes:duration>
@@ -363,7 +393,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-29.html</description>
       <itunes:summary>昨天 AI 圈：Google 发布 Gemini 4 Carbon、Artificial Analysis v5 拉大开放权重差距、GitHub Copilot 自动选模型；评论聊 PRC 出版模式之争、OpenAlex 期刊名单、多智能体的四个难题</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-29.mp3" length="12347180" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-29.mp3" length="12347180" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:43</itunes:duration>
@@ -395,7 +425,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-28.html</description>
       <itunes:summary>昨天 AI 圈的新鲜事：AI 推翻指数时间假设、Axiom 用 Lean 核对完有限单群分类定理、Google DeepMind 发布 Genie 4、Claude 参与新药研发；评论聊专家被 agent 带着走、LLM 本体的钥匙孔效应、T3 Code 的工具评测、看不见的思维链和 Hex 4.0</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-28.mp3" length="12099692" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-28.mp3" length="12099692" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-28</guid>
       <pubDate>Wed, 28 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:12</itunes:duration>
@@ -426,7 +456,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-27.html</description>
       <itunes:summary>昨天 AI 圈的新鲜事：Anthropic 公开 S-1 招股书，OpenAI 发布 GPT-6.1 Terra，微软向约 6 万员工提供自愿离职补偿；评论聊 HackBench、Claude Code 代码审查、AI 审稿助手、Jupyter AI 扩展地图和字节的组织之争</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-27.mp3" length="12364844" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-27.mp3" length="12364844" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-27</guid>
       <pubDate>Tue, 27 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:46</itunes:duration>
@@ -458,7 +488,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-26.html</description>
       <itunes:summary>昨天 AI 圈的新鲜事：AI 帮站长做安全审计、Tailscale SSH 被曝 11 项问题，Agents SDK 额度 bug，Grok Bot 连上 X Money 引发不满；评论聊主循环加 Skills、规格驱动开发、手写代码投票等五个话题</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-26.mp3" length="12454316" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-26.mp3" length="12454316" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:25:57</itunes:duration>
@@ -490,7 +520,7 @@
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-25.html</description>
       <itunes:summary>昨天 AI 圈的新鲜事：Thariq 离开 Anthropic，Kimi K3.1 Pro 与 DeepSeek 开源推理引擎，压缩库漏洞扩散；评论聊朴素检索为何打败复杂记忆等五个话题</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/pub-a0fd8d412e174cdab08252a0ad73aef7.r2.dev/ep/2026-10-25.mp3" length="13189023" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-25.mp3" length="13189023" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-25</guid>
       <pubDate>Sun, 25 Oct 2026 07:53:00 +0800</pubDate>
       <itunes:duration>00:27:29</itunes:duration>
@@ -498,7 +528,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Sun, 08 Nov 2026 07:53:00 +0800</lastBuildDate>
-    <pubDate>Sun, 08 Nov 2026 07:53:00 +0800</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:24:07 +0800</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2026 09:24:07 +0800</pubDate>
   </channel>
 </rss>
