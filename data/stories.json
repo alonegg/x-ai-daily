@@ -4495,7 +4495,7 @@
     ]
   },
   "okfn-open-tech-week": {
-    "title": "OKFN 在 MozFest：用 MCP 开放数据、联手对付 AI 剥削公共品",
+    "title": "后续：OKFN 回顾巴塞罗那 Open Tech Week",
     "appearances": [
       {
         "date": "2026-10-24",
@@ -4516,6 +4516,11 @@
         "date": "2026-10-29",
         "anchor": "okfn-open-tech-week",
         "headline": "OKFN 在 MozFest：用 MCP 开放数据、联手对付 AI 剥削公共品"
+      },
+      {
+        "date": "2026-11-10",
+        "anchor": "okfn-open-tech-week",
+        "headline": "后续：OKFN 回顾巴塞罗那 Open Tech Week"
       }
     ]
   },
@@ -9635,12 +9640,17 @@
     ]
   },
   "anthropic-ipo-tracking": {
-    "title": "swyx + jaminball：Anthropic IPO 周更跟踪",
+    "title": "后续：Anthropic IPO 路演据 swyx 称已于本周一开始",
     "appearances": [
       {
         "date": "2026-11-08",
         "anchor": "anthropic-ipo-tracking",
         "headline": "swyx + jaminball：Anthropic IPO 周更跟踪"
+      },
+      {
+        "date": "2026-11-10",
+        "anchor": "anthropic-ipo-tracking",
+        "headline": "后续：Anthropic IPO 路演据 swyx 称已于本周一开始"
       }
     ]
   },
@@ -9865,12 +9875,17 @@
     ]
   },
   "nvidia-huang-investigation": {
-    "title": "黄仁勋致信员工承认不忠，董事会成立独立委员会调查「国家安全疑虑」",
+    "title": "后续：纽约时报称美情报部门认定涉事女高管为中国间谍",
     "appearances": [
       {
         "date": "2026-11-09",
         "anchor": "nvidia-huang-investigation",
         "headline": "黄仁勋致信员工承认不忠，董事会成立独立委员会调查「国家安全疑虑」"
+      },
+      {
+        "date": "2026-11-10",
+        "anchor": "nvidia-huang-investigation",
+        "headline": "后续：纽约时报称美情报部门认定涉事女高管为中国间谍"
       }
     ]
   },
@@ -10021,6 +10036,246 @@
         "date": "2026-11-09",
         "anchor": "open-science-bsky-1109",
         "headline": "Bluesky「open science」速览"
+      }
+    ]
+  },
+  "claude-fable-52": {
+    "title": "Claude Fable 5.2 / Mythos 5.2 发布：降价两成，FrontierCode 2.0 刷新最高分",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "claude-fable-52",
+        "headline": "Claude Fable 5.2 / Mythos 5.2 发布：降价两成，FrontierCode 2.0 刷新最高分"
+      }
+    ]
+  },
+  "fable-fermat-1000-agents": {
+    "title": "1000 个 Fable 5.2 agent 约 30 小时形式化费马大定理",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "fable-fermat-1000-agents",
+        "headline": "1000 个 Fable 5.2 agent 约 30 小时形式化费马大定理"
+      }
+    ]
+  },
+  "mollick-jagged-agi": {
+    "title": "Mollick：Fable 5.2 是「锯齿状的 AGI」，会自己长出官僚体系",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "mollick-jagged-agi",
+        "headline": "Mollick：Fable 5.2 是「锯齿状的 AGI」，会自己长出官僚体系"
+      }
+    ]
+  },
+  "fable-52-reactions": {
+    "title": "发布当天的使用反馈：贵在 Token、强在验证、桌面端 UX 被吐槽",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "fable-52-reactions",
+        "headline": "发布当天的使用反馈：贵在 Token、强在验证、桌面端 UX 被吐槽"
+      }
+    ]
+  },
+  "meta-muse-ember": {
+    "title": "Meta 发布最小模型 Muse Ember：单题花费约为 Haiku 5.5 的三分之一",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "meta-muse-ember",
+        "headline": "Meta 发布最小模型 Muse Ember：单题花费约为 Haiku 5.5 的三分之一"
+      }
+    ]
+  },
+  "openai-control-room": {
+    "title": "OpenAI 公开 Control Room：研究集群上的统一「急停」",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "openai-control-room",
+        "headline": "OpenAI 公开 Control Room：研究集群上的统一「急停」"
+      }
+    ]
+  },
+  "chatgpt-dot-multi-computer": {
+    "title": "dot 可以连接多台电脑，按任务指定用哪台",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "chatgpt-dot-multi-computer",
+        "headline": "dot 可以连接多台电脑，按任务指定用哪台"
+      }
+    ]
+  },
+  "codex-chromatic": {
+    "title": "Codex 版 Chromatic 掌机开卖：200 美元，用 Codex 做 Game Boy 游戏",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "codex-chromatic",
+        "headline": "Codex 版 Chromatic 掌机开卖：200 美元，用 Codex 做 Game Boy 游戏"
+      }
+    ]
+  },
+  "harness-evals-cost": {
+    "title": "只换 harness 不换模型：准确率拉不开，成本和速度拉得开",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "harness-evals-cost",
+        "headline": "只换 harness 不换模型：准确率拉不开，成本和速度拉得开"
+      }
+    ]
+  },
+  "handshake-latent-space": {
+    "title": "Latent Space 深访 Handshake：前沿实验室在买什么数据，agent 红队演示",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "handshake-latent-space",
+        "headline": "Latent Space 深访 Handshake：前沿实验室在买什么数据，agent 红队演示"
+      }
+    ]
+  },
+  "prompt-caching-ttl": {
+    "title": "提示缓存的过期时间与「换模型就失效」",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "prompt-caching-ttl",
+        "headline": "提示缓存的过期时间与「换模型就失效」"
+      }
+    ]
+  },
+  "simonw-pr-details": {
+    "title": "AI 写的 PR 描述折叠起来；开源 PR 审不过来",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "simonw-pr-details",
+        "headline": "AI 写的 PR 描述折叠起来；开源 PR 审不过来"
+      }
+    ]
+  },
+  "agent-tools-misc-1110": {
+    "title": "工具与做法速递",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "agent-tools-misc-1110",
+        "headline": "工具与做法速递"
+      }
+    ]
+  },
+  "seedream-55": {
+    "title": "字节 Seedream 5.5：连改 100 轮不走样，可直出透明底",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "seedream-55",
+        "headline": "字节 Seedream 5.5：连改 100 轮不走样，可直出透明底"
+      }
+    ]
+  },
+  "robotics-1110": {
+    "title": "机器人与世界模型",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "robotics-1110",
+        "headline": "机器人与世界模型"
+      }
+    ]
+  },
+  "papers-1110": {
+    "title": "论文与开源",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "papers-1110",
+        "headline": "论文与开源"
+      }
+    ]
+  },
+  "platform-misc-1110": {
+    "title": "平台更新",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "platform-misc-1110",
+        "headline": "平台更新"
+      }
+    ]
+  },
+  "omarchy-46-local-ai": {
+    "title": "Omarchy 4.6：本地 AI 推荐、安全启动、DGX Spark",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "omarchy-46-local-ai",
+        "headline": "Omarchy 4.6：本地 AI 推荐、安全启动、DGX Spark"
+      }
+    ]
+  },
+  "industry-misc-1110": {
+    "title": "观点与杂讯",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "industry-misc-1110",
+        "headline": "观点与杂讯"
+      }
+    ]
+  },
+  "jupyter-bsky-1110": {
+    "title": "Bluesky 零星动态：社区经理分享、K8s 上的 Jupyter、agent 生成 notebook",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "jupyter-bsky-1110",
+        "headline": "Bluesky 零星动态：社区经理分享、K8s 上的 Jupyter、agent 生成 notebook"
+      }
+    ]
+  },
+  "okfn-sharing-shift": {
+    "title": "OKFN 与 CIS-CNRS 启动 The Sharing Shift：AI 时代的数字公共品「架构」",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "okfn-sharing-shift",
+        "headline": "OKFN 与 CIS-CNRS 启动 The Sharing Shift：AI 时代的数字公共品「架构」"
+      }
+    ]
+  },
+  "okfn-austria": {
+    "title": "Open Knowledge Austria 重新起步",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "okfn-austria",
+        "headline": "Open Knowledge Austria 重新起步"
+      }
+    ]
+  },
+  "connected-data-1110": {
+    "title": "Connected Data：agent 记忆与企业知识图谱正在合流；Snowflake 的「本体」算不算本体",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "connected-data-1110",
+        "headline": "Connected Data：agent 记忆与企业知识图谱正在合流；Snowflake 的「本体」算不算本体"
+      }
+    ]
+  },
+  "open-science-misc-1110": {
+    "title": "Wikimedia 与学术出版",
+    "appearances": [
+      {
+        "date": "2026-11-10",
+        "anchor": "open-science-misc-1110",
+        "headline": "Wikimedia 与学术出版"
       }
     ]
   }
