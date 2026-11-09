@@ -26,6 +26,35 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 10 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-10.html</link>
+      <description>昨天：Anthropic 发布 Fable 5.2；一千个智能体约三十小时形式化费马大定理；Mollick 称“几乎是 AGI”；Meta Muse Ember；OpenAI Control Room；智能体外壳与评测成本
+
+章节：
+0:01 开场与头条预告
+0:54 快讯
+6:41 重点一：Fable 5.2，强了一档，也便宜了一点
+8:47 重点二：一千个智能体，三十小时证完费马
+10:57 重点三：Mollick 说，几乎是通用人工智能
+12:53 重点四：Meta 的小模型 Muse Ember
+14:24 重点五：OpenAI 的急停系统 Control Room
+15:57 重点六：换外壳不换模型，差在哪
+17:42 评论一：降价两成，这笔账怎么算
+18:42 评论二：一千个智能体，和一本八万字的规章
+19:52 评论三：评测越来越难信了
+20:49 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-10.html</description>
+      <itunes:summary>昨天：Anthropic 发布 Fable 5.2；一千个智能体约三十小时形式化费马大定理；Mollick 称“几乎是 AGI”；Meta Muse Ember；OpenAI Control Room；智能体外壳与评测成本</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-10.mp3" length="10138988" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 07:31:27 +0800</pubDate>
+      <itunes:duration>00:21:07</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 9 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-09.html</link>
       <description>昨天：Asahi 生成式 AI 贡献禁令与许可证争议；Anthropic 科研会话报告与 IPO 估值；英伟达董事会调查；智能体「完成了」不等于没问题；Infinite Slop TV 收官
@@ -528,7 +557,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Mon, 09 Nov 2026 09:24:07 +0800</lastBuildDate>
-    <pubDate>Mon, 09 Nov 2026 09:24:07 +0800</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:31:27 +0800</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2026 07:31:27 +0800</pubDate>
   </channel>
 </rss>
