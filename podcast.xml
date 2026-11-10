@@ -152,29 +152,27 @@
       <description>昨天 AI 圈：OpenAI 放出 Images 2.6 与 GPT-6 Cyber，一次流水线跑出 948 个 Linux 本地提权；Cat Wu 加入 OpenAI；METR 称 Anthropic 进步约翻倍但大半证据被涂黑；Jupyter 被 AI 安全报告淹没；评论聊人才流动、透明度、agent 安全与维护者「人消失」
 
 章节：
-0:00 开场与头条预告
-1:33 快讯
-10:16 重点一：Images 二点六，SVG 和 GIF 一起来
-11:41 重点二：九百四十八个 Linux 本地提权，和 GPT 六 Cyber
-13:25 重点三：Cat Wu 加入 OpenAI
-14:38 重点四：METR，Anthropic 进步约翻倍
-16:16 重点五：Thariq 访谈，别把实验室偶像化
-17:40 重点六：一天三万次合并，人看的是证据
-18:49 重点七：Jupyter 被 AI 安全报告淹没
-19:55 一起讨论
-20:04 评论一：Cat Wu，谁在定义可控的 agent
-20:58 评论二：METR 涂黑，透明度打了折
-22:09 评论三：九百四十八个提权，防御窗口在缩吗
-23:26 评论四：维护者更怕「人消失」
-24:38 评论五：Jupyter 的 AI 安全报告洪峰
-25:54 收尾
+0:01 开场与头条预告
+1:14 快讯
+8:10 重点一：AI 造 AI，真的快了一倍吗
+10:48 重点二：九百四十八，不是九百四十八次远程攻破
+13:14 重点三：图片快了，离交付近了多少
+15:28 重点四：看懂你的钱，不代表能动你的钱
+17:43 重点五：会做题，怎么就不会当队友
+19:53 重点六：报告变多，安全是不是更好了
+23:01 评论一：转职新闻，别替本人讲原因
+24:12 评论二：有理由保密，也有责任让人能查
+25:05 评论三：省下生成的钱，别转嫁成审查的人时
+25:57 评论四：开放知识能赚钱，钱归谁用
+27:24 评论五：软件工厂，先让检查跟得上
+28:30 收尾
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-06.html</description>
       <itunes:summary>昨天 AI 圈：OpenAI 放出 Images 2.6 与 GPT-6 Cyber，一次流水线跑出 948 个 Linux 本地提权；Cat Wu 加入 OpenAI；METR 称 Anthropic 进步约翻倍但大半证据被涂黑；Jupyter 被 AI 安全报告淹没；评论聊人才流动、透明度、agent 安全与维护者「人消失」</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-06.mp3" length="12566828" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-06-v2.mp3" length="13864748" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-06</guid>
       <pubDate>Fri, 06 Nov 2026 07:53:00 +0800</pubDate>
-      <itunes:duration>00:26:11</itunes:duration>
+      <itunes:duration>00:28:53</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
@@ -185,28 +183,27 @@
       <description>昨天 AI 圈：OpenAI 收购 Pierre 与「收购日」、Kimi K3.1 Pro 放权重和混元 Hy4、Claude 解出细菌 vault 粒子结构、Claude Code 子代理省额度、OpenAI 硬件设计细节、JupyterLite 本地跑模型；评论聊 AI 搜索钓鱼、「依赖已死」、OpenAlex 合并 1700 万条重复记录、AI 时代的数学规范、AI 一年半写 371 本书
 
 章节：
-0:00 开场与头条预告
-0:59 快讯
-8:27 重点一：OpenAI 收购 Pierre，审代码成了新瓶颈
-10:14 重点二：开放模型日，Kimi 放权重，混元 Hy 四正式发布
-12:17 重点三：Claude 帮忙解开一个四十年的蛋白谜题
-13:56 重点四：Claude Code 让后台助手更省额度
-15:18 重点五：AI 设计硬件，还差最后一公里
-16:34 重点六：在浏览器里的 Jupyter 跑 AI 模型
-18:15 一起讨论
-18:24 评论一：AI 搜索，成了新的钓鱼入口
-19:42 评论二：依赖已死？
-21:18 评论三：一篇论文出现两次，现在合并了
-22:47 评论四：AI 时代，数学家的新规矩
-24:17 评论五：一年半，用 AI 写了三百七十一本书
-25:50 收尾
+0:01 开场与头条预告
+1:14 快讯
+8:32 重点一：买的不是又一个写代码的模型
+10:43 重点二：开放模型，先看有没有真的放出来
+13:08 重点三：结构出来了，秘密还没全解开
+15:29 重点四：模型给链接，谁来验真
+17:52 重点五：一千七百多万条记录不见了，论文没少
+20:22 重点六：证明写出来以后，功劳给谁
+22:19 评论一：依赖少了，维护不会凭空没了
+23:25 评论二：假的下载站，不能靠更顺的解释变真
+24:21 评论三：科研加速，要把慢下来的地方一起算
+25:18 评论四：数据库变干净，旧图表也得重新解释
+26:10 评论五：工具被买走以后，用户能带走什么
+27:00 收尾
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-05.html</description>
       <itunes:summary>昨天 AI 圈：OpenAI 收购 Pierre 与「收购日」、Kimi K3.1 Pro 放权重和混元 Hy4、Claude 解出细菌 vault 粒子结构、Claude Code 子代理省额度、OpenAI 硬件设计细节、JupyterLite 本地跑模型；评论聊 AI 搜索钓鱼、「依赖已死」、OpenAlex 合并 1700 万条重复记录、AI 时代的数学规范、AI 一年半写 371 本书</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-05.mp3" length="12556268" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-05-v2.mp3" length="13149932" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-05</guid>
       <pubDate>Thu, 05 Nov 2026 07:53:00 +0800</pubDate>
-      <itunes:duration>00:26:10</itunes:duration>
+      <itunes:duration>00:27:24</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
@@ -217,28 +214,27 @@
       <description>昨天 AI 圈：Anthropic 开源 FlashProve、Claude 插件自动连接与 Claude Code 十月更新、权重空间编程被复现、Code Mode、levelsio 把开支压到每月 300 美元、科研开放权重模型；评论聊 Git 撑不住 agent、Revolut 改用开放权重、维护者看不见对面的人、OSF 关停时间表、agent 自我复盘
 
 章节：
-0:00 开场与头条预告
-0:56 快讯
-5:21 重点一：Anthropic 开源 FlashProve
-6:40 重点二：Claude 插件登录即连，Claude Code 十月更新
-8:11 重点三：模型改模型的权重，被独立复现了
-9:43 重点四：agent 可能很快只剩一个工具
-10:58 重点五：独立开发者用 AI 把开支砍掉九成
-12:16 重点六：面向科研的开放权重模型
-13:28 一起讨论
-13:39 评论一：Git 撑不住 agent，是改造还是替换
-15:52 评论二：前沿模型变成例外，开放模型变成默认
-17:38 评论三：维护者失去的，是对面的人
-19:38 评论四：OSF 关停的时间表
-21:29 评论五：让 AI 自己复盘、自己改手册，管用吗
-23:28 收尾
+0:01 开场与头条预告
+1:15 快讯
+10:02 重点一：管代码，改造还是整套换
+12:24 重点二：自托管便宜了，效率就一定更高吗
+14:39 重点三：改权重很惊艳，但不是大模型已经改造自己
+17:03 重点四：让它记住教训，不等于下次就不犯
+19:35 重点五：维护者想找回的，是对面那个愿意负责的人
+21:45 重点六：OSF 不是资料全删，但活跃项目得另作打算
+24:06 评论一：省到三百美元，先看没算进去什么
+25:54 评论二：代码产量变多，别把审查也一并省掉
+26:47 评论三：开放模型的选择权，不只体现在单价
+27:40 评论四：手册越厚，不一定越会做事
+28:34 评论五：公共基础设施，要给维护留位置
+29:29 收尾
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-04.html</description>
       <itunes:summary>昨天 AI 圈：Anthropic 开源 FlashProve、Claude 插件自动连接与 Claude Code 十月更新、权重空间编程被复现、Code Mode、levelsio 把开支压到每月 300 美元、科研开放权重模型；评论聊 Git 撑不住 agent、Revolut 改用开放权重、维护者看不见对面的人、OSF 关停时间表、agent 自我复盘</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-04.mp3" length="11432300" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-04-v2.mp3" length="14334380" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-04</guid>
       <pubDate>Wed, 04 Nov 2026 07:53:00 +0800</pubDate>
-      <itunes:duration>00:23:49</itunes:duration>
+      <itunes:duration>00:29:52</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
