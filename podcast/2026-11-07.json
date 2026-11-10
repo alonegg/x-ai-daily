@@ -1,82 +1,82 @@
 {
- "title": "11 月 7 日 AI 播报",
- "summary": "昨天：Thinking Machines 发 Inkling 2 Small；Anthropic 讲记忆做梦与科学建模；DeepMind 压测遗留 RSA；Meta 下放 Muse 能力；Ramp 显示企业 AI 用量涨、账单不动",
- "voice": "男声",
- "voice_id": "qwen-audio-3.0-tts-plus-longyulianrong",
- "duration": 1376.3,
- "size": 11010284,
- "src": "https://audio.chunlin.ch/ep/2026-11-07.mp3",
- "pubDate": "2026-11-07T07:53:00+08:00",
- "chapters": [
-  {
-   "t": 0,
-   "title": "开场与头条预告",
-   "group": "今日快讯"
-  },
-  {
-   "t": 83.1,
-   "title": "快讯",
-   "group": "今日快讯"
-  },
-  {
-   "t": 483.7,
-   "title": "重点一：Inkling 2 Small",
-   "group": "今日重点"
-  },
-  {
-   "t": 587.3,
-   "title": "重点二：Anthropic 的记忆做梦与科学建模",
-   "group": "今日重点"
-  },
-  {
-   "t": 721.8,
-   "title": "重点三：DeepMind 压测遗留 RSA",
-   "group": "今日重点"
-  },
-  {
-   "t": 815.4,
-   "title": "重点四：Muse 专用模型与 Spaces",
-   "group": "今日重点"
-  },
-  {
-   "t": 896.9,
-   "title": "重点五：开发工具链把验收留给人",
-   "group": "今日重点"
-  },
-  {
-   "t": 965.8,
-   "title": "重点六：JupyterHub 路线图与课堂机器人",
-   "group": "今日重点"
-  },
-  {
-   "t": 1046.7,
-   "title": "评论一：企业 AI 账单用量涨、钱不动",
-   "group": "值得评论 · 一起讨论"
-  },
-  {
-   "t": 1143.3,
-   "title": "评论二：记忆该记什么",
-   "group": "值得评论 · 一起讨论"
-  },
-  {
-   "t": 1197.0,
-   "title": "评论三：加密压测与防御窗口",
-   "group": "值得评论 · 一起讨论"
-  },
-  {
-   "t": 1246.2,
-   "title": "评论四：旗舰能力稀释进默认产品",
-   "group": "值得评论 · 一起讨论"
-  },
-  {
-   "t": 1290.3,
-   "title": "评论五：开权重时间表与安全门",
-   "group": "值得评论 · 一起讨论"
-  },
-  {
-   "t": 1338.1,
-   "title": "收尾",
-   "group": "值得评论 · 一起讨论"
-  }
- ]
+  "title": "11 月 7 日 AI 播报",
+  "summary": "昨天：Thinking Machines 发 Inkling 2 Small；Anthropic 讲记忆做梦与科学建模；DeepMind 压测遗留 RSA；Meta 下放 Muse 能力；Ramp 显示企业 AI 用量涨、账单不动",
+  "voice": "双人对谈：女声 + 男声",
+  "voice_id": "longanlingxin+qwen-audio-3.0-tts-plus-longyulianrong",
+  "duration": 1621.296,
+  "size": 12970604,
+  "src": "https://audio.chunlin.ch/ep/2026-11-07-v2.mp3",
+  "pubDate": "2026-11-07T07:53:00+08:00",
+  "chapters": [
+    {
+      "t": 0.6,
+      "title": "开场与头条预告",
+      "group": "今日快讯"
+    },
+    {
+      "t": 65.092,
+      "title": "快讯",
+      "group": "今日快讯"
+    },
+    {
+      "t": 453.2,
+      "title": "重点一：Small，小在哪儿",
+      "group": "今日重点"
+    },
+    {
+      "t": 582.222,
+      "title": "重点二：记住经验，还是记住一堆错误",
+      "group": "今日重点"
+    },
+    {
+      "t": 759.688,
+      "title": "重点三：AI 破解了所有加密吗",
+      "group": "今日重点"
+    },
+    {
+      "t": 888.998,
+      "title": "重点四：旗舰能力，不一定让你直接用旗舰",
+      "group": "今日重点"
+    },
+    {
+      "t": 1023.18,
+      "title": "重点五：代码写快了，怎么验",
+      "group": "今日重点"
+    },
+    {
+      "t": 1158.73,
+      "title": "重点六：路线图和课堂小车，都在接回现实",
+      "group": "今日重点"
+    },
+    {
+      "t": 1307.284,
+      "title": "评论一：用量涨了，收入为什么没跟上",
+      "group": "值得评论 · 一起讨论"
+    },
+    {
+      "t": 1399.406,
+      "title": "评论二：别把记忆当收藏夹",
+      "group": "值得评论 · 一起讨论"
+    },
+    {
+      "t": 1447.472,
+      "title": "评论三：加密压测，别把安心也自动化了",
+      "group": "值得评论 · 一起讨论"
+    },
+    {
+      "t": 1496.762,
+      "title": "评论四：更能坚持，也得更容易叫停",
+      "group": "值得评论 · 一起讨论"
+    },
+    {
+      "t": 1546.34,
+      "title": "评论五：开权重的时间表，不是结果",
+      "group": "值得评论 · 一起讨论"
+    },
+    {
+      "t": 1596.614,
+      "title": "收尾",
+      "group": "值得评论 · 一起讨论"
+    }
+  ]
 }
