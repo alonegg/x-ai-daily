@@ -8115,12 +8115,17 @@
     ]
   },
   "anthropic-flashprove": {
-    "title": "FlashProve：用密码学证明「这条回答确实来自这个模型」",
+    "title": "FlashProve：Anthropic 开源零知识证明推理验证原型",
     "appearances": [
       {
         "date": "2026-11-04",
         "anchor": "anthropic-flashprove",
         "headline": "FlashProve：用密码学证明「这条回答确实来自这个模型」"
+      },
+      {
+        "date": "2026-11-11",
+        "anchor": "anthropic-flashprove",
+        "headline": "FlashProve：Anthropic 开源零知识证明推理验证原型"
       }
     ]
   },
@@ -10276,6 +10281,296 @@
         "date": "2026-11-10",
         "anchor": "open-science-misc-1110",
         "headline": "Wikimedia 与学术出版"
+      }
+    ]
+  },
+  "gemini-4-carbon-ga": {
+    "title": "Gemini 4 Carbon 开放给付费开发者与 Ultra 订阅：引入价 2/10 美元，预览 /swarm",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "gemini-4-carbon-ga",
+        "headline": "Gemini 4 Carbon 开放给付费开发者与 Ultra 订阅：引入价 2/10 美元，预览 /swarm"
+      }
+    ]
+  },
+  "mka-benchmark": {
+    "title": "MKA：Google 与 Artificial Analysis 推出「读图表、读图纸」的 agent 评测",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "mka-benchmark",
+        "headline": "MKA：Google 与 Artificial Analysis 推出「读图表、读图纸」的 agent 评测"
+      }
+    ]
+  },
+  "gemini-carbon-reactions": {
+    "title": "试用反馈：「Google 回到前沿赛道」，但思考更慢",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "gemini-carbon-reactions",
+        "headline": "试用反馈：「Google 回到前沿赛道」，但思考更慢"
+      }
+    ]
+  },
+  "gemini-robotics-25": {
+    "title": "Gemini Robotics 2.5：数百种日常技能，Argon 帮着加速训练",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "gemini-robotics-25",
+        "headline": "Gemini Robotics 2.5：数百种日常技能，Argon 帮着加速训练"
+      }
+    ]
+  },
+  "claude-whiteboards-sheets-data": {
+    "title": "Claude 白板、表格上线测试版，仪表盘改名 Claude Data 正式上线",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "claude-whiteboards-sheets-data",
+        "headline": "Claude 白板、表格上线测试版，仪表盘改名 Claude Data 正式上线"
+      }
+    ]
+  },
+  "claude-interactive-connectors-mcp-apps": {
+    "title": "交互式连接器整页嵌入 + MCP Apps 扩展：第三方应用直接跑在 Claude 里",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "claude-interactive-connectors-mcp-apps",
+        "headline": "交互式连接器整页嵌入 + MCP Apps 扩展：第三方应用直接跑在 Claude 里"
+      }
+    ]
+  },
+  "anthropic-ipo-roadshow": {
+    "title": "后续：Anthropic 正式启动 IPO 路演：8.25 亿股，每股 70–78 美元，代码 ANT",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "anthropic-ipo-roadshow",
+        "headline": "后续：Anthropic 正式启动 IPO 路演：8.25 亿股，每股 70–78 美元，代码 ANT"
+      }
+    ]
+  },
+  "fable-quota-math": {
+    "title": "订阅额度账：全员送一次全额重置；Theo 算出 Fable 比 Opus「烧得快」",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "fable-quota-math",
+        "headline": "订阅额度账：全员送一次全额重置；Theo 算出 Fable 比 Opus「烧得快」"
+      }
+    ]
+  },
+  "fable-52-showcase": {
+    "title": "Fable 5.2 作品与基准走势",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "fable-52-showcase",
+        "headline": "Fable 5.2 作品与基准走势"
+      }
+    ]
+  },
+  "chatgpt-businesses": {
+    "title": "ChatGPT 商家功能测试版：认领商家、发布 Business Agent",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "chatgpt-businesses",
+        "headline": "ChatGPT 商家功能测试版：认领商家、发布 Business Agent"
+      }
+    ]
+  },
+  "chatgpt-voice-retire": {
+    "title": "ChatGPT 12 月 11 日下线高级与标准语音，统一到 GPT-Live",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "chatgpt-voice-retire",
+        "headline": "ChatGPT 12 月 11 日下线高级与标准语音，统一到 GPT-Live"
+      }
+    ]
+  },
+  "meta-muse-updates": {
+    "title": "Meta Muse：邮箱、Expedia 连接器，Crouton Alpha 原来是 Muse Ember",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "meta-muse-updates",
+        "headline": "Meta Muse：邮箱、Expedia 连接器，Crouton Alpha 原来是 Muse Ember"
+      }
+    ]
+  },
+  "gr00t-2-details": {
+    "title": "后续：英伟达 GR00T 2 细节与开源清单",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "gr00t-2-details",
+        "headline": "后续：英伟达 GR00T 2 细节与开源清单"
+      }
+    ]
+  },
+  "jittests-meta": {
+    "title": "Meta JiTTests：让模型写「会失败的测试」，合入前抓 bug",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "jittests-meta",
+        "headline": "Meta JiTTests：让模型写「会失败的测试」，合入前抓 bug"
+      }
+    ]
+  },
+  "airbnb-small-classifier": {
+    "title": "Airbnb：微调小模型做分类，质量对标前沿、成本约百分之一",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "airbnb-small-classifier",
+        "headline": "Airbnb：微调小模型做分类，质量对标前沿、成本约百分之一"
+      }
+    ]
+  },
+  "eval-driven-development": {
+    "title": "LangChain：评测驱动开发，先定义什么算对再动手",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "eval-driven-development",
+        "headline": "LangChain：评测驱动开发，先定义什么算对再动手"
+      }
+    ]
+  },
+  "agent-experience-1111": {
+    "title": "为 agent 设计产品：Resend 的 AEO 与 80 多个 MCP 工具；宝玉谈「软件原子化」",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "agent-experience-1111",
+        "headline": "为 agent 设计产品：Resend 的 AEO 与 80 多个 MCP 工具；宝玉谈「软件原子化」"
+      }
+    ]
+  },
+  "agent-tools-misc-1111": {
+    "title": "工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "agent-tools-misc-1111",
+        "headline": "工具速递"
+      }
+    ]
+  },
+  "interpretability-cammarata-replication": {
+    "title": "李博杰复验 Cammarata「神经元已经很干净」：起名容易、预测难",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "interpretability-cammarata-replication",
+        "headline": "李博杰复验 Cammarata「神经元已经很干净」：起名容易、预测难"
+      }
+    ]
+  },
+  "decision-models-hf": {
+    "title": "Hugging Face 定义「决策模型」接口；Flide 推理引擎",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "decision-models-hf",
+        "headline": "Hugging Face 定义「决策模型」接口；Flide 推理引擎"
+      }
+    ]
+  },
+  "naive-n05-flash": {
+    "title": "Latent Space 实测 NaiveAI 的 Naive-N0.5-Flash：标称每秒 2100 Token",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "naive-n05-flash",
+        "headline": "Latent Space 实测 NaiveAI 的 Naive-N0.5-Flash：标称每秒 2100 Token"
+      }
+    ]
+  },
+  "papers-1111": {
+    "title": "论文与开源速递",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "papers-1111",
+        "headline": "论文与开源速递"
+      }
+    ]
+  },
+  "lenny-tech-jobs-2026h2": {
+    "title": "Lenny 科技就业报告：PM 岗位四年最多，工程停滞，设计创新低",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "lenny-tech-jobs-2026h2",
+        "headline": "Lenny 科技就业报告：PM 岗位四年最多，工程停滞，设计创新低"
+      }
+    ]
+  },
+  "coreweave-hf-milestones": {
+    "title": "CoreWeave 三季报；Hugging Face 用户破 2000 万",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "coreweave-hf-milestones",
+        "headline": "CoreWeave 三季报；Hugging Face 用户破 2000 万"
+      }
+    ]
+  },
+  "ai-hiring-1111": {
+    "title": "招聘与面试在变：Manus 让候选人用 Manus 干四小时",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "ai-hiring-1111",
+        "headline": "招聘与面试在变：Manus 让候选人用 Manus 干四小时"
+      }
+    ]
+  },
+  "industry-misc-1111": {
+    "title": "观点杂讯",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "industry-misc-1111",
+        "headline": "观点杂讯"
+      }
+    ]
+  },
+  "jupyter-bsky-1111": {
+    "title": "今日安静：仅有零星 notebook 相关帖",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "jupyter-bsky-1111",
+        "headline": "今日安静：仅有零星 notebook 相关帖"
+      }
+    ]
+  },
+  "connected-data-1111": {
+    "title": "Connected Data London 今天开幕；知识图谱给调查记者的「物料清单」",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "connected-data-1111",
+        "headline": "Connected Data London 今天开幕；知识图谱给调查记者的「物料清单」"
+      }
+    ]
+  },
+  "open-science-misc-1111": {
+    "title": "后续：EOSC 欧盟节点运维合同授予 Open Science Commons 联盟；开放科学零讯",
+    "appearances": [
+      {
+        "date": "2026-11-11",
+        "anchor": "open-science-misc-1111",
+        "headline": "后续：EOSC 欧盟节点运维合同授予 Open Science Commons 联盟；开放科学零讯"
       }
     ]
   }
