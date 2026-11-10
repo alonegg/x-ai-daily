@@ -245,28 +245,26 @@
       <description>昨天 AI 圈：Claude API 消息线程、levelsio 把《战地 1942》搬上网页、GDPx 与 LifeVal 新基准、小图形悄悄左右多模态模型、Anthropic Residency、pyOpenSci 获斯隆资助；评论聊改权重、MCP 之争、marimo 进 SDSS、资深开发者的谨慎、S-1 里的「加速」
 
 章节：
-0:00 开场与头条预告
-0:57 快讯
-6:17 重点一：Claude 接口有了消息线程
-7:44 重点二：一款老游戏，从机器码搬到网页
-9:24 重点三：两个新基准，一个难，一个接地气
-10:51 重点四：一颗红心，就能改变模型写代码的方式
-12:11 重点五：Anthropic 招资深人士转行做 AI 安全
-13:38 重点六：pyOpenSci 拿到资助，研究 AI 怎么改变科学开源
-15:07 一起讨论
-15:16 评论一：一个模型给另一个模型做手术
-16:54 评论二：MCP 是不是一个没有契约的接口
-18:38 评论三：marimo 走进斯隆数字巡天
-20:33 评论四：为什么最有经验的程序员最谨慎
-22:25 评论五：上市文件里的加速
-24:00 收尾
+0:01 开场与头条预告
+1:12 快讯
+10:31 重点一：动一点权重，为什么能好这么多
+12:42 重点二：少上传历史，不是少读历史
+14:55 重点三：接口能现读，约定就不重要了吗
+17:04 重点四：最高十二分，到底说明什么
+19:17 重点五：谨慎，不一定是舍不得亲手写代码
+21:30 重点六：数据没搬家，入口变好用了
+23:37 评论一：预计很快，不是已经发生
+25:07 评论二：给答案快，跟把任务做到位
+26:03 评论三：工具便宜，调用也别没有上限
+26:53 评论四：知识能被找到以前，得先有人把它留下
+27:47 收尾
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-03.html</description>
       <itunes:summary>昨天 AI 圈：Claude API 消息线程、levelsio 把《战地 1942》搬上网页、GDPx 与 LifeVal 新基准、小图形悄悄左右多模态模型、Anthropic Residency、pyOpenSci 获斯隆资助；评论聊改权重、MCP 之争、marimo 进 SDSS、资深开发者的谨慎、S-1 里的「加速」</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-03.mp3" length="11677100" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-03-v2.mp3" length="13509164" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-03</guid>
       <pubDate>Tue, 03 Nov 2026 07:53:00 +0800</pubDate>
-      <itunes:duration>00:24:20</itunes:duration>
+      <itunes:duration>00:28:09</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
@@ -277,26 +275,26 @@
       <description>昨天 AI 圈：Anthropic 每天约 3 万次合并靠「证据包」、Super-agent 后续与主动 agent 六道题、币安被盗复盘与 Linux 漏洞、LeCun 谈表征与 Llama、Karpathy 的 HackerTube；评论聊 agent 重写与许可证、97 个词复现 ETH 证明、按 harness 安全度放开模型能力、手机上的 notebook、GPT-4 到今天的分界线
 
 章节：
-0:00 开场与头条预告
-0:58 快讯
-6:09 重点一：每天三万次合并，靠的是证据
-8:16 重点二：一个人管不过来那么多 agent 了
-10:30 重点三：币安被盗复盘，和一个危险的 Linux 漏洞
-12:21 重点四：LeCun 的表征理论，和他对 Llama 的澄清
-13:56 重点五：两小时做一个视频网站，一句话剪一条视频
-15:25 评论一：agent 重写一切，许可证怎么办
-17:20 评论二：九十七个词，和一个关于需求的问题
-19:30 评论三：模型能做什么，该不该看 harness 有多安全
-20:57 评论四：在手机上跑 notebook
-22:47 评论五：从四分钟到几周
-24:16 收尾
+0:01 开场与头条预告
+1:12 快讯
+10:37 重点一：两周重写，与已经交付
+12:53 重点二：三万次合并，谁在看证据
+14:52 重点三：HackerTube，借的是谁的眼光
+17:00 重点四：少几个窗口，不是少掉上下文
+19:29 重点五：一美元复现，没包含哪一段
+22:10 重点六：把笔记本装进口袋，也把边界讲清
+24:27 评论一：重写的代码，许可也得重看
+25:17 评论二：签名是真的，意图也可能是假的
+26:12 评论三：档位名字，不是统一能力刻度
+27:04 评论四：知识变多，贡献者也该变多
+28:13 收尾
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-02.html</description>
       <itunes:summary>昨天 AI 圈：Anthropic 每天约 3 万次合并靠「证据包」、Super-agent 后续与主动 agent 六道题、币安被盗复盘与 Linux 漏洞、LeCun 谈表征与 Llama、Karpathy 的 HackerTube；评论聊 agent 重写与许可证、97 个词复现 ETH 证明、按 harness 安全度放开模型能力、手机上的 notebook、GPT-4 到今天的分界线</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-02.mp3" length="11867564" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-02-v2.mp3" length="13723436" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-02</guid>
       <pubDate>Mon, 02 Nov 2026 07:53:00 +0800</pubDate>
-      <itunes:duration>00:24:43</itunes:duration>
+      <itunes:duration>00:28:35</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
@@ -307,26 +305,25 @@
       <description>昨天 AI 圈：DeepSeek Harness 的 Super-agent 设计、Anthropic 自动红队与扩展市场安全、Manus 和 Amp 的 AI 原生组织、国产 OCR 三强、欧洲 AI 税；评论聊 AI 时代的开放科学、「Fable 5 权重」疑似造假、Qwenputer、Proton 风波后续和 Claude 订阅
 
 章节：
-0:00 开场与头条预告
-1:03 快讯
-6:02 重点一：一个人能盯几个 agent，DeepSeek 给出系统答案
-8:16 重点二：自动红队、假冒扩展和一个新开关
-9:57 重点三：AI 原生的公司长什么样
-11:49 重点四：国产文字识别模型，三家各有所长
-13:02 重点五：欧洲开始向外国 AI 收钱？
-14:21 评论一：AI 时代，重看开放科学
-16:43 评论二：一条爆料，四步核查
-18:52 评论三：把处理器编进模型里
-20:51 评论四：Proton 道歉之后
-22:50 评论五：订阅、第三方工具和一笔 token 账
-24:27 收尾
+0:01 开场与头条预告
+1:14 快讯
+10:32 重点一：科学在前，开放怎么帮上忙
+12:59 重点二：会话藏起来，干预的入口别藏
+15:20 重点三：一万美元词元，买到了什么
+17:58 重点四：权重里放计算机，不是让语言模型猜算术
+20:24 重点五：Proton 的承诺，和 DHH 的反对
+22:36 重点六：假权重，先把账算对
+24:34 评论一：监控器看起来放心，模型未必学得对
+25:29 评论二：云端省资源，本地保留选择
+26:20 评论三：会说更多话以前，先把人的话留下
+27:09 收尾
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-01.html</description>
       <itunes:summary>昨天 AI 圈：DeepSeek Harness 的 Super-agent 设计、Anthropic 自动红队与扩展市场安全、Manus 和 Amp 的 AI 原生组织、国产 OCR 三强、欧洲 AI 税；评论聊 AI 时代的开放科学、「Fable 5 权重」疑似造假、Qwenputer、Proton 风波后续和 Claude 订阅</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-01.mp3" length="11891948" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-01-v2.mp3" length="13228460" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-01</guid>
       <pubDate>Sun, 01 Nov 2026 07:53:00 +0800</pubDate>
-      <itunes:duration>00:24:46</itunes:duration>
+      <itunes:duration>00:27:34</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
