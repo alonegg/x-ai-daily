@@ -334,27 +334,26 @@
       <description>昨天 AI 圈：Claude Max 20x 改名 Ultra 并取消 5 小时限额、Google 太空 TPU 第一次答题、方寸实验室的 DeepSeek 安全报告、JupyterLab 4.6.5；评论聊维基媒体版权立场、agent 记忆、安全三连、Proton 风波和维基百科的「不中立」研究
 
 章节：
-0:00 开场与头条预告
-1:06 快讯
-6:32 重点一：Claude 改名 Ultra，订阅账单怎么算
-8:19 重点二：Google 的太空 TPU 第一次答题
-9:54 重点三：第三方给 DeepSeek 做了一次安全体检
-11:35 重点四：agent 几天建成万亿级图计算
-12:48 重点五：JupyterLab 出了最大的一次修复版
-14:09 重点六：阿里云的 agent 手册，和一组冷静的数字
-15:20 评论一：维基媒体在 AI 版权案里两边都不站
-17:23 评论二：agent 的记忆，该做摘要，还是留原件
-19:13 评论三：一周三起，入口都在开发者身边
-21:09 评论四：Proton 的 AI 风波和思科的重写计划
-23:04 评论五：维基百科的「不中立」，不是慢慢变出来的
-25:02 收尾
+0:01 开场与头条预告
+1:13 快讯
+13:09 重点一：安全事件，先分清影响范围
+15:40 重点二：没有五小时窗口，不等于无限量
+18:04 重点三：记忆别先把证据弄丢
+21:15 重点四：不盯每行代码，更得看验收证据
+24:14 重点五：组织转型，先别把目标当成果
+27:03 重点六：训练和检索回答，开放许可怎么算
+29:37 重点七：不中立的预警，先别把标签时间搞错
+32:02 评论一：太空里一首诗，跑通了什么
+33:11 评论二：声音能克隆，表达还得分别试
+34:26 评论三：真人讨论，不能只比回复数量
+35:37 收尾
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-31.html</description>
       <itunes:summary>昨天 AI 圈：Claude Max 20x 改名 Ultra 并取消 5 小时限额、Google 太空 TPU 第一次答题、方寸实验室的 DeepSeek 安全报告、JupyterLab 4.6.5；评论聊维基媒体版权立场、agent 记忆、安全三连、Proton 风波和维基百科的「不中立」研究</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-31.mp3" length="12187244" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-31-v2.mp3" length="17283692" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-31</guid>
       <pubDate>Sat, 31 Oct 2026 07:53:00 +0800</pubDate>
-      <itunes:duration>00:25:23</itunes:duration>
+      <itunes:duration>00:36:00</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
@@ -365,28 +364,26 @@
       <description>昨天 AI 圈：OpenAI 公开前沿模型监控、Claude 每轮回答后安全自查、Mistral Large 4 开放权重、Jupyter 安全委员会被 AI 报告淹没；评论聊 AI 预测实验结果、企业 agent 违规基准、ProtoStar 与「卖铲子」之争
 
 章节：
-0:00 开场与头条预告
-1:05 快讯
-6:22 重点一：OpenAI 怎么盯住训练中的模型
-7:50 重点二：Claude 每轮回答后给自己做安全检查
-9:28 重点三：Mistral 放出万亿参数大模型
-11:01 重点四：Jupyter 被 AI 漏洞报告淹没
-12:41 重点五：AI 改变经济，关键在协作
-14:08 重点六：二十一个人，一天发布一百次
-15:26 重点七：OpenAI 额度翻倍，还送 API 额度
-17:03 评论一：AI 读预注册文件，就能猜到实验结果
-19:00 评论二：企业 agent，四成运行在违规
-20:31 评论三：让科研数据变得 AI 能用，谁来管
-22:10 评论四：用 agent 写代码时的那种躁狂
-23:35 评论五：AI 创业，该卖铲子还是用机器
-25:08 收尾
+0:01 开场与头条预告
+1:15 快讯
+13:10 重点一：看见越界，和挡住越界
+16:22 重点二：Claude 自查，便宜的那一层
+19:09 重点三：Jupyter 的报告，不等于已确认漏洞
+22:26 重点四：权重开放，还要看许可和任务
+25:36 重点五：用量翻倍，不是每一本账都翻倍
+28:40 重点六：预测得准，实验还做不做
+32:36 重点七：公开科研资料，得能接着用
+35:24 评论一：Amp 不强制审代码，可不是不审结果
+37:08 评论二：经济变化，不只看单个模型多聪明
+38:36 评论三：一直很忙，也可能没有交付
+39:48 收尾
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-30.html</description>
       <itunes:summary>昨天 AI 圈：OpenAI 公开前沿模型监控、Claude 每轮回答后安全自查、Mistral Large 4 开放权重、Jupyter 安全委员会被 AI 报告淹没；评论聊 AI 预测实验结果、企业 agent 违规基准、ProtoStar 与「卖铲子」之争</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-30.mp3" length="12231788" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-30-v2.mp3" length="19294316" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-30</guid>
       <pubDate>Fri, 30 Oct 2026 07:53:00 +0800</pubDate>
-      <itunes:duration>00:25:29</itunes:duration>
+      <itunes:duration>00:40:12</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
@@ -397,28 +394,26 @@
       <description>昨天 AI 圈：Google 发布 Gemini 4 Carbon、Artificial Analysis v5 拉大开放权重差距、GitHub Copilot 自动选模型；评论聊 PRC 出版模式之争、OpenAlex 期刊名单、多智能体的四个难题
 
 章节：
-0:00 开场与头条预告
-1:04 快讯
-6:53 重点一：Gemini 4 Carbon
-8:36 重点二：排行榜改用私有题
-10:15 重点三：GitHub Copilot 学会挑模型
-11:37 重点四：为 agent 重做代码托管
-12:48 重点五：主动型 agent 就是定时任务
-14:20 重点六：红果与字节时间
-15:42 重点七：AI 剪视频走上编程的老路
-17:20 评论一：先发表再评审，是进步还是换汤不换药
-19:00 评论二：开放数据里的信任标签
-20:22 评论三：上千个 agent 一起干活，缺什么
-22:18 评论四：面试在考什么
-23:53 评论五：上手实测一个开源 OCR
-25:16 收尾
+0:01 开场与三件头条
+1:06 快讯：模型、工具、科研与社区
+11:53 重点一：Carbon登顶，先问榜单测了什么
+14:53 重点二：多模型审代码，钱花在哪一步
+17:57 重点三：上千个智能体，谁能让它们一起停
+20:55 重点四：模型进步后，哪些规则该删
+23:24 重点五：识别对了八成，账单就能自动入账吗
+25:57 重点六：先发表后评审，真的改变了谁说了算
+28:48 重点七：期刊进了名单，就值得信吗
+31:19 评论一：面试允许用AI，不等于不问你会不会
+33:00 评论二：短剧拿走时间，别把留存当福利
+35:29 评论三：聊天里的安慰，不能变成处方
+36:55 收尾
 
 当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-10-29.html</description>
       <itunes:summary>昨天 AI 圈：Google 发布 Gemini 4 Carbon、Artificial Analysis v5 拉大开放权重差距、GitHub Copilot 自动选模型；评论聊 PRC 出版模式之争、OpenAlex 期刊名单、多智能体的四个难题</itunes:summary>
-      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-29.mp3" length="12347180" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-10-29-v2.mp3" length="17953772" type="audio/mpeg" />
       <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 07:53:00 +0800</pubDate>
-      <itunes:duration>00:25:43</itunes:duration>
+      <itunes:duration>00:37:24</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
