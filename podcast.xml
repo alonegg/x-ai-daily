@@ -26,6 +26,34 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 12 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-12.html</link>
+      <description>昨天：Google 发布只打分不生成的 Gemini Decision 1；AlphaProof Code 把 Signal 协议验证到生产代码；Gemini 4 Carbon 的快慢与成本之争；OpenAI 发现思维链越来越难监控；Shopify 和 Meta 让 agent 写代码、人守验收；AI 时代的署名
+
+章节：
+0:01 开场与头条预告
+0:49 快讯
+6:09 重点一：谷歌出了个不说话、只打分的模型
+8:51 重点二：AI 证明了 Signal 的安全性
+11:02 重点三：Carbon 到底省不省
+13:21 重点四：模型越强，越难看出它在想什么
+15:18 重点五：agent 写代码，人守验收
+17:18 评论一：AI 不给我们署名，我们给别人署名了吗
+19:04 评论二：软件给 agent 用，人来验收
+20:34 评论三：网页 3A 游戏，是真本事还是投机取巧
+22:08 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-12.html</description>
+      <itunes:summary>昨天：Google 发布只打分不生成的 Gemini Decision 1；AlphaProof Code 把 Signal 协议验证到生产代码；Gemini 4 Carbon 的快慢与成本之争；OpenAI 发现思维链越来越难监控；Shopify 和 Meta 让 agent 写代码、人守验收；AI 时代的署名</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-12.mp3" length="10824812" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 06:56:10 +0800</pubDate>
+      <itunes:duration>00:22:33</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 11 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-11.html</link>
       <description>昨天：Gemini 4 Carbon 正式开放；Claude 加了白板、表格和 Claude Data，第三方应用能整页跑在 Claude 里；Anthropic 启动 IPO 路演；订阅额度怎么算；Meta、LangChain、Airbnb 的验收做法；可解释性复验
@@ -571,7 +599,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Wed, 11 Nov 2026 08:25:23 +0800</lastBuildDate>
-    <pubDate>Wed, 11 Nov 2026 08:25:23 +0800</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:56:10 +0800</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 06:56:10 +0800</pubDate>
   </channel>
 </rss>

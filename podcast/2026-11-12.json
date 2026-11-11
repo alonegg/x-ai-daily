@@ -1,0 +1,67 @@
+{
+ "title": "11 月 12 日 AI 播报",
+ "summary": "昨天：Google 发布只打分不生成的 Gemini Decision 1；AlphaProof Code 把 Signal 协议验证到生产代码；Gemini 4 Carbon 的快慢与成本之争；OpenAI 发现思维链越来越难监控；Shopify 和 Meta 让 agent 写代码、人守验收；AI 时代的署名",
+ "voice": "双人：女主持 + 男解读",
+ "voice_id": "longanlingxin+qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1353.072,
+ "size": 10824812,
+ "src": "https://audio.chunlin.ch/ep/2026-11-12.mp3",
+ "pubDate": "2026-11-12T06:56:10+08:00",
+ "chapters": [
+  {
+   "t": 0.6,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 49.364,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 369.272,
+   "title": "重点一：谷歌出了个不说话、只打分的模型",
+   "group": "今日重点"
+  },
+  {
+   "t": 530.682,
+   "title": "重点二：AI 证明了 Signal 的安全性",
+   "group": "今日重点"
+  },
+  {
+   "t": 661.74,
+   "title": "重点三：Carbon 到底省不省",
+   "group": "今日重点"
+  },
+  {
+   "t": 801.462,
+   "title": "重点四：模型越强，越难看出它在想什么",
+   "group": "今日重点"
+  },
+  {
+   "t": 917.858,
+   "title": "重点五：agent 写代码，人守验收",
+   "group": "今日重点"
+  },
+  {
+   "t": 1038.284,
+   "title": "评论一：AI 不给我们署名，我们给别人署名了吗",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1143.932,
+   "title": "评论二：软件给 agent 用，人来验收",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1233.746,
+   "title": "评论三：网页 3A 游戏，是真本事还是投机取巧",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1328.046,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}
