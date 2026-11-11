@@ -680,7 +680,7 @@
     ]
   },
   "okfn-peacetech-summit": {
-    "title": "OKFN 和平科技峰会落幕，完整记录即将发布",
+    "title": "后续：和平科技峰会完整资料公开",
     "appearances": [
       {
         "date": "2026-10-14",
@@ -701,6 +701,11 @@
         "date": "2026-10-20",
         "anchor": "okfn-peacetech-summit",
         "headline": "OKFN 和平科技峰会落幕，完整记录即将发布"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "okfn-peacetech-summit",
+        "headline": "后续：和平科技峰会完整资料公开"
       }
     ]
   },
@@ -1000,12 +1005,17 @@
     ]
   },
   "claude-china-geo-ban": {
-    "title": "美国人在深圳开会起床发现 Claude 被封",
+    "title": "后续：Anthropic 中国相关条款生效；新号订阅连带苹果账号被封",
     "appearances": [
       {
         "date": "2026-10-16",
         "anchor": "claude-china-geo-ban",
         "headline": "美国人在深圳开会起床发现 Claude 被封"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "claude-china-geo-ban",
+        "headline": "后续：Anthropic 中国相关条款生效；新号订阅连带苹果账号被封"
       }
     ]
   },
@@ -2520,12 +2530,17 @@
     ]
   },
   "skillspector-templates": {
-    "title": "Claude Code Templates 接入 NVIDIA SkillSpector，给每个组件做安全扫描",
+    "title": "后续：两万个 agent skill 的安全扫描",
     "appearances": [
       {
         "date": "2026-10-20",
         "anchor": "skillspector-templates",
         "headline": "Claude Code Templates 接入 NVIDIA SkillSpector，给每个组件做安全扫描"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "skillspector-templates",
+        "headline": "后续：两万个 agent skill 的安全扫描"
       }
     ]
   },
@@ -4675,12 +4690,17 @@
     ]
   },
   "higgsfield-series-b": {
-    "title": "Higgsfield 年化收入破 10 亿美元，NVIDIA 和 TCV 加入 B 轮扩展",
+    "title": "后续：Higgsfield 创始人访谈：ARR 怎么算、每月 400 万美元花在哪",
     "appearances": [
       {
         "date": "2026-10-25",
         "anchor": "higgsfield-series-b",
         "headline": "Higgsfield 年化收入破 10 亿美元，NVIDIA 和 TCV 加入 B 轮扩展"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "higgsfield-series-b",
+        "headline": "后续：Higgsfield 创始人访谈：ARR 怎么算、每月 400 万美元花在哪"
       }
     ]
   },
@@ -5750,7 +5770,7 @@
     ]
   },
   "stanford-cs329z": {
-    "title": "课程：DeepLearning.AI「Context Engineering」与斯坦福 CS329Z 第 11 讲",
+    "title": "后续：斯坦福 CS329Z 公开全部课程资料",
     "appearances": [
       {
         "date": "2026-10-28",
@@ -5761,6 +5781,11 @@
         "date": "2026-10-30",
         "anchor": "stanford-cs329z",
         "headline": "课程：DeepLearning.AI「Context Engineering」与斯坦福 CS329Z 第 11 讲"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "stanford-cs329z",
+        "headline": "后续：斯坦福 CS329Z 公开全部课程资料"
       }
     ]
   },
@@ -9050,12 +9075,17 @@
     ]
   },
   "pyopensci-ai-maintainers": {
-    "title": "pyOpenSci：人消失以后——维护者怎么看 AI 贡献",
+    "title": "pyOpenSci：EuroPython 维护者焦点小组谈 AI 贡献，最大的损失是「人不见了」",
     "appearances": [
       {
         "date": "2026-11-06",
         "anchor": "pyopensci-ai-maintainers",
         "headline": "pyOpenSci：人消失以后——维护者怎么看 AI 贡献"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "pyopensci-ai-maintainers",
+        "headline": "pyOpenSci：EuroPython 维护者焦点小组谈 AI 贡献，最大的损失是「人不见了」"
       }
     ]
   },
@@ -9210,22 +9240,32 @@
     ]
   },
   "ernie-55-flash-base": {
-    "title": "百度 ERNIE-5.5-Flash-Base 开源（转述）",
+    "title": "后续：百度文心 5.5 Flash Preview：2800 亿总参数、每 token 激活 140 亿",
     "appearances": [
       {
         "date": "2026-11-07",
         "anchor": "ernie-55-flash-base",
         "headline": "百度 ERNIE-5.5-Flash-Base 开源（转述）"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "ernie-55-flash-base",
+        "headline": "后续：百度文心 5.5 Flash Preview：2800 亿总参数、每 token 激活 140 亿"
       }
     ]
   },
   "shopify-reflex": {
-    "title": "Shopify Reflex：无模拟器验证原生 App 行为",
+    "title": "Shopify：30 名工程师 12 周用 agent 把商家 App 重建为原生",
     "appearances": [
       {
         "date": "2026-11-07",
         "anchor": "shopify-reflex",
         "headline": "Shopify Reflex：无模拟器验证原生 App 行为"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "shopify-reflex",
+        "headline": "Shopify：30 名工程师 12 周用 agent 把商家 App 重建为原生"
       }
     ]
   },
@@ -10075,12 +10115,17 @@
     ]
   },
   "fable-52-reactions": {
-    "title": "发布当天的使用反馈：贵在 Token、强在验证、桌面端 UX 被吐槽",
+    "title": "后续：Arena 称 Fable 5.2 以大幅领先登顶 Agent 榜；官方提示词指南改成「你是这个代码库的主人」",
     "appearances": [
       {
         "date": "2026-11-10",
         "anchor": "fable-52-reactions",
         "headline": "发布当天的使用反馈：贵在 Token、强在验证、桌面端 UX 被吐槽"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "fable-52-reactions",
+        "headline": "后续：Arena 称 Fable 5.2 以大幅领先登顶 Agent 榜；官方提示词指南改成「你是这个代码库的主人」"
       }
     ]
   },
@@ -10255,12 +10300,17 @@
     ]
   },
   "okfn-austria": {
-    "title": "Open Knowledge Austria 重新起步",
+    "title": "后续：Open Knowledge Austria 第一步是重启 OpenDataInside",
     "appearances": [
       {
         "date": "2026-11-10",
         "anchor": "okfn-austria",
         "headline": "Open Knowledge Austria 重新起步"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "okfn-austria",
+        "headline": "后续：Open Knowledge Austria 第一步是重启 OpenDataInside"
       }
     ]
   },
@@ -10305,12 +10355,17 @@
     ]
   },
   "gemini-carbon-reactions": {
-    "title": "试用反馈：「Google 回到前沿赛道」，但思考更慢",
+    "title": "后续：Gemini 4 Carbon 的「慢」与「省」之争",
     "appearances": [
       {
         "date": "2026-11-11",
         "anchor": "gemini-carbon-reactions",
         "headline": "试用反馈：「Google 回到前沿赛道」，但思考更慢"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "gemini-carbon-reactions",
+        "headline": "后续：Gemini 4 Carbon 的「慢」与「省」之争"
       }
     ]
   },
@@ -10355,22 +10410,32 @@
     ]
   },
   "fable-quota-math": {
-    "title": "订阅额度账：全员送一次全额重置；Theo 算出 Fable 比 Opus「烧得快」",
+    "title": "后续：额度重置卡的到期时间上了界面",
     "appearances": [
       {
         "date": "2026-11-11",
         "anchor": "fable-quota-math",
         "headline": "订阅额度账：全员送一次全额重置；Theo 算出 Fable 比 Opus「烧得快」"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "fable-quota-math",
+        "headline": "后续：额度重置卡的到期时间上了界面"
       }
     ]
   },
   "fable-52-showcase": {
-    "title": "Fable 5.2 作品与基准走势",
+    "title": "后续：Fable 5.2 一夜做出一堆「网页 3A」，也有人泼冷水",
     "appearances": [
       {
         "date": "2026-11-11",
         "anchor": "fable-52-showcase",
         "headline": "Fable 5.2 作品与基准走势"
+      },
+      {
+        "date": "2026-11-12",
+        "anchor": "fable-52-showcase",
+        "headline": "后续：Fable 5.2 一夜做出一堆「网页 3A」，也有人泼冷水"
       }
     ]
   },
@@ -10571,6 +10636,186 @@
         "date": "2026-11-11",
         "anchor": "open-science-misc-1111",
         "headline": "后续：EOSC 欧盟节点运维合同授予 Open Science Commons 联盟；开放科学零讯"
+      }
+    ]
+  },
+  "gemini-decisions-api": {
+    "title": "Gemini Decisions API 与 Gemini Decision 1：一次给上千个问题打分，输出 token 不收钱",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "gemini-decisions-api",
+        "headline": "Gemini Decisions API 与 Gemini Decision 1：一次给上千个问题打分，输出 token 不收钱"
+      }
+    ]
+  },
+  "alphaproof-code-signal": {
+    "title": "AlphaProof Code：Google DeepMind 称首次把 Signal 协议形式化验证到生产代码层",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "alphaproof-code-signal",
+        "headline": "AlphaProof Code：Google DeepMind 称首次把 Signal 协议形式化验证到生产代码层"
+      }
+    ]
+  },
+  "alphagenome-2": {
+    "title": "AlphaGenome 2：按单一细胞类型预测 DNA 变异的影响",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "alphagenome-2",
+        "headline": "AlphaGenome 2：按单一细胞类型预测 DNA 变异的影响"
+      }
+    ]
+  },
+  "gemini-managed-agents-sandbox": {
+    "title": "Gemini Managed Agents 支持自带沙盒",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "gemini-managed-agents-sandbox",
+        "headline": "Gemini Managed Agents 支持自带沙盒"
+      }
+    ]
+  },
+  "artifacts-human-review": {
+    "title": "宝玉：软件从「给人用」变成「给 agent 用、人来验收」",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "artifacts-human-review",
+        "headline": "宝玉：软件从「给人用」变成「给 agent 用、人来验收」"
+      }
+    ]
+  },
+  "openai-cot-monitorability": {
+    "title": "OpenAI 研究：模型越强，越难通过思维链监控",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "openai-cot-monitorability",
+        "headline": "OpenAI 研究：模型越强，越难通过思维链监控"
+      }
+    ]
+  },
+  "meta-forum-agents": {
+    "title": "Meta 用 agent 开发 Forum：「做完」的标准接进执行循环",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "meta-forum-agents",
+        "headline": "Meta 用 agent 开发 Forum：「做完」的标准接进执行循环"
+      }
+    ]
+  },
+  "airbnb-skipper": {
+    "title": "Airbnb 开源嵌入式工作流引擎 Skipper",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "airbnb-skipper",
+        "headline": "Airbnb 开源嵌入式工作流引擎 Skipper"
+      }
+    ]
+  },
+  "cursor-projects-multiplayer": {
+    "title": "Cursor Projects 支持多人：队友的 agent 之间互相协调",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "cursor-projects-multiplayer",
+        "headline": "Cursor Projects 支持多人：队友的 agent 之间互相协调"
+      }
+    ]
+  },
+  "agent-tools-1112": {
+    "title": "agent 工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "agent-tools-1112",
+        "headline": "agent 工具速递"
+      }
+    ]
+  },
+  "aie-code-summit-1111": {
+    "title": "AI Engineer Code Summit 首日",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "aie-code-summit-1111",
+        "headline": "AI Engineer Code Summit 首日"
+      }
+    ]
+  },
+  "world-models-1112": {
+    "title": "世界模型与机器人",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "world-models-1112",
+        "headline": "世界模型与机器人"
+      }
+    ]
+  },
+  "papers-1112": {
+    "title": "论文与开源速递",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "papers-1112",
+        "headline": "论文与开源速递"
+      }
+    ]
+  },
+  "ng-embedded-engineers": {
+    "title": "吴恩达：把 AI 工程师派驻到业务团队",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "ng-embedded-engineers",
+        "headline": "吴恩达：把 AI 工程师派驻到业务团队"
+      }
+    ]
+  },
+  "industry-misc-1112": {
+    "title": "观点杂讯",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "industry-misc-1112",
+        "headline": "观点杂讯"
+      }
+    ]
+  },
+  "jupyter-misc-1112": {
+    "title": "工具与生态零讯",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "jupyter-misc-1112",
+        "headline": "工具与生态零讯"
+      }
+    ]
+  },
+  "ai-attribution-commons": {
+    "title": "署名问题两连：OKFN 赴巴黎 DPGA 年会，维基人反思自己的署名",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "ai-attribution-commons",
+        "headline": "署名问题两连：OKFN 赴巴黎 DPGA 年会，维基人反思自己的署名"
+      }
+    ]
+  },
+  "open-science-misc-1112": {
+    "title": "开放科学零讯",
+    "appearances": [
+      {
+        "date": "2026-11-12",
+        "anchor": "open-science-misc-1112",
+        "headline": "开放科学零讯"
       }
     ]
   }
