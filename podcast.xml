@@ -26,6 +26,35 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 11 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-11.html</link>
+      <description>昨天：Gemini 4 Carbon 正式开放；Claude 加了白板、表格和 Claude Data，第三方应用能整页跑在 Claude 里；Anthropic 启动 IPO 路演；订阅额度怎么算；Meta、LangChain、Airbnb 的验收做法；可解释性复验
+
+章节：
+0:01 开场与头条预告
+0:51 快讯
+6:06 重点一：谷歌的 Gemini 四 Carbon 正式开放
+8:36 重点二：Claude 想把别的软件都收进对话框
+10:41 重点三：Anthropic 正式启动上市路演
+12:01 重点四：二百美元的订阅，能用多少 Fable
+13:59 重点五：三家公司，怎么给 AI 的活做验收
+16:27 重点六：神经元能起名，不代表能看懂
+18:28 评论一：单价便宜，不等于账单便宜
+19:38 评论二：Claude 动手前要你批准，够不够
+20:34 评论三：哪种验收做法，你明天就能用
+21:32 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-11.html</description>
+      <itunes:summary>昨天：Gemini 4 Carbon 正式开放；Claude 加了白板、表格和 Claude Data，第三方应用能整页跑在 Claude 里；Anthropic 启动 IPO 路演；订阅额度怎么算；Meta、LangChain、Airbnb 的验收做法；可解释性复验</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-11.mp3" length="10495148" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 08:25:23 +0800</pubDate>
+      <itunes:duration>00:21:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 10 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-10.html</link>
       <description>昨天：Anthropic 发布 Fable 5.2；一千个智能体约三十小时形式化费马大定理；Mollick 称“几乎是 AGI”；Meta Muse Ember；OpenAI Control Room；智能体外壳与评测成本
@@ -542,7 +571,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Tue, 10 Nov 2026 07:31:27 +0800</lastBuildDate>
-    <pubDate>Tue, 10 Nov 2026 07:31:27 +0800</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:25:23 +0800</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2026 08:25:23 +0800</pubDate>
   </channel>
 </rss>

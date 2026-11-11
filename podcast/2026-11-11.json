@@ -1,0 +1,72 @@
+{
+ "title": "11 月 11 日 AI 播报",
+ "summary": "昨天：Gemini 4 Carbon 正式开放；Claude 加了白板、表格和 Claude Data，第三方应用能整页跑在 Claude 里；Anthropic 启动 IPO 路演；订阅额度怎么算；Meta、LangChain、Airbnb 的验收做法；可解释性复验",
+ "voice": "双人：女主持 + 男解读",
+ "voice_id": "longanlingxin+qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1311.864,
+ "size": 10495148,
+ "src": "https://audio.chunlin.ch/ep/2026-11-11.mp3",
+ "pubDate": "2026-11-11T08:25:23+08:00",
+ "chapters": [
+  {
+   "t": 0.6,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 50.588,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 366.221,
+   "title": "重点一：谷歌的 Gemini 四 Carbon 正式开放",
+   "group": "今日重点"
+  },
+  {
+   "t": 515.827,
+   "title": "重点二：Claude 想把别的软件都收进对话框",
+   "group": "今日重点"
+  },
+  {
+   "t": 640.597,
+   "title": "重点三：Anthropic 正式启动上市路演",
+   "group": "今日重点"
+  },
+  {
+   "t": 720.643,
+   "title": "重点四：二百美元的订阅，能用多少 Fable",
+   "group": "今日重点"
+  },
+  {
+   "t": 839.125,
+   "title": "重点五：三家公司，怎么给 AI 的活做验收",
+   "group": "今日重点"
+  },
+  {
+   "t": 986.523,
+   "title": "重点六：神经元能起名，不代表能看懂",
+   "group": "今日重点"
+  },
+  {
+   "t": 1107.937,
+   "title": "评论一：单价便宜，不等于账单便宜",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1177.955,
+   "title": "评论二：Claude 动手前要你批准，够不够",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1234.441,
+   "title": "评论三：哪种验收做法，你明天就能用",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1291.791,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}
