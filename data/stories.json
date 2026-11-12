@@ -1490,7 +1490,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 第 33 天：一堆小改进",
+    "title": "后续：T3 Code 破千贡献者；Theo 称开放权重模型不到流量的 0.5%",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1581,6 +1581,11 @@
         "date": "2026-11-04",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 第 33 天：一堆小改进"
+      },
+      {
+        "date": "2026-11-13",
+        "anchor": "t3-code-beta",
+        "headline": "后续：T3 Code 破千贡献者；Theo 称开放权重模型不到流量的 0.5%"
       }
     ]
   },
@@ -9920,7 +9925,7 @@
     ]
   },
   "nvidia-huang-investigation": {
-    "title": "后续：纽约时报称美情报部门认定涉事女高管为中国间谍",
+    "title": "后续：黄仁勋辞去英伟达 CEO，CFO Colette Kress 临时接任，英伟达首次设董事长",
     "appearances": [
       {
         "date": "2026-11-09",
@@ -9931,6 +9936,11 @@
         "date": "2026-11-10",
         "anchor": "nvidia-huang-investigation",
         "headline": "后续：纽约时报称美情报部门认定涉事女高管为中国间谍"
+      },
+      {
+        "date": "2026-11-13",
+        "anchor": "nvidia-huang-investigation",
+        "headline": "后续：黄仁勋辞去英伟达 CEO，CFO Colette Kress 临时接任，英伟达首次设董事长"
       }
     ]
   },
@@ -10370,12 +10380,17 @@
     ]
   },
   "gemini-robotics-25": {
-    "title": "Gemini Robotics 2.5：数百种日常技能，Argon 帮着加速训练",
+    "title": "Gemini Robotics 2.5：会打蝴蝶结的机器人模型",
     "appearances": [
       {
         "date": "2026-11-11",
         "anchor": "gemini-robotics-25",
         "headline": "Gemini Robotics 2.5：数百种日常技能，Argon 帮着加速训练"
+      },
+      {
+        "date": "2026-11-13",
+        "anchor": "gemini-robotics-25",
+        "headline": "Gemini Robotics 2.5：会打蝴蝶结的机器人模型"
       }
     ]
   },
@@ -10400,12 +10415,17 @@
     ]
   },
   "anthropic-ipo-roadshow": {
-    "title": "后续：Anthropic 正式启动 IPO 路演：8.25 亿股，每股 70–78 美元，代码 ANT",
+    "title": "后续：Anthropic IPO 定价日定在美东 11 月 18 日，第三季度营收 170 亿美元",
     "appearances": [
       {
         "date": "2026-11-11",
         "anchor": "anthropic-ipo-roadshow",
         "headline": "后续：Anthropic 正式启动 IPO 路演：8.25 亿股，每股 70–78 美元，代码 ANT"
+      },
+      {
+        "date": "2026-11-13",
+        "anchor": "anthropic-ipo-roadshow",
+        "headline": "后续：Anthropic IPO 定价日定在美东 11 月 18 日，第三季度营收 170 亿美元"
       }
     ]
   },
@@ -10425,7 +10445,7 @@
     ]
   },
   "fable-52-showcase": {
-    "title": "后续：Fable 5.2 一夜做出一堆「网页 3A」，也有人泼冷水",
+    "title": "后续：歸藏的 Fable 5.2 网页游戏：不是一次生成，token 数也更正了",
     "appearances": [
       {
         "date": "2026-11-11",
@@ -10436,6 +10456,11 @@
         "date": "2026-11-12",
         "anchor": "fable-52-showcase",
         "headline": "后续：Fable 5.2 一夜做出一堆「网页 3A」，也有人泼冷水"
+      },
+      {
+        "date": "2026-11-13",
+        "anchor": "fable-52-showcase",
+        "headline": "后续：歸藏的 Fable 5.2 网页游戏：不是一次生成，token 数也更正了"
       }
     ]
   },
@@ -10640,12 +10665,17 @@
     ]
   },
   "gemini-decisions-api": {
-    "title": "Gemini Decisions API 与 Gemini Decision 1：一次给上千个问题打分，输出 token 不收钱",
+    "title": "后续：Simon Willison 对比三家决策模型；AWS 官方本地模拟器",
     "appearances": [
       {
         "date": "2026-11-12",
         "anchor": "gemini-decisions-api",
         "headline": "Gemini Decisions API 与 Gemini Decision 1：一次给上千个问题打分，输出 token 不收钱"
+      },
+      {
+        "date": "2026-11-13",
+        "anchor": "gemini-decisions-api",
+        "headline": "后续：Simon Willison 对比三家决策模型；AWS 官方本地模拟器"
       }
     ]
   },
@@ -10816,6 +10846,226 @@
         "date": "2026-11-12",
         "anchor": "open-science-misc-1112",
         "headline": "开放科学零讯"
+      }
+    ]
+  },
+  "nvidia-reactions-1113": {
+    "title": "业界反应：惋惜、阴谋论与「开源 AI 失去支持者」",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "nvidia-reactions-1113",
+        "headline": "业界反应：惋惜、阴谋论与「开源 AI 失去支持者」"
+      }
+    ]
+  },
+  "gemini-4-hydrogen": {
+    "title": "Gemini 4 Hydrogen：Gemini 4 的快速主力档，免费层可用",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "gemini-4-hydrogen",
+        "headline": "Gemini 4 Hydrogen：Gemini 4 的快速主力档，免费层可用"
+      }
+    ]
+  },
+  "granite-llmon": {
+    "title": "IBM Granite LLMON：给模型用的标记语言，专治间接提示注入",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "granite-llmon",
+        "headline": "IBM Granite LLMON：给模型用的标记语言，专治间接提示注入"
+      }
+    ]
+  },
+  "open-models-1113": {
+    "title": "开放权重与数据速递",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "open-models-1113",
+        "headline": "开放权重与数据速递"
+      }
+    ]
+  },
+  "vllm-1113": {
+    "title": "vLLM 三连：Vera Rubin 上的吞吐数字",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "vllm-1113",
+        "headline": "vLLM 三连：Vera Rubin 上的吞吐数字"
+      }
+    ]
+  },
+  "claude-meetings": {
+    "title": "Claude Meetings：把 Claude 拉进 Google Meet",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "claude-meetings",
+        "headline": "Claude Meetings：把 Claude 拉进 Google Meet"
+      }
+    ]
+  },
+  "claude-managed-agents-selfhosted": {
+    "title": "自托管 Claude Managed Agents 私测",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "claude-managed-agents-selfhosted",
+        "headline": "自托管 Claude Managed Agents 私测"
+      }
+    ]
+  },
+  "interior-ai-3d": {
+    "title": "levelsio：Interior AI 上线「视频转 3D」改装修",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "interior-ai-3d",
+        "headline": "levelsio：Interior AI 上线「视频转 3D」改装修"
+      }
+    ]
+  },
+  "agent-tools-1113": {
+    "title": "Agent 工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "agent-tools-1113",
+        "headline": "Agent 工具速递"
+      }
+    ]
+  },
+  "blackwell-weight-forensics": {
+    "title": "will depue：开源权重里藏着训练用 GPU 的「指纹」",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "blackwell-weight-forensics",
+        "headline": "will depue：开源权重里藏着训练用 GPU 的「指纹」"
+      }
+    ]
+  },
+  "papers-1113": {
+    "title": "论文速递：量化 agent、从教科书自学、证明语料",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "papers-1113",
+        "headline": "论文速递：量化 agent、从教科书自学、证明语料"
+      }
+    ]
+  },
+  "edge-robotics-1113": {
+    "title": "端侧与机器人：2.5GB 内存跑 35B MoE；可微世界模型训人形机器人",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "edge-robotics-1113",
+        "headline": "端侧与机器人：2.5GB 内存跑 35B MoE；可微世界模型训人形机器人"
+      }
+    ]
+  },
+  "wharton-primer": {
+    "title": "Primer：沃顿开源「老师口述、AI 生成教学模拟」系统",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "wharton-primer",
+        "headline": "Primer：沃顿开源「老师口述、AI 生成教学模拟」系统"
+      }
+    ]
+  },
+  "china-ai-platforms-1113": {
+    "title": "百度「词元所」与豆包接入三方模型",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "china-ai-platforms-1113",
+        "headline": "百度「词元所」与豆包接入三方模型"
+      }
+    ]
+  },
+  "opinions-1113": {
+    "title": "观点：工程师该转向「人的问题」；手工技艺会被工业化吗",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "opinions-1113",
+        "headline": "观点：工程师该转向「人的问题」；手工技艺会被工业化吗"
+      }
+    ]
+  },
+  "industry-misc-1113": {
+    "title": "其他动态",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "industry-misc-1113",
+        "headline": "其他动态"
+      }
+    ]
+  },
+  "jupyter-mini-summit-2026": {
+    "title": "Jupyter Mini Summit 2026 回顾：AI 让安全报告量翻两番",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "jupyter-mini-summit-2026",
+        "headline": "Jupyter Mini Summit 2026 回顾：AI 让安全报告量翻两番"
+      }
+    ]
+  },
+  "jupyterhub-data-residency": {
+    "title": "JupyterHub 给加拿大客户部署：数据驻留清单",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "jupyterhub-data-residency",
+        "headline": "JupyterHub 给加拿大客户部署：数据驻留清单"
+      }
+    ]
+  },
+  "jupyter-misc-1113": {
+    "title": "Jupyter 生态零碎",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "jupyter-misc-1113",
+        "headline": "Jupyter 生态零碎"
+      }
+    ]
+  },
+  "okfn-newsletter-1113": {
+    "title": "OKFN 十/十一月通讯：The Sharing Shift 上线，CKAN 二十年",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "okfn-newsletter-1113",
+        "headline": "OKFN 十/十一月通讯：The Sharing Shift 上线，CKAN 二十年"
+      }
+    ]
+  },
+  "pensoft-plant-twins": {
+    "title": "Pensoft：用普通相机给植物做 3D「数字孪生」",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "pensoft-plant-twins",
+        "headline": "Pensoft：用普通相机给植物做 3D「数字孪生」"
+      }
+    ]
+  },
+  "wikimedia-diff-1113": {
+    "title": "维基媒体三则：小语种教育、Wikimania 拼布、社区安全工具包",
+    "appearances": [
+      {
+        "date": "2026-11-13",
+        "anchor": "wikimedia-diff-1113",
+        "headline": "维基媒体三则：小语种教育、Wikimania 拼布、社区安全工具包"
       }
     ]
   }
