@@ -26,6 +26,36 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 14 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-14.html</link>
+      <description>昨天：有人独立复现了 GPU 指纹方法，结论对得上，但只能说明初始化用的是哪类卡；英伟达员工联名要求黄仁勋复职；Deepnote 测出最贵的模型不是最好的 Slack 同事；LangChain 估值三十亿美元，llama.cpp 发布一点零；ChatGPT 推出给智能体付款的钱包；印度语维基读者三年少了一半多
+
+章节：
+0:01 开场与头条预告
+0:57 快讯
+6:02 重点一：GPU 指纹，复现与反驳
+8:44 重点二：英伟达的余波
+10:40 重点三：最贵的模型，不是最好的同事
+12:50 重点四：LangChain 的估值，llama.cpp 的承诺
+14:43 重点五：给智能体一个钱包
+16:23 重点六：AI 工程师大会收官
+18:22 评论一：方法站住了，结论还没有
+19:35 评论二：会闭嘴，也是一种能力
+20:48 评论三：智能体花钱，谁来担责
+21:58 评论四：AI 答案，截走了谁的读者
+23:27 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-14.html</description>
+      <itunes:summary>昨天：有人独立复现了 GPU 指纹方法，结论对得上，但只能说明初始化用的是哪类卡；英伟达员工联名要求黄仁勋复职；Deepnote 测出最贵的模型不是最好的 Slack 同事；LangChain 估值三十亿美元，llama.cpp 发布一点零；ChatGPT 推出给智能体付款的钱包；印度语维基读者三年少了一半多</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-14.mp3" length="11441324" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 07:07:07 +0800</pubDate>
+      <itunes:duration>00:23:50</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 13 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-13.html</link>
       <description>昨天：黄仁勋辞去英伟达首席执行官，财务负责人科莱特·克雷斯临时接任；有人从开源权重里「验出」训练用的 GPU；Anthropic 定价日定在下周三，第三季度营收一百七十亿美元；谷歌发布主力快档 Gemini 4 Hydrogen；Claude 能进谷歌会议开会
@@ -628,7 +658,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Fri, 13 Nov 2026 12:34:21 +0800</lastBuildDate>
-    <pubDate>Fri, 13 Nov 2026 12:34:21 +0800</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 07:07:07 +0800</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 07:07:07 +0800</pubDate>
   </channel>
 </rss>
