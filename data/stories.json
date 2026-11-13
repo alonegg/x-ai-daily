@@ -11068,5 +11068,295 @@
         "headline": "维基媒体三则：小语种教育、Wikimania 拼布、社区安全工具包"
       }
     ]
+  },
+  "gpu-forensics-followup": {
+    "title": "后续：李博杰复现 GPU 指纹，扫描 265 个开放模型；宝玉整理反驳：报告承认的限制推文里都没了",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "gpu-forensics-followup",
+        "headline": "后续：李博杰复现 GPU 指纹，扫描 265 个开放模型；宝玉整理反驳：报告承认的限制推文里都没了"
+      }
+    ]
+  },
+  "nvidia-aftermath-1114": {
+    "title": "后续：数百名员工联名要求黄仁勋复职；黄仁勋聘请宝维斯律所",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "nvidia-aftermath-1114",
+        "headline": "后续：数百名员工联名要求黄仁勋复职；黄仁勋聘请宝维斯律所"
+      }
+    ]
+  },
+  "llamacpp-v1": {
+    "title": "llama.cpp 与 ggml 发布 1.0.0 稳定版",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "llamacpp-v1",
+        "headline": "llama.cpp 与 ggml 发布 1.0.0 稳定版"
+      }
+    ]
+  },
+  "deepseek-api-suite": {
+    "title": "DeepSeek API 全家桶：搜索、文件、OCR、语音全部开放",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "deepseek-api-suite",
+        "headline": "DeepSeek API 全家桶：搜索、文件、OCR、语音全部开放"
+      }
+    ]
+  },
+  "hydrogen-reactions": {
+    "title": "后续：Gemini 4 Hydrogen 口碑两极：价格让人困惑、速度被吐槽，也有人说能替代 Opus",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "hydrogen-reactions",
+        "headline": "后续：Gemini 4 Hydrogen 口碑两极：价格让人困惑、速度被吐槽，也有人说能替代 Opus"
+      }
+    ]
+  },
+  "weathernext-datasets": {
+    "title": "DeepMind 开放 WeatherNext 3 底层数据集，并与英国气象局合作",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "weathernext-datasets",
+        "headline": "DeepMind 开放 WeatherNext 3 底层数据集，并与英国气象局合作"
+      }
+    ]
+  },
+  "decision-models-1114": {
+    "title": "决策模型继续升温：Perplexity 开源 Decider v1.3，SO-Arena 测「可靠性」",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "decision-models-1114",
+        "headline": "决策模型继续升温：Perplexity 开源 Decider v1.3，SO-Arena 测「可靠性」"
+      }
+    ]
+  },
+  "voice-edge-1114": {
+    "title": "语音与端侧：Liquid AI 开源 LiquidCodec，Bland 发布 Tofu-1",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "voice-edge-1114",
+        "headline": "语音与端侧：Liquid AI 开源 LiquidCodec，Bland 发布 Tofu-1"
+      }
+    ]
+  },
+  "deepnote-agent-initiative": {
+    "title": "Deepnote「Agent 主动性基准」：12 个模型进公司 Slack，最贵的没拿第一",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "deepnote-agent-initiative",
+        "headline": "Deepnote「Agent 主动性基准」：12 个模型进公司 Slack，最贵的没拿第一"
+      }
+    ]
+  },
+  "chatgpt-wallet": {
+    "title": "ChatGPT Wallet：agent 付款不碰卡号，每笔都要刷脸确认",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "chatgpt-wallet",
+        "headline": "ChatGPT Wallet：agent 付款不碰卡号，每笔都要刷脸确认"
+      }
+    ]
+  },
+  "anthropic-updates-1114": {
+    "title": "Anthropic 一组更新：安全评估十条建议、Claude Duet 放开候补、Stop hook 要用退出码 2",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "anthropic-updates-1114",
+        "headline": "Anthropic 一组更新：安全评估十条建议、Claude Duet 放开候补、Stop hook 要用退出码 2"
+      }
+    ]
+  },
+  "claude-meetings-feedback": {
+    "title": "后续：Claude Meetings 把客户当「外部访客」，开会全程划水",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "claude-meetings-feedback",
+        "headline": "后续：Claude Meetings 把客户当「外部访客」，开会全程划水"
+      }
+    ]
+  },
+  "aie-code-summit-wrap": {
+    "title": "AIE Code Summit 收官：工厂、决策模型和「梦想更大」",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "aie-code-summit-wrap",
+        "headline": "AIE Code Summit 收官：工厂、决策模型和「梦想更大」"
+      }
+    ]
+  },
+  "modern-web-guidance": {
+    "title": "Chrome 开源 Modern Web Guidance 1.0：让编码 agent 别再手搓旧写法",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "modern-web-guidance",
+        "headline": "Chrome 开源 Modern Web Guidance 1.0：让编码 agent 别再手搓旧写法"
+      }
+    ]
+  },
+  "dev-tools-1114": {
+    "title": "开发工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "dev-tools-1114",
+        "headline": "开发工具速递"
+      }
+    ]
+  },
+  "microsoft-outage-cause": {
+    "title": "微软 365 大故障原因：网络扩容升级埋下的问题",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "microsoft-outage-cause",
+        "headline": "微软 365 大故障原因：网络扩容升级埋下的问题"
+      }
+    ]
+  },
+  "xybench": {
+    "title": "XYBench：用户问错了问题，模型能不能帮他找到真问题",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "xybench",
+        "headline": "XYBench：用户问错了问题，模型能不能帮他找到真问题"
+      }
+    ]
+  },
+  "papers-1114": {
+    "title": "论文速递：物理感知视频、20 倍提速的图像生成、全双工世界模型",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "papers-1114",
+        "headline": "论文速递：物理感知视频、20 倍提速的图像生成、全双工世界模型"
+      }
+    ]
+  },
+  "local-inference-1114": {
+    "title": "端侧与本地：旧电视盒子跑大模型，两台 DGX Station 跑 GLM-5.3",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "local-inference-1114",
+        "headline": "端侧与本地：旧电视盒子跑大模型，两台 DGX Station 跑 GLM-5.3"
+      }
+    ]
+  },
+  "langchain-series-c": {
+    "title": "LangChain 以 30 亿美元估值融资 3 亿美元，推出新版 LangSmith",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "langchain-series-c",
+        "headline": "LangChain 以 30 亿美元估值融资 3 亿美元，推出新版 LangSmith"
+      }
+    ]
+  },
+  "opinions-1114": {
+    "title": "观点：AI 时代读博的价值，与「拿着锤子找钉子」",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "opinions-1114",
+        "headline": "观点：AI 时代读博的价值，与「拿着锤子找钉子」"
+      }
+    ]
+  },
+  "industry-misc-1114": {
+    "title": "其他动态",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "industry-misc-1114",
+        "headline": "其他动态"
+      }
+    ]
+  },
+  "marimo-ieee-vis": {
+    "title": "marimo 在 IEEE VIS：anywidget 自定义组件、marimo-studio 和 agent 式分析研究",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "marimo-ieee-vis",
+        "headline": "marimo 在 IEEE VIS：anywidget 自定义组件、marimo-studio 和 agent 式分析研究"
+      }
+    ]
+  },
+  "pyopensci-ai-contributions": {
+    "title": "pyOpenSci：维护者谈 AI 生成的贡献",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "pyopensci-ai-contributions",
+        "headline": "pyOpenSci：维护者谈 AI 生成的贡献"
+      }
+    ]
+  },
+  "jupyter-misc-1114": {
+    "title": "Jupyter 生态零碎",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "jupyter-misc-1114",
+        "headline": "Jupyter 生态零碎"
+      }
+    ]
+  },
+  "wikimedia-india-readers": {
+    "title": "印度语维基十年：读者在三年里流失过半",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "wikimedia-india-readers",
+        "headline": "印度语维基十年：读者在三年里流失过半"
+      }
+    ]
+  },
+  "data-package-v2": {
+    "title": "Frictionless：R 与 Python 库都支持 Data Package v2",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "data-package-v2",
+        "headline": "Frictionless：R 与 Python 库都支持 Data Package v2"
+      }
+    ]
+  },
+  "wikimedia-diff-1114": {
+    "title": "维基媒体四则：语言通讯、国际机构合作、巴斯克文献、约鲁巴节庆",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "wikimedia-diff-1114",
+        "headline": "维基媒体四则：语言通讯、国际机构合作、巴斯克文献、约鲁巴节庆"
+      }
+    ]
+  },
+  "open-science-misc-1114": {
+    "title": "开放科学零碎：本地模型建知识图谱榜单、开放获取藻类图鉴",
+    "appearances": [
+      {
+        "date": "2026-11-14",
+        "anchor": "open-science-misc-1114",
+        "headline": "开放科学零碎：本地模型建知识图谱榜单、开放获取藻类图鉴"
+      }
+    ]
   }
 }
