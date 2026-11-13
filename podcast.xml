@@ -26,6 +26,35 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 13 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-13.html</link>
+      <description>昨天：黄仁勋辞去英伟达首席执行官，财务负责人科莱特·克雷斯临时接任；有人从开源权重里「验出」训练用的 GPU；Anthropic 定价日定在下周三，第三季度营收一百七十亿美元；谷歌发布主力快档 Gemini 4 Hydrogen；Claude 能进谷歌会议开会
+
+章节：
+0:01 开场与头条预告
+0:57 快讯
+5:43 重点一：黄仁勋辞职
+7:55 重点二：谷歌发布主力快档 Hydrogen
+10:22 重点三：开源权重里的 GPU 指纹
+12:42 重点四：Anthropic 招股书的三本账
+14:47 重点五：Claude 进会议室，也进机房
+16:48 评论一：该不该为私生活换帅
+18:32 评论二：开源权重会不会变成取证现场
+19:50 评论三：便宜模型干活，贵模型规划
+21:09 评论四：AI 进会议室，谁同意被转录
+22:25 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-13.html</description>
+      <itunes:summary>昨天：黄仁勋辞去英伟达首席执行官，财务负责人科莱特·克雷斯临时接任；有人从开源权重里「验出」训练用的 GPU；Anthropic 定价日定在下周三，第三季度营收一百七十亿美元；谷歌发布主力快档 Gemini 4 Hydrogen；Claude 能进谷歌会议开会</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-13.mp3" length="10942700" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 12:34:21 +0800</pubDate>
+      <itunes:duration>00:22:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 12 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-12.html</link>
       <description>昨天：Google 发布只打分不生成的 Gemini Decision 1；AlphaProof Code 把 Signal 协议验证到生产代码；Gemini 4 Carbon 的快慢与成本之争；OpenAI 发现思维链越来越难监控；Shopify 和 Meta 让 agent 写代码、人守验收；AI 时代的署名
@@ -599,7 +628,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Thu, 12 Nov 2026 06:56:10 +0800</lastBuildDate>
-    <pubDate>Thu, 12 Nov 2026 06:56:10 +0800</pubDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:34:21 +0800</lastBuildDate>
+    <pubDate>Fri, 13 Nov 2026 12:34:21 +0800</pubDate>
   </channel>
 </rss>
