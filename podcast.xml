@@ -26,6 +26,36 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 15 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-15.html</link>
+      <description>这两天：Cursor 公布安全事件复盘，一把交给供应商的钥匙，一路通到恶意扩展；Anthropic 拆解「始终在线」的智能体；黄仁勋离开后，开放模型谁来撑腰；Thinking Machines 用 4 比特训完一个模型；Shopify 让智能体在生产环境攻击自己；Anthropic 路演里的一张算力效率图
+
+章节：
+0:01 开场与头条预告
+1:00 快讯
+6:23 重点一：Cursor 事件，钥匙是怎么一路传下去的
+8:35 重点二：始终在线的智能体，其实大部分时间在睡觉
+10:50 重点三：黄仁勋走后，开放模型谁来撑腰
+12:46 重点四：四比特训完一个模型
+14:26 重点五：让智能体先攻击自己
+16:06 重点六：路演里的一张算力效率图
+17:24 评论一：旧记录，是新的高价值数据
+18:17 评论二：先安静，再赢得注意力
+19:06 评论三：生态不能只靠一个人
+20:08 评论四：智能体涌进档案馆
+21:16 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-15.html</description>
+      <itunes:summary>这两天：Cursor 公布安全事件复盘，一把交给供应商的钥匙，一路通到恶意扩展；Anthropic 拆解「始终在线」的智能体；黄仁勋离开后，开放模型谁来撑腰；Thinking Machines 用 4 比特训完一个模型；Shopify 让智能体在生产环境攻击自己；Anthropic 路演里的一张算力效率图</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-15.mp3" length="10369196" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 07:15:24 +0800</pubDate>
+      <itunes:duration>00:21:36</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 14 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-14.html</link>
       <description>昨天：有人独立复现了 GPU 指纹方法，结论对得上，但只能说明初始化用的是哪类卡；据爆料，数百名英伟达员工联名要求黄仁勋复职；Deepnote 测出最贵的模型不是最好的 Slack 同事；LangChain 估值三十亿美元，llama.cpp 发布一点零；ChatGPT 推出给智能体付款的钱包；印度语维基读者三年少了一半多
@@ -658,7 +688,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Sat, 14 Nov 2026 07:07:07 +0800</lastBuildDate>
-    <pubDate>Sat, 14 Nov 2026 07:07:07 +0800</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2026 07:15:24 +0800</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2026 07:15:24 +0800</pubDate>
   </channel>
 </rss>
