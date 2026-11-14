@@ -9925,7 +9925,7 @@
     ]
   },
   "nvidia-huang-investigation": {
-    "title": "后续：黄仁勋辞去英伟达 CEO，CFO Colette Kress 临时接任，英伟达首次设董事长",
+    "title": "后续：「Stand with Jensen」联名信刷屏；Interconnects：开放模型生态失去了保护者",
     "appearances": [
       {
         "date": "2026-11-09",
@@ -9941,6 +9941,11 @@
         "date": "2026-11-13",
         "anchor": "nvidia-huang-investigation",
         "headline": "后续：黄仁勋辞去英伟达 CEO，CFO Colette Kress 临时接任，英伟达首次设董事长"
+      },
+      {
+        "date": "2026-11-15",
+        "anchor": "nvidia-huang-investigation",
+        "headline": "后续：「Stand with Jensen」联名信刷屏；Interconnects：开放模型生态失去了保护者"
       }
     ]
   },
@@ -10415,7 +10420,7 @@
     ]
   },
   "anthropic-ipo-roadshow": {
-    "title": "后续：Anthropic IPO 定价日定在美东 11 月 18 日，第三季度营收 170 亿美元",
+    "title": "后续：Anthropic 路演里的一张图：预训练算力效率在对数坐标上持续上升",
     "appearances": [
       {
         "date": "2026-11-11",
@@ -10426,6 +10431,11 @@
         "date": "2026-11-13",
         "anchor": "anthropic-ipo-roadshow",
         "headline": "后续：Anthropic IPO 定价日定在美东 11 月 18 日，第三季度营收 170 亿美元"
+      },
+      {
+        "date": "2026-11-15",
+        "anchor": "anthropic-ipo-roadshow",
+        "headline": "后续：Anthropic 路演里的一张图：预训练算力效率在对数坐标上持续上升"
       }
     ]
   },
@@ -11150,12 +11160,17 @@
     ]
   },
   "deepnote-agent-initiative": {
-    "title": "Deepnote「Agent 主动性基准」：12 个模型进公司 Slack，最贵的没拿第一",
+    "title": "后续：Deepnote 基准再传播：一家 70 人公司一个月的 Slack 工作，贵配置 4684 美元、便宜配置 281 美元",
     "appearances": [
       {
         "date": "2026-11-14",
         "anchor": "deepnote-agent-initiative",
         "headline": "Deepnote「Agent 主动性基准」：12 个模型进公司 Slack，最贵的没拿第一"
+      },
+      {
+        "date": "2026-11-15",
+        "anchor": "deepnote-agent-initiative",
+        "headline": "后续：Deepnote 基准再传播：一家 70 人公司一个月的 Slack 工作，贵配置 4684 美元、便宜配置 281 美元"
       }
     ]
   },
@@ -11170,12 +11185,17 @@
     ]
   },
   "anthropic-updates-1114": {
-    "title": "Anthropic 一组更新：安全评估十条建议、Claude Duet 放开候补、Stop hook 要用退出码 2",
+    "title": "后续：Anthropic 安全评估的细节：同一模型，API 与 Claude 应用的多轮安全分可差 34 个百分点",
     "appearances": [
       {
         "date": "2026-11-14",
         "anchor": "anthropic-updates-1114",
         "headline": "Anthropic 一组更新：安全评估十条建议、Claude Duet 放开候补、Stop hook 要用退出码 2"
+      },
+      {
+        "date": "2026-11-15",
+        "anchor": "anthropic-updates-1114",
+        "headline": "后续：Anthropic 安全评估的细节：同一模型，API 与 Claude 应用的多轮安全分可差 34 个百分点"
       }
     ]
   },
@@ -11356,6 +11376,196 @@
         "date": "2026-11-14",
         "anchor": "open-science-misc-1114",
         "headline": "开放科学零碎：本地模型建知识图谱榜单、开放获取藻类图鉴"
+      }
+    ]
+  },
+  "cursor-security-incident": {
+    "title": "Cursor 安全事件完整复盘：供应商钥匙 → 历史轨迹里的明文凭证 → 恶意 Claude Code 扩展",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "cursor-security-incident",
+        "headline": "Cursor 安全事件完整复盘：供应商钥匙 → 历史轨迹里的明文凭证 → 恶意 Claude Code 扩展"
+      }
+    ]
+  },
+  "shopify-cyber-chaos-monkey": {
+    "title": "Shopify Cyber Chaos Monkey：带内部知识的 agent 在生产环境做受控攻击，另派一个 agent 当裁判",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "shopify-cyber-chaos-monkey",
+        "headline": "Shopify Cyber Chaos Monkey：带内部知识的 agent 在生产环境做受控攻击，另派一个 agent 当裁判"
+      }
+    ]
+  },
+  "semgrep-agent-security": {
+    "title": "Semgrep CEO 在斯坦福：漏洞修不完，就让利用漏洞变得更贵",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "semgrep-agent-security",
+        "headline": "Semgrep CEO 在斯坦福：漏洞修不完，就让利用漏洞变得更贵"
+      }
+    ]
+  },
+  "claude-always-on-agents": {
+    "title": "Anthropic《Building always-on agents》：始终在线 agent 的五个部件",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "claude-always-on-agents",
+        "headline": "Anthropic《Building always-on agents》：始终在线 agent 的五个部件"
+      }
+    ]
+  },
+  "claude-code-projects-themes": {
+    "title": "Claude Code 的 Projects 大更新与自定义主题；T3 Code 同时上线「让 agent 改界面」",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "claude-code-projects-themes",
+        "headline": "Claude Code 的 Projects 大更新与自定义主题；T3 Code 同时上线「让 agent 改界面」"
+      }
+    ]
+  },
+  "sierra-poppy": {
+    "title": "Sierra 发布个人智能体协议 Poppy 1.0：Shopify 全店铺默认接入，Meta Muse 访问网站先找它",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "sierra-poppy",
+        "headline": "Sierra 发布个人智能体协议 Poppy 1.0：Shopify 全店铺默认接入，Meta Muse 访问网站先找它"
+      }
+    ]
+  },
+  "goal-engineering": {
+    "title": "Goal Engineering：给 agent 定目标，要围绕「人最容易给反馈的地方」",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "goal-engineering",
+        "headline": "Goal Engineering：给 agent 定目标，要围绕「人最容易给反馈的地方」"
+      }
+    ]
+  },
+  "dev-tools-1115": {
+    "title": "开发工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "dev-tools-1115",
+        "headline": "开发工具速递"
+      }
+    ]
+  },
+  "tml-4bit-training": {
+    "title": "Thinking Machines：端到端 4 比特训练，Inkling 2 Small 预训练只用 68 小时",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "tml-4bit-training",
+        "headline": "Thinking Machines：端到端 4 比特训练，Inkling 2 Small 预训练只用 68 小时"
+      }
+    ]
+  },
+  "infrathon": {
+    "title": "Infrathon：给 agent 24 小时优化 AI 基础设施，排名会随时间变化",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "infrathon",
+        "headline": "Infrathon：给 agent 24 小时优化 AI 基础设施，排名会随时间变化"
+      }
+    ]
+  },
+  "nvidia-cuphoton-eht": {
+    "title": "英伟达 cuPhoton：GPU 做黑洞干涉测量，10TB 数据 70 秒处理完",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "nvidia-cuphoton-eht",
+        "headline": "英伟达 cuPhoton：GPU 做黑洞干涉测量，10TB 数据 70 秒处理完"
+      }
+    ]
+  },
+  "papers-1115": {
+    "title": "论文速递：AI 布线电路板、具身多 agent、流式视频生成",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "papers-1115",
+        "headline": "论文速递：AI 布线电路板、具身多 agent、流式视频生成"
+      }
+    ]
+  },
+  "cohere-aisle-cubic": {
+    "title": "Cohere 完成收购 AISLE，cubic 代码审查团队加入",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "cohere-aisle-cubic",
+        "headline": "Cohere 完成收购 AISLE，cubic 代码审查团队加入"
+      }
+    ]
+  },
+  "opinions-1115": {
+    "title": "观点与讨论",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "opinions-1115",
+        "headline": "观点与讨论"
+      }
+    ]
+  },
+  "industry-misc-1115": {
+    "title": "其他动态",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "industry-misc-1115",
+        "headline": "其他动态"
+      }
+    ]
+  },
+  "jupyter-misc-1115": {
+    "title": "Jupyter 论坛：项目变大后 notebook 怎么保持可读；「我这能跑你那不行」先查什么",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "jupyter-misc-1115",
+        "headline": "Jupyter 论坛：项目变大后 notebook 怎么保持可读；「我这能跑你那不行」先查什么"
+      }
+    ]
+  },
+  "agent-traffic-commons": {
+    "title": "agent 群做研究，流量压到互联网档案馆",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "agent-traffic-commons",
+        "headline": "agent 群做研究，流量压到互联网档案馆"
+      }
+    ]
+  },
+  "wikimedia-diff-1115": {
+    "title": "维基媒体两则：加纳庆祝维基数据 14 岁，印度理工德里分校的驻馆维基人",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "wikimedia-diff-1115",
+        "headline": "维基媒体两则：加纳庆祝维基数据 14 岁，印度理工德里分校的驻馆维基人"
+      }
+    ]
+  },
+  "open-science-misc-1115": {
+    "title": "开放科学零碎：agent 复现 NeurIPS 论文挑战、Benchmark Almanac、表格数据基准",
+    "appearances": [
+      {
+        "date": "2026-11-15",
+        "anchor": "open-science-misc-1115",
+        "headline": "开放科学零碎：agent 复现 NeurIPS 论文挑战、Benchmark Almanac、表格数据基准"
       }
     ]
   }
