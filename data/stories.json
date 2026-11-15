@@ -11568,5 +11568,215 @@
         "headline": "开放科学零碎：agent 复现 NeurIPS 论文挑战、Benchmark Almanac、表格数据基准"
       }
     ]
+  },
+  "nvidia-huang-return": {
+    "title": "后续：《金融时报》称黄仁勋考虑回归英伟达 CEO；盟友组「作战室」游说董事会",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "nvidia-huang-return",
+        "headline": "后续：《金融时报》称黄仁勋考虑回归英伟达 CEO；盟友组「作战室」游说董事会"
+      }
+    ]
+  },
+  "lauren-tan-slop": {
+    "title": "Lauren Tan《All Code Is Slop (Except Mine)》：Grok Bot 团队一个月合并 1.1 万个 PR，撤回率约 0.5%",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "lauren-tan-slop",
+        "headline": "Lauren Tan《All Code Is Slop (Except Mine)》：Grok Bot 团队一个月合并 1.1 万个 PR，撤回率约 0.5%"
+      }
+    ]
+  },
+  "claude-code-mode": {
+    "title": "Claude Code 实验功能 Code Mode：先写一段 JavaScript，一次调多个工具",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "claude-code-mode",
+        "headline": "Claude Code 实验功能 Code Mode：先写一段 JavaScript，一次调多个工具"
+      }
+    ]
+  },
+  "personal-agent-vm": {
+    "title": "个人 agent 架构之争：一人一台虚拟机，还是一个服务扛多个用户",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "personal-agent-vm",
+        "headline": "个人 agent 架构之争：一人一台虚拟机，还是一个服务扛多个用户"
+      }
+    ]
+  },
+  "agent-design-1116": {
+    "title": "agent 设计三则：先写评测、按工作类别分 agent、团队共用一个 agent",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "agent-design-1116",
+        "headline": "agent 设计三则：先写评测、按工作类别分 agent、团队共用一个 agent"
+      }
+    ]
+  },
+  "dev-tools-1116": {
+    "title": "开发工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "dev-tools-1116",
+        "headline": "开发工具速递"
+      }
+    ]
+  },
+  "openai-lattice-sm": {
+    "title": "OpenAI 开科学博客；首篇：GPT-6 Astra 帮物理学家写出标准模型格点定义的证明",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "openai-lattice-sm",
+        "headline": "OpenAI 开科学博客；首篇：GPT-6 Astra 帮物理学家写出标准模型格点定义的证明"
+      }
+    ]
+  },
+  "satbench": {
+    "title": "SatBench：173 个基准里 63% 已经被「打穿」，而且越来越快",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "satbench",
+        "headline": "SatBench：173 个基准里 63% 已经被「打穿」，而且越来越快"
+      }
+    ]
+  },
+  "godel-notes": {
+    "title": "据转帖：Claude 从哥德尔速记笔记里找出他声称早已完成的证明",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "godel-notes",
+        "headline": "据转帖：Claude 从哥德尔速记笔记里找出他声称早已完成的证明"
+      }
+    ]
+  },
+  "local-quant-1116": {
+    "title": "llama.cpp 1.0；华为 MACaQ 一套 4 比特量化通吃多模态",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "local-quant-1116",
+        "headline": "llama.cpp 1.0；华为 MACaQ 一套 4 比特量化通吃多模态"
+      }
+    ]
+  },
+  "papers-1116": {
+    "title": "论文速递：视觉模块该放哪、差演员也能当好老师、SimpleHC、FinDendro",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "papers-1116",
+        "headline": "论文速递：视觉模块该放哪、差演员也能当好老师、SimpleHC、FinDendro"
+      }
+    ]
+  },
+  "full-duplex-voice": {
+    "title": "李博杰：照抄 Moshi 做全双工语音不是正路",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "full-duplex-voice",
+        "headline": "李博杰：照抄 Moshi 做全双工语音不是正路"
+      }
+    ]
+  },
+  "lovable-rls": {
+    "title": "Lovable 应用大规模数据暴露：7403 个应用不登录就能读到邮箱",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "lovable-rls",
+        "headline": "Lovable 应用大规模数据暴露：7403 个应用不登录就能读到邮箱"
+      }
+    ]
+  },
+  "anthropic-cyber-verification": {
+    "title": "Anthropic 网络安全验证计划：通过后减少防御类工作的拦截",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "anthropic-cyber-verification",
+        "headline": "Anthropic 网络安全验证计划：通过后减少防御类工作的拦截"
+      }
+    ]
+  },
+  "artex": {
+    "title": "据转帖：FBI 警示开源 AI 渗透平台 ARTEX",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "artex",
+        "headline": "据转帖：FBI 警示开源 AI 渗透平台 ARTEX"
+      }
+    ]
+  },
+  "opinions-1116": {
+    "title": "观点与讨论",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "opinions-1116",
+        "headline": "观点与讨论"
+      }
+    ]
+  },
+  "industry-misc-1116": {
+    "title": "其他动态",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "industry-misc-1116",
+        "headline": "其他动态"
+      }
+    ]
+  },
+  "pyopensci-ai-contrib": {
+    "title": "pyOpenSci：维护者谈 AI 贡献，最在意的是「看不见另一头的人」",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "pyopensci-ai-contrib",
+        "headline": "pyOpenSci：维护者谈 AI 贡献，最在意的是「看不见另一头的人」"
+      }
+    ]
+  },
+  "jupyter-misc-1116": {
+    "title": "Jupyter 零碎：课堂上怎么最省事地用云端 notebook；JupyterLab 4.6.5 修复",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "jupyter-misc-1116",
+        "headline": "Jupyter 零碎：课堂上怎么最省事地用云端 notebook；JupyterLab 4.6.5 修复"
+      }
+    ]
+  },
+  "wikimedia-toolforge": {
+    "title": "Toolforge 盘点：维基媒体的工具不是死于 bug",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "wikimedia-toolforge",
+        "headline": "Toolforge 盘点：维基媒体的工具不是死于 bug"
+      }
+    ]
+  },
+  "wikimedia-diff-1116": {
+    "title": "维基媒体两则：原住民语维基与 AI 工作坊；尼泊尔古迹摄影",
+    "appearances": [
+      {
+        "date": "2026-11-16",
+        "anchor": "wikimedia-diff-1116",
+        "headline": "维基媒体两则：原住民语维基与 AI 工作坊；尼泊尔古迹摄影"
+      }
+    ]
   }
 }
