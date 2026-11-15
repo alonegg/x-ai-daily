@@ -26,6 +26,36 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 16 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-16.html</link>
+      <description>新一周：黄仁勋据报考虑回归英伟达；Grok Bot 团队一个月合并 1.1 万个 PR 的做法；OpenAI 科学博客首篇，GPT-6 Astra 帮物理学家写证明；Claude Code 的 Code Mode；Lovable 应用的数据暴露；个人智能体该不该一人一台虚拟机
+
+章节：
+0:01 开场与头条预告
+1:05 快讯
+7:33 重点一：黄仁勋，可能要回来了
+9:48 重点二：一个月一万一千个合并请求，靠的是什么
+12:38 重点三：AI 写证明，人类专家来审
+15:14 重点四：Claude Code 学会了先写一段程序
+17:15 重点五：七千多个应用，不登录就能读数据
+18:57 重点六：个人智能体，一人一台虚拟机是不是太奢侈
+20:59 评论一：每纠正一次，就写一条检查
+21:49 评论二：AI 写的证明，谁来签字
+22:42 评论三：维护者想看见另一头的人
+23:56 评论四：测量追不上能力
+24:45 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-16.html</description>
+      <itunes:summary>新一周：黄仁勋据报考虑回归英伟达；Grok Bot 团队一个月合并 1.1 万个 PR 的做法；OpenAI 科学博客首篇，GPT-6 Astra 帮物理学家写证明；Claude Code 的 Code Mode；Lovable 应用的数据暴露；个人智能体该不该一人一台虚拟机</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-16.mp3" length="12045932" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 06:59:08 +0800</pubDate>
+      <itunes:duration>00:25:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 15 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-15.html</link>
       <description>这两天：Cursor 公布安全事件复盘，一把交给供应商的钥匙，一路通到恶意扩展；Anthropic 拆解「始终在线」的智能体；黄仁勋离开后，开放模型谁来撑腰；Thinking Machines 用 4 比特训完一个模型；Shopify 让智能体在生产环境攻击自己；Anthropic 路演里的一张算力效率图
@@ -688,7 +718,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Sun, 15 Nov 2026 07:15:24 +0800</lastBuildDate>
-    <pubDate>Sun, 15 Nov 2026 07:15:24 +0800</pubDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:59:08 +0800</lastBuildDate>
+    <pubDate>Mon, 16 Nov 2026 06:59:08 +0800</pubDate>
   </channel>
 </rss>
