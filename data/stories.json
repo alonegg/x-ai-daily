@@ -11440,12 +11440,17 @@
     ]
   },
   "goal-engineering": {
-    "title": "Goal Engineering：给 agent 定目标，要围绕「人最容易给反馈的地方」",
+    "title": "后续：从「给任务」到「给目标」",
     "appearances": [
       {
         "date": "2026-11-15",
         "anchor": "goal-engineering",
         "headline": "Goal Engineering：给 agent 定目标，要围绕「人最容易给反馈的地方」"
+      },
+      {
+        "date": "2026-11-17",
+        "anchor": "goal-engineering",
+        "headline": "后续：从「给任务」到「给目标」"
       }
     ]
   },
@@ -11570,12 +11575,17 @@
     ]
   },
   "nvidia-huang-return": {
-    "title": "后续：《金融时报》称黄仁勋考虑回归英伟达 CEO；盟友组「作战室」游说董事会",
+    "title": "后续：Altman 被问黄仁勋该不该回来：「我知道的还不够多」",
     "appearances": [
       {
         "date": "2026-11-16",
         "anchor": "nvidia-huang-return",
         "headline": "后续：《金融时报》称黄仁勋考虑回归英伟达 CEO；盟友组「作战室」游说董事会"
+      },
+      {
+        "date": "2026-11-17",
+        "anchor": "nvidia-huang-return",
+        "headline": "后续：Altman 被问黄仁勋该不该回来：「我知道的还不够多」"
       }
     ]
   },
@@ -11630,12 +11640,17 @@
     ]
   },
   "openai-lattice-sm": {
-    "title": "OpenAI 开科学博客；首篇：GPT-6 Astra 帮物理学家写出标准模型格点定义的证明",
+    "title": "后续：OpenAI 科研免费计划扩到 20 万人；菲尔兹奖得主谈「准黎曼猜想」证明",
     "appearances": [
       {
         "date": "2026-11-16",
         "anchor": "openai-lattice-sm",
         "headline": "OpenAI 开科学博客；首篇：GPT-6 Astra 帮物理学家写出标准模型格点定义的证明"
+      },
+      {
+        "date": "2026-11-17",
+        "anchor": "openai-lattice-sm",
+        "headline": "后续：OpenAI 科研免费计划扩到 20 万人；菲尔兹奖得主谈「准黎曼猜想」证明"
       }
     ]
   },
@@ -11776,6 +11791,246 @@
         "date": "2026-11-16",
         "anchor": "wikimedia-diff-1116",
         "headline": "维基媒体两则：原住民语维基与 AI 工作坊；尼泊尔古迹摄影"
+      }
+    ]
+  },
+  "claude-code-verification": {
+    "title": "Claude Code 团队怎么做验证：端到端、属性、差分三种测试，加一套「防作弊」规则",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "claude-code-verification",
+        "headline": "Claude Code 团队怎么做验证：端到端、属性、差分三种测试，加一套「防作弊」规则"
+      }
+    ]
+  },
+  "harness-delete-90": {
+    "title": "Philipp Schmid：harness 删掉 90%，分数差不到 6 分，费用差一倍多",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "harness-delete-90",
+        "headline": "Philipp Schmid：harness 删掉 90%，分数差不到 6 分，费用差一倍多"
+      }
+    ]
+  },
+  "claude-code-ios-duo": {
+    "title": "Claude Code 桌面版：iPhone Duo 模拟器公测、Xcode 插件进官方市场",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "claude-code-ios-duo",
+        "headline": "Claude Code 桌面版：iPhone Duo 模拟器公测、Xcode 插件进官方市场"
+      }
+    ]
+  },
+  "no-ai-slop-manifesto": {
+    "title": "「No AI Slop 宣言」：你花的心思，少于要别人花的理解成本，就是 slop",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "no-ai-slop-manifesto",
+        "headline": "「No AI Slop 宣言」：你花的心思，少于要别人花的理解成本，就是 slop"
+      }
+    ]
+  },
+  "agent-routing-1117": {
+    "title": "主会话用便宜模型、子线程用强模型？宝玉的分法",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "agent-routing-1117",
+        "headline": "主会话用便宜模型、子线程用强模型？宝玉的分法"
+      }
+    ]
+  },
+  "personal-agent-fatigue": {
+    "title": "个人 agent 的通知疲劳；Muse 的 Chrome 扩展装了 10 万次",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "personal-agent-fatigue",
+        "headline": "个人 agent 的通知疲劳；Muse 的 Chrome 扩展装了 10 万次"
+      }
+    ]
+  },
+  "agent-platforms-1117": {
+    "title": "agent 平台与零碎",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "agent-platforms-1117",
+        "headline": "agent 平台与零碎"
+      }
+    ]
+  },
+  "dev-tools-1117": {
+    "title": "开发工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "dev-tools-1117",
+        "headline": "开发工具速递"
+      }
+    ]
+  },
+  "qwen4-max": {
+    "title": "Qwen4 Max：智能指数 43，比上一代高 9 分，单题成本约降到三分之一",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "qwen4-max",
+        "headline": "Qwen4 Max：智能指数 43，比上一代高 9 分，单题成本约降到三分之一"
+      }
+    ]
+  },
+  "models-misc-1117": {
+    "title": "模型零讯：腾讯 Hy4 flash、Gemini CLI 换默认模型、英伟达 3B 扩散语言模型",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "models-misc-1117",
+        "headline": "模型零讯：腾讯 Hy4 flash、Gemini CLI 换默认模型、英伟达 3B 扩散语言模型"
+      }
+    ]
+  },
+  "evals-first-principles": {
+    "title": "TensorTonic：评测为什么会骗人",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "evals-first-principles",
+        "headline": "TensorTonic：评测为什么会骗人"
+      }
+    ]
+  },
+  "import-ai-481": {
+    "title": "Import AI 481：给 agent 钱，它能把钱变成模型性能",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "import-ai-481",
+        "headline": "Import AI 481：给 agent 钱，它能把钱变成模型性能"
+      }
+    ]
+  },
+  "papers-1117": {
+    "title": "论文与研究速递",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "papers-1117",
+        "headline": "论文与研究速递"
+      }
+    ]
+  },
+  "localllama-capability-debate": {
+    "title": "Reddit LocalLLaMA 热帖：模型更好用，不等于更会解题",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "localllama-capability-debate",
+        "headline": "Reddit LocalLLaMA 热帖：模型更好用，不等于更会解题"
+      }
+    ]
+  },
+  "openai-science-study": {
+    "title": "OpenAI 研究 1819 位科学家：自报效率约 1.9 倍",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "openai-science-study",
+        "headline": "OpenAI 研究 1819 位科学家：自报效率约 1.9 倍"
+      }
+    ]
+  },
+  "openai-embedded-assessments": {
+    "title": "OpenAI 嵌入式评估：四家外部机构深入内部模型",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "openai-embedded-assessments",
+        "headline": "OpenAI 嵌入式评估：四家外部机构深入内部模型"
+      }
+    ]
+  },
+  "security-misc-1117": {
+    "title": "安全零讯：儿童性虐待内容检测工具；macOS 全盘访问收紧；Corma 融资",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "security-misc-1117",
+        "headline": "安全零讯：儿童性虐待内容检测工具；macOS 全盘访问收紧；Corma 融资"
+      }
+    ]
+  },
+  "hf-openrouter": {
+    "title": "Hugging Face 与 OpenRouter 合作",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "hf-openrouter",
+        "headline": "Hugging Face 与 OpenRouter 合作"
+      }
+    ]
+  },
+  "nvidia-mlperf-rubin": {
+    "title": "英伟达 Vera Rubin 首次亮相 MLPerf",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "nvidia-mlperf-rubin",
+        "headline": "英伟达 Vera Rubin 首次亮相 MLPerf"
+      }
+    ]
+  },
+  "opinions-1117": {
+    "title": "观点与讨论",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "opinions-1117",
+        "headline": "观点与讨论"
+      }
+    ]
+  },
+  "industry-misc-1117": {
+    "title": "其他动态",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "industry-misc-1117",
+        "headline": "其他动态"
+      }
+    ]
+  },
+  "jupyterlab-47-beta": {
+    "title": "JupyterLab 4.7 beta 征集测试",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "jupyterlab-47-beta",
+        "headline": "JupyterLab 4.7 beta 征集测试"
+      }
+    ]
+  },
+  "openalex-444m": {
+    "title": "OpenAlex 一天多出 4.44 亿条引用",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "openalex-444m",
+        "headline": "OpenAlex 一天多出 4.44 亿条引用"
+      }
+    ]
+  },
+  "wikimedia-diff-1117": {
+    "title": "维基媒体与开放科学零讯",
+    "appearances": [
+      {
+        "date": "2026-11-17",
+        "anchor": "wikimedia-diff-1117",
+        "headline": "维基媒体与开放科学零讯"
       }
     ]
   }
