@@ -26,6 +26,37 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 17 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-17.html</link>
+      <description>Claude Code 团队怎么让智能体自己验证；Philipp Schmid 删掉九成配套；OpenAI 请四家外部机构深入查对齐；1819 位科学家用 ChatGPT 的研究；Qwen4 Max 测评；智能体从做任务到追目标
+
+章节：
+0:01 开场与头条预告
+1:00 快讯
+6:55 重点一：Claude Code 团队怎么验证
+9:34 重点二：删掉九成配套，账单差一倍
+11:56 重点三：OpenAI 请外人进门查对齐
+13:29 重点四：科学家说效率翻倍，靠不靠谱
+15:22 重点五：Qwen4 Max，和开放模型的差距
+16:48 重点六：从做任务到追目标
+18:23 评论一：验证层，小团队能抄哪几条
+19:02 评论二：只看分数，会被评测骗
+19:46 评论三：外部审查，等第一份报告
+20:19 评论四：科学家的一点九倍
+20:54 评论五：个人智能体太吵了
+21:39 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-17.html</description>
+      <itunes:summary>Claude Code 团队怎么让智能体自己验证；Philipp Schmid 删掉九成配套；OpenAI 请四家外部机构深入查对齐；1819 位科学家用 ChatGPT 的研究；Qwen4 Max 测评；智能体从做任务到追目标</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-17.mp3" length="10565228" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 07:07:46 +0800</pubDate>
+      <itunes:duration>00:22:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 16 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-16.html</link>
       <description>新一周：黄仁勋据报考虑回归英伟达；Grok Bot 团队一个月合并 1.1 万个 PR 的做法；OpenAI 科学博客首篇，GPT-6 Astra 帮物理学家写证明；Claude Code 的 Code Mode；Lovable 应用的数据暴露；个人智能体该不该一人一台虚拟机
@@ -718,7 +749,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Mon, 16 Nov 2026 06:59:08 +0800</lastBuildDate>
-    <pubDate>Mon, 16 Nov 2026 06:59:08 +0800</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:07:46 +0800</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2026 07:07:46 +0800</pubDate>
   </channel>
 </rss>
