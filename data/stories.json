@@ -11575,7 +11575,7 @@
     ]
   },
   "nvidia-huang-return": {
-    "title": "后续：Altman 被问黄仁勋该不该回来：「我知道的还不够多」",
+    "title": "后续：黄仁勋发声明，愿意在董事会认可时回任 CEO",
     "appearances": [
       {
         "date": "2026-11-16",
@@ -11586,6 +11586,11 @@
         "date": "2026-11-17",
         "anchor": "nvidia-huang-return",
         "headline": "后续：Altman 被问黄仁勋该不该回来：「我知道的还不够多」"
+      },
+      {
+        "date": "2026-11-18",
+        "anchor": "nvidia-huang-return",
+        "headline": "后续：黄仁勋发声明，愿意在董事会认可时回任 CEO"
       }
     ]
   },
@@ -11600,12 +11605,17 @@
     ]
   },
   "claude-code-mode": {
-    "title": "Claude Code 实验功能 Code Mode：先写一段 JavaScript，一次调多个工具",
+    "title": "后续：Claude Code 官方正式介绍 Code Mode",
     "appearances": [
       {
         "date": "2026-11-16",
         "anchor": "claude-code-mode",
         "headline": "Claude Code 实验功能 Code Mode：先写一段 JavaScript，一次调多个工具"
+      },
+      {
+        "date": "2026-11-18",
+        "anchor": "claude-code-mode",
+        "headline": "后续：Claude Code 官方正式介绍 Code Mode"
       }
     ]
   },
@@ -11715,12 +11725,17 @@
     ]
   },
   "anthropic-cyber-verification": {
-    "title": "Anthropic 网络安全验证计划：通过后减少防御类工作的拦截",
+    "title": "后续：Anthropic 把高危漏洞披露期从 90 天缩到 30 天，并开放三项安全计划",
     "appearances": [
       {
         "date": "2026-11-16",
         "anchor": "anthropic-cyber-verification",
         "headline": "Anthropic 网络安全验证计划：通过后减少防御类工作的拦截"
+      },
+      {
+        "date": "2026-11-18",
+        "anchor": "anthropic-cyber-verification",
+        "headline": "后续：Anthropic 把高危漏洞披露期从 90 天缩到 30 天，并开放三项安全计划"
       }
     ]
   },
@@ -12005,12 +12020,17 @@
     ]
   },
   "jupyterlab-47-beta": {
-    "title": "JupyterLab 4.7 beta 征集测试",
+    "title": "后续：JupyterLab 4.7 beta 更多细节",
     "appearances": [
       {
         "date": "2026-11-17",
         "anchor": "jupyterlab-47-beta",
         "headline": "JupyterLab 4.7 beta 征集测试"
+      },
+      {
+        "date": "2026-11-18",
+        "anchor": "jupyterlab-47-beta",
+        "headline": "后续：JupyterLab 4.7 beta 更多细节"
       }
     ]
   },
@@ -12031,6 +12051,276 @@
         "date": "2026-11-17",
         "anchor": "wikimedia-diff-1117",
         "headline": "维基媒体与开放科学零讯"
+      }
+    ]
+  },
+  "gpt-62-astra-sol": {
+    "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol：更省 token，API 降价两成，网络安全进入 Critical 档",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "gpt-62-astra-sol",
+        "headline": "OpenAI 发布 GPT-6.2 Astra 和 Sol：更省 token，API 降价两成，网络安全进入 Critical 档"
+      }
+    ]
+  },
+  "gpt-62-reactions": {
+    "title": "早期测试者炮轰 6.2 Astra：会自己卡住、绕圈、说「只有自己懂的话」",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "gpt-62-reactions",
+        "headline": "早期测试者炮轰 6.2 Astra：会自己卡住、绕圈、说「只有自己懂的话」"
+      }
+    ]
+  },
+  "claude-linked-billing": {
+    "title": "Anthropic 关联计费公测：第三方平台不再保管客户 API 密钥",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "claude-linked-billing",
+        "headline": "Anthropic 关联计费公测：第三方平台不再保管客户 API 密钥"
+      }
+    ]
+  },
+  "devin-bots": {
+    "title": "Devin Bots：每个 bot 有长期身份和记忆，管一群子 agent",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "devin-bots",
+        "headline": "Devin Bots：每个 bot 有长期身份和记忆，管一群子 agent"
+      }
+    ]
+  },
+  "proactive-agents-langchain": {
+    "title": "LangChain：做主动型 agent 的两件要事是记忆和交互",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "proactive-agents-langchain",
+        "headline": "LangChain：做主动型 agent 的两件要事是记忆和交互"
+      }
+    ]
+  },
+  "external-sandboxes": {
+    "title": "Simon Willison：外部沙箱，agent 留在本机、命令进隔离环境",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "external-sandboxes",
+        "headline": "Simon Willison：外部沙箱，agent 留在本机、命令进隔离环境"
+      }
+    ]
+  },
+  "token-economizer": {
+    "title": "微软研究院开源 TokenEconomizer：从同仓库历史里学，给编码 agent 省两到三成费用",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "token-economizer",
+        "headline": "微软研究院开源 TokenEconomizer：从同仓库历史里学，给编码 agent 省两到三成费用"
+      }
+    ]
+  },
+  "together-agent-evals": {
+    "title": "Together 的 agent 评测：两句话的文档修改，比换模型更值得先做",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "together-agent-evals",
+        "headline": "Together 的 agent 评测：两句话的文档修改，比换模型更值得先做"
+      }
+    ]
+  },
+  "tencent-loopforge": {
+    "title": "腾讯开源 LoopForge：让编码 agent 按流程交付，再用评测改流程",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "tencent-loopforge",
+        "headline": "腾讯开源 LoopForge：让编码 agent 按流程交付，再用评测改流程"
+      }
+    ]
+  },
+  "harness-why-build": {
+    "title": "企业为什么还自建 harness？",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "harness-why-build",
+        "headline": "企业为什么还自建 harness？"
+      }
+    ]
+  },
+  "jane-street-interviews": {
+    "title": "Jane Street 工程师面试小改：加入设计、读代码和用大模型写代码",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "jane-street-interviews",
+        "headline": "Jane Street 工程师面试小改：加入设计、读代码和用大模型写代码"
+      }
+    ]
+  },
+  "dev-tools-1118": {
+    "title": "开发工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "dev-tools-1118",
+        "headline": "开发工具速递"
+      }
+    ]
+  },
+  "qwen38-pi-adapted": {
+    "title": "Qwen3.8-27B 针对 pi 编码 agent 做强化学习适配：SWE-bench Pro 困难子集从 29.4% 到 62.7%",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "qwen38-pi-adapted",
+        "headline": "Qwen3.8-27B 针对 pi 编码 agent 做强化学习适配：SWE-bench Pro 困难子集从 29.4% 到 62.7%"
+      }
+    ]
+  },
+  "gemini-hydrogen-robotics": {
+    "title": "Gemini 4 Hydrogen 进机器人：在 Antigravity 里用对话教机械臂",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "gemini-hydrogen-robotics",
+        "headline": "Gemini 4 Hydrogen 进机器人：在 Antigravity 里用对话教机械臂"
+      }
+    ]
+  },
+  "finetune-receipt": {
+    "title": "李博杰：微调权重里留着训练数据的「收据」",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "finetune-receipt",
+        "headline": "李博杰：微调权重里留着训练数据的「收据」"
+      }
+    ]
+  },
+  "papers-1118": {
+    "title": "论文与开源速递",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "papers-1118",
+        "headline": "论文与开源速递"
+      }
+    ]
+  },
+  "nvidia-blog-1118": {
+    "title": "英伟达技术博客三则",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "nvidia-blog-1118",
+        "headline": "英伟达技术博客三则"
+      }
+    ]
+  },
+  "anthropic-lobbying-claims": {
+    "title": "据转帖：Anthropic 游说网络与黄仁勋下台被联系在一起",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "anthropic-lobbying-claims",
+        "headline": "据转帖：Anthropic 游说网络与黄仁勋下台被联系在一起"
+      }
+    ]
+  },
+  "openai-nato-daybreak": {
+    "title": "OpenAI 通过 Daybreak 给北约提供网络防御模型：每月最多 3000 亿 token",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "openai-nato-daybreak",
+        "headline": "OpenAI 通过 Daybreak 给北约提供网络防御模型：每月最多 3000 亿 token"
+      }
+    ]
+  },
+  "security-misc-1118": {
+    "title": "安全零讯：谷歌称「自主攻击时代已到来」，Optimizely 被投毒波及 178 家机构",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "security-misc-1118",
+        "headline": "安全零讯：谷歌称「自主攻击时代已到来」，Optimizely 被投毒波及 178 家机构"
+      }
+    ]
+  },
+  "industry-misc-1118": {
+    "title": "融资与公司动态",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "industry-misc-1118",
+        "headline": "融资与公司动态"
+      }
+    ]
+  },
+  "opinions-1118": {
+    "title": "观点与讨论",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "opinions-1118",
+        "headline": "观点与讨论"
+      }
+    ]
+  },
+  "jupyterhealth-moonshot": {
+    "title": "JupyterHealth 成为 1000 万美元「登月实验室」的基础",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "jupyterhealth-moonshot",
+        "headline": "JupyterHealth 成为 1000 万美元「登月实验室」的基础"
+      }
+    ]
+  },
+  "pyopensci-resilience": {
+    "title": "pyOpenSci：AI 时代怎么建立韧性",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "pyopensci-resilience",
+        "headline": "pyOpenSci：AI 时代怎么建立韧性"
+      }
+    ]
+  },
+  "okfn-1118": {
+    "title": "CKAN 20 岁，Frictionless Data 换新节奏",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "okfn-1118",
+        "headline": "CKAN 20 岁，Frictionless Data 换新节奏"
+      }
+    ]
+  },
+  "open-science-1118": {
+    "title": "开放科学：Astera 资助「隐藏的科学」，Hugging Face 阿尔茨海默病开放挑战",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "open-science-1118",
+        "headline": "开放科学：Astera 资助「隐藏的科学」，Hugging Face 阿尔茨海默病开放挑战"
+      }
+    ]
+  },
+  "wikimedia-diff-1118": {
+    "title": "维基媒体与学术出版零讯",
+    "appearances": [
+      {
+        "date": "2026-11-18",
+        "anchor": "wikimedia-diff-1118",
+        "headline": "维基媒体与学术出版零讯"
       }
     ]
   }
