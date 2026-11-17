@@ -26,6 +26,31 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 18 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-18.html</link>
+      <description>GPT 六点二 Astra 和 Sol 发布与口碑之争；黄仁勋愿意回英伟达；Anthropic 关联计费；Devin Bots 与主动型智能体；开放模型按工具链微调；JupyterHealth 拿到一千万美元
+
+章节：
+0:01 开场与头条预告
+0:54 快讯
+7:32 今日重点：GPT 六点二发布
+10:23 今日重点：口碑之争
+14:05 今日重点：智能体从接任务到管目标
+16:33 今日重点：开放模型按工具链微调
+18:09 评论与讨论
+20:33 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-18.html</description>
+      <itunes:summary>GPT 六点二 Astra 和 Sol 发布与口碑之争；黄仁勋愿意回英伟达；Anthropic 关联计费；Devin Bots 与主动型智能体；开放模型按工具链微调；JupyterHealth 拿到一千万美元</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-18.mp3" length="10152044" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:10:47 +0800</pubDate>
+      <itunes:duration>00:21:09</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 17 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-17.html</link>
       <description>Claude Code 团队怎么让智能体自己验证；Philipp Schmid 删掉九成配套；OpenAI 请四家外部机构深入查对齐；1819 位科学家用 ChatGPT 的研究；Qwen4 Max 测评；智能体从做任务到追目标
@@ -749,7 +774,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Tue, 17 Nov 2026 07:07:46 +0800</lastBuildDate>
-    <pubDate>Tue, 17 Nov 2026 07:07:46 +0800</pubDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:10:47 +0800</lastBuildDate>
+    <pubDate>Wed, 18 Nov 2026 07:10:47 +0800</pubDate>
   </channel>
 </rss>
