@@ -1,0 +1,62 @@
+{
+ "title": "11 月 19 日 AI 播报",
+ "summary": "Gemini 4 Neon 发布；GPT-6.2 口碑第二天；OpenAI 公开安全做法与 Codex 沙盒；Anthropic 上市前的《MisAnthropic 声明》；补丁潮与宕机；英伟达明确不让黄仁勋回归",
+ "voice": "双人：女主持 + 男解读",
+ "voice_id": "longanlingxin+qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1534.032,
+ "size": 12272492,
+ "src": "https://audio.chunlin.ch/ep/2026-11-19.mp3",
+ "pubDate": "2026-11-19T07:06:32+08:00",
+ "chapters": [
+  {
+   "t": 0.6,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 56.988,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 361.904,
+   "title": "重点一：Gemini 4 Neon",
+   "group": "今日重点"
+  },
+  {
+   "t": 543.622,
+   "title": "重点二：GPT-6.2 口碑第二天",
+   "group": "今日重点"
+  },
+  {
+   "t": 815.264,
+   "title": "重点三：OpenAI 怎么关住前沿模型",
+   "group": "今日重点"
+  },
+  {
+   "t": 999.908,
+   "title": "重点四：上市前夜的 MisAnthropic 声明",
+   "group": "今日重点"
+  },
+  {
+   "t": 1167.786,
+   "title": "评论一：补丁潮压垮了系统？",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1289.1,
+   "title": "评论二：自己做软件，没那么简单",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1393.684,
+   "title": "评论三：AI 认物种，只认对一成",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1517.51,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}

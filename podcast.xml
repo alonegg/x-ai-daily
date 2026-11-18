@@ -26,6 +26,33 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 19 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-19.html</link>
+      <description>Gemini 4 Neon 发布；GPT-6.2 口碑第二天；OpenAI 公开安全做法与 Codex 沙盒；Anthropic 上市前的《MisAnthropic 声明》；补丁潮与宕机；英伟达明确不让黄仁勋回归
+
+章节：
+0:01 开场与头条预告
+0:57 快讯
+6:02 重点一：Gemini 4 Neon
+9:04 重点二：GPT-6.2 口碑第二天
+13:35 重点三：OpenAI 怎么关住前沿模型
+16:40 重点四：上市前夜的 MisAnthropic 声明
+19:28 评论一：补丁潮压垮了系统？
+21:29 评论二：自己做软件，没那么简单
+23:14 评论三：AI 认物种，只认对一成
+25:18 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-19.html</description>
+      <itunes:summary>Gemini 4 Neon 发布；GPT-6.2 口碑第二天；OpenAI 公开安全做法与 Codex 沙盒；Anthropic 上市前的《MisAnthropic 声明》；补丁潮与宕机；英伟达明确不让黄仁勋回归</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-19.mp3" length="12272492" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 07:06:32 +0800</pubDate>
+      <itunes:duration>00:25:34</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 18 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-18.html</link>
       <description>GPT 六点二 Astra 和 Sol 发布与口碑之争；黄仁勋愿意回英伟达；Anthropic 关联计费；Devin Bots 与主动型智能体；开放模型按工具链微调；JupyterHealth 拿到一千万美元
@@ -774,7 +801,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Wed, 18 Nov 2026 07:10:47 +0800</lastBuildDate>
-    <pubDate>Wed, 18 Nov 2026 07:10:47 +0800</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:06:32 +0800</lastBuildDate>
+    <pubDate>Thu, 19 Nov 2026 07:06:32 +0800</pubDate>
   </channel>
 </rss>
