@@ -26,6 +26,32 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 20 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-20.html</link>
+      <description>Anthropic 纳斯达克上市；OpenAI 研究加速报告；936 个 AI agent 的科学共同体；Gemini 4 Neon 口碑；苹果给第三方 agent 加门槛；开源维护者与维基百科的「人」去哪了
+
+章节：
+0:01 开场与头条预告
+0:53 快讯
+5:26 重点一：Anthropic 上市
+8:29 重点二：OpenAI 研究加速报告
+10:29 重点三：AI 科学家的社会
+12:43 重点四：Neon 的口碑
+14:24 评论一：苹果给外部 agent 加门槛
+15:39 评论二：开放社区里的人去哪了
+17:32 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-20.html</description>
+      <itunes:summary>Anthropic 纳斯达克上市；OpenAI 研究加速报告；936 个 AI agent 的科学共同体；Gemini 4 Neon 口碑；苹果给第三方 agent 加门槛；开源维护者与维基百科的「人」去哪了</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-20.mp3" length="8551340" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:52:30 +0800</pubDate>
+      <itunes:duration>00:17:49</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 19 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-19.html</link>
       <description>Gemini 4 Neon 发布；GPT-6.2 口碑第二天；OpenAI 公开安全做法与 Codex 沙盒；Anthropic 上市前的《MisAnthropic 声明》；补丁潮与宕机；英伟达明确不让黄仁勋回归
@@ -801,7 +827,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Thu, 19 Nov 2026 07:06:32 +0800</lastBuildDate>
-    <pubDate>Thu, 19 Nov 2026 07:06:32 +0800</pubDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:52:30 +0800</lastBuildDate>
+    <pubDate>Fri, 20 Nov 2026 06:52:30 +0800</pubDate>
   </channel>
 </rss>
