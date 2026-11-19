@@ -5625,7 +5625,7 @@
     ]
   },
   "genie-4": {
-    "title": "Genie 4 开放给 Ultra 订阅用户：边逛边改世界，还能出声",
+    "title": "后续：Genie 4 进入 Gemini API 和 AI Studio",
     "appearances": [
       {
         "date": "2026-10-28",
@@ -5636,6 +5636,11 @@
         "date": "2026-11-19",
         "anchor": "genie-4",
         "headline": "Genie 4 开放给 Ultra 订阅用户：边逛边改世界，还能出声"
+      },
+      {
+        "date": "2026-11-20",
+        "anchor": "genie-4",
+        "headline": "后续：Genie 4 进入 Gemini API 和 AI Studio"
       }
     ]
   },
@@ -9700,7 +9705,7 @@
     ]
   },
   "anthropic-ipo-tracking": {
-    "title": "后续：Anthropic IPO 路演据 swyx 称已于本周一开始",
+    "title": "Anthropic 在纳斯达克上市：定价 83 美元，Dario 发表上市讲话",
     "appearances": [
       {
         "date": "2026-11-08",
@@ -9711,6 +9716,11 @@
         "date": "2026-11-10",
         "anchor": "anthropic-ipo-tracking",
         "headline": "后续：Anthropic IPO 路演据 swyx 称已于本周一开始"
+      },
+      {
+        "date": "2026-11-20",
+        "anchor": "anthropic-ipo-tracking",
+        "headline": "Anthropic 在纳斯达克上市：定价 83 美元，Dario 发表上市讲话"
       }
     ]
   },
@@ -12205,7 +12215,7 @@
     ]
   },
   "qwen38-pi-adapted": {
-    "title": "后续：Hugging Face 再发 OpenCode 专用适配器，社区实测 pi 版",
+    "title": "后续：pi 适配版 Qwen3.8-27B 的社区实测",
     "appearances": [
       {
         "date": "2026-11-18",
@@ -12216,6 +12226,11 @@
         "date": "2026-11-19",
         "anchor": "qwen38-pi-adapted",
         "headline": "后续：Hugging Face 再发 OpenCode 专用适配器，社区实测 pi 版"
+      },
+      {
+        "date": "2026-11-20",
+        "anchor": "qwen38-pi-adapted",
+        "headline": "后续：pi 适配版 Qwen3.8-27B 的社区实测"
       }
     ]
   },
@@ -12360,12 +12375,17 @@
     ]
   },
   "gemini-4-neon": {
-    "title": "Gemini 4 Neon 发布：3/15 美元，AA 智能指数第三、编码 agent 指数第一",
+    "title": "后续：Gemini 4 Neon 口碑——「连贯性」成了关键词",
     "appearances": [
       {
         "date": "2026-11-19",
         "anchor": "gemini-4-neon",
         "headline": "Gemini 4 Neon 发布：3/15 美元，AA 智能指数第三、编码 agent 指数第一"
+      },
+      {
+        "date": "2026-11-20",
+        "anchor": "gemini-4-neon",
+        "headline": "后续：Gemini 4 Neon 口碑——「连贯性」成了关键词"
       }
     ]
   },
@@ -12410,12 +12430,17 @@
     ]
   },
   "misanthropic-statement": {
-    "title": "《MisAnthropic 声明》：近百人联署称 Anthropic「不是一家安全的 AI 公司」",
+    "title": "后续：上市前夜的批评——「竞赛姿态」什么时候算道德",
     "appearances": [
       {
         "date": "2026-11-19",
         "anchor": "misanthropic-statement",
         "headline": "《MisAnthropic 声明》：近百人联署称 Anthropic「不是一家安全的 AI 公司」"
+      },
+      {
+        "date": "2026-11-20",
+        "anchor": "misanthropic-statement",
+        "headline": "后续：上市前夜的批评——「竞赛姿态」什么时候算道德"
       }
     ]
   },
@@ -12566,6 +12591,226 @@
         "date": "2026-11-19",
         "anchor": "okfn-1119",
         "headline": "OKFN 与维基媒体"
+      }
+    ]
+  },
+  "openai-research-acceleration": {
+    "title": "OpenAI《研究加速：锯齿状前沿》：agent 独立做完近一半的两到四小时研究任务",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "openai-research-acceleration",
+        "headline": "OpenAI《研究加速：锯齿状前沿》：agent 独立做完近一半的两到四小时研究任务"
+      }
+    ]
+  },
+  "deepmind-koray-agi": {
+    "title": "Google DeepMind 的 Koray：不会有一个基准告诉我们 AGI 到了",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "deepmind-koray-agi",
+        "headline": "Google DeepMind 的 Koray：不会有一个基准告诉我们 AGI 到了"
+      }
+    ]
+  },
+  "gemini-tool-retrieval": {
+    "title": "Gemini API 推出工具检索：几百个工具不必每次全塞进提示",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "gemini-tool-retrieval",
+        "headline": "Gemini API 推出工具检索：几百个工具不必每次全塞进提示"
+      }
+    ]
+  },
+  "langsmith-tool-gateway": {
+    "title": "LangSmith Tool Gateway：给 agent 的每次工具调用管凭证和权限",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "langsmith-tool-gateway",
+        "headline": "LangSmith Tool Gateway：给 agent 的每次工具调用管凭证和权限"
+      }
+    ]
+  },
+  "knowledge-factory": {
+    "title": "「知识工厂」之争：agent 最难的是上下文还是统一定义",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "knowledge-factory",
+        "headline": "「知识工厂」之争：agent 最难的是上下文还是统一定义"
+      }
+    ]
+  },
+  "pi-verification-talk": {
+    "title": "Matt Pocock 对谈 Pi 两位作者：验证被高估，系统设计仍要靠人",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "pi-verification-talk",
+        "headline": "Matt Pocock 对谈 Pi 两位作者：验证被高估，系统设计仍要靠人"
+      }
+    ]
+  },
+  "dev-tools-1120": {
+    "title": "开发实践零讯",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "dev-tools-1120",
+        "headline": "开发实践零讯"
+      }
+    ]
+  },
+  "nvidia-blog-1120": {
+    "title": "英伟达技术博客三则",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "nvidia-blog-1120",
+        "headline": "英伟达技术博客三则"
+      }
+    ]
+  },
+  "open-models-1120": {
+    "title": "开源模型速递",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "open-models-1120",
+        "headline": "开源模型速递"
+      }
+    ]
+  },
+  "papers-1120": {
+    "title": "论文速递",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "papers-1120",
+        "headline": "论文速递"
+      }
+    ]
+  },
+  "apple-agent-friction": {
+    "title": "苹果在 macOS 27.3 给第三方电脑操控 agent 加门槛",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "apple-agent-friction",
+        "headline": "苹果在 macOS 27.3 给第三方电脑操控 agent 加门槛"
+      }
+    ]
+  },
+  "security-misc-1120": {
+    "title": "安全零讯：Prime Intellect 疑遭入侵，Rust 不写 unsafe 也能释放后使用",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "security-misc-1120",
+        "headline": "安全零讯：Prime Intellect 疑遭入侵，Rust 不写 unsafe 也能释放后使用"
+      }
+    ]
+  },
+  "industry-misc-1120": {
+    "title": "产业零讯",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "industry-misc-1120",
+        "headline": "产业零讯"
+      }
+    ]
+  },
+  "opinions-1120": {
+    "title": "观点与讨论",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "opinions-1120",
+        "headline": "观点与讨论"
+      }
+    ]
+  },
+  "jupyter-mcp-cve": {
+    "title": "Jupyter MCP Server 披露 DNS 重绑定漏洞，1.0.3 修复",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "jupyter-mcp-cve",
+        "headline": "Jupyter MCP Server 披露 DNS 重绑定漏洞，1.0.3 修复"
+      }
+    ]
+  },
+  "tornado-testbed": {
+    "title": "Tornado 为 Jupyter 等下游加发布前测试",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "tornado-testbed",
+        "headline": "Tornado 为 Jupyter 等下游加发布前测试"
+      }
+    ]
+  },
+  "deepnote-data-apps": {
+    "title": "Deepnote 推出新版数据应用：Claude 里做的仪表盘，同事能在 ChatGPT 里接着改",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "deepnote-data-apps",
+        "headline": "Deepnote 推出新版数据应用：Claude 里做的仪表盘，同事能在 ChatGPT 里接着改"
+      }
+    ]
+  },
+  "jupyter-misc-1120": {
+    "title": "David Brochart：浏览器里跑在 JupyterLab 中的终端",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "jupyter-misc-1120",
+        "headline": "David Brochart：浏览器里跑在 JupyterLab 中的终端"
+      }
+    ]
+  },
+  "agent-science-society": {
+    "title": "《AI 科学家社会》：936 个 agent 在专属预印本服务器上做了 12 周研究",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "agent-science-society",
+        "headline": "《AI 科学家社会》：936 个 agent 在专属预印本服务器上做了 12 周研究"
+      }
+    ]
+  },
+  "pyopensci-europython": {
+    "title": "pyOpenSci：AI 工具让开源维护者失去的是「人」",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "pyopensci-europython",
+        "headline": "pyOpenSci：AI 工具让开源维护者失去的是「人」"
+      }
+    ]
+  },
+  "wikimedia-traffic": {
+    "title": "维基媒体：页面浏览量越来越不能代表真人读者",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "wikimedia-traffic",
+        "headline": "维基媒体：页面浏览量越来越不能代表真人读者"
+      }
+    ]
+  },
+  "open-science-1120": {
+    "title": "开放科学零讯",
+    "appearances": [
+      {
+        "date": "2026-11-20",
+        "anchor": "open-science-1120",
+        "headline": "开放科学零讯"
       }
     ]
   }
