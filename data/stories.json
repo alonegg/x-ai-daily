@@ -970,7 +970,7 @@
     ]
   },
   "claude-code-review-ga": {
-    "title": "Claude Code 怎么做代码审查：六层检查加快速回滚",
+    "title": "后续：Claude Code 团队讲代码审查——查出实质问题从 16% 到 54%",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -1001,6 +1001,11 @@
         "date": "2026-10-27",
         "anchor": "claude-code-review-ga",
         "headline": "Claude Code 怎么做代码审查：六层检查加快速回滚"
+      },
+      {
+        "date": "2026-11-21",
+        "anchor": "claude-code-review-ga",
+        "headline": "后续：Claude Code 团队讲代码审查——查出实质问题从 16% 到 54%"
       }
     ]
   },
@@ -1020,7 +1025,7 @@
     ]
   },
   "gpt-rosalind-academic": {
-    "title": "GPT-Rosalind 在小鼠脑数据里给出两条神经疾病线索",
+    "title": "后续：GPT-Rosalind 神经疾病研究扩大合作",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -1036,6 +1041,11 @@
         "date": "2026-10-22",
         "anchor": "gpt-rosalind-academic",
         "headline": "GPT-Rosalind 在小鼠脑数据里给出两条神经疾病线索"
+      },
+      {
+        "date": "2026-11-21",
+        "anchor": "gpt-rosalind-academic",
+        "headline": "后续：GPT-Rosalind 神经疾病研究扩大合作"
       }
     ]
   },
@@ -9705,7 +9715,7 @@
     ]
   },
   "anthropic-ipo-tracking": {
-    "title": "Anthropic 在纳斯达克上市：定价 83 美元，Dario 发表上市讲话",
+    "title": "后续：Anthropic 股价从高点回落约 25%",
     "appearances": [
       {
         "date": "2026-11-08",
@@ -9721,6 +9731,11 @@
         "date": "2026-11-20",
         "anchor": "anthropic-ipo-tracking",
         "headline": "Anthropic 在纳斯达克上市：定价 83 美元，Dario 发表上市讲话"
+      },
+      {
+        "date": "2026-11-21",
+        "anchor": "anthropic-ipo-tracking",
+        "headline": "后续：Anthropic 股价从高点回落约 25%"
       }
     ]
   },
@@ -12095,7 +12110,7 @@
     ]
   },
   "gpt-62-reactions": {
-    "title": "GPT-6.2 争论继续：Tibo 称测试者用的是旧版，Theo 复测仍说「方向上很差」",
+    "title": "后续：GPT-6.2 Sol 复杂任务被吐槽，GPT-6 Luna 采用率登顶",
     "appearances": [
       {
         "date": "2026-11-18",
@@ -12106,6 +12121,11 @@
         "date": "2026-11-19",
         "anchor": "gpt-62-reactions",
         "headline": "GPT-6.2 争论继续：Tibo 称测试者用的是旧版，Theo 复测仍说「方向上很差」"
+      },
+      {
+        "date": "2026-11-21",
+        "anchor": "gpt-62-reactions",
+        "headline": "后续：GPT-6.2 Sol 复杂任务被吐槽，GPT-6 Luna 采用率登顶"
       }
     ]
   },
@@ -12375,7 +12395,7 @@
     ]
   },
   "gemini-4-neon": {
-    "title": "后续：Gemini 4 Neon 口碑——「连贯性」成了关键词",
+    "title": "后续：Neon 好用，但缓存和限额拖后腿",
     "appearances": [
       {
         "date": "2026-11-19",
@@ -12386,6 +12406,11 @@
         "date": "2026-11-20",
         "anchor": "gemini-4-neon",
         "headline": "后续：Gemini 4 Neon 口碑——「连贯性」成了关键词"
+      },
+      {
+        "date": "2026-11-21",
+        "anchor": "gemini-4-neon",
+        "headline": "后续：Neon 好用，但缓存和限额拖后腿"
       }
     ]
   },
@@ -12735,12 +12760,17 @@
     ]
   },
   "jupyter-mcp-cve": {
-    "title": "Jupyter MCP Server 披露 DNS 重绑定漏洞，1.0.3 修复",
+    "title": "后续：Jupyter MCP Server 漏洞被欧盟漏洞库评 9.3 分",
     "appearances": [
       {
         "date": "2026-11-20",
         "anchor": "jupyter-mcp-cve",
         "headline": "Jupyter MCP Server 披露 DNS 重绑定漏洞，1.0.3 修复"
+      },
+      {
+        "date": "2026-11-21",
+        "anchor": "jupyter-mcp-cve",
+        "headline": "后续：Jupyter MCP Server 漏洞被欧盟漏洞库评 9.3 分"
       }
     ]
   },
@@ -12775,12 +12805,17 @@
     ]
   },
   "agent-science-society": {
-    "title": "《AI 科学家社会》：936 个 agent 在专属预印本服务器上做了 12 周研究",
+    "title": "后续：《AI 科学家社会》引发讨论",
     "appearances": [
       {
         "date": "2026-11-20",
         "anchor": "agent-science-society",
         "headline": "《AI 科学家社会》：936 个 agent 在专属预印本服务器上做了 12 周研究"
+      },
+      {
+        "date": "2026-11-21",
+        "anchor": "agent-science-society",
+        "headline": "后续：《AI 科学家社会》引发讨论"
       }
     ]
   },
@@ -12810,6 +12845,206 @@
       {
         "date": "2026-11-20",
         "anchor": "open-science-1120",
+        "headline": "开放科学零讯"
+      }
+    ]
+  },
+  "riemann-hypothesis-claude": {
+    "title": "Levent Alpöge：与 Claude 合作证明黎曼猜想和广义黎曼猜想",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "riemann-hypothesis-claude",
+        "headline": "Levent Alpöge：与 Claude 合作证明黎曼猜想和广义黎曼猜想"
+      }
+    ]
+  },
+  "rh-lean-verification": {
+    "title": "Lean 独立复核：直播编译、4 个内核检查通过",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "rh-lean-verification",
+        "headline": "Lean 独立复核：直播编译、4 个内核检查通过"
+      }
+    ]
+  },
+  "masullo-grh": {
+    "title": "人类证明也提前亮相：Masullo 的广义黎曼猜想草稿",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "masullo-grh",
+        "headline": "人类证明也提前亮相：Masullo 的广义黎曼猜想草稿"
+      }
+    ]
+  },
+  "rh-reactions": {
+    "title": "反应：Jim Fan 说该机器人学界加把劲了，Latent Space 谈形式化验证",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "rh-reactions",
+        "headline": "反应：Jim Fan 说该机器人学界加把劲了，Latent Space 谈形式化验证"
+      }
+    ]
+  },
+  "openai-distillation": {
+    "title": "OpenAI 公布反蒸馏研究：攻击成功率从 54.0% 降到 0.2%",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "openai-distillation",
+        "headline": "OpenAI 公布反蒸馏研究：攻击成功率从 54.0% 降到 0.2%"
+      }
+    ]
+  },
+  "openai-medchembench": {
+    "title": "MedChemBench：评估 AI 的药物化学推理",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "openai-medchembench",
+        "headline": "MedChemBench：评估 AI 的药物化学推理"
+      }
+    ]
+  },
+  "inkling-2-mini": {
+    "title": "Thinking Machines 开源 Inkling 2 Mini：中间 12 层循环三遍",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "inkling-2-mini",
+        "headline": "Thinking Machines 开源 Inkling 2 Mini：中间 12 层循环三遍"
+      }
+    ]
+  },
+  "open-models-1121": {
+    "title": "开源模型速递",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "open-models-1121",
+        "headline": "开源模型速递"
+      }
+    ]
+  },
+  "papers-1121": {
+    "title": "论文速递",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "papers-1121",
+        "headline": "论文速递"
+      }
+    ]
+  },
+  "harness-adapters": {
+    "title": "Hugging Face「harness 适配器」：给同一模型按 harness 训 LoRA",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "harness-adapters",
+        "headline": "Hugging Face「harness 适配器」：给同一模型按 harness 训 LoRA"
+      }
+    ]
+  },
+  "langchain-content-studio": {
+    "title": "LangChain 开源内部设计 agent「Content Studio」",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "langchain-content-studio",
+        "headline": "LangChain 开源内部设计 agent「Content Studio」"
+      }
+    ]
+  },
+  "nvidia-dynamo-rl": {
+    "title": "NVIDIA Dynamo 缓解强化学习的 rollout 瓶颈",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "nvidia-dynamo-rl",
+        "headline": "NVIDIA Dynamo 缓解强化学习的 rollout 瓶颈"
+      }
+    ]
+  },
+  "dev-tools-1121": {
+    "title": "开发实践零讯",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "dev-tools-1121",
+        "headline": "开发实践零讯"
+      }
+    ]
+  },
+  "token-fraud": {
+    "title": "「token 欺诈」来了：ChatPRD 关掉免费试用",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "token-fraud",
+        "headline": "「token 欺诈」来了：ChatPRD 关掉免费试用"
+      }
+    ]
+  },
+  "industry-misc-1121": {
+    "title": "产业零讯",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "industry-misc-1121",
+        "headline": "产业零讯"
+      }
+    ]
+  },
+  "opinions-1121": {
+    "title": "观点与讨论",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "opinions-1121",
+        "headline": "观点与讨论"
+      }
+    ]
+  },
+  "jupyterhub-survey-1121": {
+    "title": "JupyterHub 用户调查，11 月 24 日截止",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "jupyterhub-survey-1121",
+        "headline": "JupyterHub 用户调查，11 月 24 日截止"
+      }
+    ]
+  },
+  "jupyter-misc-1121": {
+    "title": "Fernando Pérez 谈 MyST 与面向 agent 的科学出版",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "jupyter-misc-1121",
+        "headline": "Fernando Pérez 谈 MyST 与面向 agent 的科学出版"
+      }
+    ]
+  },
+  "wikimedia-1121": {
+    "title": "维基社区：100 天写约 50 位科学家词条，非洲维基大会",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "wikimedia-1121",
+        "headline": "维基社区：100 天写约 50 位科学家词条，非洲维基大会"
+      }
+    ]
+  },
+  "open-science-1121": {
+    "title": "开放科学零讯",
+    "appearances": [
+      {
+        "date": "2026-11-21",
+        "anchor": "open-science-1121",
         "headline": "开放科学零讯"
       }
     ]
