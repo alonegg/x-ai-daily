@@ -26,6 +26,31 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 21 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-21.html</link>
+      <description>Claude 参与证明黎曼猜想，Lean 复核与争议；OpenAI 反蒸馏；Hugging Face 的 harness 适配器；药物化学基准 MedChemBench；Anthropic 把代码审查交给 AI
+
+章节：
+0:01 开场与头条预告
+0:49 快讯
+5:23 重点一：黎曼猜想，Claude 参与的证明
+9:25 重点二：OpenAI 怎么防蒸馏
+11:59 重点三：只加个小插件，编程分数涨一截
+14:06 重点四：AI 帮药物化学家挑分子
+16:19 评论与讨论：代码审查交给 AI，比人强就够吗
+18:26 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-21.html</description>
+      <itunes:summary>Claude 参与证明黎曼猜想，Lean 复核与争议；OpenAI 反蒸馏；Hugging Face 的 harness 适配器；药物化学基准 MedChemBench；Anthropic 把代码审查交给 AI</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-21.mp3" length="8954540" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 06:50:58 +0800</pubDate>
+      <itunes:duration>00:18:39</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 20 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-20.html</link>
       <description>Anthropic 纳斯达克上市；OpenAI 研究加速报告；936 个 AI agent 的科学共同体；Gemini 4 Neon 口碑；苹果给第三方 agent 加门槛；开源维护者与维基百科的「人」去哪了
@@ -827,7 +852,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Fri, 20 Nov 2026 06:52:30 +0800</lastBuildDate>
-    <pubDate>Fri, 20 Nov 2026 06:52:30 +0800</pubDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:50:58 +0800</lastBuildDate>
+    <pubDate>Sat, 21 Nov 2026 06:50:58 +0800</pubDate>
   </channel>
 </rss>

@@ -1,0 +1,52 @@
+{
+ "title": "11 月 21 日 AI 播报",
+ "summary": "Claude 参与证明黎曼猜想，Lean 复核与争议；OpenAI 反蒸馏；Hugging Face 的 harness 适配器；药物化学基准 MedChemBench；Anthropic 把代码审查交给 AI",
+ "voice": "双人：女主持 + 男解读",
+ "voice_id": "longanlingxin+qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1119.288,
+ "size": 8954540,
+ "src": "https://audio.chunlin.ch/ep/2026-11-21.mp3",
+ "pubDate": "2026-11-21T06:50:58+08:00",
+ "chapters": [
+  {
+   "t": 0.6,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 49.428,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 323.224,
+   "title": "重点一：黎曼猜想，Claude 参与的证明",
+   "group": "今日重点"
+  },
+  {
+   "t": 565.392,
+   "title": "重点二：OpenAI 怎么防蒸馏",
+   "group": "今日重点"
+  },
+  {
+   "t": 718.762,
+   "title": "重点三：只加个小插件，编程分数涨一截",
+   "group": "今日重点"
+  },
+  {
+   "t": 846.432,
+   "title": "重点四：AI 帮药物化学家挑分子",
+   "group": "今日重点"
+  },
+  {
+   "t": 978.786,
+   "title": "评论与讨论：代码审查交给 AI，比人强就够吗",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1105.836,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}
