@@ -26,6 +26,31 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 22 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-22.html</link>
+      <description>黎曼猜想证明获 Lean 社区背书；美国众议院报告谈中国开源模型；飞机噪声能给录音定位；LangChain 的知识工厂；真实世界的 AI 任务时长
+
+章节：
+0:01 开场与头条预告
+0:55 快讯
+7:43 重点一：黎曼猜想证明，Lean 社区正式背书
+10:39 重点二：众议院报告，中国开源模型在美国用得有多广
+13:37 重点三：头顶飞过的飞机，能暴露你在哪开会
+16:19 重点四：LangChain 的知识工厂
+18:23 评论与讨论：AI 到底能独立干多久
+20:27 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-22.html</description>
+      <itunes:summary>黎曼猜想证明获 Lean 社区背书；美国众议院报告谈中国开源模型；飞机噪声能给录音定位；LangChain 的知识工厂；真实世界的 AI 任务时长</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-22.mp3" length="9907244" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 06:48:51 +0800</pubDate>
+      <itunes:duration>00:20:38</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 21 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-21.html</link>
       <description>Claude 参与证明黎曼猜想，Lean 复核与争议；OpenAI 反蒸馏；Hugging Face 的 harness 适配器；药物化学基准 MedChemBench；Anthropic 把代码审查交给 AI
@@ -852,7 +877,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Sat, 21 Nov 2026 06:50:58 +0800</lastBuildDate>
-    <pubDate>Sat, 21 Nov 2026 06:50:58 +0800</pubDate>
+    <lastBuildDate>Sun, 22 Nov 2026 06:48:51 +0800</lastBuildDate>
+    <pubDate>Sun, 22 Nov 2026 06:48:51 +0800</pubDate>
   </channel>
 </rss>
