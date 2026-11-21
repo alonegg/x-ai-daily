@@ -4455,12 +4455,17 @@
     ]
   },
   "ai-pause-debate": {
-    "title": "暂停 AI 之争：Geoffrey Irving 主张现在就单方面停",
+    "title": "后续：PauseAI 在伦敦办最大规模游行，数学家 Tim Gowers 参加",
     "appearances": [
       {
         "date": "2026-10-24",
         "anchor": "ai-pause-debate",
         "headline": "暂停 AI 之争：Geoffrey Irving 主张现在就单方面停"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "ai-pause-debate",
+        "headline": "后续：PauseAI 在伦敦办最大规模游行，数学家 Tim Gowers 参加"
       }
     ]
   },
@@ -9035,12 +9040,17 @@
     ]
   },
   "ai-reply-bots": {
-    "title": "X 上的 AI 回复机器人：levelsio 每天约屏蔽 50 个",
+    "title": "后续：levelsio 的 AI 回复黑名单见效",
     "appearances": [
       {
         "date": "2026-11-06",
         "anchor": "ai-reply-bots",
         "headline": "X 上的 AI 回复机器人：levelsio 每天约屏蔽 50 个"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "ai-reply-bots",
+        "headline": "后续：levelsio 的 AI 回复黑名单见效"
       }
     ]
   },
@@ -11650,7 +11660,7 @@
     ]
   },
   "claude-code-mode": {
-    "title": "后续：Claude Code 官方正式介绍 Code Mode",
+    "title": "后续：Addy Osmani 详解 Claude Code 的 Code Mode",
     "appearances": [
       {
         "date": "2026-11-16",
@@ -11661,6 +11671,11 @@
         "date": "2026-11-18",
         "anchor": "claude-code-mode",
         "headline": "后续：Claude Code 官方正式介绍 Code Mode"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "claude-code-mode",
+        "headline": "后续：Addy Osmani 详解 Claude Code 的 Code Mode"
       }
     ]
   },
@@ -12195,12 +12210,17 @@
     ]
   },
   "tencent-loopforge": {
-    "title": "腾讯开源 LoopForge：让编码 agent 按流程交付，再用评测改流程",
+    "title": "腾讯开源 LoopForge：五个定时 agent 维护自家仓库",
     "appearances": [
       {
         "date": "2026-11-18",
         "anchor": "tencent-loopforge",
         "headline": "腾讯开源 LoopForge：让编码 agent 按流程交付，再用评测改流程"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "tencent-loopforge",
+        "headline": "腾讯开源 LoopForge：五个定时 agent 维护自家仓库"
       }
     ]
   },
@@ -12395,7 +12415,7 @@
     ]
   },
   "gemini-4-neon": {
-    "title": "后续：Neon 好用，但缓存和限额拖后腿",
+    "title": "后续：Antigravity 优化缓存并重置配额，Neon 口碑继续发酵",
     "appearances": [
       {
         "date": "2026-11-19",
@@ -12411,6 +12431,11 @@
         "date": "2026-11-21",
         "anchor": "gemini-4-neon",
         "headline": "后续：Neon 好用，但缓存和限额拖后腿"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "gemini-4-neon",
+        "headline": "后续：Antigravity 优化缓存并重置配额，Neon 口碑继续发酵"
       }
     ]
   },
@@ -12660,12 +12685,17 @@
     ]
   },
   "knowledge-factory": {
-    "title": "「知识工厂」之争：agent 最难的是上下文还是统一定义",
+    "title": "后续：LangChain 长文《如何建一个知识工厂》",
     "appearances": [
       {
         "date": "2026-11-20",
         "anchor": "knowledge-factory",
         "headline": "「知识工厂」之争：agent 最难的是上下文还是统一定义"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "knowledge-factory",
+        "headline": "后续：LangChain 长文《如何建一个知识工厂》"
       }
     ]
   },
@@ -12720,12 +12750,17 @@
     ]
   },
   "apple-agent-friction": {
-    "title": "苹果在 macOS 27.3 给第三方电脑操控 agent 加门槛",
+    "title": "后续：DHH 批苹果限制第三方 agent，苹果据报在做类似 Muse 的 agent",
     "appearances": [
       {
         "date": "2026-11-20",
         "anchor": "apple-agent-friction",
         "headline": "苹果在 macOS 27.3 给第三方电脑操控 agent 加门槛"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "apple-agent-friction",
+        "headline": "后续：DHH 批苹果限制第三方 agent，苹果据报在做类似 Muse 的 agent"
       }
     ]
   },
@@ -12760,7 +12795,7 @@
     ]
   },
   "jupyter-mcp-cve": {
-    "title": "后续：Jupyter MCP Server 漏洞被欧盟漏洞库评 9.3 分",
+    "title": "后续：Jupyter MCP Server 漏洞细节——HTTP 模式缺少 Host 和 Origin 检查",
     "appearances": [
       {
         "date": "2026-11-20",
@@ -12771,6 +12806,11 @@
         "date": "2026-11-21",
         "anchor": "jupyter-mcp-cve",
         "headline": "后续：Jupyter MCP Server 漏洞被欧盟漏洞库评 9.3 分"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "jupyter-mcp-cve",
+        "headline": "后续：Jupyter MCP Server 漏洞细节——HTTP 模式缺少 Host 和 Origin 检查"
       }
     ]
   },
@@ -12860,12 +12900,17 @@
     ]
   },
   "rh-lean-verification": {
-    "title": "Lean 独立复核：直播编译、4 个内核检查通过",
+    "title": "Lean 与 Mathlib 联合声明：「完全确信」证明正确",
     "appearances": [
       {
         "date": "2026-11-21",
         "anchor": "rh-lean-verification",
         "headline": "Lean 独立复核：直播编译、4 个内核检查通过"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "rh-lean-verification",
+        "headline": "Lean 与 Mathlib 联合声明：「完全确信」证明正确"
       }
     ]
   },
@@ -12880,12 +12925,17 @@
     ]
   },
   "rh-reactions": {
-    "title": "反应：Jim Fan 说该机器人学界加把劲了，Latent Space 谈形式化验证",
+    "title": "反应：「赛博格」式协作，还是人读不懂的数学",
     "appearances": [
       {
         "date": "2026-11-21",
         "anchor": "rh-reactions",
         "headline": "反应：Jim Fan 说该机器人学界加把劲了，Latent Space 谈形式化验证"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "rh-reactions",
+        "headline": "反应：「赛博格」式协作，还是人读不懂的数学"
       }
     ]
   },
@@ -12910,12 +12960,17 @@
     ]
   },
   "inkling-2-mini": {
-    "title": "Thinking Machines 开源 Inkling 2 Mini：中间 12 层循环三遍",
+    "title": "后续：Inkling 2 Mini 登顶 Hugging Face 趋势榜，本地跑得快",
     "appearances": [
       {
         "date": "2026-11-21",
         "anchor": "inkling-2-mini",
         "headline": "Thinking Machines 开源 Inkling 2 Mini：中间 12 层循环三遍"
+      },
+      {
+        "date": "2026-11-22",
+        "anchor": "inkling-2-mini",
+        "headline": "后续：Inkling 2 Mini 登顶 Hugging Face 趋势榜，本地跑得快"
       }
     ]
   },
@@ -13046,6 +13101,156 @@
         "date": "2026-11-21",
         "anchor": "open-science-1121",
         "headline": "开放科学零讯"
+      }
+    ]
+  },
+  "house-prc-ai-report": {
+    "title": "美国众议院报告：中国开源模型已深入美国经济",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "house-prc-ai-report",
+        "headline": "美国众议院报告：中国开源模型已深入美国经济"
+      }
+    ]
+  },
+  "open-models-1122": {
+    "title": "腾讯在 Hugging Face 发布 Hy4 基座模型",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "open-models-1122",
+        "headline": "腾讯在 Hugging Face 发布 Hy4 基座模型"
+      }
+    ]
+  },
+  "google-misc-1122": {
+    "title": "Google 其他更新：Gemini 能做 GIF，Antigravity 插件和手机用法",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "google-misc-1122",
+        "headline": "Google 其他更新：Gemini 能做 GIF，Antigravity 插件和手机用法"
+      }
+    ]
+  },
+  "dev-tools-1122": {
+    "title": "开发工具零碎：安全扫描技能、组件排行榜、MCP Events",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "dev-tools-1122",
+        "headline": "开发工具零碎：安全扫描技能、组件排行榜、MCP Events"
+      }
+    ]
+  },
+  "proactive-agent-evals": {
+    "title": "主动式 agent 怎么评测：把「什么都不做」也记下来",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "proactive-agent-evals",
+        "headline": "主动式 agent 怎么评测：把「什么都不做」也记下来"
+      }
+    ]
+  },
+  "software-factory-1122": {
+    "title": "软件工厂组件图、VECTOR 六问与 Notion 的共享上下文",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "software-factory-1122",
+        "headline": "软件工厂组件图、VECTOR 六问与 Notion 的共享上下文"
+      }
+    ]
+  },
+  "real-world-task-horizon": {
+    "title": "Ramez Naam：最重要的 AI 曲线错了",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "real-world-task-horizon",
+        "headline": "Ramez Naam：最重要的 AI 曲线错了"
+      }
+    ]
+  },
+  "skyhum-plane-geolocation": {
+    "title": "李博杰开源 skyhum：飞机噪声能给录音定位",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "skyhum-plane-geolocation",
+        "headline": "李博杰开源 skyhum：飞机噪声能给录音定位"
+      }
+    ]
+  },
+  "papers-1122": {
+    "title": "NVIDIA：长程 agent 未必需要超长上下文",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "papers-1122",
+        "headline": "NVIDIA：长程 agent 未必需要超长上下文"
+      }
+    ]
+  },
+  "hf-papers-1122": {
+    "title": "DailyPapers 精选：视频生成、AI 审稿、552B 的 VLA",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "hf-papers-1122",
+        "headline": "DailyPapers 精选：视频生成、AI 审稿、552B 的 VLA"
+      }
+    ]
+  },
+  "openrouter-provider-leak": {
+    "title": "OpenRouter 风波：有服务商被指把请求转发给 MiniMax",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "openrouter-provider-leak",
+        "headline": "OpenRouter 风波：有服务商被指把请求转发给 MiniMax"
+      }
+    ]
+  },
+  "opinions-1122": {
+    "title": "观点：企业想训自己的模型、程序员只懂一部分代码、SaaS 的未来",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "opinions-1122",
+        "headline": "观点：企业想训自己的模型、程序员只懂一部分代码、SaaS 的未来"
+      }
+    ]
+  },
+  "jupyter-misc-1122": {
+    "title": "Datalayer SDK 支持 Poppy 1.0，R htmlwidgets 进 Jupyter",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "jupyter-misc-1122",
+        "headline": "Datalayer SDK 支持 Poppy 1.0，R htmlwidgets 进 Jupyter"
+      }
+    ]
+  },
+  "open-science-1122": {
+    "title": "NASA 公开数据加密码学方法，找脉冲星快约百万倍",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "open-science-1122",
+        "headline": "NASA 公开数据加密码学方法，找脉冲星快约百万倍"
+      }
+    ]
+  },
+  "wikimedia-1122": {
+    "title": "Wikimedia Diff：非洲维基女性参与 AI 治理，小语种社区的技术与教育",
+    "appearances": [
+      {
+        "date": "2026-11-22",
+        "anchor": "wikimedia-1122",
+        "headline": "Wikimedia Diff：非洲维基女性参与 AI 治理，小语种社区的技术与教育"
       }
     ]
   }
