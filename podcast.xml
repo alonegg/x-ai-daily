@@ -26,6 +26,31 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 23 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-23.html</link>
+      <description>OpenAI 公开预训练困惑度、提议行业共同上限；黎曼猜想后续：证明压缩与失准的预测；循环 Transformer 与本地模型；OpenAlex 揭示资助元数据大面积出错；怎样让 agent 的「验证完了」可信
+
+章节：
+0:01 开场与头条预告
+0:54 快讯
+6:54 重点一：OpenAI 公开训练进度，提议行业划线
+9:58 重点二：黎曼猜想后续，证明瘦身和失准的预测
+12:48 重点三：循环 Transformer，给笔记本准备的架构
+15:27 重点四：论文资助信息，大面积写错了
+17:56 评论与讨论：怎么让 agent 的「做完了」靠得住
+19:39 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-23.html</description>
+      <itunes:summary>OpenAI 公开预训练困惑度、提议行业共同上限；黎曼猜想后续：证明压缩与失准的预测；循环 Transformer 与本地模型；OpenAlex 揭示资助元数据大面积出错；怎样让 agent 的「验证完了」可信</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-23.mp3" length="9532652" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 06:51:14 +0800</pubDate>
+      <itunes:duration>00:19:52</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 22 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-22.html</link>
       <description>黎曼猜想证明获 Lean 社区背书；美国众议院报告谈中国开源模型；飞机噪声能给录音定位；LangChain 的知识工厂；真实世界的 AI 任务时长
@@ -877,7 +902,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Sun, 22 Nov 2026 06:48:51 +0800</lastBuildDate>
-    <pubDate>Sun, 22 Nov 2026 06:48:51 +0800</pubDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:51:14 +0800</lastBuildDate>
+    <pubDate>Mon, 23 Nov 2026 06:51:14 +0800</pubDate>
   </channel>
 </rss>

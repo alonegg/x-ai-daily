@@ -1,0 +1,52 @@
+{
+ "title": "11 月 23 日 AI 播报",
+ "summary": "OpenAI 公开预训练困惑度、提议行业共同上限；黎曼猜想后续：证明压缩与失准的预测；循环 Transformer 与本地模型；OpenAlex 揭示资助元数据大面积出错；怎样让 agent 的「验证完了」可信",
+ "voice": "双人：女主持 + 男解读",
+ "voice_id": "longanlingxin+qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1191.552,
+ "size": 9532652,
+ "src": "https://audio.chunlin.ch/ep/2026-11-23.mp3",
+ "pubDate": "2026-11-23T06:51:14+08:00",
+ "chapters": [
+  {
+   "t": 0.6,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 54.228,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 414.352,
+   "title": "重点一：OpenAI 公开训练进度，提议行业划线",
+   "group": "今日重点"
+  },
+  {
+   "t": 597.61,
+   "title": "重点二：黎曼猜想后续，证明瘦身和失准的预测",
+   "group": "今日重点"
+  },
+  {
+   "t": 768.244,
+   "title": "重点三：循环 Transformer，给笔记本准备的架构",
+   "group": "今日重点"
+  },
+  {
+   "t": 926.57,
+   "title": "重点四：论文资助信息，大面积写错了",
+   "group": "今日重点"
+  },
+  {
+   "t": 1075.636,
+   "title": "评论与讨论：怎么让 agent 的「做完了」靠得住",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1179.166,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}
