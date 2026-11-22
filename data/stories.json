@@ -1500,7 +1500,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 一天用掉 31.7 万亿 token；Meta 关掉收来的 Conductor",
+    "title": "后续：T3 Code 口碑与多设备用法",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1601,6 +1601,11 @@
         "date": "2026-11-19",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 一天用掉 31.7 万亿 token；Meta 关掉收来的 Conductor"
+      },
+      {
+        "date": "2026-11-23",
+        "anchor": "t3-code-beta",
+        "headline": "后续：T3 Code 口碑与多设备用法"
       }
     ]
   },
@@ -9040,7 +9045,7 @@
     ]
   },
   "ai-reply-bots": {
-    "title": "后续：levelsio 的 AI 回复黑名单见效",
+    "title": "后续：levelsio 的 AI 回复黑名单",
     "appearances": [
       {
         "date": "2026-11-06",
@@ -9051,6 +9056,11 @@
         "date": "2026-11-22",
         "anchor": "ai-reply-bots",
         "headline": "后续：levelsio 的 AI 回复黑名单见效"
+      },
+      {
+        "date": "2026-11-23",
+        "anchor": "ai-reply-bots",
+        "headline": "后续：levelsio 的 AI 回复黑名单"
       }
     ]
   },
@@ -11460,12 +11470,17 @@
     ]
   },
   "claude-always-on-agents": {
-    "title": "Anthropic《Building always-on agents》：始终在线 agent 的五个部件",
+    "title": "后续：常驻 agent 的权限设计",
     "appearances": [
       {
         "date": "2026-11-15",
         "anchor": "claude-always-on-agents",
         "headline": "Anthropic《Building always-on agents》：始终在线 agent 的五个部件"
+      },
+      {
+        "date": "2026-11-23",
+        "anchor": "claude-always-on-agents",
+        "headline": "后续：常驻 agent 的权限设计"
       }
     ]
   },
@@ -11660,7 +11675,7 @@
     ]
   },
   "claude-code-mode": {
-    "title": "后续：Addy Osmani 详解 Claude Code 的 Code Mode",
+    "title": "后续：Code Mode 的边界——脚本整体审核，JS 本身不进沙箱",
     "appearances": [
       {
         "date": "2026-11-16",
@@ -11676,6 +11691,11 @@
         "date": "2026-11-22",
         "anchor": "claude-code-mode",
         "headline": "后续：Addy Osmani 详解 Claude Code 的 Code Mode"
+      },
+      {
+        "date": "2026-11-23",
+        "anchor": "claude-code-mode",
+        "headline": "后续：Code Mode 的边界——脚本整体审核，JS 本身不进沙箱"
       }
     ]
   },
@@ -12415,7 +12435,7 @@
     ]
   },
   "gemini-4-neon": {
-    "title": "后续：Antigravity 优化缓存并重置配额，Neon 口碑继续发酵",
+    "title": "后续：Antigravity CLI 负责人读完 500 多条反馈",
     "appearances": [
       {
         "date": "2026-11-19",
@@ -12436,6 +12456,11 @@
         "date": "2026-11-22",
         "anchor": "gemini-4-neon",
         "headline": "后续：Antigravity 优化缓存并重置配额，Neon 口碑继续发酵"
+      },
+      {
+        "date": "2026-11-23",
+        "anchor": "gemini-4-neon",
+        "headline": "后续：Antigravity CLI 负责人读完 500 多条反馈"
       }
     ]
   },
@@ -12685,7 +12710,7 @@
     ]
   },
   "knowledge-factory": {
-    "title": "后续：LangChain 长文《如何建一个知识工厂》",
+    "title": "后续：知识工厂讨论扩散，「管家」和「园丁」两类 agent",
     "appearances": [
       {
         "date": "2026-11-20",
@@ -12696,6 +12721,11 @@
         "date": "2026-11-22",
         "anchor": "knowledge-factory",
         "headline": "后续：LangChain 长文《如何建一个知识工厂》"
+      },
+      {
+        "date": "2026-11-23",
+        "anchor": "knowledge-factory",
+        "headline": "后续：知识工厂讨论扩散，「管家」和「园丁」两类 agent"
       }
     ]
   },
@@ -12750,7 +12780,7 @@
     ]
   },
   "apple-agent-friction": {
-    "title": "后续：DHH 批苹果限制第三方 agent，苹果据报在做类似 Muse 的 agent",
+    "title": "后续：苹果被曝在做能控制设备的 agent",
     "appearances": [
       {
         "date": "2026-11-20",
@@ -12761,6 +12791,11 @@
         "date": "2026-11-22",
         "anchor": "apple-agent-friction",
         "headline": "后续：DHH 批苹果限制第三方 agent，苹果据报在做类似 Muse 的 agent"
+      },
+      {
+        "date": "2026-11-23",
+        "anchor": "apple-agent-friction",
+        "headline": "后续：苹果被曝在做能控制设备的 agent"
       }
     ]
   },
@@ -12890,12 +12925,17 @@
     ]
   },
   "riemann-hypothesis-claude": {
-    "title": "Levent Alpöge：与 Claude 合作证明黎曼猜想和广义黎曼猜想",
+    "title": "后续：Lean 证明开始被「压缩」，预测者集体失准",
     "appearances": [
       {
         "date": "2026-11-21",
         "anchor": "riemann-hypothesis-claude",
         "headline": "Levent Alpöge：与 Claude 合作证明黎曼猜想和广义黎曼猜想"
+      },
+      {
+        "date": "2026-11-23",
+        "anchor": "riemann-hypothesis-claude",
+        "headline": "后续：Lean 证明开始被「压缩」，预测者集体失准"
       }
     ]
   },
@@ -12960,7 +13000,7 @@
     ]
   },
   "inkling-2-mini": {
-    "title": "后续：Inkling 2 Mini 登顶 Hugging Face 趋势榜，本地跑得快",
+    "title": "后续：Inkling 2 Mini 的结构细节",
     "appearances": [
       {
         "date": "2026-11-21",
@@ -12971,6 +13011,11 @@
         "date": "2026-11-22",
         "anchor": "inkling-2-mini",
         "headline": "后续：Inkling 2 Mini 登顶 Hugging Face 趋势榜，本地跑得快"
+      },
+      {
+        "date": "2026-11-23",
+        "anchor": "inkling-2-mini",
+        "headline": "后续：Inkling 2 Mini 的结构细节"
       }
     ]
   },
@@ -13241,6 +13286,216 @@
         "date": "2026-11-22",
         "anchor": "wikimedia-1122",
         "headline": "Wikimedia Diff：非洲维基女性参与 AI 治理，小语种社区的技术与教育"
+      }
+    ]
+  },
+  "openai-perplexity-limits": {
+    "title": "《Perplexity and Intelligence》：公开内部困惑度，提议共同上限",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "openai-perplexity-limits",
+        "headline": "《Perplexity and Intelligence》：公开内部困惑度，提议共同上限"
+      }
+    ]
+  },
+  "looped-transformers": {
+    "title": "循环 Transformer 集中出现：用算力换显存",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "looped-transformers",
+        "headline": "循环 Transformer 集中出现：用算力换显存"
+      }
+    ]
+  },
+  "post-training-open-problems": {
+    "title": "Nathan Lambert 的后训练开放问题幻灯片",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "post-training-open-problems",
+        "headline": "Nathan Lambert 的后训练开放问题幻灯片"
+      }
+    ]
+  },
+  "memt-pro": {
+    "title": "MemT-1.0-Pro：原生记忆模型",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "memt-pro",
+        "headline": "MemT-1.0-Pro：原生记忆模型"
+      }
+    ]
+  },
+  "jepa-slow-svreg": {
+    "title": "LeCun 团队：JEPA 能在「脑中」画出地图，但取决于防坍缩方式",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "jepa-slow-svreg",
+        "headline": "LeCun 团队：JEPA 能在「脑中」画出地图，但取决于防坍缩方式"
+      }
+    ]
+  },
+  "hf-papers-1123": {
+    "title": "DailyPapers 精选：手控视频世界模型、苹果 Depth Pro 2 等",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "hf-papers-1123",
+        "headline": "DailyPapers 精选：手控视频世界模型、苹果 Depth Pro 2 等"
+      }
+    ]
+  },
+  "minimax-h3-variants": {
+    "title": "MiniMax H3 的社区变体",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "minimax-h3-variants",
+        "headline": "MiniMax H3 的社区变体"
+      }
+    ]
+  },
+  "agent-verification-dotey": {
+    "title": "宝玉：让 agent 的「验证完了」变成可检查的东西",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "agent-verification-dotey",
+        "headline": "宝玉：让 agent 的「验证完了」变成可检查的东西"
+      }
+    ]
+  },
+  "dive-into-claude-code": {
+    "title": "MBZUAI 与 UCL 拆解 Claude Code",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "dive-into-claude-code",
+        "headline": "MBZUAI 与 UCL 拆解 Claude Code"
+      }
+    ]
+  },
+  "claude-code-tips-1123": {
+    "title": "Claude Code 小工具：依赖冷静期与内置图表",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "claude-code-tips-1123",
+        "headline": "Claude Code 小工具：依赖冷静期与内置图表"
+      }
+    ]
+  },
+  "agent-loop-lessons": {
+    "title": "Parth Sharma：一年半做 agent 的经验",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "agent-loop-lessons",
+        "headline": "Parth Sharma：一年半做 agent 的经验"
+      }
+    ]
+  },
+  "agent-book-3": {
+    "title": "李博杰《深入理解 AI Agent》3.0",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "agent-book-3",
+        "headline": "李博杰《深入理解 AI Agent》3.0"
+      }
+    ]
+  },
+  "dev-misc-1123": {
+    "title": "开发零讯",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "dev-misc-1123",
+        "headline": "开发零讯"
+      }
+    ]
+  },
+  "tesla-fsd-v15": {
+    "title": "Tesla FSD v15 推送：车里跑一个约 10 亿参数的扩散模型画实景",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "tesla-fsd-v15",
+        "headline": "Tesla FSD v15 推送：车里跑一个约 10 亿参数的扩散模型画实景"
+      }
+    ]
+  },
+  "ai-stocks-1123": {
+    "title": "李博杰：别被股价左右，智谱和 MiniMax 跌了约五倍",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "ai-stocks-1123",
+        "headline": "李博杰：别被股价左右，智谱和 MiniMax 跌了约五倍"
+      }
+    ]
+  },
+  "industry-misc-1123": {
+    "title": "产业零讯",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "industry-misc-1123",
+        "headline": "产业零讯"
+      }
+    ]
+  },
+  "open-source-control-1123": {
+    "title": "开源与控制权：LeCun 痛批 Dario",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "open-source-control-1123",
+        "headline": "开源与控制权：LeCun 痛批 Dario"
+      }
+    ]
+  },
+  "opinions-1123": {
+    "title": "观点：人类工作别只剩「迎宾」，L5 自动驾驶还没来",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "opinions-1123",
+        "headline": "观点：人类工作别只剩「迎宾」，L5 自动驾驶还没来"
+      }
+    ]
+  },
+  "jupyterhub-pilot": {
+    "title": "JupyterHub-Pilot：一个 Hub 服务多个团队",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "jupyterhub-pilot",
+        "headline": "JupyterHub-Pilot：一个 Hub 服务多个团队"
+      }
+    ]
+  },
+  "openalex-funding-ack": {
+    "title": "OpenAlex：Crossref 资助信息大量出错，应开放致谢原文",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "openalex-funding-ack",
+        "headline": "OpenAlex：Crossref 资助信息大量出错，应开放致谢原文"
+      }
+    ]
+  },
+  "wikimedia-1123": {
+    "title": "Wikimedia Diff：WikiIndaba 2026 与 Wikidata 社区活动",
+    "appearances": [
+      {
+        "date": "2026-11-23",
+        "anchor": "wikimedia-1123",
+        "headline": "Wikimedia Diff：WikiIndaba 2026 与 Wikidata 社区活动"
       }
     ]
   }
