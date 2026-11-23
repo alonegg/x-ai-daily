@@ -9045,7 +9045,7 @@
     ]
   },
   "ai-reply-bots": {
-    "title": "后续：levelsio 的 AI 回复黑名单",
+    "title": "AI 回复黑名单遭报复",
     "appearances": [
       {
         "date": "2026-11-06",
@@ -9061,6 +9061,11 @@
         "date": "2026-11-23",
         "anchor": "ai-reply-bots",
         "headline": "后续：levelsio 的 AI 回复黑名单"
+      },
+      {
+        "date": "2026-11-24",
+        "anchor": "ai-reply-bots",
+        "headline": "AI 回复黑名单遭报复"
       }
     ]
   },
@@ -11640,7 +11645,7 @@
     ]
   },
   "nvidia-huang-return": {
-    "title": "后续：英伟达临时 CEO 明确不会让黄仁勋回归",
+    "title": "董事会恢复黄仁勋总裁、CEO 和董事职务",
     "appearances": [
       {
         "date": "2026-11-16",
@@ -11661,6 +11666,11 @@
         "date": "2026-11-19",
         "anchor": "nvidia-huang-return",
         "headline": "后续：英伟达临时 CEO 明确不会让黄仁勋回归"
+      },
+      {
+        "date": "2026-11-24",
+        "anchor": "nvidia-huang-return",
+        "headline": "董事会恢复黄仁勋总裁、CEO 和董事职务"
       }
     ]
   },
@@ -12165,7 +12175,7 @@
     ]
   },
   "claude-linked-billing": {
-    "title": "后续：Claude Platform OAuth 让用户自己付 token 钱",
+    "title": "Claude Platform OAuth 实操：客户自己付 token 钱",
     "appearances": [
       {
         "date": "2026-11-18",
@@ -12176,6 +12186,11 @@
         "date": "2026-11-19",
         "anchor": "claude-linked-billing",
         "headline": "后续：Claude Platform OAuth 让用户自己付 token 钱"
+      },
+      {
+        "date": "2026-11-24",
+        "anchor": "claude-linked-billing",
+        "headline": "Claude Platform OAuth 实操：客户自己付 token 钱"
       }
     ]
   },
@@ -12435,7 +12450,7 @@
     ]
   },
   "gemini-4-neon": {
-    "title": "后续：Antigravity CLI 负责人读完 500 多条反馈",
+    "title": "Gemini 4 Neon 口碑与 Antigravity 使用规则",
     "appearances": [
       {
         "date": "2026-11-19",
@@ -12461,6 +12476,11 @@
         "date": "2026-11-23",
         "anchor": "gemini-4-neon",
         "headline": "后续：Antigravity CLI 负责人读完 500 多条反馈"
+      },
+      {
+        "date": "2026-11-24",
+        "anchor": "gemini-4-neon",
+        "headline": "Gemini 4 Neon 口碑与 Antigravity 使用规则"
       }
     ]
   },
@@ -12925,7 +12945,7 @@
     ]
   },
   "riemann-hypothesis-claude": {
-    "title": "后续：Lean 证明开始被「压缩」，预测者集体失准",
+    "title": "数学家怎么看「AI 会解决所有数学」",
     "appearances": [
       {
         "date": "2026-11-21",
@@ -12936,6 +12956,11 @@
         "date": "2026-11-23",
         "anchor": "riemann-hypothesis-claude",
         "headline": "后续：Lean 证明开始被「压缩」，预测者集体失准"
+      },
+      {
+        "date": "2026-11-24",
+        "anchor": "riemann-hypothesis-claude",
+        "headline": "数学家怎么看「AI 会解决所有数学」"
       }
     ]
   },
@@ -13000,7 +13025,7 @@
     ]
   },
   "inkling-2-mini": {
-    "title": "后续：Inkling 2 Mini 的结构细节",
+    "title": "Inkling 2 Mini 在 Mac 上省下八成内存",
     "appearances": [
       {
         "date": "2026-11-21",
@@ -13016,6 +13041,11 @@
         "date": "2026-11-23",
         "anchor": "inkling-2-mini",
         "headline": "后续：Inkling 2 Mini 的结构细节"
+      },
+      {
+        "date": "2026-11-24",
+        "anchor": "inkling-2-mini",
+        "headline": "Inkling 2 Mini 在 Mac 上省下八成内存"
       }
     ]
   },
@@ -13290,22 +13320,32 @@
     ]
   },
   "openai-perplexity-limits": {
-    "title": "《Perplexity and Intelligence》：公开内部困惑度，提议共同上限",
+    "title": "OpenAI 困惑度倡议后续：微软报出 MAI-2 Base 0.819",
     "appearances": [
       {
         "date": "2026-11-23",
         "anchor": "openai-perplexity-limits",
         "headline": "《Perplexity and Intelligence》：公开内部困惑度，提议共同上限"
+      },
+      {
+        "date": "2026-11-24",
+        "anchor": "openai-perplexity-limits",
+        "headline": "OpenAI 困惑度倡议后续：微软报出 MAI-2 Base 0.819"
       }
     ]
   },
   "looped-transformers": {
-    "title": "循环 Transformer 集中出现：用算力换显存",
+    "title": "GLM-5.4：智谱第一个循环 Transformer",
     "appearances": [
       {
         "date": "2026-11-23",
         "anchor": "looped-transformers",
         "headline": "循环 Transformer 集中出现：用算力换显存"
+      },
+      {
+        "date": "2026-11-24",
+        "anchor": "looped-transformers",
+        "headline": "GLM-5.4：智谱第一个循环 Transformer"
       }
     ]
   },
@@ -13496,6 +13536,296 @@
         "date": "2026-11-23",
         "anchor": "wikimedia-1123",
         "headline": "Wikimedia Diff：WikiIndaba 2026 与 Wikidata 社区活动"
+      }
+    ]
+  },
+  "claude-ship": {
+    "title": "Claude Ship（测试版）：PR 从审查、修复到批准一条龙",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "claude-ship",
+        "headline": "Claude Ship（测试版）：PR 从审查、修复到批准一条龙"
+      }
+    ]
+  },
+  "claude-zdr-efs": {
+    "title": "零数据保留 + 企业前沿安全防护（EFS）公测",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "claude-zdr-efs",
+        "headline": "零数据保留 + 企业前沿安全防护（EFS）公测"
+      }
+    ]
+  },
+  "claude-code-misc-1124": {
+    "title": "Claude Code 桌面版侧边栏改版、Claude Academy 评测课",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "claude-code-misc-1124",
+        "headline": "Claude Code 桌面版侧边栏改版、Claude Academy 评测课"
+      }
+    ]
+  },
+  "openai-shirudo": {
+    "title": "OpenAI 与思科开源 Shirudo：给运行中的 Linux 系统上临时「盾牌」",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "openai-shirudo",
+        "headline": "OpenAI 与思科开源 Shirudo：给运行中的 Linux 系统上临时「盾牌」"
+      }
+    ]
+  },
+  "openai-openworks": {
+    "title": "OpenWorks：OpenAI 出钱请本地 AI 专家帮小企业",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "openai-openworks",
+        "headline": "OpenWorks：OpenAI 出钱请本地 AI 专家帮小企业"
+      }
+    ]
+  },
+  "deepmind-quantum-agents": {
+    "title": "DeepMind：Gemini 4 agent 团队加 Lean，降低量子算法成本",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "deepmind-quantum-agents",
+        "headline": "DeepMind：Gemini 4 agent 团队加 Lean，降低量子算法成本"
+      }
+    ]
+  },
+  "gemini-file-slicing": {
+    "title": "Gemini API 文件切片：只为需要的那几页付 token",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "gemini-file-slicing",
+        "headline": "Gemini API 文件切片：只为需要的那几页付 token"
+      }
+    ]
+  },
+  "alexandr-wang-superintelligence": {
+    "title": "Alexandr Wang《Superintelligence is Arriving》",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "alexandr-wang-superintelligence",
+        "headline": "Alexandr Wang《Superintelligence is Arriving》"
+      }
+    ]
+  },
+  "self-rewriting-weights": {
+    "title": "Self-Rewriting：Qwen3.5 27B 写代码改自己的权重",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "self-rewriting-weights",
+        "headline": "Self-Rewriting：Qwen3.5 27B 写代码改自己的权重"
+      }
+    ]
+  },
+  "memory-models-1124": {
+    "title": "模型记忆两条路：MemT-1.0-Pro 与 MemOnce",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "memory-models-1124",
+        "headline": "模型记忆两条路：MemT-1.0-Pro 与 MemOnce"
+      }
+    ]
+  },
+  "models-misc-1124": {
+    "title": "模型零讯：扩散语言模型、腾讯电商与端侧模型",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "models-misc-1124",
+        "headline": "模型零讯：扩散语言模型、腾讯电商与端侧模型"
+      }
+    ]
+  },
+  "papers-1124": {
+    "title": "论文零讯：世界模型不再穿墙、视频预判、超连接",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "papers-1124",
+        "headline": "论文零讯：世界模型不再穿墙、视频预判、超连接"
+      }
+    ]
+  },
+  "robotrack": {
+    "title": "Ai2 RoboTrack：机器人操作的点跟踪基准与模型",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "robotrack",
+        "headline": "Ai2 RoboTrack：机器人操作的点跟踪基准与模型"
+      }
+    ]
+  },
+  "import-ai-482": {
+    "title": "Import AI 482：华为算子基准、会「怀疑」的 AI 科学家",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "import-ai-482",
+        "headline": "Import AI 482：华为算子基准、会「怀疑」的 AI 科学家"
+      }
+    ]
+  },
+  "hf-agentic-evals": {
+    "title": "Hugging Face：怎么建并维护一个 agent 评测",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "hf-agentic-evals",
+        "headline": "Hugging Face：怎么建并维护一个 agent 评测"
+      }
+    ]
+  },
+  "vllm-nvme-kv": {
+    "title": "vLLM：agent 的 KV 缓存直接放 NVMe，跳过 DRAM 层",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "vllm-nvme-kv",
+        "headline": "vLLM：agent 的 KV 缓存直接放 NVMe，跳过 DRAM 层"
+      }
+    ]
+  },
+  "agent-platform-2027": {
+    "title": "Agent 平台之争：运行时之外还要可观测与治理",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "agent-platform-2027",
+        "headline": "Agent 平台之争：运行时之外还要可观测与治理"
+      }
+    ]
+  },
+  "harness-follow-lab": {
+    "title": "换模型后 harness 该跟谁：Dex Horthy 的边界",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "harness-follow-lab",
+        "headline": "换模型后 harness 该跟谁：Dex Horthy 的边界"
+      }
+    ]
+  },
+  "linger-simplex": {
+    "title": "Linger：DeepSeek-VL 负责人张博的开源个人 agent",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "linger-simplex",
+        "headline": "Linger：DeepSeek-VL 负责人张博的开源个人 agent"
+      }
+    ]
+  },
+  "ladybird-alpha": {
+    "title": "Ladybird 浏览器发布首个 alpha",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "ladybird-alpha",
+        "headline": "Ladybird 浏览器发布首个 alpha"
+      }
+    ]
+  },
+  "dev-misc-1124": {
+    "title": "开发零讯",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "dev-misc-1124",
+        "headline": "开发零讯"
+      }
+    ]
+  },
+  "agentic-commerce-1124": {
+    "title": "Agent 购物：偏好一碰就变",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "agentic-commerce-1124",
+        "headline": "Agent 购物：偏好一碰就变"
+      }
+    ]
+  },
+  "manus-zhang-tao": {
+    "title": "Manus 张涛北大分享：做完的 AI 浏览器为什么砍掉",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "manus-zhang-tao",
+        "headline": "Manus 张涛北大分享：做完的 AI 浏览器为什么砍掉"
+      }
+    ]
+  },
+  "industry-misc-1124": {
+    "title": "行业零讯",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "industry-misc-1124",
+        "headline": "行业零讯"
+      }
+    ]
+  },
+  "jupyter-misc-1124": {
+    "title": "Jupyter 生态零讯",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "jupyter-misc-1124",
+        "headline": "Jupyter 生态零讯"
+      }
+    ]
+  },
+  "openalex-credit-roles": {
+    "title": "OpenAlex 开始记录每位作者「做了什么」",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "openalex-credit-roles",
+        "headline": "OpenAlex 开始记录每位作者「做了什么」"
+      }
+    ]
+  },
+  "atlaskv": {
+    "title": "知识图谱放进模型里？AtlasKV 的真实边界",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "atlaskv",
+        "headline": "知识图谱放进模型里？AtlasKV 的真实边界"
+      }
+    ]
+  },
+  "wikimedia-1124": {
+    "title": "维基媒体：语义搜索 A/B 测试与非洲计算社科暑校",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "wikimedia-1124",
+        "headline": "维基媒体：语义搜索 A/B 测试与非洲计算社科暑校"
+      }
+    ]
+  },
+  "open-knowledge-misc-1124": {
+    "title": "开放知识零讯：实验是「入口」，平台锁数据",
+    "appearances": [
+      {
+        "date": "2026-11-24",
+        "anchor": "open-knowledge-misc-1124",
+        "headline": "开放知识零讯：实验是「入口」，平台锁数据"
       }
     ]
   }
