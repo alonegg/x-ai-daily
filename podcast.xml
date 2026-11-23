@@ -26,6 +26,32 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 24 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-24.html</link>
+      <description>黄仁勋复职英伟达 CEO，董事会新设国家安全委员会；Claude Ship 让 AI 审 PR、修 PR、按策略批准；Qwen3.5 27B 自己改权重；Alexandr Wang 谈超级智能；OpenAlex 开放作者贡献角色
+
+章节：
+0:01 开场与头条预告
+0:59 快讯
+6:44 重点一：黄仁勋复职
+9:43 重点二：Claude Ship
+12:16 重点三：模型自己改自己的权重
+15:27 重点四：Alexandr Wang 谈超级智能
+18:11 评论一：OpenAlex 开放作者贡献角色
+19:52 评论二：agent 评测，到底能信多少
+21:25 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-24.html</description>
+      <itunes:summary>黄仁勋复职英伟达 CEO，董事会新设国家安全委员会；Claude Ship 让 AI 审 PR、修 PR、按策略批准；Qwen3.5 27B 自己改权重；Alexandr Wang 谈超级智能；OpenAlex 开放作者贡献角色</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-24.mp3" length="10405100" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 06:52:27 +0800</pubDate>
+      <itunes:duration>00:21:41</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 23 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-23.html</link>
       <description>OpenAI 公开预训练困惑度、提议行业共同上限；黎曼猜想后续：证明压缩与失准的预测；循环 Transformer 与本地模型；OpenAlex 揭示资助元数据大面积出错；怎样让 agent 的「验证完了」可信
@@ -902,7 +928,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Mon, 23 Nov 2026 06:51:14 +0800</lastBuildDate>
-    <pubDate>Mon, 23 Nov 2026 06:51:14 +0800</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:52:27 +0800</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 06:52:27 +0800</pubDate>
   </channel>
 </rss>

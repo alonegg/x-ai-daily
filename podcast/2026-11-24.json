@@ -1,0 +1,57 @@
+{
+ "title": "11 月 24 日 AI 播报",
+ "summary": "黄仁勋复职英伟达 CEO，董事会新设国家安全委员会；Claude Ship 让 AI 审 PR、修 PR、按策略批准；Qwen3.5 27B 自己改权重；Alexandr Wang 谈超级智能；OpenAlex 开放作者贡献角色",
+ "voice": "双人：女主持 + 男解读",
+ "voice_id": "longanlingxin+qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1300.608,
+ "size": 10405100,
+ "src": "https://audio.chunlin.ch/ep/2026-11-24.mp3",
+ "pubDate": "2026-11-24T06:52:27+08:00",
+ "chapters": [
+  {
+   "t": 0.6,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 59.124,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 403.872,
+   "title": "重点一：黄仁勋复职",
+   "group": "今日重点"
+  },
+  {
+   "t": 583.392,
+   "title": "重点二：Claude Ship",
+   "group": "今日重点"
+  },
+  {
+   "t": 736.466,
+   "title": "重点三：模型自己改自己的权重",
+   "group": "今日重点"
+  },
+  {
+   "t": 927.376,
+   "title": "重点四：Alexandr Wang 谈超级智能",
+   "group": "今日重点"
+  },
+  {
+   "t": 1091.326,
+   "title": "评论一：OpenAlex 开放作者贡献角色",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1192.484,
+   "title": "评论二：agent 评测，到底能信多少",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1285.03,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}
