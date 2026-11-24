@@ -970,7 +970,7 @@
     ]
   },
   "claude-code-review-ga": {
-    "title": "后续：Claude Code 团队讲代码审查——查出实质问题从 16% 到 54%",
+    "title": "Claude Code：开了 PR 之后的活怎么交给 Claude",
     "appearances": [
       {
         "date": "2026-10-16",
@@ -1006,6 +1006,11 @@
         "date": "2026-11-21",
         "anchor": "claude-code-review-ga",
         "headline": "后续：Claude Code 团队讲代码审查——查出实质问题从 16% 到 54%"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "claude-code-review-ga",
+        "headline": "Claude Code：开了 PR 之后的活怎么交给 Claude"
       }
     ]
   },
@@ -1500,7 +1505,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "后续：T3 Code 口碑与多设备用法",
+    "title": "T3 Code 遥测风波：删掉文件指纹、公开自己的数据",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1606,6 +1611,11 @@
         "date": "2026-11-23",
         "anchor": "t3-code-beta",
         "headline": "后续：T3 Code 口碑与多设备用法"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 遥测风波：删掉文件指纹、公开自己的数据"
       }
     ]
   },
@@ -9045,7 +9055,7 @@
     ]
   },
   "ai-reply-bots": {
-    "title": "AI 回复黑名单遭报复",
+    "title": "X 反 AI 垃圾帖：算法更新与一场消耗战",
     "appearances": [
       {
         "date": "2026-11-06",
@@ -9066,6 +9076,11 @@
         "date": "2026-11-24",
         "anchor": "ai-reply-bots",
         "headline": "AI 回复黑名单遭报复"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "ai-reply-bots",
+        "headline": "X 反 AI 垃圾帖：算法更新与一场消耗战"
       }
     ]
   },
@@ -11645,7 +11660,7 @@
     ]
   },
   "nvidia-huang-return": {
-    "title": "董事会恢复黄仁勋总裁、CEO 和董事职务",
+    "title": "黄仁勋复职余波：一条「资金链」叙事",
     "appearances": [
       {
         "date": "2026-11-16",
@@ -11671,6 +11686,11 @@
         "date": "2026-11-24",
         "anchor": "nvidia-huang-return",
         "headline": "董事会恢复黄仁勋总裁、CEO 和董事职务"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "nvidia-huang-return",
+        "headline": "黄仁勋复职余波：一条「资金链」叙事"
       }
     ]
   },
@@ -12450,7 +12470,7 @@
     ]
   },
   "gemini-4-neon": {
-    "title": "Gemini 4 Neon 口碑与 Antigravity 使用规则",
+    "title": "Gemini 4 Neon 口碑与 Antigravity 额度",
     "appearances": [
       {
         "date": "2026-11-19",
@@ -12481,6 +12501,11 @@
         "date": "2026-11-24",
         "anchor": "gemini-4-neon",
         "headline": "Gemini 4 Neon 口碑与 Antigravity 使用规则"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "gemini-4-neon",
+        "headline": "Gemini 4 Neon 口碑与 Antigravity 额度"
       }
     ]
   },
@@ -12730,7 +12755,7 @@
     ]
   },
   "knowledge-factory": {
-    "title": "后续：知识工厂讨论扩散，「管家」和「园丁」两类 agent",
+    "title": "LangChain 的 GTM Agent 与「知识工厂」",
     "appearances": [
       {
         "date": "2026-11-20",
@@ -12746,6 +12771,11 @@
         "date": "2026-11-23",
         "anchor": "knowledge-factory",
         "headline": "后续：知识工厂讨论扩散，「管家」和「园丁」两类 agent"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "knowledge-factory",
+        "headline": "LangChain 的 GTM Agent 与「知识工厂」"
       }
     ]
   },
@@ -12945,7 +12975,7 @@
     ]
   },
   "riemann-hypothesis-claude": {
-    "title": "数学家怎么看「AI 会解决所有数学」",
+    "title": "证明对了人却读不懂：黎曼猜想之后的争论",
     "appearances": [
       {
         "date": "2026-11-21",
@@ -12961,6 +12991,11 @@
         "date": "2026-11-24",
         "anchor": "riemann-hypothesis-claude",
         "headline": "数学家怎么看「AI 会解决所有数学」"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "riemann-hypothesis-claude",
+        "headline": "证明对了人却读不懂：黎曼猜想之后的争论"
       }
     ]
   },
@@ -13025,7 +13060,7 @@
     ]
   },
   "inkling-2-mini": {
-    "title": "Inkling 2 Mini 在 Mac 上省下八成内存",
+    "title": "Inkling 2 Mini：笔记本上省下八成内存",
     "appearances": [
       {
         "date": "2026-11-21",
@@ -13046,6 +13081,11 @@
         "date": "2026-11-24",
         "anchor": "inkling-2-mini",
         "headline": "Inkling 2 Mini 在 Mac 上省下八成内存"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "inkling-2-mini",
+        "headline": "Inkling 2 Mini：笔记本上省下八成内存"
       }
     ]
   },
@@ -13070,12 +13110,17 @@
     ]
   },
   "harness-adapters": {
-    "title": "Hugging Face「harness 适配器」：给同一模型按 harness 训 LoRA",
+    "title": "Hugging Face「harness 适配器」：给同一模型配不同的 agent 框架",
     "appearances": [
       {
         "date": "2026-11-21",
         "anchor": "harness-adapters",
         "headline": "Hugging Face「harness 适配器」：给同一模型按 harness 训 LoRA"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "harness-adapters",
+        "headline": "Hugging Face「harness 适配器」：给同一模型配不同的 agent 框架"
       }
     ]
   },
@@ -13570,12 +13615,17 @@
     ]
   },
   "openai-shirudo": {
-    "title": "OpenAI 与思科开源 Shirudo：给运行中的 Linux 系统上临时「盾牌」",
+    "title": "OpenAI 与思科开源 Shirudo：不重启就给 Linux「挡子弹」",
     "appearances": [
       {
         "date": "2026-11-24",
         "anchor": "openai-shirudo",
         "headline": "OpenAI 与思科开源 Shirudo：给运行中的 Linux 系统上临时「盾牌」"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "openai-shirudo",
+        "headline": "OpenAI 与思科开源 Shirudo：不重启就给 Linux「挡子弹」"
       }
     ]
   },
@@ -13590,12 +13640,17 @@
     ]
   },
   "deepmind-quantum-agents": {
-    "title": "DeepMind：Gemini 4 agent 团队加 Lean，降低量子算法成本",
+    "title": "DeepMind 用 Gemini 4 agent 团队加 Lean 优化量子电路",
     "appearances": [
       {
         "date": "2026-11-24",
         "anchor": "deepmind-quantum-agents",
         "headline": "DeepMind：Gemini 4 agent 团队加 Lean，降低量子算法成本"
+      },
+      {
+        "date": "2026-11-25",
+        "anchor": "deepmind-quantum-agents",
+        "headline": "DeepMind 用 Gemini 4 agent 团队加 Lean 优化量子电路"
       }
     ]
   },
@@ -13826,6 +13881,376 @@
         "date": "2026-11-24",
         "anchor": "open-knowledge-misc-1124",
         "headline": "开放知识零讯：实验是「入口」，平台锁数据"
+      }
+    ]
+  },
+  "anthropic-siren": {
+    "title": "Siren：当 agent 能逃出沙箱，它会不会逃",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "anthropic-siren",
+        "headline": "Siren：当 agent 能逃出沙箱，它会不会逃"
+      }
+    ]
+  },
+  "claude-skills-over-mcp": {
+    "title": "MCP 两周年：Skills over MCP 公测、Tasks 正式可用",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "claude-skills-over-mcp",
+        "headline": "MCP 两周年：Skills over MCP 公测、Tasks 正式可用"
+      }
+    ]
+  },
+  "claude-install-as-app": {
+    "title": "Claude Artifacts 可以装成桌面应用",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "claude-install-as-app",
+        "headline": "Claude Artifacts 可以装成桌面应用"
+      }
+    ]
+  },
+  "claude-misc-1125": {
+    "title": "其它 Claude 动态",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "claude-misc-1125",
+        "headline": "其它 Claude 动态"
+      }
+    ]
+  },
+  "openai-protein-design": {
+    "title": "GPT-6 只靠推理和写代码设计蛋白质，做了湿实验",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "openai-protein-design",
+        "headline": "GPT-6 只靠推理和写代码设计蛋白质，做了湿实验"
+      }
+    ]
+  },
+  "openai-exoplanets": {
+    "title": "业余天文爱好者用 Codex、Astra 找系外行星",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "openai-exoplanets",
+        "headline": "业余天文爱好者用 Codex、Astra 找系外行星"
+      }
+    ]
+  },
+  "openai-history-discovery": {
+    "title": "GPT-6.2 Astra 22 分钟破解 1808 年匿名素描本作者",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "openai-history-discovery",
+        "headline": "GPT-6.2 Astra 22 分钟破解 1808 年匿名素描本作者"
+      }
+    ]
+  },
+  "openai-linux-948": {
+    "title": "一次运行验证 948 个 Linux 内核提权漏洞",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "openai-linux-948",
+        "headline": "一次运行验证 948 个 Linux 内核提权漏洞"
+      }
+    ]
+  },
+  "claude-vp-vnp": {
+    "title": "Claude 声称证明代数版 P≠NP（VP≠VNP）",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "claude-vp-vnp",
+        "headline": "Claude 声称证明代数版 P≠NP（VP≠VNP）"
+      }
+    ]
+  },
+  "glm-54": {
+    "title": "GLM-5.4：Z.ai 的首个循环 Transformer",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "glm-54",
+        "headline": "GLM-5.4：Z.ai 的首个循环 Transformer"
+      }
+    ]
+  },
+  "hf-legal-models": {
+    "title": "开源权重模型在法律任务追上前沿",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "hf-legal-models",
+        "headline": "开源权重模型在法律任务追上前沿"
+      }
+    ]
+  },
+  "llamaindex-ocria": {
+    "title": "LlamaIndex 开源 OCRia-1 和 nano 两款文档解析模型",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "llamaindex-ocria",
+        "headline": "LlamaIndex 开源 OCRia-1 和 nano 两款文档解析模型"
+      }
+    ]
+  },
+  "wechat-wepm": {
+    "title": "微信开源端侧统一模型 WePM",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "wechat-wepm",
+        "headline": "微信开源端侧统一模型 WePM"
+      }
+    ]
+  },
+  "models-misc-1125": {
+    "title": "模型与论文速递",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "models-misc-1125",
+        "headline": "模型与论文速递"
+      }
+    ]
+  },
+  "little-book-agent-eng": {
+    "title": "《The Little Book of Agent Engineering》：模型之外的 harness 工程",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "little-book-agent-eng",
+        "headline": "《The Little Book of Agent Engineering》：模型之外的 harness 工程"
+      }
+    ]
+  },
+  "uber-skills": {
+    "title": "Uber 企业级 Agent Skills 治理：一年 5000 多个、月调用过百万",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "uber-skills",
+        "headline": "Uber 企业级 Agent Skills 治理：一年 5000 多个、月调用过百万"
+      }
+    ]
+  },
+  "armin-software-quality": {
+    "title": "Armin Ronacher：启动 141 个项目后，为什么更该追求软件质量",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "armin-software-quality",
+        "headline": "Armin Ronacher：启动 141 个项目后，为什么更该追求软件质量"
+      }
+    ]
+  },
+  "hf-agent-evals": {
+    "title": "Hugging Face：怎么构建和维护 agent 评估",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "hf-agent-evals",
+        "headline": "Hugging Face：怎么构建和维护 agent 评估"
+      }
+    ]
+  },
+  "dev-tools-1125": {
+    "title": "开发工具与实践速递",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "dev-tools-1125",
+        "headline": "开发工具与实践速递"
+      }
+    ]
+  },
+  "deepmind-misc-1125": {
+    "title": "DeepMind 的两则「AI 理解/服务人」",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "deepmind-misc-1125",
+        "headline": "DeepMind 的两则「AI 理解/服务人」"
+      }
+    ]
+  },
+  "platform-misc-1125": {
+    "title": "其它模型平台动态",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "platform-misc-1125",
+        "headline": "其它模型平台动态"
+      }
+    ]
+  },
+  "robotics-worldmodel-1125": {
+    "title": "机器人 RL 环境与世界模型集中发布",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "robotics-worldmodel-1125",
+        "headline": "机器人 RL 环境与世界模型集中发布"
+      }
+    ]
+  },
+  "frontier-vs-robotics": {
+    "title": "通用模型正在超过专用机器人架构？",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "frontier-vs-robotics",
+        "headline": "通用模型正在超过专用机器人架构？"
+      }
+    ]
+  },
+  "anthropic-working-with-ai": {
+    "title": "企业用 AI：价值在改组织，阻力也在这",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "anthropic-working-with-ai",
+        "headline": "企业用 AI：价值在改组织，阻力也在这"
+      }
+    ]
+  },
+  "tim-sweeney-monopoly": {
+    "title": "Tim Sweeney 批评 Anthropic/OpenAI 的「垄断交易」",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "tim-sweeney-monopoly",
+        "headline": "Tim Sweeney 批评 Anthropic/OpenAI 的「垄断交易」"
+      }
+    ]
+  },
+  "bytedance-personal-agent": {
+    "title": "国内 Personal Agent：字节「小豆/豆包 PA」内测",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "bytedance-personal-agent",
+        "headline": "国内 Personal Agent：字节「小豆/豆包 PA」内测"
+      }
+    ]
+  },
+  "industry-misc-1125": {
+    "title": "其它行业与观点零讯",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "industry-misc-1125",
+        "headline": "其它行业与观点零讯"
+      }
+    ]
+  },
+  "autokast": {
+    "title": "Autokast：给 agent 用的网页录屏库",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "autokast",
+        "headline": "Autokast：给 agent 用的网页录屏库"
+      }
+    ]
+  },
+  "marimo-reactive-protocol": {
+    "title": "marimo 在做反应式笔记本的开放协议",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "marimo-reactive-protocol",
+        "headline": "marimo 在做反应式笔记本的开放协议"
+      }
+    ]
+  },
+  "myst-theme-2": {
+    "title": "myst-theme 2.0 发布",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "myst-theme-2",
+        "headline": "myst-theme 2.0 发布"
+      }
+    ]
+  },
+  "datalayer-poppy-sdk": {
+    "title": "Datalayer 修复 Poppy SDK 子域名解析漏洞",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "datalayer-poppy-sdk",
+        "headline": "Datalayer 修复 Poppy SDK 子域名解析漏洞"
+      }
+    ]
+  },
+  "jupyter-misc-1125": {
+    "title": "Jupyter 零讯",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "jupyter-misc-1125",
+        "headline": "Jupyter 零讯"
+      }
+    ]
+  },
+  "scinet-anatomy": {
+    "title": "SciNet：把每个学科拆到「研究任务」一级的开放数据库",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "scinet-anatomy",
+        "headline": "SciNet：把每个学科拆到「研究任务」一级的开放数据库"
+      }
+    ]
+  },
+  "protocols-reproducibility": {
+    "title": "碎片化的方法学，怎么拖垮可重复性",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "protocols-reproducibility",
+        "headline": "碎片化的方法学，怎么拖垮可重复性"
+      }
+    ]
+  },
+  "orcid-dora": {
+    "title": "ORCID×DORA：用 PID 基础设施把「负责任评估」自动化",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "orcid-dora",
+        "headline": "ORCID×DORA：用 PID 基础设施把「负责任评估」自动化"
+      }
+    ]
+  },
+  "wikimedia-1125": {
+    "title": "维基媒体零讯",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "wikimedia-1125",
+        "headline": "维基媒体零讯"
+      }
+    ]
+  },
+  "open-knowledge-misc-1125": {
+    "title": "开放知识零讯",
+    "appearances": [
+      {
+        "date": "2026-11-25",
+        "anchor": "open-knowledge-misc-1125",
+        "headline": "开放知识零讯"
       }
     ]
   }
