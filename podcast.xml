@@ -26,6 +26,35 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 25 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-25.html</link>
+      <description>今天聊：Anthropic 的沙箱逃逸评估 Siren；OpenAI 一天连发蛋白质设计、系外行星、历史发现三件科研成果，外加一次跑出 948 个内核提权漏洞；黎曼猜想证明作者的澄清和 VP 不等于 VNP 的新说法；Anthropic 关于企业怎么用 AI 的报告；还有 MCP 两周年、GLM 五点四、开源法律模型这些快讯。
+
+章节：
+0:01 开场与头条预告
+1:06 快讯
+4:37 重点一：Siren 沙箱逃逸评估
+7:12 重点二：GPT-6 自己设计蛋白质
+9:18 重点三：AI 帮忙做科研——找行星、破历史悬案
+12:10 重点四：一次跑出 948 个内核提权漏洞
+14:06 重点五：黎曼猜想之后——证明对了，人却读不懂
+16:27 重点六：企业到底怎么用 AI
+18:08 评论一：AI 攻防，该乐观还是该慌
+19:34 评论二：两三人的 AI 小队，正在掀桌子
+20:54 评论三：开源软件的信任，正在被两头挤
+22:30 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-25.html</description>
+      <itunes:summary>今天聊：Anthropic 的沙箱逃逸评估 Siren；OpenAI 一天连发蛋白质设计、系外行星、历史发现三件科研成果，外加一次跑出 948 个内核提权漏洞；黎曼猜想证明作者的澄清和 VP 不等于 VNP 的新说法；Anthropic 关于企业怎么用 AI 的报告；还有 MCP 两周年、GLM 五点四、开源法律模型这些快讯。</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-25.mp3" length="10947884" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:11:40 +0800</pubDate>
+      <itunes:duration>00:22:48</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 24 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-24.html</link>
       <description>黄仁勋复职英伟达 CEO，董事会新设国家安全委员会；Claude Ship 让 AI 审 PR、修 PR、按策略批准；Qwen3.5 27B 自己改权重；Alexandr Wang 谈超级智能；OpenAlex 开放作者贡献角色
@@ -928,7 +957,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Tue, 24 Nov 2026 06:52:27 +0800</lastBuildDate>
-    <pubDate>Tue, 24 Nov 2026 06:52:27 +0800</pubDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:11:40 +0800</lastBuildDate>
+    <pubDate>Wed, 25 Nov 2026 07:11:40 +0800</pubDate>
   </channel>
 </rss>
