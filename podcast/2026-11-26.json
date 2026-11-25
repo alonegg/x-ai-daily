@@ -1,0 +1,57 @@
+{
+ "title": "11 月 26 日 AI 播报",
+ "summary": "今天聊：Anthropic 把 API 整体迁到 Rust 的经验；OpenAI 声称把矩阵乘法指数定死在四分之九；Dario 回应「把决策交给 AI」的报道；还有评测分数怎么读、JupyterHub 部署者的心声，以及前沿实验室会不会把最强模型留给自己。",
+ "voice": "双人：女主持 + 男解读",
+ "voice_id": "longanlingxin+qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1347.096,
+ "size": 10777004,
+ "src": "https://audio.chunlin.ch/ep/2026-11-26.mp3",
+ "pubDate": "2026-11-26T06:56:41+08:00",
+ "chapters": [
+  {
+   "t": 0.6,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 58.964,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 259.288,
+   "title": "重点一：Anthropic 把 API 换成 Rust",
+   "group": "今日重点"
+  },
+  {
+   "t": 485.862,
+   "title": "重点二：矩阵乘法的极限是四分之九",
+   "group": "今日重点"
+  },
+  {
+   "t": 684.368,
+   "title": "重点三：Dario 回应「把决策交给 AI」",
+   "group": "今日重点"
+  },
+  {
+   "t": 866.912,
+   "title": "重点四：评测分数到底怎么读",
+   "group": "今日重点"
+  },
+  {
+   "t": 1004.758,
+   "title": "重点五：JupyterHub 的部署者为什么不提代码",
+   "group": "今日重点"
+  },
+  {
+   "t": 1113.62,
+   "title": "评论与讨论",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1324.742,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}

@@ -26,6 +26,32 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 26 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-26.html</link>
+      <description>今天聊：Anthropic 把 API 整体迁到 Rust 的经验；OpenAI 声称把矩阵乘法指数定死在四分之九；Dario 回应「把决策交给 AI」的报道；还有评测分数怎么读、JupyterHub 部署者的心声，以及前沿实验室会不会把最强模型留给自己。
+
+章节：
+0:01 开场与头条预告
+0:59 快讯
+4:19 重点一：Anthropic 把 API 换成 Rust
+8:06 重点二：矩阵乘法的极限是四分之九
+11:24 重点三：Dario 回应「把决策交给 AI」
+14:27 重点四：评测分数到底怎么读
+16:45 重点五：JupyterHub 的部署者为什么不提代码
+18:34 评论与讨论
+22:05 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-26.html</description>
+      <itunes:summary>今天聊：Anthropic 把 API 整体迁到 Rust 的经验；OpenAI 声称把矩阵乘法指数定死在四分之九；Dario 回应「把决策交给 AI」的报道；还有评测分数怎么读、JupyterHub 部署者的心声，以及前沿实验室会不会把最强模型留给自己。</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-26.mp3" length="10777004" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 06:56:41 +0800</pubDate>
+      <itunes:duration>00:22:27</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 25 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-25.html</link>
       <description>今天聊：Anthropic 的沙箱逃逸评估 Siren；OpenAI 一天连发蛋白质设计、系外行星、历史发现三件科研成果，外加一次跑出 948 个内核提权漏洞；黎曼猜想证明作者的澄清和 VP 不等于 VNP 的新说法；Anthropic 关于企业怎么用 AI 的报告；还有 MCP 两周年、GLM 五点四、开源法律模型这些快讯。
@@ -957,7 +983,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Wed, 25 Nov 2026 07:11:40 +0800</lastBuildDate>
-    <pubDate>Wed, 25 Nov 2026 07:11:40 +0800</pubDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:56:41 +0800</lastBuildDate>
+    <pubDate>Thu, 26 Nov 2026 06:56:41 +0800</pubDate>
   </channel>
 </rss>
