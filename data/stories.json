@@ -1505,7 +1505,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 遥测风波：删掉文件指纹、公开自己的数据",
+    "title": "T3 Code 遥测风波反转：部分「追踪」其实是 Claude Code 的流量",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1616,6 +1616,11 @@
         "date": "2026-11-25",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 遥测风波：删掉文件指纹、公开自己的数据"
+      },
+      {
+        "date": "2026-11-26",
+        "anchor": "t3-code-beta",
+        "headline": "T3 Code 遥测风波反转：部分「追踪」其实是 Claude Code 的流量"
       }
     ]
   },
@@ -4610,7 +4615,7 @@
     ]
   },
   "thariq-leaves-anthropic": {
-    "title": "Thariq Shihipar：别把实验室偶像化；勇气比天才稀缺",
+    "title": "Thariq 加入 OpenAI",
     "appearances": [
       {
         "date": "2026-10-25",
@@ -4621,6 +4626,11 @@
         "date": "2026-11-06",
         "anchor": "thariq-leaves-anthropic",
         "headline": "Thariq Shihipar：别把实验室偶像化；勇气比天才稀缺"
+      },
+      {
+        "date": "2026-11-26",
+        "anchor": "thariq-leaves-anthropic",
+        "headline": "Thariq 加入 OpenAI"
       }
     ]
   },
@@ -6115,7 +6125,7 @@
     ]
   },
   "katelyn-lesse-multiagent": {
-    "title": "Anthropic 用 Claude 重写 Rust 后端：迁移三步",
+    "title": "Anthropic 把 Messages API 从 Python 整体迁到 Rust：agent 写代码，线上流量当裁判",
     "appearances": [
       {
         "date": "2026-10-29",
@@ -6141,6 +6151,11 @@
         "date": "2026-11-02",
         "anchor": "katelyn-lesse-multiagent",
         "headline": "Anthropic 用 Claude 重写 Rust 后端：迁移三步"
+      },
+      {
+        "date": "2026-11-26",
+        "anchor": "katelyn-lesse-multiagent",
+        "headline": "Anthropic 把 Messages API 从 Python 整体迁到 Rust：agent 写代码，线上流量当裁判"
       }
     ]
   },
@@ -6925,12 +6940,17 @@
     ]
   },
   "openai-private-intelligence": {
-    "title": "OpenAI 推出 Private Intelligence",
+    "title": "OpenAI 小范围测试 Private Inference",
     "appearances": [
       {
         "date": "2026-10-31",
         "anchor": "openai-private-intelligence",
         "headline": "OpenAI 推出 Private Intelligence"
+      },
+      {
+        "date": "2026-11-26",
+        "anchor": "openai-private-intelligence",
+        "headline": "OpenAI 小范围测试 Private Inference"
       }
     ]
   },
@@ -9755,7 +9775,7 @@
     ]
   },
   "anthropic-ipo-tracking": {
-    "title": "后续：Anthropic 股价从高点回落约 25%",
+    "title": "Anthropic 上市后的杂音：创始人卖股与「人才流失」说",
     "appearances": [
       {
         "date": "2026-11-08",
@@ -9776,6 +9796,11 @@
         "date": "2026-11-21",
         "anchor": "anthropic-ipo-tracking",
         "headline": "后续：Anthropic 股价从高点回落约 25%"
+      },
+      {
+        "date": "2026-11-26",
+        "anchor": "anthropic-ipo-tracking",
+        "headline": "Anthropic 上市后的杂音：创始人卖股与「人才流失」说"
       }
     ]
   },
@@ -11660,7 +11685,7 @@
     ]
   },
   "nvidia-huang-return": {
-    "title": "黄仁勋复职余波：一条「资金链」叙事",
+    "title": "黄仁勋复职后首场全员大会说了什么",
     "appearances": [
       {
         "date": "2026-11-16",
@@ -11691,6 +11716,11 @@
         "date": "2026-11-25",
         "anchor": "nvidia-huang-return",
         "headline": "黄仁勋复职余波：一条「资金链」叙事"
+      },
+      {
+        "date": "2026-11-26",
+        "anchor": "nvidia-huang-return",
+        "headline": "黄仁勋复职后首场全员大会说了什么"
       }
     ]
   },
@@ -12470,7 +12500,7 @@
     ]
   },
   "gemini-4-neon": {
-    "title": "Gemini 4 Neon 口碑与 Antigravity 额度",
+    "title": "Gemini 4 Neon 热度延续：API 命令行工具与用量数字",
     "appearances": [
       {
         "date": "2026-11-19",
@@ -12506,6 +12536,11 @@
         "date": "2026-11-25",
         "anchor": "gemini-4-neon",
         "headline": "Gemini 4 Neon 口碑与 Antigravity 额度"
+      },
+      {
+        "date": "2026-11-26",
+        "anchor": "gemini-4-neon",
+        "headline": "Gemini 4 Neon 热度延续：API 命令行工具与用量数字"
       }
     ]
   },
@@ -12655,12 +12690,17 @@
     ]
   },
   "jupyter-compute-paris": {
-    "title": "Project Jupyter 将参加 Compute! Paris：Fernando Pérez 做开幕主题演讲",
+    "title": "Compute! Paris 本周举行，Jupyter 有专场和冲刺",
     "appearances": [
       {
         "date": "2026-11-19",
         "anchor": "jupyter-compute-paris",
         "headline": "Project Jupyter 将参加 Compute! Paris：Fernando Pérez 做开幕主题演讲"
+      },
+      {
+        "date": "2026-11-26",
+        "anchor": "jupyter-compute-paris",
+        "headline": "Compute! Paris 本周举行，Jupyter 有专场和冲刺"
       }
     ]
   },
@@ -14250,6 +14290,306 @@
       {
         "date": "2026-11-25",
         "anchor": "open-knowledge-misc-1125",
+        "headline": "开放知识零讯"
+      }
+    ]
+  },
+  "anthropic-neuron-basis": {
+    "title": "Anthropic Fellows：回到「神经元」做可解释性",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "anthropic-neuron-basis",
+        "headline": "Anthropic Fellows：回到「神经元」做可解释性"
+      }
+    ]
+  },
+  "bun-aot-140-agents": {
+    "title": "Bun 作者 Jarred Sumner：140 个 agent、5 次重写，以及为什么没把 Claude Code 改写成 Rust",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "bun-aot-140-agents",
+        "headline": "Bun 作者 Jarred Sumner：140 个 agent、5 次重写，以及为什么没把 Claude Code 改写成 Rust"
+      }
+    ]
+  },
+  "claude-managed-agents-arch": {
+    "title": "Claude Managed Agents 团队谈「重建三次」的经验",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "claude-managed-agents-arch",
+        "headline": "Claude Managed Agents 团队谈「重建三次」的经验"
+      }
+    ]
+  },
+  "claude-misc-1126": {
+    "title": "其它 Claude 动态",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "claude-misc-1126",
+        "headline": "其它 Claude 动态"
+      }
+    ]
+  },
+  "openai-matrix-omega": {
+    "title": "OpenAI 预印本：矩阵乘法指数 ω 恰好是 9/4",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "openai-matrix-omega",
+        "headline": "OpenAI 预印本：矩阵乘法指数 ω 恰好是 9/4"
+      }
+    ]
+  },
+  "ai-math-wave-1126": {
+    "title": "「证明来得比读得快」：AI 数学成果的十一月",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "ai-math-wave-1126",
+        "headline": "「证明来得比读得快」：AI 数学成果的十一月"
+      }
+    ]
+  },
+  "ai2-scientists-agents": {
+    "title": "Ai2 访谈 17 位科学家：AI agent 做科研，边界划在哪",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "ai2-scientists-agents",
+        "headline": "Ai2 访谈 17 位科学家：AI agent 做科研，边界划在哪"
+      }
+    ]
+  },
+  "dario-ai-governance": {
+    "title": "Axios 称 Anthropic 内部倾向把部分决策交给超级智能，Dario 长文否认",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "dario-ai-governance",
+        "headline": "Axios 称 Anthropic 内部倾向把部分决策交给超级智能，Dario 长文否认"
+      }
+    ]
+  },
+  "labs-intelligence-monopoly": {
+    "title": "Ethan Mollick：前沿实验室可能变成「智能垄断者」",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "labs-intelligence-monopoly",
+        "headline": "Ethan Mollick：前沿实验室可能变成「智能垄断者」"
+      }
+    ]
+  },
+  "multiagent-engineering-problems": {
+    "title": "swyx：多智能体时代工程师还有大把难题",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "multiagent-engineering-problems",
+        "headline": "swyx：多智能体时代工程师还有大把难题"
+      }
+    ]
+  },
+  "llm-inflection-points": {
+    "title": "Simon Willison：十二个月里的三个拐点",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "llm-inflection-points",
+        "headline": "Simon Willison：十二个月里的三个拐点"
+      }
+    ]
+  },
+  "ai-safety-funding-debate": {
+    "title": "AI 安全资金网络之争",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "ai-safety-funding-debate",
+        "headline": "AI 安全资金网络之争"
+      }
+    ]
+  },
+  "industry-misc-1126": {
+    "title": "行业与观点零讯",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "industry-misc-1126",
+        "headline": "行业与观点零讯"
+      }
+    ]
+  },
+  "nvidia-nvfp4-attention": {
+    "title": "NVIDIA：在 RTX Blackwell 上用「寄存器回收」加速 NVFP4 注意力",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "nvidia-nvfp4-attention",
+        "headline": "NVIDIA：在 RTX Blackwell 上用「寄存器回收」加速 NVFP4 注意力"
+      }
+    ]
+  },
+  "models-misc-1126": {
+    "title": "模型与论文速递",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "models-misc-1126",
+        "headline": "模型与论文速递"
+      }
+    ]
+  },
+  "langchain-agent-lake": {
+    "title": "LangChain「Agent Lake」：把海量运行轨迹变成改进依据",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "langchain-agent-lake",
+        "headline": "LangChain「Agent Lake」：把海量运行轨迹变成改进依据"
+      }
+    ]
+  },
+  "eugene-yan-12-evals": {
+    "title": "Eugene Yan 拆解 12 项公开评测：高分为什么仍难交付",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "eugene-yan-12-evals",
+        "headline": "Eugene Yan 拆解 12 项公开评测：高分为什么仍难交付"
+      }
+    ]
+  },
+  "rust-lock-poisoning": {
+    "title": "Armin Ronacher：废掉 Rust 的「锁中毒」",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "rust-lock-poisoning",
+        "headline": "Armin Ronacher：废掉 Rust 的「锁中毒」"
+      }
+    ]
+  },
+  "netflix-ai-discover": {
+    "title": "Netflix 技术博客：AI Discover 怎么把大模型接进推荐系统",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "netflix-ai-discover",
+        "headline": "Netflix 技术博客：AI Discover 怎么把大模型接进推荐系统"
+      }
+    ]
+  },
+  "ibm-cuga-indic-voice": {
+    "title": "IBM：用开源 agent 框架 CUGA 做印度本地语言语音助手",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "ibm-cuga-indic-voice",
+        "headline": "IBM：用开源 agent 框架 CUGA 做印度本地语言语音助手"
+      }
+    ]
+  },
+  "dev-tools-1126": {
+    "title": "开发工具与实践速递",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "dev-tools-1126",
+        "headline": "开发工具与实践速递"
+      }
+    ]
+  },
+  "jupyterhub-users-workshop": {
+    "title": "JupyterHub「部署者工作坊」复盘：大家都会复现问题，却不觉得自己有资格提 PR",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "jupyterhub-users-workshop",
+        "headline": "JupyterHub「部署者工作坊」复盘：大家都会复现问题，却不觉得自己有资格提 PR"
+      }
+    ]
+  },
+  "jupyter-misc-1126": {
+    "title": "Jupyter 零讯",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "jupyter-misc-1126",
+        "headline": "Jupyter 零讯"
+      }
+    ]
+  },
+  "openalex-full-references": {
+    "title": "OpenAlex 上线完整参考文献列表",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "openalex-full-references",
+        "headline": "OpenAlex 上线完整参考文献列表"
+      }
+    ]
+  },
+  "okfn-traceable-public-data": {
+    "title": "OKFN：让 AI 回答能追溯到政府开放数据集",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "okfn-traceable-public-data",
+        "headline": "OKFN：让 AI 回答能追溯到政府开放数据集"
+      }
+    ]
+  },
+  "buehler-ai-scientists": {
+    "title": "Markus Buehler：「AI 科学家社会」与《By their own making》",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "buehler-ai-scientists",
+        "headline": "Markus Buehler：「AI 科学家社会」与《By their own making》"
+      }
+    ]
+  },
+  "readyneuro-fmri": {
+    "title": "ReadyNeuro：最大的开放 fMRI 预训练数据集",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "readyneuro-fmri",
+        "headline": "ReadyNeuro：最大的开放 fMRI 预训练数据集"
+      }
+    ]
+  },
+  "pensoft-kazakhstan-plants": {
+    "title": "Pensoft：哈萨克斯坦特有植物只有约五分之一有足够分布数据",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "pensoft-kazakhstan-plants",
+        "headline": "Pensoft：哈萨克斯坦特有植物只有约五分之一有足够分布数据"
+      }
+    ]
+  },
+  "wikimedia-1126": {
+    "title": "维基媒体零讯",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "wikimedia-1126",
+        "headline": "维基媒体零讯"
+      }
+    ]
+  },
+  "open-knowledge-misc-1126": {
+    "title": "开放知识零讯",
+    "appearances": [
+      {
+        "date": "2026-11-26",
+        "anchor": "open-knowledge-misc-1126",
         "headline": "开放知识零讯"
       }
     ]
