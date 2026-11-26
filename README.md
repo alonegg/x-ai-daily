@@ -1,19 +1,27 @@
 # X 每日 AI 摘要
 
-每天整理中英文 AI 与开发领域 X 账号的重要帖子。网站：https://alonegg.github.io/x-ai-daily/
+每天整理中英文 AI 与开发领域 X 账号的重要帖子。网站：https://daily.chunlin.ch/
 
 ## 结构
 - `digests/YYYY-MM-DD.md` Markdown 源文件；`digests/YYYY-MM-DD.html` 渲染页面
 - `index.html` 首页（最新一期 + 往期列表），`assets/style.css` 共享样式
 - `scripts/publish.py` 发布脚本（仅用 Python 标准库）
+- `scripts/check.py` 校验摘要 HTML 和 RSS 音频链接（HEAD 状态及长度）；`--today` 同时检查北京时间当天的摘要 Markdown 和播客 JSON
 
 ## 发布
+在仓库根目录执行（Python 3.10+）：
+
 ```bash
-cd /workspace/x-ai-daily
-git pull --rebase origin main
 python3 scripts/publish.py /path/to/2026-10-15.md   # 复制到 digests/，渲染、重建首页、提交并推送
 python3 scripts/publish.py --no-push                 # 仅重新渲染全部
+python3 scripts/check.py                           # 检查生成结果和 RSS 音频链接
 ```
+
+### GitHub Actions
+- `.github/workflows/check.yml`：推送到 `main`、Pull Request、手动运行和每天北京时间 07:45 执行。重建后检查 Git 工作区无变化，再运行 `scripts/check.py`；仅定时检查要求当天的摘要和播客元数据都已发布。
+- `.github/workflows/pages.yml`：推送到 `main` 时部署。北京时间 09:00 前，如果当天仅有摘要、没有播客 JSON，则跳过此次部署；每天 09:30 的兜底部署和手动部署不受此限制。
+- 仓库 **Settings → Pages → Build and deployment → Source** 必须选择 **GitHub Actions**。
+
 ## Markdown 格式
 ```markdown
 # X 每日 AI 摘要 · YYYY-MM-DD
@@ -28,7 +36,7 @@ python3 scripts/publish.py --no-push                 # 仅重新渲染全部
 
 ## 跨天事件追踪
 - 在标题后加 `{#story-id}` 标记事件 id（小写字母、数字、连字符），例如 `- **Gemini 4 Argon 降价** {#gemini-4-argon}：…`。该 id 同时作为条目锚点（`digests/日期.html#story-id`）。
-- 不同日期使用同一 id 即视为同一事件：每次发布会重建 `data/stories.json`（id → 标题与出现日期/锚点）、重新渲染所有页面，条目下自动显示“📌 同一事件”链接到其他日期，并生成 `stories.html` 时间线（首页顶部有入口）。
+- 不同日期使用同一 id 即视为同一事件：每次发布会重建 `data/stories.json`（id → 标题与出现日期/锚点）。页面从该文件加载“同一事件”链接，无需因新增后续报道而修改旧期页面。`stories.html` 时间线仍在发布时生成（首页顶部有入口）。
 - 可选后续说明：在详情中、`来源：` 之前写 `后续：说明文字`，会渲染为“后续（接 上一次日期）”并链接到前一次出现的条目。
 - 未标 id 的条目使用自动锚点 `item-N`，不参与事件追踪。
 
@@ -44,5 +52,6 @@ python3 scripts/publish.py --no-push                 # 仅重新渲染全部
 - 把当天音频放到 `podcast/YYYY-MM-DD.mp3`，发布时该日页面顶部（以及首页）自动出现播客播放器；没有 mp3 就不显示。往期列表会给有播客的日期加「▶ 播客」标记。
 - 可选 `podcast/YYYY-MM-DD.json`：`title`、`desc`、`voice`、`duration`（秒，缺省时用 ffprobe 读取）、`chapters`（`[{"t": 秒, "title": "…", "group": "今日快讯|今日重点|值得评论 · 一起讨论"}]`）。
 - 可选 `podcast/YYYY-MM-DD.md`：口播文字稿，以 `## ` 分段，渲染为可折叠「文字稿」。
+- `site_config.json` 的 `podcast.owner_email`：为空则省略，填写后会作为公开的播客所有者邮件地址写入 RSS。
 - 播放器：播放/暂停、后退 15 秒 / 前进 30 秒、进度条、1× / 1.25× / 1.5× / 2× 倍速（记住上次选择）、章节跳转、断点续听（localStorage）、滚动后底部迷你播放条、锁屏媒体信息（Media Session）。
 - 体积提醒：每期约 18 MB（96 kbps）。仓库建议只保留最近若干期音频，或改放对象存储 / Release 附件。

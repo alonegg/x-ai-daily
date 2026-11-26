@@ -109,6 +109,7 @@ ul.items{list-style:none;padding:0;margin:0}
 .summary strong{color:var(--fg)}
 code{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:.86em;background:var(--card2);border:1px solid var(--line);border-radius:5px;padding:0 4px;overflow-wrap:anywhere}
 .story{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:center;font-size:13px;margin-top:12px;color:var(--muted)}.story span{font-weight:600}.story span::before{content:"🔗 "}
+.story[hidden]{display:none}
 .src{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin-top:14px;padding-top:12px;border-top:1px solid var(--line2)}.srcl{font-size:12px;color:var(--muted);margin-right:2px}
 .srcbtn{display:inline-flex;align-items:center;gap:6px;font-size:12.5px;line-height:1.6;padding:2px 11px 2px 4px;border:1px solid var(--line);border-radius:999px;background:var(--card2);color:var(--fg2);max-width:100%;transition:border-color .15s,color .15s}
 a.srcbtn:hover{border-color:var(--accent);color:var(--accent);text-decoration:none}.srcbtn b{font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}

@@ -1,0 +1,45 @@
+name: Deploy Pages
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: '30 1 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Wait for today's podcast on early pushes
+        id: gate
+        run: |
+          read -r today hour < <(TZ=Asia/Shanghai date '+%F %H')
+          if [[ "$GITHUB_EVENT_NAME" == push && -f "digests/$today.md" && ! -f "podcast/$today.json" ]] && (( 10#$hour < 9 )); then
+            echo "Skipping Pages deploy: $today digest is ready, but the podcast is not ready before 09:00 Beijing time."
+            echo "deploy=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "deploy=true" >> "$GITHUB_OUTPUT"
+          fi
+      - if: steps.gate.outputs.deploy == 'true'
+        uses: actions/configure-pages@v5
+      - if: steps.gate.outputs.deploy == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - if: steps.gate.outputs.deploy == 'true'
+        id: deployment
+        uses: actions/deploy-pages@v4
