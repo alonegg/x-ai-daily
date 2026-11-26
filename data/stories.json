@@ -1505,7 +1505,7 @@
     ]
   },
   "t3-code-beta": {
-    "title": "T3 Code 遥测风波反转：部分「追踪」其实是 Claude Code 的流量",
+    "title": "后续：T3 Code 风波之后——移动版 2.4、对手 Mira 拉人、中文圈口水战收尾",
     "appearances": [
       {
         "date": "2026-10-17",
@@ -1621,6 +1621,11 @@
         "date": "2026-11-26",
         "anchor": "t3-code-beta",
         "headline": "T3 Code 遥测风波反转：部分「追踪」其实是 Claude Code 的流量"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "t3-code-beta",
+        "headline": "后续：T3 Code 风波之后——移动版 2.4、对手 Mira 拉人、中文圈口水战收尾"
       }
     ]
   },
@@ -4475,7 +4480,7 @@
     ]
   },
   "ai-pause-debate": {
-    "title": "后续：PauseAI 在伦敦办最大规模游行，数学家 Tim Gowers 参加",
+    "title": "后续：暂停 AI 与「交接」之争",
     "appearances": [
       {
         "date": "2026-10-24",
@@ -4486,6 +4491,11 @@
         "date": "2026-11-22",
         "anchor": "ai-pause-debate",
         "headline": "后续：PauseAI 在伦敦办最大规模游行，数学家 Tim Gowers 参加"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "ai-pause-debate",
+        "headline": "后续：暂停 AI 与「交接」之争"
       }
     ]
   },
@@ -4615,7 +4625,7 @@
     ]
   },
   "thariq-leaves-anthropic": {
-    "title": "Thariq 加入 OpenAI",
+    "title": "后续：Thariq 在 Latent Space：瓶颈是「和模型协作的方式」",
     "appearances": [
       {
         "date": "2026-10-25",
@@ -4631,6 +4641,11 @@
         "date": "2026-11-26",
         "anchor": "thariq-leaves-anthropic",
         "headline": "Thariq 加入 OpenAI"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "thariq-leaves-anthropic",
+        "headline": "后续：Thariq 在 Latent Space：瓶颈是「和模型协作的方式」"
       }
     ]
   },
@@ -9075,7 +9090,7 @@
     ]
   },
   "ai-reply-bots": {
-    "title": "X 反 AI 垃圾帖：算法更新与一场消耗战",
+    "title": "后续：levelsio 的 AI 垃圾回复黑名单：500 多个账号被封",
     "appearances": [
       {
         "date": "2026-11-06",
@@ -9101,6 +9116,11 @@
         "date": "2026-11-25",
         "anchor": "ai-reply-bots",
         "headline": "X 反 AI 垃圾帖：算法更新与一场消耗战"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "ai-reply-bots",
+        "headline": "后续：levelsio 的 AI 垃圾回复黑名单：500 多个账号被封"
       }
     ]
   },
@@ -11685,7 +11705,7 @@
     ]
   },
   "nvidia-huang-return": {
-    "title": "黄仁勋复职后首场全员大会说了什么",
+    "title": "后续：黄仁勋回归余波——Denny's 铭牌与「国防生产法」说法",
     "appearances": [
       {
         "date": "2026-11-16",
@@ -11721,6 +11741,11 @@
         "date": "2026-11-26",
         "anchor": "nvidia-huang-return",
         "headline": "黄仁勋复职后首场全员大会说了什么"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "nvidia-huang-return",
+        "headline": "后续：黄仁勋回归余波——Denny's 铭牌与「国防生产法」说法"
       }
     ]
   },
@@ -12500,7 +12525,7 @@
     ]
   },
   "gemini-4-neon": {
-    "title": "Gemini 4 Neon 热度延续：API 命令行工具与用量数字",
+    "title": "后续：Gemini 4 Neon 热度——Amp 被限速，Antigravity 感恩节重置配额",
     "appearances": [
       {
         "date": "2026-11-19",
@@ -12541,6 +12566,11 @@
         "date": "2026-11-26",
         "anchor": "gemini-4-neon",
         "headline": "Gemini 4 Neon 热度延续：API 命令行工具与用量数字"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "gemini-4-neon",
+        "headline": "后续：Gemini 4 Neon 热度——Amp 被限速，Antigravity 感恩节重置配额"
       }
     ]
   },
@@ -13015,7 +13045,7 @@
     ]
   },
   "riemann-hypothesis-claude": {
-    "title": "证明对了人却读不懂：黎曼猜想之后的争论",
+    "title": "后续：黎曼猜想 Lean 证明出了约 7.6 万行的新版本",
     "appearances": [
       {
         "date": "2026-11-21",
@@ -13036,6 +13066,11 @@
         "date": "2026-11-25",
         "anchor": "riemann-hypothesis-claude",
         "headline": "证明对了人却读不懂：黎曼猜想之后的争论"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "riemann-hypothesis-claude",
+        "headline": "后续：黎曼猜想 Lean 证明出了约 7.6 万行的新版本"
       }
     ]
   },
@@ -14365,12 +14400,17 @@
     ]
   },
   "dario-ai-governance": {
-    "title": "Axios 称 Anthropic 内部倾向把部分决策交给超级智能，Dario 长文否认",
+    "title": "后续：Dario 声明的中文圈反应",
     "appearances": [
       {
         "date": "2026-11-26",
         "anchor": "dario-ai-governance",
         "headline": "Axios 称 Anthropic 内部倾向把部分决策交给超级智能，Dario 长文否认"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "dario-ai-governance",
+        "headline": "后续：Dario 声明的中文圈反应"
       }
     ]
   },
@@ -14445,12 +14485,17 @@
     ]
   },
   "langchain-agent-lake": {
-    "title": "LangChain「Agent Lake」：把海量运行轨迹变成改进依据",
+    "title": "后续：Agent Lake 的两层计算",
     "appearances": [
       {
         "date": "2026-11-26",
         "anchor": "langchain-agent-lake",
         "headline": "LangChain「Agent Lake」：把海量运行轨迹变成改进依据"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "langchain-agent-lake",
+        "headline": "后续：Agent Lake 的两层计算"
       }
     ]
   },
@@ -14535,12 +14580,17 @@
     ]
   },
   "okfn-traceable-public-data": {
-    "title": "OKFN：让 AI 回答能追溯到政府开放数据集",
+    "title": "后续：OKFN 在巴西开放数据周展示可追溯公共数据的 AI 原型",
     "appearances": [
       {
         "date": "2026-11-26",
         "anchor": "okfn-traceable-public-data",
         "headline": "OKFN：让 AI 回答能追溯到政府开放数据集"
+      },
+      {
+        "date": "2026-11-27",
+        "anchor": "okfn-traceable-public-data",
+        "headline": "后续：OKFN 在巴西开放数据周展示可追溯公共数据的 AI 原型"
       }
     ]
   },
@@ -14591,6 +14641,316 @@
         "date": "2026-11-26",
         "anchor": "open-knowledge-misc-1126",
         "headline": "开放知识零讯"
+      }
+    ]
+  },
+  "ven-gravity-quantization": {
+    "title": "OpenAI 研究员提出四维真空引力的量子化方案",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "ven-gravity-quantization",
+        "headline": "OpenAI 研究员提出四维真空引力的量子化方案"
+      }
+    ]
+  },
+  "aaronson-math-continent": {
+    "title": "Scott Aaronson：「一整块新的数学真理大陆」",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "aaronson-math-continent",
+        "headline": "Scott Aaronson：「一整块新的数学真理大陆」"
+      }
+    ]
+  },
+  "flow-cytometry-sim": {
+    "title": "免疫学家用 GPT-6.2 Astra 做出流式细胞分选仪的交互仿真",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "flow-cytometry-sim",
+        "headline": "免疫学家用 GPT-6.2 Astra 做出流式细胞分选仪的交互仿真"
+      }
+    ]
+  },
+  "openai-gpt62-billing-fix": {
+    "title": "OpenAI 修正 GPT-6.2 计费错误：Astra 快 40%、Sol 快 25% 触顶",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "openai-gpt62-billing-fix",
+        "headline": "OpenAI 修正 GPT-6.2 计费错误：Astra 快 40%、Sol 快 25% 触顶"
+      }
+    ]
+  },
+  "claude-usage-resets": {
+    "title": "Claude 额度提醒：免费全量重置 12 月 10 日前有效",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "claude-usage-resets",
+        "headline": "Claude 额度提醒：免费全量重置 12 月 10 日前有效"
+      }
+    ]
+  },
+  "opus-56-rumor": {
+    "title": "未证实：传闻中的「Opus 5.6」做出整套 3D 网页演示",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "opus-56-rumor",
+        "headline": "未证实：传闻中的「Opus 5.6」做出整套 3D 网页演示"
+      }
+    ]
+  },
+  "model-naming-confusion": {
+    "title": "Ethan Mollick：模型名字越来越说明不了能力",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "model-naming-confusion",
+        "headline": "Ethan Mollick：模型名字越来越说明不了能力"
+      }
+    ]
+  },
+  "local-models-spark": {
+    "title": "本地模型：Inkling 2 Mini 胜过 Qwen3.8 27B，DGX Spark 选型清单",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "local-models-spark",
+        "headline": "本地模型：Inkling 2 Mini 胜过 Qwen3.8 27B，DGX Spark 选型清单"
+      }
+    ]
+  },
+  "loop-transformer": {
+    "title": "「循环 Transformer」本周走红：同一组层多跑几遍",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "loop-transformer",
+        "headline": "「循环 Transformer」本周走红：同一组层多跑几遍"
+      }
+    ]
+  },
+  "nemotron-35-parse": {
+    "title": "NVIDIA：Nemotron 3.5 Parse 开放训练数据，强化学习把「死循环输出」砍掉约 77%",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "nemotron-35-parse",
+        "headline": "NVIDIA：Nemotron 3.5 Parse 开放训练数据，强化学习把「死循环输出」砍掉约 77%"
+      }
+    ]
+  },
+  "llamacpp-amd-bench": {
+    "title": "llama.cpp × AMD 基准看板上线",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "llamacpp-amd-bench",
+        "headline": "llama.cpp × AMD 基准看板上线"
+      }
+    ]
+  },
+  "models-misc-1127": {
+    "title": "模型与论文速递",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "models-misc-1127",
+        "headline": "模型与论文速递"
+      }
+    ]
+  },
+  "agent-native-computer-use": {
+    "title": "「Agent 原生」的电脑操作：逆向软件、自建 MCP，FreeCAD 快 55 倍",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "agent-native-computer-use",
+        "headline": "「Agent 原生」的电脑操作：逆向软件、自建 MCP，FreeCAD 快 55 倍"
+      }
+    ]
+  },
+  "philschmid-neon-habits": {
+    "title": "Philipp Schmid：换到 Gemini 4 Neon 后改掉的 5 个习惯",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "philschmid-neon-habits",
+        "headline": "Philipp Schmid：换到 Gemini 4 Neon 后改掉的 5 个习惯"
+      }
+    ]
+  },
+  "hf-training-swarms": {
+    "title": "Hugging Face：多智能体系统怎么建、怎么训、怎么评",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "hf-training-swarms",
+        "headline": "Hugging Face：多智能体系统怎么建、怎么训、怎么评"
+      }
+    ]
+  },
+  "karpathy-civ-map": {
+    "title": "Karpathy 让 Claude 用美国真实数据铺了一张「文明」式地图",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "karpathy-civ-map",
+        "headline": "Karpathy 让 Claude 用美国真实数据铺了一张「文明」式地图"
+      }
+    ]
+  },
+  "skill-shell-guard": {
+    "title": "Claude Code 技能安全：skill-shell-guard 拦截加载时执行的命令",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "skill-shell-guard",
+        "headline": "Claude Code 技能安全：skill-shell-guard 拦截加载时执行的命令"
+      }
+    ]
+  },
+  "rex-osc-7577": {
+    "title": "终端新协议 OSC 7577：服务器重启后恢复程序",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "rex-osc-7577",
+        "headline": "终端新协议 OSC 7577：服务器重启后恢复程序"
+      }
+    ]
+  },
+  "dev-tools-1127": {
+    "title": "开发工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "dev-tools-1127",
+        "headline": "开发工具速递"
+      }
+    ]
+  },
+  "saas-refounding-zapier": {
+    "title": "SaaS「重新创业」潮：Zapier 被问「Claude 都能连我的应用了，还要你干嘛」",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "saas-refounding-zapier",
+        "headline": "SaaS「重新创业」潮：Zapier 被问「Claude 都能连我的应用了，还要你干嘛」"
+      }
+    ]
+  },
+  "clay-gtm-agents": {
+    "title": "Clay 的 GTM agent：为什么不想打败「Clay + Claude Code」",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "clay-gtm-agents",
+        "headline": "Clay 的 GTM agent：为什么不想打败「Clay + Claude Code」"
+      }
+    ]
+  },
+  "industry-misc-1127": {
+    "title": "行业零讯",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "industry-misc-1127",
+        "headline": "行业零讯"
+      }
+    ]
+  },
+  "ai-written-outreach": {
+    "title": "「你的文章吸引了我」：AI 代写的求职邮件让人沮丧",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "ai-written-outreach",
+        "headline": "「你的文章吸引了我」：AI 代写的求职邮件让人沮丧"
+      }
+    ]
+  },
+  "views-misc-1127": {
+    "title": "观点零讯",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "views-misc-1127",
+        "headline": "观点零讯"
+      }
+    ]
+  },
+  "deepnote-dm-agent": {
+    "title": "Deepnote：让 agent 每天读客户私信，只把「该共享的」发到内部频道",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "deepnote-dm-agent",
+        "headline": "Deepnote：让 agent 每天读客户私信，只把「该共享的」发到内部频道"
+      }
+    ]
+  },
+  "jupyter-misc-1127": {
+    "title": "Jupyter 零讯",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "jupyter-misc-1127",
+        "headline": "Jupyter 零讯"
+      }
+    ]
+  },
+  "pensoft-tatra-grasshopper": {
+    "title": "一张 iNaturalist 上的模糊照片，找到塔特拉山「天空之岛」上的新蝗虫",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "pensoft-tatra-grasshopper",
+        "headline": "一张 iNaturalist 上的模糊照片，找到塔特拉山「天空之岛」上的新蝗虫"
+      }
+    ]
+  },
+  "okfn-ai-peace-course": {
+    "title": "OKFN 推出开放课程《AI for Peace Negotiators》",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "okfn-ai-peace-course",
+        "headline": "OKFN 推出开放课程《AI for Peace Negotiators》"
+      }
+    ]
+  },
+  "knowledge-graph-ontology": {
+    "title": "知识图谱与本体：「混乱的底层模型只会产出流畅的混乱」",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "knowledge-graph-ontology",
+        "headline": "知识图谱与本体：「混乱的底层模型只会产出流畅的混乱」"
+      }
+    ]
+  },
+  "wikimedia-1127": {
+    "title": "维基媒体零讯",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "wikimedia-1127",
+        "headline": "维基媒体零讯"
+      }
+    ]
+  },
+  "open-science-misc-1127": {
+    "title": "开放科学零讯",
+    "appearances": [
+      {
+        "date": "2026-11-27",
+        "anchor": "open-science-misc-1127",
+        "headline": "开放科学零讯"
       }
     ]
   }
