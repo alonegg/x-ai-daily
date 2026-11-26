@@ -6,13 +6,14 @@ import html, json, re, shutil, subprocess, sys, datetime, uuid
 from email.utils import format_datetime
 from pathlib import Path
 import xml.etree.ElementTree as ET
+from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parent.parent
 D = ROOT / "digests"
-LINK = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
+LINK = re.compile(r"\[([^\]]+)\]\(((?:[^()]|\([^()]*\))+)\)")
 HEAD = re.compile(r"^- \*\*(.+?)\*\*\s*(?:\{#([\w-]+)\})?\s*(.*)$")
 STORIES = {}  # id -> {title, appearances:[{date, anchor, headline}]}
 CUR = {"date": None, "n": 0}
-ITEM = re.compile(r"^- \[([^\]]+)\]\(([^)]+)\)[：:]\s*(.*)$")
+ITEM = re.compile(r"^- " + LINK.pattern + r"[：:]\s*(.*)$")
 
 TAG = re.compile(r"^\s*\[(长推|系列|长文)\]\s*")
 SECTION_IDS = {}
@@ -103,11 +104,20 @@ def player(date, root):
 {ch}{tx}<div class="pod-sub"><a class="pod-sub-a" href="{root}{FEED}">📡 订阅播客</a><code>{SITE}{FEED}</code><button type="button" class="pod-copy" data-u="{SITE}{FEED}">复制</button><span>把这个 RSS 地址粘贴到任意支持 RSS 的播客 App（如 Apple 播客、Pocket Casts、Overcast），每天自动收到新一期。</span></div></section>
 <div class="pod-mini" hidden><button type="button" class="pod-play" aria-label="播放/暂停"><span class="i-play">▶</span><span class="i-pause">❚❚</span></button><a href="#podcast" class="pod-mini-t"><b>今日播报</b><span class="pod-now"></span></a><span class="pod-cur">0:00</span><button type="button" class="pod-rate1">1×</button></div>"""
 
+def safe_url(u):
+    u = re.sub(r"[\x00-\x1f\x7f]", "", u).strip()
+    if not u: return None
+    if u.lower().startswith(("http://", "https://")): return u
+    if re.match(r"^[^/\\?#]*:", u): return None
+    return u
+
 def inline(t):
     out, last = [], 0
     for m in LINK.finditer(t):
         out.append(html.escape(t[last:m.start()]))
-        out.append(f'<a href="{html.escape(m.group(2))}"{"" if m.group(2).startswith("#") else " target=\"_blank\" rel=\"noopener\""}>{html.escape(m.group(1))}</a>')
+        label, u = html.escape(m.group(1)), safe_url(m.group(2))
+        attrs = '' if u and u.startswith("#") else ' target="_blank" rel="noopener"'
+        out.append(f'<a href="{html.escape(u)}"{attrs}>{label}</a>' if u else label)
         last = m.end()
     out.append(html.escape(t[last:]))
     s = "".join(out)
@@ -174,6 +184,8 @@ def platform(u, text=""):
 
 def src_btn(t, u):
     """kept for the legacy '- [author](url)：' item format"""
+    u = safe_url(u)
+    if not u: return ""
     k, lab = platform(u, t)
     m = re.match(r"^(.*?)\s*@(\w+)$", t.strip())
     name = (m.group(1) or "@" + m.group(2)) if m else t
@@ -182,6 +194,8 @@ def src_btn(t, u):
 def src_row(links, label="原文"):
     groups = []  # [(name, handle, kind, lab, [urls])]
     for t, u in links:
+        u = safe_url(u)
+        if not u: continue
         k, lab = platform(u, t)
         m = re.match(r"^(.*?)\s*@(\w+)$", t.strip())
         name, h = ((m.group(1) or "@" + m.group(2)), m.group(2)) if m else (t.strip(), "")
@@ -200,7 +214,8 @@ def src_row(links, label="原文"):
     if len(chips) > 8:
         body = "".join(chips[:6]) + f'<details class="more"><summary>+{len(chips)-6} 个来源</summary><div class="more-in">{"".join(chips[6:])}</div></details>'
     else: body = "".join(chips)
-    return f'<div class="src"><span class="srcl">{label} {len(links)}</span>{body}</div>'
+    count = sum(len(g[4]) for g in groups)
+    return f'<div class="src"><span class="srcl">{label} {count}</span>{body}</div>' if count else ""
 
 def render_body(md):
     """returns title, overview_html, sections=[(name, sid, [item_html]), ...], heads=[(anchor, text, section, long)]"""
@@ -255,7 +270,7 @@ def render_body(md):
             if mfh: htxt = (mfh.group(1) + "：" if mfh.group(1) else "") + mfh.group(2)
             prev = [a for a in STORIES.get(sid, {}).get("appearances", []) if a["date"] < CUR["date"]] if sid else []
             lk = f'<a class="prevlink" href="{prev[-1]["date"]}.html#{prev[-1]["anchor"]}">接 {prev[-1]["date"][5:]} ↩</a>' if prev else ""
-            ctx, rel = "", ""
+            ctx = ""
             if follow or mfh:
                 badges.insert(0, '<span class="tag tag-follow">后续</span>')
             if follow:
@@ -266,10 +281,7 @@ def render_body(md):
             else:
                 body = detail
                 if lk and prev: ctx = f'<div class="prev"><b>此前</b>{lk}</div>'
-            if sid and sid in STORIES:
-                others = [a for a in STORIES[sid]["appearances"] if a["date"] != CUR["date"]]
-                if others:
-                    rel = '<div class="story"><span>同一事件</span>' + "".join(f'<a href="{a["date"]}.html#{a["anchor"]}">{a["date"][5:]}</a>' for a in others) + f'<a href="../stories.html#{sid}">时间线 →</a></div>'
+            rel = f'<div class="story" data-sid="{html.escape(sid)}" hidden></div>' if sid else ""
             who = f'<div class="who">{" · ".join(html.escape(a) for a in authors[:4])}{" 等 " + str(len(authors)) + " 位" if len(authors)>4 else ""}</div>' if authors else ""
             cur_sec().append(
                 f'<li class="item" id="{html.escape(anchor)}"><div class="headline"><a class="anchor" href="#{html.escape(anchor)}" aria-label="本条链接">#</a><span class="ht">{inline(htxt)}</span>{"".join(badges)}</div>{who}'
@@ -278,8 +290,10 @@ def render_body(md):
             continue
         m = ITEM.match(line)
         if m:
+            src = src_btn(m.group(1), m.group(2))
+            src = f'<div class="src">{src}</div>' if src else ""
             cur_sec().append(f'<li class="item"><div>{author(m.group(1))}</div><div class="summary">{paras(m.group(3))}</div>'
-                             f'<div class="src">{src_btn(m.group(1), m.group(2))}</div></li>'); continue
+                             f'{src}</li>'); continue
         if line.startswith("- "):
             cur_sec().append(f'<li class="item plain">{paras(line[2:])}</li>'); continue
         if line.strip():
@@ -316,7 +330,18 @@ def compose(date, title, overview, sections, heads, loose, prefix, datenav, root
 {secs}{loose}<p id="empty" class="empty" hidden>没有匹配的条目</p></div></div>
 <div class="fab"><button type="button" id="tocbtn" aria-label="目录">☰ 目录</button><a href="#top" id="topbtn" aria-label="回到顶部">↑</a></div>"""
 
-SCRIPT = """<script>
+SCRIPT = r"""<script>
+(function(){var spots=document.querySelectorAll('.story[data-sid]');if(!spots.length)return;
+var root=document.body.dataset.root,date=document.body.dataset.date,prefix=root?'':'digests/';
+function link(href,text){var a=document.createElement('a');a.href=href;a.textContent=text;return a;}
+fetch(root+'data/stories.json').then(function(r){return r.ok?r.json():{};}).then(function(stories){
+spots.forEach(function(spot){var sid=spot.dataset.sid,story=stories[sid];if(!story||!Array.isArray(story.appearances))return;
+var others=story.appearances.filter(function(a){return a.date!==date&&/^\d{4}-\d{2}-\d{2}$/.test(a.date);});if(!others.length)return;
+var label=document.createElement('span');label.textContent='同一事件';spot.append(label);
+others.forEach(function(a){spot.append(link(prefix+a.date+'.html#'+encodeURIComponent(a.anchor),a.date.slice(5)));});
+spot.append(link(root+'stories.html#'+encodeURIComponent(sid),'时间线 →'));spot.hidden=false;});
+}).catch(function(){});
+})();
 (function(){var q=document.getElementById('q');if(!q)return;var cur='';var items=[].slice.call(document.querySelectorAll('.item'));
 var chips=[].slice.call(document.querySelectorAll('.chips button'));var n=document.getElementById('qn'),e=document.getElementById('empty');
 function run(){var v=q.value.trim().toLowerCase(),c=0;items.forEach(function(li){var s=li.closest('.sec');var ok=(!cur||s.dataset.sec===cur)&&(!v||li.textContent.toLowerCase().indexOf(v)>=0);li.hidden=!ok;if(ok)c++;});
@@ -371,19 +396,20 @@ def h1_html(title):
     if m: return f'<h1>{html.escape(m.group(1))}<span class="h1-dot"> · </span><em>{m.group(2)}</em></h1>'
     return f"<h1>{html.escape(title)}</h1>"
 
-def page(title, body, css, nav, script=False):
+def page(title, body, css, nav, date=None, root=""):
     links = re.findall(r'<a href="[^"]*"[^>]*>[^<]*</a>', nav)
     brand, rest = (links[0], links[1:]) if links else ("", [])
     brand = brand.replace("<a ", '<a class="brand" ', 1).replace(">", "><i></i>", 1)
     if 'id="podcast"' in body: rest.insert(0, '<a href="#podcast" class="navpod">🎧 播客</a>')
     h1 = h1_html(title)
     body = body.replace("<!--H1-->", h1, 1) if "<!--H1-->" in body else h1 + body
+    attrs = f' data-date="{date}" data-root="{root}"' if date else ""
     return f"""<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="color-scheme" content="light dark">
 <meta name="theme-color" content="#f5f2eb" media="(prefers-color-scheme: light)"><meta name="theme-color" content="#131211" media="(prefers-color-scheme: dark)"><title>{html.escape(title)}</title>
-{THEME_HEAD}<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='5' width='17' height='17' rx='5' fill='%232a5db0'/%3E%3Crect x='3' y='3' width='17' height='17' rx='5' fill='%23c2410c'/%3E%3C/svg%3E"><link rel="stylesheet" href="{css}"><link rel="alternate" type="application/rss+xml" title="{SHOW["title"]}" href="{SITE}{FEED}">{CF_BEACON}</head><body id="top"><header class="top"><div class="bar">{brand}<nav>{"".join(rest)}</nav>{THEME_BTN}</div></header><main>
+{THEME_HEAD}<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect x='5' y='5' width='17' height='17' rx='5' fill='%232a5db0'/%3E%3Crect x='3' y='3' width='17' height='17' rx='5' fill='%23c2410c'/%3E%3C/svg%3E"><link rel="stylesheet" href="{css}"><link rel="alternate" type="application/rss+xml" title="{SHOW["title"]}" href="{SITE}{FEED}">{CF_BEACON}</head><body id="top"{attrs}><header class="top"><div class="bar">{brand}<nav>{"".join(rest)}</nav>{THEME_BTN}</div></header><main>
 {body}
-<footer>X 每日 AI 摘要 · 由小X整理 · 每天北京时间早上更新 · 每条均附原文链接，标注「长推/系列」的已阅读完整版本</footer></main>{SCRIPT if script else ""}{POD_JS if 'id="podcast"' in body else ""}{THEME_JS}</body></html>
+<footer>X 每日 AI 摘要 · 由小X整理 · 每天北京时间早上更新 · 每条均附原文链接，标注「长推/系列」的已阅读完整版本</footer></main>{SCRIPT if date else ""}{POD_JS if 'id="podcast"' in body else ""}{THEME_JS}</body></html>
 """
 
 def index_stories(files):
@@ -429,16 +455,19 @@ def build():
         t, ov, secs, heads, loose = render_body(f.read_text(encoding="utf-8"))
         nav = f'<a href="../index.html">X 每日 AI 摘要</a><a href="../index.html#archive">往期</a><a href="../stories.html">事件时间线</a><a href="{f.stem}.md" class="navmd">Markdown</a>'
         body = compose(f.stem, t, ov, secs, heads, loose, "", datenav(files, i, ""))
-        (D / f"{f.stem}.html").write_text(page(t or f.stem, body, "../assets/style.css", nav, True), encoding="utf-8")
-    if not files: return
+        (D / f"{f.stem}.html").write_text(page(t or f.stem, body, "../assets/style.css", nav, f.stem, "../"), encoding="utf-8")
+    if not files:
+        write_rss()
+        return
     CUR.update(date=files[0].stem, n=0)
     t, ov, secs, heads, loose = render_body(files[0].read_text(encoding="utf-8"))
     b = compose(files[0].stem, t, ov, secs, heads, loose, "digests/", datenav(files, 0, "digests/"), root="")
     b = b.replace('href="../', 'href="')
     b = re.sub(r'href="(\d{4}-\d{2}-\d{2}\.html)', r'href="digests/\1', b)
-    arch = "".join(f'<li><a href="digests/{f.stem}.html"><span class="d">{f.stem}</span><span class="n">{nitems(f)} 条</span>{'<span class="podpill">▶ 播客</span>' if pod_info(f.stem) else ""}{" <span class=tag>最新</span>" if i==0 else ""}</a></li>' for i, f in enumerate(files))
+    pill = '<span class="podpill">▶ 播客</span>'
+    arch = "".join(f'<li><a href="digests/{f.stem}.html"><span class="d">{f.stem}</span><span class="n">{nitems(f)} 条</span>{pill if pod_info(f.stem) else ""}{" <span class=tag>最新</span>" if i==0 else ""}</a></li>' for i, f in enumerate(files))
     body = f'{b}\n<h2 id="archive" class="arch-h">往期</h2><ul class="archive">{arch}</ul>'
-    (ROOT / "index.html").write_text(page(t or "X 每日 AI 摘要", body, "assets/style.css", '<a href="index.html">X 每日 AI 摘要</a><a href="#archive">往期</a><a href="stories.html">事件时间线</a>', True), encoding="utf-8")
+    (ROOT / "index.html").write_text(page(t or "X 每日 AI 摘要", body, "assets/style.css", '<a href="index.html">X 每日 AI 摘要</a><a href="#archive">往期</a><a href="stories.html">事件时间线</a>', files[0].stem), encoding="utf-8")
     write_rss()
 
 def write_rss():
@@ -459,6 +488,8 @@ def write_rss():
     ET.SubElement(ch, i("category"), {"text": "Technology"}); n = ET.SubElement(ch, i("category"), {"text": "News"}); ET.SubElement(n, i("category"), {"text": "Tech News"})
     sub(ch, i("explicit"), "false"); sub(ch, i("type"), "episodic")
     ow = sub(ch, i("owner")); sub(ow, i("name"), SHOW["author"])
+    owner_email = (CFG.get("podcast", {}) or {}).get("owner_email", "").strip()
+    if owner_email: sub(ow, i("email"), owner_email)
     sub(ch, f"{{{PC}}}guid", POD_GUID)
     dates = sorted({p.stem for p in POD.glob("????-??-??.json")} | {p.stem for p in POD.glob("????-??-??.mp3")}, reverse=True)
     last = None
@@ -476,27 +507,47 @@ def write_rss():
         sub(it, "guid", f"{SITE}podcast/{d}", isPermaLink="false"); sub(it, "pubDate", format_datetime(pub))
         dur = int(round(pi.get("duration") or 0)); sub(it, i("duration"), f"{dur//3600:02d}:{dur//60%60:02d}:{dur%60:02d}")
         sub(it, i("episodeType"), "full"); sub(it, i("explicit"), "false"); sub(it, i("image"), href=SITE + SHOW["cover"])
-    if last: sub(ch, "lastBuildDate", format_datetime(last)); sub(ch, "pubDate", format_datetime(last))
+    feed = ROOT / FEED
+    old = feed.read_bytes() if feed.exists() else b""
+    try: stamp = ET.fromstring(old).findtext("channel/lastBuildDate")
+    except ET.ParseError: stamp = None
+    built = sub(ch, "lastBuildDate", stamp)
+    if last: sub(ch, "pubDate", format_datetime(last))
     ET.indent(rss)
     data = ET.tostring(rss, encoding="utf-8", xml_declaration=True)
+    if stamp and data == old: return
+    built.text = format_datetime(datetime.datetime.now(ZoneInfo("Asia/Shanghai")))
+    data = ET.tostring(rss, encoding="utf-8", xml_declaration=True)
     ET.fromstring(data)  # well-formedness check
-    (ROOT / FEED).write_bytes(data)
+    feed.write_bytes(data)
 
 def main():
     a = [x for x in sys.argv[1:] if not x.startswith("--")]
+    push = "--no-push" not in sys.argv
+    g = lambda *c, **kw: subprocess.run(["git", "-C", str(ROOT), *c], check=True, **kw)
     date = None
     if a:
         src = Path(a[0]).resolve()
         m = re.search(r"(\d{4}-\d{2}-\d{2})", src.name)
         if not m: sys.exit("filename must contain YYYY-MM-DD")
         date = m.group(1); dst = D / f"{date}.md"
+    if push: g("pull", "--rebase", "--autostash", "origin", "main")
+    if a:
         if src != dst: D.mkdir(exist_ok=True); shutil.copy(src, dst)
     build()
-    if "--no-push" in sys.argv: return
-    g = lambda *c: subprocess.run(["git", "-C", str(ROOT), *c], check=True)
-    g("add", "-A")
-    if subprocess.run(["git", "-C", str(ROOT), "diff", "--cached", "--quiet"]).returncode == 0:
+    if not push: return
+    paths = [p for p in ("digests", "index.html", "stories.html", "data", "podcast", FEED) if (ROOT / p).exists()]
+    g("add", "--", *paths)
+    staged = g("diff", "--cached", "--name-only", "--diff-filter=ACDMRT", "-z", "--", *paths, capture_output=True, text=True).stdout.split("\0")
+    if not any(staged):
         print("nothing to commit"); return
-    g("commit", "-m", f"digest {date or 'rebuild'}"); g("push", "origin", "HEAD:main")
+    pod_dates = [p[8:-5] for p in staged if re.fullmatch(r"podcast/\d{4}-\d{2}-\d{2}\.json", p)]
+    msg = f"podcast {date or max(pod_dates)}" if pod_dates else f"digest {date or 'rebuild'}"
+    g("commit", "--only", "-m", msg, "--", *paths)
+    for attempt in range(3):
+        try: g("push", "origin", "HEAD:main"); break
+        except subprocess.CalledProcessError:
+            if attempt == 2: raise
+            g("pull", "--rebase", "origin", "main")
 
 if __name__ == "__main__": main()

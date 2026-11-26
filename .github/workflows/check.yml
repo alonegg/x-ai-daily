@@ -1,0 +1,37 @@
+name: Check site
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: '45 23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check generated files
+        run: |
+          python scripts/publish.py --no-push
+          git diff --exit-code
+          untracked=$(git ls-files --others --exclude-standard)
+          if [[ -n "$untracked" ]]; then
+            printf 'Untracked generated files:\n%s\n' "$untracked"
+            exit 1
+          fi
+      - name: Check site
+        run: |
+          if [[ "$GITHUB_EVENT_NAME" == schedule ]]; then
+            python scripts/check.py --today
+          else
+            python scripts/check.py
+          fi
