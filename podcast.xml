@@ -26,6 +26,32 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 27 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-27.html</link>
+      <description>今天聊：黎曼猜想的 Lean 证明压到约 7.6 万行；OpenAI 修正 GPT-6.2 计费后额度变紧；让 agent 逆向软件、自建工具；多智能体到底有没有在协作；换到 Gemini 4 Neon 后该删掉哪些规则；还有 Zapier 引出的 SaaS 存废之争和满屏的 AI 代写邮件。
+
+章节：
+0:01 开场与头条预告
+0:56 快讯
+5:28 重点一：黎曼猜想证明压到七万多行
+8:19 重点二：OpenAI 改计费，额度变紧了
+10:05 重点三：让 agent 拆开软件，自己造工具
+12:16 重点四：多智能体，人多不一定力量大
+14:30 重点五：换了新模型，先删规则
+16:31 评论与讨论
+19:11 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-27.html</description>
+      <itunes:summary>今天聊：黎曼猜想的 Lean 证明压到约 7.6 万行；OpenAI 修正 GPT-6.2 计费后额度变紧；让 agent 逆向软件、自建工具；多智能体到底有没有在协作；换到 Gemini 4 Neon 后该删掉哪些规则；还有 Zapier 引出的 SaaS 存废之争和满屏的 AI 代写邮件。</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-27.mp3" length="9379628" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 06:53:25 +0800</pubDate>
+      <itunes:duration>00:19:32</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 26 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-26.html</link>
       <description>今天聊：Anthropic 把 API 整体迁到 Rust 的经验；OpenAI 声称把矩阵乘法指数定死在四分之九；Dario 回应「把决策交给 AI」的报道；还有评测分数怎么读、JupyterHub 部署者的心声，以及前沿实验室会不会把最强模型留给自己。
@@ -983,7 +1009,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Thu, 26 Nov 2026 06:56:41 +0800</lastBuildDate>
-    <pubDate>Thu, 26 Nov 2026 06:56:41 +0800</pubDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:53:29 +0800</lastBuildDate>
+    <pubDate>Fri, 27 Nov 2026 06:53:25 +0800</pubDate>
   </channel>
 </rss>
