@@ -9090,7 +9090,7 @@
     ]
   },
   "ai-reply-bots": {
-    "title": "后续：levelsio 的 AI 垃圾回复黑名单：500 多个账号被封",
+    "title": "后续：AI 回复黑名单引发反弹，levelsio 搬出 X 规则",
     "appearances": [
       {
         "date": "2026-11-06",
@@ -9121,6 +9121,11 @@
         "date": "2026-11-27",
         "anchor": "ai-reply-bots",
         "headline": "后续：levelsio 的 AI 垃圾回复黑名单：500 多个账号被封"
+      },
+      {
+        "date": "2026-11-28",
+        "anchor": "ai-reply-bots",
+        "headline": "后续：AI 回复黑名单引发反弹，levelsio 搬出 X 规则"
       }
     ]
   },
@@ -11705,7 +11710,7 @@
     ]
   },
   "nvidia-huang-return": {
-    "title": "后续：黄仁勋回归余波——Denny's 铭牌与「国防生产法」说法",
+    "title": "后续：黄仁勋风波——美官员称无证据显示涉事高管受中国情报指使",
     "appearances": [
       {
         "date": "2026-11-16",
@@ -11746,6 +11751,11 @@
         "date": "2026-11-27",
         "anchor": "nvidia-huang-return",
         "headline": "后续：黄仁勋回归余波——Denny's 铭牌与「国防生产法」说法"
+      },
+      {
+        "date": "2026-11-28",
+        "anchor": "nvidia-huang-return",
+        "headline": "后续：黄仁勋风波——美官员称无证据显示涉事高管受中国情报指使"
       }
     ]
   },
@@ -12525,7 +12535,7 @@
     ]
   },
   "gemini-4-neon": {
-    "title": "后续：Gemini 4 Neon 热度——Amp 被限速，Antigravity 感恩节重置配额",
+    "title": "后续：Gemini 4 Neon——DHH 设为默认，Antigravity 桌面端被指压缩过狠",
     "appearances": [
       {
         "date": "2026-11-19",
@@ -12571,6 +12581,11 @@
         "date": "2026-11-27",
         "anchor": "gemini-4-neon",
         "headline": "后续：Gemini 4 Neon 热度——Amp 被限速，Antigravity 感恩节重置配额"
+      },
+      {
+        "date": "2026-11-28",
+        "anchor": "gemini-4-neon",
+        "headline": "后续：Gemini 4 Neon——DHH 设为默认，Antigravity 桌面端被指压缩过狠"
       }
     ]
   },
@@ -12720,7 +12735,7 @@
     ]
   },
   "jupyter-compute-paris": {
-    "title": "Compute! Paris 本周举行，Jupyter 有专场和冲刺",
+    "title": "后续：Jeremy Tuloup 在 Compute! Paris 演示 xtralab：给编程 agent 用的 JupyterLab",
     "appearances": [
       {
         "date": "2026-11-19",
@@ -12731,6 +12746,11 @@
         "date": "2026-11-26",
         "anchor": "jupyter-compute-paris",
         "headline": "Compute! Paris 本周举行，Jupyter 有专场和冲刺"
+      },
+      {
+        "date": "2026-11-28",
+        "anchor": "jupyter-compute-paris",
+        "headline": "后续：Jeremy Tuloup 在 Compute! Paris 演示 xtralab：给编程 agent 用的 JupyterLab"
       }
     ]
   },
@@ -13610,12 +13630,17 @@
     ]
   },
   "open-source-control-1123": {
-    "title": "开源与控制权：LeCun 痛批 Dario",
+    "title": "后续：开源阵营继续炮轰封闭实验室",
     "appearances": [
       {
         "date": "2026-11-23",
         "anchor": "open-source-control-1123",
         "headline": "开源与控制权：LeCun 痛批 Dario"
+      },
+      {
+        "date": "2026-11-28",
+        "anchor": "open-source-control-1123",
+        "headline": "后续：开源阵营继续炮轰封闭实验室"
       }
     ]
   },
@@ -14425,12 +14450,17 @@
     ]
   },
   "multiagent-engineering-problems": {
-    "title": "swyx：多智能体时代工程师还有大把难题",
+    "title": "后续：多智能体时代工程师要解决的新问题",
     "appearances": [
       {
         "date": "2026-11-26",
         "anchor": "multiagent-engineering-problems",
         "headline": "swyx：多智能体时代工程师还有大把难题"
+      },
+      {
+        "date": "2026-11-28",
+        "anchor": "multiagent-engineering-problems",
+        "headline": "后续：多智能体时代工程师要解决的新问题"
       }
     ]
   },
@@ -14815,12 +14845,17 @@
     ]
   },
   "rex-osc-7577": {
-    "title": "终端新协议 OSC 7577：服务器重启后恢复程序",
+    "title": "后续：Rex 上架 App Store，手机直连 Mac 上的 Claude Code",
     "appearances": [
       {
         "date": "2026-11-27",
         "anchor": "rex-osc-7577",
         "headline": "终端新协议 OSC 7577：服务器重启后恢复程序"
+      },
+      {
+        "date": "2026-11-28",
+        "anchor": "rex-osc-7577",
+        "headline": "后续：Rex 上架 App Store，手机直连 Mac 上的 Claude Code"
       }
     ]
   },
@@ -14925,12 +14960,17 @@
     ]
   },
   "knowledge-graph-ontology": {
-    "title": "知识图谱与本体：「混乱的底层模型只会产出流畅的混乱」",
+    "title": "后续：知识图谱与本体面试 51 问",
     "appearances": [
       {
         "date": "2026-11-27",
         "anchor": "knowledge-graph-ontology",
         "headline": "知识图谱与本体：「混乱的底层模型只会产出流畅的混乱」"
+      },
+      {
+        "date": "2026-11-28",
+        "anchor": "knowledge-graph-ontology",
+        "headline": "后续：知识图谱与本体面试 51 问"
       }
     ]
   },
@@ -14950,6 +14990,246 @@
       {
         "date": "2026-11-27",
         "anchor": "open-science-misc-1127",
+        "headline": "开放科学零讯"
+      }
+    ]
+  },
+  "nielsen-takes-down-book": {
+    "title": "Michael Nielsen 撤下《Neural Networks and Deep Learning》，换成一篇批评前沿实验室的文章",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "nielsen-takes-down-book",
+        "headline": "Michael Nielsen 撤下《Neural Networks and Deep Learning》，换成一篇批评前沿实验室的文章"
+      }
+    ]
+  },
+  "ryo-lu-race-not-inevitable": {
+    "title": "Ryo Lu：「这场竞赛并非不可避免」",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "ryo-lu-race-not-inevitable",
+        "headline": "Ryo Lu：「这场竞赛并非不可避免」"
+      }
+    ]
+  },
+  "claude-sabotage-claims": {
+    "title": "指控：Claude 的子 agent 擅自删掉用户肤色偏好，并在汇报中略去",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "claude-sabotage-claims",
+        "headline": "指控：Claude 的子 agent 擅自删掉用户肤色偏好，并在汇报中略去"
+      }
+    ]
+  },
+  "model-rpg-stat-sheet": {
+    "title": "Thariq：模型应该像 RPG 角色一样按属性打分",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "model-rpg-stat-sheet",
+        "headline": "Thariq：模型应该像 RPG 角色一样按属性打分"
+      }
+    ]
+  },
+  "john-yang-cs329z-evals": {
+    "title": "斯坦福 CS329Z：SWE-bench 作者 John Yang 讲「好基准的七条标准」",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "john-yang-cs329z-evals",
+        "headline": "斯坦福 CS329Z：SWE-bench 作者 John Yang 讲「好基准的七条标准」"
+      }
+    ]
+  },
+  "together-hurdle": {
+    "title": "Together AI 开源内部 agent 评测框架 Hurdle",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "together-hurdle",
+        "headline": "Together AI 开源内部 agent 评测框架 Hurdle"
+      }
+    ]
+  },
+  "open-models-1128": {
+    "title": "开放模型：蚂蚁 Ming-Image-0.2-Design、俄罗斯 GigaChat 4、Inworld 语音工具",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "open-models-1128",
+        "headline": "开放模型：蚂蚁 Ming-Image-0.2-Design、俄罗斯 GigaChat 4、Inworld 语音工具"
+      }
+    ]
+  },
+  "distillation-post-training": {
+    "title": "「蒸馏是健康的」，Hugging Face 加入大型后训练竞赛",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "distillation-post-training",
+        "headline": "「蒸馏是健康的」，Hugging Face 加入大型后训练竞赛"
+      }
+    ]
+  },
+  "ikp-model-fingerprint": {
+    "title": "李博杰：用「不可压缩知识探针」认出 Jev 的底座",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "ikp-model-fingerprint",
+        "headline": "李博杰：用「不可压缩知识探针」认出 Jev 的底座"
+      }
+    ]
+  },
+  "hf-trainium3-ltx": {
+    "title": "Hugging Face：在 AWS Trainium3 上跑 LTX-2.5 视频生成",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "hf-trainium3-ltx",
+        "headline": "Hugging Face：在 AWS Trainium3 上跑 LTX-2.5 视频生成"
+      }
+    ]
+  },
+  "papers-1128": {
+    "title": "论文速递",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "papers-1128",
+        "headline": "论文速递"
+      }
+    ]
+  },
+  "philschmid-mcp-2027": {
+    "title": "Philipp Schmid：为什么他对 2027 年的 MCP 更乐观",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "philschmid-mcp-2027",
+        "headline": "Philipp Schmid：为什么他对 2027 年的 MCP 更乐观"
+      }
+    ]
+  },
+  "dev-tools-1128": {
+    "title": "开发工具速递",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "dev-tools-1128",
+        "headline": "开发工具速递"
+      }
+    ]
+  },
+  "liblib-funding": {
+    "title": "Liblib 融资近 2 亿美元，meng shao 连发质疑",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "liblib-funding",
+        "headline": "Liblib 融资近 2 亿美元，meng shao 连发质疑"
+      }
+    ]
+  },
+  "feng-ji-post-ai": {
+    "title": "冯骥《后 AI 时代最重要的问题》与 Fable 5.2 游戏合集",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "feng-ji-post-ai",
+        "headline": "冯骥《后 AI 时代最重要的问题》与 Fable 5.2 游戏合集"
+      }
+    ]
+  },
+  "mollick-expertise-ambition": {
+    "title": "Ethan Mollick：AI 搞新发现仍需要行家",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "mollick-expertise-ambition",
+        "headline": "Ethan Mollick：AI 搞新发现仍需要行家"
+      }
+    ]
+  },
+  "apps-misc-1128": {
+    "title": "应用与观点零讯",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "apps-misc-1128",
+        "headline": "应用与观点零讯"
+      }
+    ]
+  },
+  "jupyter-misc-1128": {
+    "title": "Jupyter 零讯",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "jupyter-misc-1128",
+        "headline": "Jupyter 零讯"
+      }
+    ]
+  },
+  "jupyter-people-1128": {
+    "title": "Jeremy Tuloup 与 Matthias Bussonnier：Compute! Paris 之后",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "jupyter-people-1128",
+        "headline": "Jeremy Tuloup 与 Matthias Bussonnier：Compute! Paris 之后"
+      }
+    ]
+  },
+  "rete-rdf-format": {
+    "title": ".rete：「知识图谱界的 Parquet」",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "rete-rdf-format",
+        "headline": ".rete：「知识图谱界的 Parquet」"
+      }
+    ]
+  },
+  "buehler-mrs-2026": {
+    "title": "Markus Buehler 团队将在 MRS 秋季会议做多场报告，并获 Gordon E. Pike 奖",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "buehler-mrs-2026",
+        "headline": "Markus Buehler 团队将在 MRS 秋季会议做多场报告，并获 Gordon E. Pike 奖"
+      }
+    ]
+  },
+  "wikimedia-1128": {
+    "title": "维基媒体零讯",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "wikimedia-1128",
+        "headline": "维基媒体零讯"
+      }
+    ]
+  },
+  "pensoft-mudminnow": {
+    "title": "欧洲泥鳅三十年：新发现的种群多是「被漏掉的残余」",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "pensoft-mudminnow",
+        "headline": "欧洲泥鳅三十年：新发现的种群多是「被漏掉的残余」"
+      }
+    ]
+  },
+  "open-science-misc-1128": {
+    "title": "开放科学零讯",
+    "appearances": [
+      {
+        "date": "2026-11-28",
+        "anchor": "open-science-misc-1128",
         "headline": "开放科学零讯"
       }
     ]
