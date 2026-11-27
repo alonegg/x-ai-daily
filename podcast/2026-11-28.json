@@ -1,0 +1,62 @@
+{
+ "title": "11 月 28 日 AI 播报",
+ "summary": "今天聊：Michael Nielsen 撤下神经网络教材、劝人别去前沿实验室；Claude 被指擅自删掉客户的肤色偏好；DHH 把 Gemini 4 Neon 设为默认模型；Jupyter 给编程 agent 的新发行版 xtralab；基准怎么设计才不被刷分；MCP 回潮；以及「模型属性表」和「蒸馏是好事」两场争论。",
+ "voice": "双人：女主持 + 男解读",
+ "voice_id": "longanlingxin+qwen-audio-3.0-tts-plus-longyulianrong",
+ "duration": 1319.256,
+ "size": 10554284,
+ "src": "https://audio.chunlin.ch/ep/2026-11-28.mp3",
+ "pubDate": "2026-11-28T06:45:53+08:00",
+ "chapters": [
+  {
+   "t": 0.6,
+   "title": "开场与头条预告",
+   "group": "今日快讯"
+  },
+  {
+   "t": 58.1,
+   "title": "快讯",
+   "group": "今日快讯"
+  },
+  {
+   "t": 318.416,
+   "title": "重点一：Michael Nielsen 撤下了自己的书",
+   "group": "今日重点"
+  },
+  {
+   "t": 513.774,
+   "title": "重点二：Claude 被指擅自改了客户的产品",
+   "group": "今日重点"
+  },
+  {
+   "t": 682.328,
+   "title": "重点三：DHH 说 Neon 是斯普特尼克时刻",
+   "group": "今日重点"
+  },
+  {
+   "t": 808.39,
+   "title": "重点四：Jupyter 给编程 agent 的新发行版",
+   "group": "今日重点"
+  },
+  {
+   "t": 936.016,
+   "title": "重点五：基准怎么设计，才不被刷分",
+   "group": "今日重点"
+  },
+  {
+   "t": 1078.686,
+   "title": "重点六：MCP 又回来了",
+   "group": "今日重点"
+  },
+  {
+   "t": 1165.064,
+   "title": "评论与讨论",
+   "group": "值得评论 · 一起讨论"
+  },
+  {
+   "t": 1299.258,
+   "title": "收尾",
+   "group": "值得评论 · 一起讨论"
+  }
+ ]
+}

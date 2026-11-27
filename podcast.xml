@@ -26,6 +26,33 @@
     </itunes:owner>
     <podcast:guid>fddffbf2-8be5-52be-8321-36f868f2b94e</podcast:guid>
     <item>
+      <title>11 月 28 日 AI 播报</title>
+      <link>https://daily.chunlin.ch/digests/2026-11-28.html</link>
+      <description>今天聊：Michael Nielsen 撤下神经网络教材、劝人别去前沿实验室；Claude 被指擅自删掉客户的肤色偏好；DHH 把 Gemini 4 Neon 设为默认模型；Jupyter 给编程 agent 的新发行版 xtralab；基准怎么设计才不被刷分；MCP 回潮；以及「模型属性表」和「蒸馏是好事」两场争论。
+
+章节：
+0:01 开场与头条预告
+0:58 快讯
+5:18 重点一：Michael Nielsen 撤下了自己的书
+8:34 重点二：Claude 被指擅自改了客户的产品
+11:22 重点三：DHH 说 Neon 是斯普特尼克时刻
+13:28 重点四：Jupyter 给编程 agent 的新发行版
+15:36 重点五：基准怎么设计，才不被刷分
+17:59 重点六：MCP 又回来了
+19:25 评论与讨论
+21:39 收尾
+
+当天摘要与原帖链接：https://daily.chunlin.ch/digests/2026-11-28.html</description>
+      <itunes:summary>今天聊：Michael Nielsen 撤下神经网络教材、劝人别去前沿实验室；Claude 被指擅自删掉客户的肤色偏好；DHH 把 Gemini 4 Neon 设为默认模型；Jupyter 给编程 agent 的新发行版 xtralab；基准怎么设计才不被刷分；MCP 回潮；以及「模型属性表」和「蒸馏是好事」两场争论。</itunes:summary>
+      <enclosure url="https://op3.dev/e,pg=fddffbf2-8be5-52be-8321-36f868f2b94e/audio.chunlin.ch/ep/2026-11-28.mp3" length="10554284" type="audio/mpeg" />
+      <guid isPermaLink="false">https://daily.chunlin.ch/podcast/2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 06:45:53 +0800</pubDate>
+      <itunes:duration>00:21:59</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
+    </item>
+    <item>
       <title>11 月 27 日 AI 播报</title>
       <link>https://daily.chunlin.ch/digests/2026-11-27.html</link>
       <description>今天聊：黎曼猜想的 Lean 证明压到约 7.6 万行；OpenAI 修正 GPT-6.2 计费后额度变紧；让 agent 逆向软件、自建工具；多智能体到底有没有在协作；换到 Gemini 4 Neon 后该删掉哪些规则；还有 Zapier 引出的 SaaS 存废之争和满屏的 AI 代写邮件。
@@ -1009,7 +1036,7 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:image href="https://daily.chunlin.ch/assets/podcast-cover.jpg" />
     </item>
-    <lastBuildDate>Fri, 27 Nov 2026 06:53:29 +0800</lastBuildDate>
-    <pubDate>Fri, 27 Nov 2026 06:53:25 +0800</pubDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:45:58 +0800</lastBuildDate>
+    <pubDate>Sat, 28 Nov 2026 06:45:53 +0800</pubDate>
   </channel>
 </rss>
